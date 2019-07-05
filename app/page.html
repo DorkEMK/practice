@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Игра</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+
+	<script src="game.js"></script>
+    <style>
+    .btn {
+      margin: .3em;
+    }
+    </style>
+
+  </head>
+  <body>
+    <div id="main" class="container" style="text-align: center">
+      <div class="mt-5">
+      <h3 id="translation"></h3>
+      </div>
+      <div id="original" style="color: green; font-size: 1.75rem;">
+      <p></p>
+      </div>
+      <div id="tokens">
+      </div>
+      <button class="btn btn-success" id="next" style="visibility: hidden">Next</button>
+    </div>
+  </body>
+</html>
