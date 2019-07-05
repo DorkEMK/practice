@@ -1,0 +1,960 @@
+	en	ru	ru_tokens	en_tokens
+0	I think it's our tradition. 	Думаю, это наша традиция... 	['Думаю', 'это', 'наша', 'традиция']	"['I', 'think', ""it's"", 'our', 'tradition']"
+1	It comes out of a particularly painful part of our history. 	Она восходит к довольно трудному периоду нашей истории. 	['Она', 'восходит', 'к', 'довольно', 'трудному', 'периоду', 'нашей', 'истории']	['It', 'comes', 'out', 'of', 'a', 'particularly', 'painful', 'part', 'of', 'our', 'history']
+2	Yes, yes. 	Да, да. 	['Да', 'да']	['Yes', 'yes']
+3	But it's been the way we've been able to heal. 	Но благодаря ей мы смогли излечиться. 	['Но', 'благодаря', 'ей', 'мы', 'смогли', 'излечиться']	"['But', ""it's"", 'been', 'the', 'way', ""we've"", 'been', 'able', 'to', 'heal']"
+4	At first, it was a reminder of the rebellion. 	Когда-то это было напоминание о восстании. 	['Когда-то', 'это', 'было', 'напоминание', 'о', 'восстании']	['At', 'first', 'it', 'was', 'a', 'reminder', 'of', 'the', 'rebellion']
+5	- It was a price the districts had to pay. - Yes. 	Ценой, которую обязали платить все Дистрикты. 	['Ценой', 'которую', 'обязали', 'платить', 'все', 'Дистрикты']	['It', 'was', 'a', 'price', 'the', 'districts', 'had', 'to', 'pay', 'Yes']
+6	But I think it has grown from that. 	Но, по моему, всё это в прошлом. 	['Но', 'по', 'моему', 'всё', 'это', 'в', 'прошлом']	['But', 'I', 'think', 'it', 'has', 'grown', 'from', 'that']
+7	I think it's something that knits us all together. 	Сейчас игры... Обеспечивают наше единство. 	['Сейчас', 'игры', 'Обеспечивают', 'наше', 'единство']	"['I', 'think', ""it's"", 'something', 'that', 'knits', 'us', 'all', 'together']"
+8	This is your third year as Gamemaker. 	Вы уже третий год распорядитель игр? 	['Вы', 'уже', 'третий', 'год', 'распорядитель', 'игр']	['This', 'is', 'your', 'third', 'year', 'as', 'Gamemaker']
+9	What defines your personal signature? 	Скажите, в чем ваш уникальный стиль? 	['Скажите', 'в', 'чем', 'ваш', 'уникальный', 'стиль']	['What', 'defines', 'your', 'personal', 'signature']
+10	No! No! 	ДИСТРИКТ 12 	['ДИСТРИКТ', '12']	['No', 'No']
+11	It's okay. It's okay. You were just dreaming. You were dreaming. 	Все хорошо. Всё в порядке. Просто дурной сон. Это просто сон. 	['Все', 'хорошо', 'Всё', 'в', 'порядке', 'Просто', 'дурной', 'сон', 'Это', 'просто', 'сон']	"[""It's"", 'okay', ""It's"", 'okay', 'You', 'were', 'just', 'dreaming', 'You', 'were', 'dreaming']"
+12	It was me. 	Меня выбрали. 	['Меня', 'выбрали']	['It', 'was', 'me']
+13	I know. I know. But it's not. 	Я знаю. Но это не так. 	['Я', 'знаю', 'Но', 'это', 'не', 'так']	"['I', 'know', 'I', 'know', 'But', ""it's"", 'not']"
+14	It's your first year, Prim. Your name's only been in there once. 	Это твой первый год. Твоё имя вписано только один раз, 	['Это', 'твой', 'первый', 'год', 'Твоё', 'имя', 'вписано', 'только', 'один', 'раз']	"[""It's"", 'your', 'first', 'year', 'Prim', 'Your', ""name's"", 'only', 'been', 'in', 'there', 'once']"
+15	They're not gonna pick you. 	Тебя не заберут. 	['Тебя', 'не', 'заберут']	"[""They're"", 'not', 'gonna', 'pick', 'you']"
+16	Try to go to sleep. 	Попробуй уснуть. 	['Попробуй', 'уснуть']	['Try', 'to', 'go', 'to', 'sleep']
+17	I can't. 	Я не могу. 	['Я', 'не', 'могу']	"['I', ""can't""]"
+18	Just try. Just try. 	А ты попробуй. Попробуй. 	['А', 'ты', 'попробуй', 'Попробуй']	['Just', 'try', 'Just', 'try']
+19	Deep in the meadow Under the willow 	Где-то под ивой, Прямо в лугах, 	['Где-то', 'под', 'ивой', 'Прямо', 'в', 'лугах']	['Deep', 'in', 'the', 'meadow', 'Under', 'the', 'willow']
+20	- A bed of grass - A bed of grass 	Постелька есть 	['Постелька', 'есть']	['A', 'bed', 'of', 'grass', 'A', 'bed', 'of', 'grass']
+21	- A soft green pillow - A soft green pillow 	Из ласковых трав. 	['Из', 'ласковых', 'трав']	['A', 'soft', 'green', 'pillow', 'A', 'soft', 'green', 'pillow']
+22	You remember that song? Okay. 	Помнишь, как дальше? Хорошо. 	['Помнишь', 'как', 'дальше', 'Хорошо']	['You', 'remember', 'that', 'song', 'Okay']
+23	You finish it. I've got to go. 	Напой про себя. Мне пора. 	['Напой', 'про', 'себя', 'Мне', 'пора']	"['You', 'finish', 'it', ""I've"", 'got', 'to', 'go']"
+24	Where? 	Куда? 	['Куда']	['Where']
+25	I've just got to go. 	Просто мне пора. 	['Просто', 'мне', 'пора']	"[""I've"", 'just', 'got', 'to', 'go']"
+26	But I'll be back. I love you 	Но я вернусь. Люблю тебя. 	['Но', 'я', 'вернусь', 'Люблю', 'тебя']	"['But', ""I'll"", 'be', 'back', 'I', 'love', 'you']"
+27	I'll still cook you. 	Я умею готовить кошек. 	['Я', 'умею', 'готовить', 'кошек']	"[""I'll"", 'still', 'cook', 'you']"
+28	What are you gonna do with that when you kill it? 	Ну, убьёшь ты его и что дальше? 	['Ну', 'убьёшь', 'ты', 'его', 'и', 'что', 'дальше']	['What', 'are', 'you', 'gonna', 'do', 'with', 'that', 'when', 'you', 'kill', 'it']
+29	Damn you, Gale! It's not funny! 	Да пошёл ты, Гейл! Не смешно. 	['Да', 'пошёл', 'ты', 'Гейл', 'Не', 'смешно']	"['Damn', 'you', 'Gale', ""It's"", 'not', 'funny']"
+30	What are you gonna do with a 100-pound deer, Catnip? 	Но в нем же 90 кг, Кискисс. 	['Но', 'в', 'нем', 'же', '90', 'кг', 'Кискисс']	['What', 'are', 'you', 'gonna', 'do', 'with', 'a', '100-pound', 'deer', 'Catnip']
+31	It's Reaping Day. The place is crawling with Peacekeepers. 	День жатвы тем более. Тут вокруг миротворцы. 	['День', 'жатвы', 'тем', 'более', 'Тут', 'вокруг', 'миротворцы']	"[""It's"", 'Reaping', 'Day', 'The', 'place', 'is', 'crawling', 'with', 'Peacekeepers']"
+32	I was gonna sell it to some Peacekeepers. 	Я бы его продала. Тем же миротворцам. 	['Я', 'бы', 'его', 'продала', 'Тем', 'же', 'миротворцам']	['I', 'was', 'gonna', 'sell', 'it', 'to', 'some', 'Peacekeepers']
+33	Of course you were. 	Конечно продала бы. 	['Конечно', 'продала', 'бы']	['Of', 'course', 'you', 'were']
+34	Like you don't sell to Peacekeepers. 	А то ты сам с ними не торгуешь. 	['А', 'то', 'ты', 'сам', 'с', 'ними', 'не', 'торгуешь']	"['Like', 'you', ""don't"", 'sell', 'to', 'Peacekeepers']"
+35	No. Not today. 	Нет! Сегодня не торгую. 	['Нет', 'Сегодня', 'не', 'торгую']	['No', 'Not', 'today']
+36	It was the first deer I've seen in a year. Now I have nothing. 	Это был первый олень за год. Теперь у меня ничего нет. 	['Это', 'был', 'первый', 'олень', 'за', 'год', 'Теперь', 'у', 'меня', 'ничего', 'нет']	"['It', 'was', 'the', 'first', 'deer', ""I've"", 'seen', 'in', 'a', 'year', 'Now', 'I', 'have', 'nothing']"
+37	Okay. 	Ладно. 	['Ладно']	['Okay']
+38	What if they did? Just one year. What if everyone just stopped watching? 	А что, если они уже? Только ты одна. Вдруг все перестанут их смотреть? 	['А', 'что', 'если', 'они', 'уже', 'Только', 'ты', 'одна', 'Вдруг', 'все', 'перестанут', 'их', 'смотреть']	['What', 'if', 'they', 'did', 'Just', 'one', 'year', 'What', 'if', 'everyone', 'just', 'stopped', 'watching']
+39	- They won't, Gale. - What if they did? What if we did? Won't happen. 	Не перестанут, Гейл. - А если? Если мы перестанем? - Этого не будет. 	['Не', 'перестанут', 'Гейл', 'А', 'если', 'Если', 'мы', 'перестанем', 'Этого', 'не', 'будет']	"['They', ""won't"", 'Gale', 'What', 'if', 'they', 'did', 'What', 'if', 'we', 'did', ""Won't"", 'happen']"
+40	You root for your favorites. You cry when they get killed. - It's sick. - Gale. If no one watches, then they don't have a game. It's as simple as that. 	Мы болеем за своих и плачем, когда их убывают. Что за уроды. - Гейл. - Нет публики... ...значит, нет игр. Вот и всё. 	['Мы', 'болеем', 'за', 'своих', 'и', 'плачем', 'когда', 'их', 'убывают', 'Что', 'за', 'уроды', 'Гейл', 'Нет', 'публики', 'значит', 'нет', 'игр', 'Вот', 'и', 'всё']	"['You', 'root', 'for', 'your', 'favorites', 'You', 'cry', 'when', 'they', 'get', 'killed', ""It's"", 'sick', 'Gale', 'If', 'no', 'one', 'watches', 'then', 'they', ""don't"", 'have', 'a', 'game', ""It's"", 'as', 'simple', 'as', 'that']"
+41	- What? - Nothing. 	Что? Ничего. 	['Что', 'Ничего']	['What', 'Nothing']
+42	- Fine. Laugh at me. - I'm not laughing at you. 	- Давай, смейся - смейся. - Я не над тобой смеюсь. 	['Давай', 'смейся', 'смейся', 'Я', 'не', 'над', 'тобой', 'смеюсь']	"['Fine', 'Laugh', 'at', 'me', ""I'm"", 'not', 'laughing', 'at', 'you']"
+43	We could do it, you know? 	Мы бы могли это сделать. 	['Мы', 'бы', 'могли', 'это', 'сделать']	['We', 'could', 'do', 'it', 'you', 'know']
+44	Take off, live in the woods. It's what we do anyway. 	Сбежали бы, жили бы в лесу. Мы бы с тобой смогли? 	['Сбежали', 'бы', 'жили', 'бы', 'в', 'лесу', 'Мы', 'бы', 'с', 'тобой', 'смогли']	"['Take', 'off', 'live', 'in', 'the', 'woods', ""It's"", 'what', 'we', 'do', 'anyway']"
+45	They'd catch us. Well, maybe not. 	- Нас бы поймали. - Может и нет. 	['Нас', 'бы', 'поймали', 'Может', 'и', 'нет']	"[""They'd"", 'catch', 'us', 'Well', 'maybe', 'not']"
+46	Cut out our tongues, or worse. We wouldn't make it five miles. 	За это отрежут языки, как минимум. Тут и на 5 миль не уйдёшь. 	['За', 'это', 'отрежут', 'языки', 'как', 'минимум', 'Тут', 'и', 'на', '5', 'миль', 'не', 'уйдёшь']	"['Cut', 'out', 'our', 'tongues', 'or', 'worse', 'We', ""wouldn't"", 'make', 'it', 'five', 'miles']"
+47	No, I'd get five miles. I'd go that way. 	А я бы ушёл. Прямо туда. 	['А', 'я', 'бы', 'ушёл', 'Прямо', 'туда']	"['No', ""I'd"", 'get', 'five', 'miles', ""I'd"", 'go', 'that', 'way']"
+48	I have Prim, and you have your brothers. 	У меня дома Прим. У тебя братья. 	['У', 'меня', 'дома', 'Прим', 'У', 'тебя', 'братья']	['I', 'have', 'Prim', 'and', 'you', 'have', 'your', 'brothers']
+49	They can come, too. 	С нами пойдут. 	['С', 'нами', 'пойдут']	['They', 'can', 'come', 'too']
+50	Prim in the woods? 	Прим пойдёт в лес? 	['Прим', 'пойдёт', 'в', 'лес']	['Prim', 'in', 'the', 'woods']
+51	Or maybe not. 	А может и нет. 	['А', 'может', 'и', 'нет']	['Or', 'maybe', 'not']
+52	I'm never having kids. 	Я не буду рожать детей. 	['Я', 'не', 'буду', 'рожать', 'детей']	"[""I'm"", 'never', 'having', 'kids']"
+53	I might, if I didn't live here. 	Я бы завёл. Только не здесь. 	['Я', 'бы', 'завёл', 'Только', 'не', 'здесь']	"['I', 'might', 'if', 'I', ""didn't"", 'live', 'here']"
+54	- But you do live here. - I know, but if I didn't. 	Но ты же здесь. Знаю, но если бы. 	['Но', 'ты', 'же', 'здесь', 'Знаю', 'но', 'если', 'бы']	"['But', 'you', 'do', 'live', 'here', 'I', 'know', 'but', 'if', 'I', ""didn't""]"
+55	I forgot. 	Ой, забыл. 	['Ой', 'забыл']	['I', 'forgot']
+56	Here. 	Вот. 	['Вот']	['Here']
+57	Oh, my God! Is this real? 	Боже мой! Настоящий? 	['Боже', 'мой', 'Настоящий']	['Oh', 'my', 'God', 'Is', 'this', 'real']
+58	Yeah. Better be. Cost me a squirrel. 	Ещё бы. За целую белку. 	['Ещё', 'бы', 'За', 'целую', 'белку']	['Yeah', 'Better', 'be', 'Cost', 'me', 'a', 'squirrel']
+59	Happy Hunger Games. 	Счастливых вам Голодных игр. 	['Счастливых', 'вам', 'Голодных', 'игр']	['Happy', 'Hunger', 'Games']
+60	"""And may the odds be ever in your favor."" "	И пусть удача всегда будет с вами. 	['И', 'пусть', 'удача', 'всегда', 'будет', 'с', 'вами']	['And', 'may', 'the', 'odds', 'be', 'ever', 'in', 'your', 'favor']
+61	How many times is your name in today? 	Сколько раз там вписано твоё имя? 	['Сколько', 'раз', 'там', 'вписано', 'твоё', 'имя']	['How', 'many', 'times', 'is', 'your', 'name', 'in', 'today']
+62	Forty-two. 	Сорок два. 	['Сорок', 'два']	['Forty-two']
+63	Guess the odds aren't exactly in my favor. 	Думаю, удача вряд ли сейчас со мной. 	['Думаю', 'удача', 'вряд', 'ли', 'сейчас', 'со', 'мной']	"['Guess', 'the', 'odds', ""aren't"", 'exactly', 'in', 'my', 'favor']"
+64	Thank you, girl. 	Спасибо, девонька. 	['Спасибо', 'девонька']	['Thank', 'you', 'girl']
+65	What's this? 	А это что? 	['А', 'это', 'что']	"[""What's"", 'this']"
+66	That's a Mockingjay. 	- Это...сойка-пересмешница. 	['Это...сойка-пересмешница']	"[""That's"", 'a', 'Mockingjay']"
+67	How much? 	И сколько стоит? 	['И', 'сколько', 'стоит']	['How', 'much']
+68	- You keep it. It's yours. - Thank you. 	Бесплатно. Бери. Спасибо. 	['Бесплатно', 'Бери', 'Спасибо']	"['You', 'keep', 'it', ""It's"", 'yours', 'Thank', 'you']"
+69	Mom. 	Мам? 	['Мам']	['Mom']
+70	Look at you! 	О, только посмотри на себя. 	['О', 'только', 'посмотри', 'на', 'себя']	['Look', 'at', 'you']
+71	You look beautiful. 	Какая красавица. 	['Какая', 'красавица']	['You', 'look', 'beautiful']
+72	But you better tuck in that tail, little duck. 	Только хвостик заправь, утенок. 	['Только', 'хвостик', 'заправь', 'утенок']	['But', 'you', 'better', 'tuck', 'in', 'that', 'tail', 'little', 'duck']
+73	I laid something out for you, too. 	Твое платье я тоже приготовила. 	['Твое', 'платье', 'я', 'тоже', 'приготовила']	['I', 'laid', 'something', 'out', 'for', 'you', 'too']
+74	Okay. 	Хорошо. 	['Хорошо']	['Okay']
+75	Now you look beautiful, too. 	Теперь ты тоже красавица. 	['Теперь', 'ты', 'тоже', 'красавица']	['Now', 'you', 'look', 'beautiful', 'too']
+76	Wish I looked like you. 	Вот бы я была такой, как ты. 	['Вот', 'бы', 'я', 'была', 'такой', 'как', 'ты']	['Wish', 'I', 'looked', 'like', 'you']
+77	No. I wish I looked like you, little duck. 	Ну нет. Это я хочу быть как ты, утенок. 	['Ну', 'нет', 'Это', 'я', 'хочу', 'быть', 'как', 'ты', 'утенок']	['No', 'I', 'wish', 'I', 'looked', 'like', 'you', 'little', 'duck']
+78	Hey. You want to see what I got you today? 	Эй. Смотри, что я тебе раздобыла. 	['Эй', 'Смотри', 'что', 'я', 'тебе', 'раздобыла']	['Hey', 'You', 'want', 'to', 'see', 'what', 'I', 'got', 'you', 'today']
+79	It's a Mockingjay pin. To protect you. 	Это сойка-пересмешница. Твой оберег. 	['Это', 'сойка-пересмешница', 'Твой', 'оберег']	"[""It's"", 'a', 'Mockingjay', 'pin', 'To', 'protect', 'you']"
+80	And as long as you have it, nothing bad will happen to you. 	Пока она у тебя, все будет хорошо. 	['Пока', 'она', 'у', 'тебя', 'все', 'будет', 'хорошо']	['And', 'as', 'long', 'as', 'you', 'have', 'it', 'nothing', 'bad', 'will', 'happen', 'to', 'you']
+81	Okay? I promise. 	Понятно? Я обещаю. 	['Понятно', 'Я', 'обещаю']	['Okay', 'I', 'promise']
+82	Prim, it's okay. It's okay. 	Тише. Прим, все хорошо. Все будет хорошо. 	['Тише', 'Прим', 'все', 'хорошо', 'Все', 'будет', 'хорошо']	"['Prim', ""it's"", 'okay', ""It's"", 'okay']"
+83	Okay. It's time to sign in now. Okay? 	Ну все, пора регистрироваться. 	['Ну', 'все', 'пора', 'регистрироваться']	"['Okay', ""It's"", 'time', 'to', 'sign', 'in', 'now', 'Okay']"
+84	They're gonna prick your finger just to take a little bit of blood. 	Они уколют тебя в палец и возьмут капельку крови. 	['Они', 'уколют', 'тебя', 'в', 'палец', 'и', 'возьмут', 'капельку', 'крови']	"[""They're"", 'gonna', 'prick', 'your', 'finger', 'just', 'to', 'take', 'a', 'little', 'bit', 'of', 'blood']"
+85	- You didn't say... - I know. 	Это не больно? 	['Это', 'не', 'больно']	"['You', ""didn't"", 'say', 'I', 'know']"
+86	It doesn't hurt much. Just a little. 	Это почти не больно. Совсем чуть-чуть. 	['Это', 'почти', 'не', 'больно', 'Совсем', 'чуть-чуть']	"['It', ""doesn't"", 'hurt', 'much', 'Just', 'a', 'little']"
+87	Okay? Go sit down there with the little kids. I'll find you after. Okay? 	Ладно? А потом иди и садись с младшими, я тебя найду, хорошо? 	['Ладно', 'А', 'потом', 'иди', 'и', 'садись', 'с', 'младшими', 'я', 'тебя', 'найду', 'хорошо']	"['Okay', 'Go', 'sit', 'down', 'there', 'with', 'the', 'little', 'kids', ""I'll"", 'find', 'you', 'after', 'Okay']"
+88	Next. 	Следующий. 	['Следующий']	['Next']
+89	Next. 	Следующий. 	['Следующий']	['Next']
+90	Go ahead. Next. 	Можешь идти. Следующий. 	['Можешь', 'идти', 'Следующий']	['Go', 'ahead', 'Next']
+91	Next. 	Следующий. 	['Следующий']	['Next']
+92	Next. 	Следующий. 	['Следующий']	['Next']
+93	Next. 	Следующий. 	['Следующий']	['Next']
+94	It's okay. Welcome! Welcome, welcome. 	Добро пожаловать! Добро, добро пожаловать! 	['Добро', 'пожаловать', 'Добро', 'добро', 'пожаловать']	"[""It's"", 'okay', 'Welcome', 'Welcome', 'welcome']"
+95	Happy Hunger Games. 	Счастливых вам Голодных Игр. 	['Счастливых', 'вам', 'Голодных', 'Игр']	['Happy', 'Hunger', 'Games']
+96	And may the odds be ever in your favor. 	И... Пусть удача всегда будет с вами. 	['И', 'Пусть', 'удача', 'всегда', 'будет', 'с', 'вами']	['And', 'may', 'the', 'odds', 'be', 'ever', 'in', 'your', 'favor']
+97	Now, before we begin, we have a very special film. 	Но, прежде, чем мы начнем, мы приготовили специальный фильм. 	['Но', 'прежде', 'чем', 'мы', 'начнем', 'мы', 'приготовили', 'специальный', 'фильм']	['Now', 'before', 'we', 'begin', 'we', 'have', 'a', 'very', 'special', 'film']
+98	Brought to you all the way from The Capitol. 	Он приехал из самого Капитолия. 	['Он', 'приехал', 'из', 'самого', 'Капитолия']	['Brought', 'to', 'you', 'all', 'the', 'way', 'from', 'The', 'Capitol']
+99	War. Terrible war. War. Terrible war. Widows, orphans, a motherless child. 	Война, ужасная война. Вдовы, сироты и безотцовщина. 	['Война', 'ужасная', 'война', 'Вдовы', 'сироты', 'и', 'безотцовщина']	['War', 'Terrible', 'war', 'War', 'Terrible', 'war', 'Widows', 'orphans', 'a', 'motherless', 'child']
+100	This was the uprising that rocked our land. 	Восстание потрясло, пошатнуло нашу страну. 	['Восстание', 'потрясло', 'пошатнуло', 'нашу', 'страну']	['This', 'was', 'the', 'uprising', 'that', 'rocked', 'our', 'land']
+101	Thirteen districts rebelled against the country that fed them, 	13 дистриктов взбунтовались против государства, которое их кормило, 	['13', 'дистриктов', 'взбунтовались', 'против', 'государства', 'которое', 'их', 'кормило']	['Thirteen', 'districts', 'rebelled', 'against', 'the', 'country', 'that', 'fed', 'them']
+102	loved them, protected them. 	заботилось, защищало. 	['заботилось', 'защищало']	['loved', 'them', 'protected', 'them']
+103	Brother turned on brother until nothing remained. 	Брат пошел на брата, и не осталось ничего. 	['Брат', 'пошел', 'на', 'брата', 'и', 'не', 'осталось', 'ничего']	['Brother', 'turned', 'on', 'brother', 'until', 'nothing', 'remained']
+104	And then came the peace, hard fought, sorely won. 	Но, наконец, настал мир. Он достался нам нескоро и дорогой ценой. 	['Но', 'наконец', 'настал', 'мир', 'Он', 'достался', 'нам', 'нескоро', 'и', 'дорогой', 'ценой']	['And', 'then', 'came', 'the', 'peace', 'hard', 'fought', 'sorely', 'won']
+105	A people rose up from the ashes, and a new era was born. 	Народ восстал из праха, и родилась новая эра. 	['Народ', 'восстал', 'из', 'праха', 'и', 'родилась', 'новая', 'эра']	['A', 'people', 'rose', 'up', 'from', 'the', 'ashes', 'and', 'a', 'new', 'era', 'was', 'born']
+106	But freedom has a cost. And the traitors were defeated. 	Но у свободы есть цена. Победив предателей, 	['Но', 'у', 'свободы', 'есть', 'цена', 'Победив', 'предателей']	['But', 'freedom', 'has', 'a', 'cost', 'And', 'the', 'traitors', 'were', 'defeated']
+107	We swore as a nation we would never know this treason again. 	мы поклялись, что наша страна никогда больше не познает такой измены. 	['мы', 'поклялись', 'что', 'наша', 'страна', 'никогда', 'больше', 'не', 'познает', 'такой', 'измены']	['We', 'swore', 'as', 'a', 'nation', 'we', 'would', 'never', 'know', 'this', 'treason', 'again']
+108	And so it was decreed that each year the various districts of Panem would offer up, in tribute, one young man and woman 	И было решено, каждый год все дистрикты Панема должны выбирать по одному юноше и одной девушке, 	['И', 'было', 'решено', 'каждый', 'год', 'все', 'дистрикты', 'Панема', 'должны', 'выбирать', 'по', 'одному', 'юноше', 'и', 'одной', 'девушке']	['And', 'so', 'it', 'was', 'decreed', 'that', 'each', 'year', 'the', 'various', 'districts', 'of', 'Panem', 'would', 'offer', 'up', 'in', 'tribute', 'one', 'young', 'man', 'and', 'woman']
+109	to fight to the death in a pageant of honor, courage, and sacrifice. 	которые будут сражаться до последней капли крови в битве за честь, отвагу и самоотречение. 	['которые', 'будут', 'сражаться', 'до', 'последней', 'капли', 'крови', 'в', 'битве', 'за', 'честь', 'отвагу', 'и', 'самоотречение']	['to', 'fight', 'to', 'the', 'death', 'in', 'a', 'pageant', 'of', 'honor', 'courage', 'and', 'sacrifice']
+110	The lone victor, bathed in riches, would serve as a reminder of our generosity and our forgiveness. 	Единственный выживший победитель будет награжден, и станет служить символом нашей щедрости и нашего прощения. 	['Единственный', 'выживший', 'победитель', 'будет', 'награжден', 'и', 'станет', 'служить', 'символом', 'нашей', 'щедрости', 'и', 'нашего', 'прощения']	['The', 'lone', 'victor', 'bathed', 'in', 'riches', 'would', 'serve', 'as', 'a', 'reminder', 'of', 'our', 'generosity', 'and', 'our', 'forgiveness']
+111	This is how we remember our past. 	Так мы вспоминаем наше прошлое. 	['Так', 'мы', 'вспоминаем', 'наше', 'прошлое']	['This', 'is', 'how', 'we', 'remember', 'our', 'past']
+112	This is how we safeguard our future. 	Так мы охраняем наше будущее. 	['Так', 'мы', 'охраняем', 'наше', 'будущее']	['This', 'is', 'how', 'we', 'safeguard', 'our', 'future']
+113	I just love that! 	Я это обожаю. 	['Я', 'это', 'обожаю']	['I', 'just', 'love', 'that']
+114	Now, the time has come for us to select 	Итак, пришло время для нас... выбрать... 	['Итак', 'пришло', 'время', 'для', 'нас', 'выбрать']	['Now', 'the', 'time', 'has', 'come', 'for', 'us', 'to', 'select']
+115	one courageous young man and woman 	нашего храброго героя и героиню, 	['нашего', 'храброго', 'героя', 'и', 'героиню']	['one', 'courageous', 'young', 'man', 'and', 'woman']
+116	for the honor of representing District 12 in the 74th Annual Hunger Games. 	которые будут защищать честь Дистрикта 12 на 74-х ежегодных Голодных Играх. 	['которые', 'будут', 'защищать', 'честь', 'Дистрикта', '12', 'на', '74-х', 'ежегодных', 'Голодных', 'Играх']	['for', 'the', 'honor', 'of', 'representing', 'District', '12', 'in', 'the', '74th', 'Annual', 'Hunger', 'Games']
+117	As usual, ladies first. 	По традиции, дамы вперед. 	['По', 'традиции', 'дамы', 'вперед']	['As', 'usual', 'ladies', 'first']
+118	Primrose Everdeen. 	Примроуз Эвердин! 	['Примроуз', 'Эвердин']	['Primrose', 'Everdeen']
+119	Where are you, dear? 	Где ты, душенька? 	['Где', 'ты', 'душенька']	['Where', 'are', 'you', 'dear']
+120	Come on up. 	Ну, давай, 	['Ну', 'давай']	['Come', 'on', 'up']
+121	Well, come on up. 	поднимайся к нам! 	['поднимайся', 'к', 'нам']	['Well', 'come', 'on', 'up']
+122	Prim! Prim! 	Прим! Прим! 	['Прим', 'Прим']	['Prim', 'Prim']
+123	No. No! 	Нет! 	['Нет']	['No', 'No']
+124	I volunteer! I volunteer! 	Я доброволец! 	['Я', 'доброволец']	['I', 'volunteer', 'I', 'volunteer']
+125	I volunteer as Tribute! 	Я хочу участвовать в Играх! 	['Я', 'хочу', 'участвовать', 'в', 'Играх']	['I', 'volunteer', 'as', 'Tribute']
+126	I believe we have a volunteer, Mr. Mayor. 	Кажется, у нас есть доброволец. 	['Кажется', 'у', 'нас', 'есть', 'доброволец']	['I', 'believe', 'we', 'have', 'a', 'volunteer', 'Mr', 'Mayor']
+127	Prim, you need to get out of here. You need to get out of here. 	- Уходи отсюда. Уходи немедленно! - Нет! 	['Уходи', 'отсюда', 'Уходи', 'немедленно', 'Нет']	['Prim', 'you', 'need', 'to', 'get', 'out', 'of', 'here', 'You', 'need', 'to', 'get', 'out', 'of', 'here']
+128	- No!No! - Go find Mom! 	- Беги к маме! - Нет! 	['Беги', 'к', 'маме', 'Нет']	['No!No', 'Go', 'find', 'Mom']
+129	- Prim, go find Mom right now. I'm so sorry. - No! 	- Прим, иди немедленно! - Нет! Прости меня! Нет! 	['Прим', 'иди', 'немедленно', 'Нет', 'Прости', 'меня', 'Нет']	"['Prim', 'go', 'find', 'Mom', 'right', 'now', ""I'm"", 'so', 'sorry', 'No']"
+130	- Go find Mom. Prim, leave! Go find Mom. - No!No!No! - No!No!No! - Come on. 	- Прим, уходи! Иди к маме! - Нет! Нет! Нет! Нет! 	['Прим', 'уходи', 'Иди', 'к', 'маме', 'Нет', 'Нет', 'Нет', 'Нет']	['Go', 'find', 'Mom', 'Prim', 'leave', 'Go', 'find', 'Mom', 'No!No!No', 'No!No!No', 'Come', 'on']
+131	A dramatic turn of events here in District 12. 	Поистине душещипательный поворот событий у нас, в Дистрикте 12. 	['Поистине', 'душещипательный', 'поворот', 'событий', 'у', 'нас', 'в', 'Дистрикте', '12']	['A', 'dramatic', 'turn', 'of', 'events', 'here', 'in', 'District', '12']
+132	Yes, well. District 12's very first volunteer. Bring her up. 	Что ж, первый в истории Дистрикта 12 доброволец, прошу на сцену. 	['Что', 'ж', 'первый', 'в', 'истории', 'Дистрикта', '12', 'доброволец', 'прошу', 'на', 'сцену']	"['Yes', 'well', 'District', ""12's"", 'very', 'first', 'volunteer', 'Bring', 'her', 'up']"
+133	Come on, dear. 	Давай, дорогая. 	['Давай', 'дорогая']	['Come', 'on', 'dear']
+134	What's your name? 	Как тебя зовут? 	['Как', 'тебя', 'зовут']	"[""What's"", 'your', 'name']"
+135	Katniss Everdeen. 	Кэтнисс Эвердин. 	['Кэтнисс', 'Эвердин']	['Katniss', 'Everdeen']
+136	Well, I bet my hat that was your sister, wasn't it? 	Готова поспорить, это твоя сестренка, я угадала? 	['Готова', 'поспорить', 'это', 'твоя', 'сестренка', 'я', 'угадала']	"['Well', 'I', 'bet', 'my', 'hat', 'that', 'was', 'your', 'sister', ""wasn't"", 'it']"
+137	Yes. 	Да. 	['Да']	['Yes']
+138	Let's have a big hand for our very first volunteer, Katniss Everdeen. 	Давайте похлопаем нашему самому первому добровольцу, Кэтнисс Эвердин. 	['Давайте', 'похлопаем', 'нашему', 'самому', 'первому', 'добровольцу', 'Кэтнисс', 'Эвердин']	"[""Let's"", 'have', 'a', 'big', 'hand', 'for', 'our', 'very', 'first', 'volunteer', 'Katniss', 'Everdeen']"
+139	And now for the boys. 	А теперь... Мальчики. 	['А', 'теперь', 'Мальчики']	['And', 'now', 'for', 'the', 'boys']
+140	Peeta Mellark. 	Питер Мелларк. 	['Питер', 'Мелларк']	['Peeta', 'Mellark']
+141	Here we are. 	Итак, вот они. 	['Итак', 'вот', 'они']	['Here', 'we', 'are']
+142	Our Tributes from District 12. 	Трибуты от Дистрикта 12. 	['Трибуты', 'от', 'Дистрикта', '12']	['Our', 'Tributes', 'from', 'District', '12']
+143	Well, go on, you two, shake hands. 	Ну, давайте, пожмите друг другу руки. 	['Ну', 'давайте', 'пожмите', 'друг', 'другу', 'руки']	['Well', 'go', 'on', 'you', 'two', 'shake', 'hands']
+144	Happy Hunger Games. 	Счастливых вам Голодных Игр! 	['Счастливых', 'вам', 'Голодных', 'Игр']	['Happy', 'Hunger', 'Games']
+145	And may the odds be ever in your favor. 	И пусть удача всегда будет с вами. 	['И', 'пусть', 'удача', 'всегда', 'будет', 'с', 'вами']	['And', 'may', 'the', 'odds', 'be', 'ever', 'in', 'your', 'favor']
+146	You have three minutes. 	У вас 3 минуты. 	['У', 'вас', '3', 'минуты']	['You', 'have', 'three', 'minutes']
+147	It's okay. 	Все хорошо. 	['Все', 'хорошо']	"[""It's"", 'okay']"
+148	Prim. Prim. It's okay. Prim, I don't have much time. 	У нас мало времени. 	['У', 'нас', 'мало', 'времени']	"['Prim', 'Prim', ""It's"", 'okay', 'Prim', 'I', ""don't"", 'have', 'much', 'time']"
+149	Prim. Listen. You're gonna be okay. Don't take any extra food from them. 	Прим, слушай. Все будет в порядке. Нельзя брать у них лишнюю еду, 	['Прим', 'слушай', 'Все', 'будет', 'в', 'порядке', 'Нельзя', 'брать', 'у', 'них', 'лишнюю', 'еду']	"['Prim', 'Listen', ""You're"", 'gonna', 'be', 'okay', ""Don't"", 'take', 'any', 'extra', 'food', 'from', 'them']"
+150	It isn't worth putting your name in more times. Okay? 	твое имя еще раз внесут в список, ясно? 	['твое', 'имя', 'еще', 'раз', 'внесут', 'в', 'список', 'ясно']	"['It', ""isn't"", 'worth', 'putting', 'your', 'name', 'in', 'more', 'times', 'Okay']"
+151	Listen, Prim. Gale will bring you game. You can sell cheese from your goat. 	Слушай, Прим. Гейл будет носить тебе дичь. У тебя есть коза, можешь продавать сыр. 	['Слушай', 'Прим', 'Гейл', 'будет', 'носить', 'тебе', 'дичь', 'У', 'тебя', 'есть', 'коза', 'можешь', 'продавать', 'сыр']	['Listen', 'Prim', 'Gale', 'will', 'bring', 'you', 'game', 'You', 'can', 'sell', 'cheese', 'from', 'your', 'goat']
+152	Just try to win. Maybe you can. 	Попробуй победить, вдруг получится. 	['Попробуй', 'победить', 'вдруг', 'получится']	['Just', 'try', 'to', 'win', 'Maybe', 'you', 'can']
+153	Of course. And maybe I can. I am smart, you know? 	Конечно. Вдруг получится, я же умная. 	['Конечно', 'Вдруг', 'получится', 'я', 'же', 'умная']	['Of', 'course', 'And', 'maybe', 'I', 'can', 'I', 'am', 'smart', 'you', 'know']
+154	- And you can hunt. - Exactly. 	Ты умеешь охотиться. Вот именно. 	['Ты', 'умеешь', 'охотиться', 'Вот', 'именно']	['And', 'you', 'can', 'hunt', 'Exactly']
+155	To protect you. 	Пусть он тебя защищает. 	['Пусть', 'он', 'тебя', 'защищает']	['To', 'protect', 'you']
+156	Thank you. 	Спасибо. 	['Спасибо']	['Thank', 'you']
+157	You can't tune out again. 	Не смей замыкаться в себе. 	['Не', 'смей', 'замыкаться', 'в', 'себе']	"['You', ""can't"", 'tune', 'out', 'again']"
+158	- I won't. - No, you can't. Not like when Dad died. 	Я не буду. Не имеешь права. Как после смерти папы. 	['Я', 'не', 'буду', 'Не', 'имеешь', 'права', 'Как', 'после', 'смерти', 'папы']	"['I', ""won't"", 'No', 'you', ""can't"", 'Not', 'like', 'when', 'Dad', 'died']"
+159	I won't be there anymore. You're all she has. 	Меня больше не будет. У нее, кроме тебя, никого. 	['Меня', 'больше', 'не', 'будет', 'У', 'нее', 'кроме', 'тебя', 'никого']	"['I', ""won't"", 'be', 'there', 'anymore', ""You're"", 'all', 'she', 'has']"
+160	No matter what you feel, you have to be there for her. Do you understand? 	Что бы ты там ни чувствовала, ты должна быть с ней, ясно? 	['Что', 'бы', 'ты', 'там', 'ни', 'чувствовала', 'ты', 'должна', 'быть', 'с', 'ней', 'ясно']	['No', 'matter', 'what', 'you', 'feel', 'you', 'have', 'to', 'be', 'there', 'for', 'her', 'Do', 'you', 'understand']
+161	Don't cry. 	Не плачь. 	['Не', 'плачь']	"[""Don't"", 'cry']"
+162	Don't cry. Don't. Don't. 	Не плачь. Не надо. 	['Не', 'плачь', 'Не', 'надо']	"[""Don't"", 'cry', ""Don't"", ""Don't""]"
+163	- It's time. - Prim, it's okay. - Prim, it's okay. It's okay, Prim. - No!No!No! 	Время. - Нет! - Все хорошо. Все хорошо, Прим. - Нет! Нет! 	['Время', 'Нет', 'Все', 'хорошо', 'Все', 'хорошо', 'Прим', 'Нет', 'Нет']	"[""It's"", 'time', 'Prim', ""it's"", 'okay', 'Prim', ""it's"", 'okay', ""It's"", 'okay', 'Prim', 'No!No!No']"
+164	I promise, Prim. 	Обещаю, я вернусь. 	['Обещаю', 'я', 'вернусь']	['I', 'promise', 'Prim']
+165	- I'm fine. - Yeah, I know. 	Все в порядке. Я знаю. 	['Все', 'в', 'порядке', 'Я', 'знаю']	"[""I'm"", 'fine', 'Yeah', 'I', 'know']"
+166	I am. 	Правда. 	['Правда']	['I', 'am']
+167	Listen to me. You're stronger than they are. You are. 	Послушай меня, ты сильнее их всех. Это правда. 	['Послушай', 'меня', 'ты', 'сильнее', 'их', 'всех', 'Это', 'правда']	"['Listen', 'to', 'me', ""You're"", 'stronger', 'than', 'they', 'are', 'You', 'are']"
+168	- Get to a bow. - They may not have... 	- Раздобудь лук. - Его может не быть... 	['Раздобудь', 'лук', 'Его', 'может', 'не', 'быть']	['Get', 'to', 'a', 'bow', 'They', 'may', 'not', 'have']
+169	They will if you show them how good you are. 	Будет, если ты покажешь, на что ты способна. 	['Будет', 'если', 'ты', 'покажешь', 'на', 'что', 'ты', 'способна']	['They', 'will', 'if', 'you', 'show', 'them', 'how', 'good', 'you', 'are']
+170	They just want a good show. That's all they want. 	Им нужно зрелище, вот и все. 	['Им', 'нужно', 'зрелище', 'вот', 'и', 'все']	"['They', 'just', 'want', 'a', 'good', 'show', ""That's"", 'all', 'they', 'want']"
+171	If they don't have a bow, then you make one, okay? You know how to hunt. 	Если лука не будет, сама сделай, поняла? Ты охотница. 	['Если', 'лука', 'не', 'будет', 'сама', 'сделай', 'поняла', 'Ты', 'охотница']	"['If', 'they', ""don't"", 'have', 'a', 'bow', 'then', 'you', 'make', 'one', 'okay', 'You', 'know', 'how', 'to', 'hunt']"
+172	Animals. 	На зверей. 	['На', 'зверей']	['Animals']
+173	It's no different, Katniss. 	Разницы нет, Кэтнисс. 	['Разницы', 'нет', 'Кэтнисс']	"[""It's"", 'no', 'different', 'Katniss']"
+174	There's 24 of us, Gale. Only one comes out. 	Нас 24, Гейл, и только один выживет. 	['Нас', '24', 'Гейл', 'и', 'только', 'один', 'выживет']	"[""There's"", '24', 'of', 'us', 'Gale', 'Only', 'one', 'comes', 'out']"
+175	Yeah. And it's gonna be you. 	Да, и это будешь ты. 	['Да', 'и', 'это', 'будешь', 'ты']	"['Yeah', 'And', ""it's"", 'gonna', 'be', 'you']"
+176	Okay. 	Так. 	['Так']	['Okay']
+177	Take care of them, Gale. Whatever you do, don't let them starve. 	Позаботься о них, Гейл. Не дай им умереть с голоду! 	['Позаботься', 'о', 'них', 'Гейл', 'Не', 'дай', 'им', 'умереть', 'с', 'голоду']	"['Take', 'care', 'of', 'them', 'Gale', 'Whatever', 'you', 'do', ""don't"", 'let', 'them', 'starve']"
+178	- Let's go. - I'll see you soon, okay? 	На выход. Скоро увидимся, хорошо? 	['На', 'выход', 'Скоро', 'увидимся', 'хорошо']	"[""Let's"", 'go', ""I'll"", 'see', 'you', 'soon', 'okay']"
+179	You two are in for a treat. 	Вам несказанно повезло. 	['Вам', 'несказанно', 'повезло']	['You', 'two', 'are', 'in', 'for', 'a', 'treat']
+180	Crystal chandeliers, platinum doorknobs, and it flies. We'll be at The Capitol in less than two days. Now, before you do anything else... 	Хрустальные люстры. Платиновые дверные ручки. 	['Хрустальные', 'люстры', 'Платиновые', 'дверные', 'ручки']	"['Crystal', 'chandeliers', 'platinum', 'doorknobs', 'and', 'it', 'flies', ""We'll"", 'be', 'at', 'The', 'Capitol', 'in', 'less', 'than', 'two', 'days', 'Now', 'before', 'you', 'do', 'anything', 'else']"
+181	200 miles per hour, and you can barely feel a thing. 	200 миль в час, а внутри даже не чувствуется. 	['200', 'миль', 'в', 'час', 'а', 'внутри', 'даже', 'не', 'чувствуется']	['200', 'miles', 'per', 'hour', 'and', 'you', 'can', 'barely', 'feel', 'a', 'thing']
+182	I think it's one of the wonderful things about this opportunity, 	По-моему, это самое прекрасное в Играх, 	['По-моему', 'это', 'самое', 'прекрасное', 'в', 'Играх']	"['I', 'think', ""it's"", 'one', 'of', 'the', 'wonderful', 'things', 'about', 'this', 'opportunity']"
+183	that even though you're here and even though it's just for a little while, 	хоть вы и здесь совсем-совсем ненадолго, 	['хоть', 'вы', 'и', 'здесь', 'совсем-совсем', 'ненадолго']	"['that', 'even', 'though', ""you're"", 'here', 'and', 'even', 'though', ""it's"", 'just', 'for', 'a', 'little', 'while']"
+184	you get to enjoy all of this. 	вы можете наслаждаться всем этим. 	['вы', 'можете', 'наслаждаться', 'всем', 'этим']	['you', 'get', 'to', 'enjoy', 'all', 'of', 'this']
+185	I'm going to find Haymitch. He's probably in the bar car. 	Пойду поищу Хеймитча. Он, наверное, уже в вагоне-ресторане. 	['Пойду', 'поищу', 'Хеймитча', 'Он', 'наверное', 'уже', 'в', 'вагоне-ресторане']	"[""I'm"", 'going', 'to', 'find', 'Haymitch', ""He's"", 'probably', 'in', 'the', 'bar', 'car']"
+186	Have you ever met him? 	Ты его уже видела? 	['Ты', 'его', 'уже', 'видела']	['Have', 'you', 'ever', 'met', 'him']
+187	Haymitch? 	Хеймитча? 	['Хеймитча']	['Haymitch']
+188	You know, Katniss, he is our mentor. He did win this thing once. 	Знаешь, Кэтнисс, он наш наставник. Когда-то он сам победил в Играх. 	['Знаешь', 'Кэтнисс', 'он', 'наш', 'наставник', 'Когда-то', 'он', 'сам', 'победил', 'в', 'Играх']	['You', 'know', 'Katniss', 'he', 'is', 'our', 'mentor', 'He', 'did', 'win', 'this', 'thing', 'once']
+189	Look, you know, if you don't want to talk, I understand, but I just don't think there's anything wrong with getting a little bit of help. 	Слушай, не хочешь со мной не разговаривать, не надо, но я не вижу ничего плохого в том, чтобы получить немного помощи. 	['Слушай', 'не', 'хочешь', 'со', 'мной', 'не', 'разговаривать', 'не', 'надо', 'но', 'я', 'не', 'вижу', 'ничего', 'плохого', 'в', 'том', 'чтобы', 'получить', 'немного', 'помощи']	"['Look', 'you', 'know', 'if', 'you', ""don't"", 'want', 'to', 'talk', 'I', 'understand', 'but', 'I', 'just', ""don't"", 'think', ""there's"", 'anything', 'wrong', 'with', 'getting', 'a', 'little', 'bit', 'of', 'help']"
+190	Congratulations. 	Мои поздравления. 	['Мои', 'поздравления']	['Congratulations']
+191	Where's the ice? 	Ну и где лед? 	['Ну', 'и', 'где', 'лед']	"[""Where's"", 'the', 'ice']"
+192	I don't know. 	Я... не знаю. 	['Я', 'не', 'знаю']	"['I', ""don't"", 'know']"
+193	May I? Okay, so... So when do we start? 	Ну что, когда... когда мы начнем? 	['Ну', 'что', 'когда', 'когда', 'мы', 'начнем']	['May', 'I', 'Okay', 'so', 'So', 'when', 'do', 'we', 'start']
+194	So eager. 	Эй-эй. Прыткий какой. 	['Эй-эй', 'Прыткий', 'какой']	['So', 'eager']
+195	Most of you aren't in such a hurry. 	Обычно никто так не спешит. 	['Обычно', 'никто', 'так', 'не', 'спешит']	"['Most', 'of', 'you', ""aren't"", 'in', 'such', 'a', 'hurry']"
+196	Yeah. I wanna know what the plan is. You're our mentor. 	Ну, я хочу знать наш план. Вы наш наставник, вы должны... 	['Ну', 'я', 'хочу', 'знать', 'наш', 'план', 'Вы', 'наш', 'наставник', 'вы', 'должны']	"['Yeah', 'I', 'wanna', 'know', 'what', 'the', 'plan', 'is', ""You're"", 'our', 'mentor']"
+197	- You're supposed to go... - Mentor? 	Наставник? 	['Наставник']	"[""You're"", 'supposed', 'to', 'go', 'Mentor']"
+198	Yeah, our mentor. 	Да. 	['Да']	['Yeah', 'our', 'mentor']
+199	You're supposed to tell us how to get sponsors and give us advice. 	Наставник, вы должны объяснить, как завоевать спонсоров и дать советы. 	['Наставник', 'вы', 'должны', 'объяснить', 'как', 'завоевать', 'спонсоров', 'и', 'дать', 'советы']	"[""You're"", 'supposed', 'to', 'tell', 'us', 'how', 'to', 'get', 'sponsors', 'and', 'give', 'us', 'advice']"
+200	Okay. 	А, ладно. 	['А', 'ладно']	['Okay']
+201	Embrace the probability of your imminent death. 	Смиритесь с неизбежностью вашей скорейшей смерти. 	['Смиритесь', 'с', 'неизбежностью', 'вашей', 'скорейшей', 'смерти']	['Embrace', 'the', 'probability', 'of', 'your', 'imminent', 'death']
+202	And know, in your heart, that there's nothing I can do to save you. 	И знайте... в глубине души... что я ничем не могу вам помочь. 	['И', 'знайте', 'в', 'глубине', 'души', 'что', 'я', 'ничем', 'не', 'могу', 'вам', 'помочь']	"['And', 'know', 'in', 'your', 'heart', 'that', ""there's"", 'nothing', 'I', 'can', 'do', 'to', 'save', 'you']"
+203	So why are you here then? 	Ну и что тогда вы тут делаете? 	['Ну', 'и', 'что', 'тогда', 'вы', 'тут', 'делаете']	['So', 'why', 'are', 'you', 'here', 'then']
+204	The refreshments. 	Освежаюсь. 	['Освежаюсь']	['The', 'refreshments']
+205	Okay, I think that's enough of that. 	Так, ладно, по-моему вам уже хватит. 	['Так', 'ладно', 'по-моему', 'вам', 'уже', 'хватит']	"['Okay', 'I', 'think', ""that's"", 'enough', 'of', 'that']"
+206	You made me spill my drink. These are brand new pants. 	Из-за тебя я все пролил. На новые штаны. 	['Из-за', 'тебя', 'я', 'все', 'пролил', 'На', 'новые', 'штаны']	['You', 'made', 'me', 'spill', 'my', 'drink', 'These', 'are', 'brand', 'new', 'pants']
+207	You know, I think I'll go finish this in my room. 	Знаете что, пойду-ка я у себя допью. 	['Знаете', 'что', 'пойду-ка', 'я', 'у', 'себя', 'допью']	"['You', 'know', 'I', 'think', ""I'll"", 'go', 'finish', 'this', 'in', 'my', 'room']"
+208	He's gonna come around. 	Сейчас я его верну. 	['Сейчас', 'я', 'его', 'верну']	"[""He's"", 'gonna', 'come', 'around']"
+209	It's no use. I'm gonna go talk to him. 	- Стой, от него же толку нет. - Я с ним поговорю. 	['Стой', 'от', 'него', 'же', 'толку', 'нет', 'Я', 'с', 'ним', 'поговорю']	"[""It's"", 'no', 'use', ""I'm"", 'gonna', 'go', 'talk', 'to', 'him']"
+210	We have two very fit 16-year-olds. 	У нас двое... 16-летних. 	['У', 'нас', 'двое', '16-летних']	['We', 'have', 'two', 'very', 'fit', '16-year-olds']
+211	Of course, of course. They always provide pretty good opponents. Yes, yes, they do. 	Конечно, конечно... 	['Конечно', 'конечно']	['Of', 'course', 'of', 'course', 'They', 'always', 'provide', 'pretty', 'good', 'opponents', 'Yes', 'yes', 'they', 'do']
+212	- Do you remember this year? - Of course. 	А помните вот этот год? 	['А', 'помните', 'вот', 'этот', 'год']	['Do', 'you', 'remember', 'this', 'year', 'Of', 'course']
+213	One of my favorite years. And one of my favorite Arenas. 	Это один из моих любимых. И арена тоже любимая. 	['Это', 'один', 'из', 'моих', 'любимых', 'И', 'арена', 'тоже', 'любимая']	['One', 'of', 'my', 'favorite', 'years', 'And', 'one', 'of', 'my', 'favorite', 'Arenas']
+214	The use of the rubble in the ruined city... 	А сколько сюрпризов в этих развалинах. 	['А', 'сколько', 'сюрпризов', 'в', 'этих', 'развалинах']	['The', 'use', 'of', 'the', 'rubble', 'in', 'the', 'ruined', 'city']
+215	Very exciting. 	Было очень интересно. 	['Было', 'очень', 'интересно']	['Very', 'exciting']
+216	And this moment here, 	И вот мы наблюдаем 	['И', 'вот', 'мы', 'наблюдаем']	['And', 'this', 'moment', 'here']
+217	this moment is a moment that you never forget. 	тот самый миг, который не забыть никогда. 	['тот', 'самый', 'миг', 'который', 'не', 'забыть', 'никогда']	['this', 'moment', 'is', 'a', 'moment', 'that', 'you', 'never', 'forget']
+218	Yes. The moment when a Tribute becomes a victor. 	Миг, когда трибут становится победителем. 	['Миг', 'когда', 'трибут', 'становится', 'победителем']	['Yes', 'The', 'moment', 'when', 'a', 'Tribute', 'becomes', 'a', 'victor']
+219	- You'd freeze to death first. - No, because I'd light a fire. 	Да ты замерзнешь насмерть. Я разожгу костер. 	['Да', 'ты', 'замерзнешь', 'насмерть', 'Я', 'разожгу', 'костер']	"[""You'd"", 'freeze', 'to', 'death', 'first', 'No', 'because', ""I'd"", 'light', 'a', 'fire']"
+220	That's a good way to get killed. 	Тоже неплохой способ подставиться. 	['Тоже', 'неплохой', 'способ', 'подставиться']	"[""That's"", 'a', 'good', 'way', 'to', 'get', 'killed']"
+221	What's a good way to get killed? 	Что за неплохой способ? 	['Что', 'за', 'неплохой', 'способ']	"[""What's"", 'a', 'good', 'way', 'to', 'get', 'killed']"
+222	Joy. Why don't you join us? 	О, детка! Ну, присоединяйся. 	['О', 'детка', 'Ну', 'присоединяйся']	"['Joy', 'Why', ""don't"", 'you', 'join', 'us']"
+223	I was just giving some life-saving advice. 	Я тут как раз даю жизнеспасительные советы. 	['Я', 'тут', 'как', 'раз', 'даю', 'жизнеспасительные', 'советы']	['I', 'was', 'just', 'giving', 'some', 'life-saving', 'advice']
+224	Like what? 	Например? 	['Например']	['Like', 'what']
+225	I was just asking about how to find shelter. 	Я спросил, как искать себе укрытие. 	['Я', 'спросил', 'как', 'искать', 'себе', 'укрытие']	['I', 'was', 'just', 'asking', 'about', 'how', 'to', 'find', 'shelter']
+226	Which would come in handy if, in fact, you were still alive. 	Что, в общем-то, полезно, если ты все еще жива. 	['Что', 'в', 'общем-то', 'полезно', 'если', 'ты', 'все', 'еще', 'жива']	['Which', 'would', 'come', 'in', 'handy', 'if', 'in', 'fact', 'you', 'were', 'still', 'alive']
+227	How do you find shelter? 	Как вы искали убежище? 	['Как', 'вы', 'искали', 'убежище']	['How', 'do', 'you', 'find', 'shelter']
+228	Pass the jam. 	Передай джем. 	['Передай', 'джем']	['Pass', 'the', 'jam']
+229	How do you find shelter? 	Как вы искали убежище? 	['Как', 'вы', 'искали', 'убежище']	['How', 'do', 'you', 'find', 'shelter']
+230	Give me a chance to wake up, sweetheart. 	Детка, дай я проснусь сначала, пожалуйста. 	['Детка', 'дай', 'я', 'проснусь', 'сначала', 'пожалуйста']	['Give', 'me', 'a', 'chance', 'to', 'wake', 'up', 'sweetheart']
+231	This mentoring is very taxing stuff. 	Тренерство очень... ...утомительное дело. 	['Тренерство', 'очень', 'утомительное', 'дело']	['This', 'mentoring', 'is', 'very', 'taxing', 'stuff']
+232	Can you pass the marmalade? 	Передай мне мармелад... 	['Передай', 'мне', 'мармелад']	['Can', 'you', 'pass', 'the', 'marmalade']
+233	That is mahogany! 	Это красное дерево! 	['Это', 'красное', 'дерево']	['That', 'is', 'mahogany']
+234	Look at you. Just killed a placemat. 	Надо же, ты убила эту салфетку. 	['Надо', 'же', 'ты', 'убила', 'эту', 'салфетку']	['Look', 'at', 'you', 'Just', 'killed', 'a', 'placemat']
+235	You really want to know how to stay alive? 	Правда хочешь знать, как выжить? 	['Правда', 'хочешь', 'знать', 'как', 'выжить']	['You', 'really', 'want', 'to', 'know', 'how', 'to', 'stay', 'alive']
+236	You get people to like you. 	Ты должна всем нравиться. 	['Ты', 'должна', 'всем', 'нравиться']	['You', 'get', 'people', 'to', 'like', 'you']
+237	Not what you were expecting? 	Oго! Не ожидала, правда? 	['Oго', 'Не', 'ожидала', 'правда']	['Not', 'what', 'you', 'were', 'expecting']
+238	Well, when you're in the middle of The Games and you're starving or freezing, 	Когда Игры в разгаре, и ты там хочешь есть, пить, или замерзаешь, 	['Когда', 'Игры', 'в', 'разгаре', 'и', 'ты', 'там', 'хочешь', 'есть', 'пить', 'или', 'замерзаешь']	"['Well', 'when', ""you're"", 'in', 'the', 'middle', 'of', 'The', 'Games', 'and', ""you're"", 'starving', 'or', 'freezing']"
+239	some water, a knife, or even some matches can mean the difference between life and death. 	твою судьбу могут решить лишний глоток воды, нож, или, например, пара спичек. 	['твою', 'судьбу', 'могут', 'решить', 'лишний', 'глоток', 'воды', 'нож', 'или', 'например', 'пара', 'спичек']	['some', 'water', 'a', 'knife', 'or', 'even', 'some', 'matches', 'can', 'mean', 'the', 'difference', 'between', 'life', 'and', 'death']
+240	And those things only come from sponsors. 	И всё это можно получить только от спонсоров. 	['И', 'всё', 'это', 'можно', 'получить', 'только', 'от', 'спонсоров']	['And', 'those', 'things', 'only', 'come', 'from', 'sponsors']
+241	And to get sponsors, you have to make people like you. 	А чтобы иметь спонсоров, им нужно понравиться. 	['А', 'чтобы', 'иметь', 'спонсоров', 'им', 'нужно', 'понравиться']	['And', 'to', 'get', 'sponsors', 'you', 'have', 'to', 'make', 'people', 'like', 'you']
+242	And right now, sweetheart, you're not off to a real good start. 	Ты, детка, в этом смысле, пока что не на высоте. 	['Ты', 'детка', 'в', 'этом', 'смысле', 'пока', 'что', 'не', 'на', 'высоте']	"['And', 'right', 'now', 'sweetheart', ""you're"", 'not', 'off', 'to', 'a', 'real', 'good', 'start']"
+243	There it is. 	Вот он. 	['Вот', 'он']	['There', 'it', 'is']
+244	It's huge! 	Огромный. 	['Огромный']	"[""It's"", 'huge']"
+245	That's incredible. Peeta, I love you. 	С ума сойти. 	['С', 'ума', 'сойти']	"[""That's"", 'incredible', 'Peeta', 'I', 'love', 'you']"
+246	Come on. Come on. 	Давай. Иди сюда. 	['Давай', 'Иди', 'сюда']	['Come', 'on', 'Come', 'on']
+247	You better keep this knife. He knows what he's doing. 	Лучше оставь нож. Брала бы пример с парня. 	['Лучше', 'оставь', 'нож', 'Брала', 'бы', 'пример', 'с', 'парня']	"['You', 'better', 'keep', 'this', 'knife', 'He', 'knows', 'what', ""he's"", 'doing']"
+248	So now that you've seen them, 	И, вот теперь, когда мы их наконец увидели, 	['И', 'вот', 'теперь', 'когда', 'мы', 'их', 'наконец', 'увидели']	"['So', 'now', 'that', ""you've"", 'seen', 'them']"
+249	what do you think about this year's crop of recruits? 	что вы скажете о наших новобранцах? 	['что', 'вы', 'скажете', 'о', 'наших', 'новобранцах']	"['what', 'do', 'you', 'think', 'about', 'this', ""year's"", 'crop', 'of', 'recruits']"
+250	Are there any surprises that we can expect this year? 	Ждут ли нас какие-то сюрпризы в этом году? 	['Ждут', 'ли', 'нас', 'какие-то', 'сюрпризы', 'в', 'этом', 'году']	['Are', 'there', 'any', 'surprises', 'that', 'we', 'can', 'expect', 'this', 'year']
+251	It's really hard to tell just from a Reaping, 	Сложно судить сразу после жатвы, но... 	['Сложно', 'судить', 'сразу', 'после', 'жатвы', 'но']	"[""It's"", 'really', 'hard', 'to', 'tell', 'just', 'from', 'a', 'Reaping']"
+252	-but I think this is a very interesting mix. - Yes. 	по-моему, расклад интересный. Да. 	['по-моему', 'расклад', 'интересный', 'Да']	['but', 'I', 'think', 'this', 'is', 'a', 'very', 'interesting', 'mix', 'Yes']
+253	And whenever you have a volunteer from an outlying district, 	Когда появляется доброволец из дальнего дистрикта, 	['Когда', 'появляется', 'доброволец', 'из', 'дальнего', 'дистрикта']	['And', 'whenever', 'you', 'have', 'a', 'volunteer', 'from', 'an', 'outlying', 'district']
+254	that's something you can't ignore. 	такое, конечно, нельзя игнорировать. 	['такое', 'конечно', 'нельзя', 'игнорировать']	"[""that's"", 'something', 'you', ""can't"", 'ignore']"
+255	What's that? 	Что это? 	['Что', 'это']	"[""What's"", 'that']"
+256	What's that? 	Что это? 	['Что', 'это']	"[""What's"", 'that']"
+257	We're just saying we might need to hose you down again 	Хотим тебя помыть еще разок, 	['Хотим', 'тебя', 'помыть', 'еще', 'разок']	"[""We're"", 'just', 'saying', 'we', 'might', 'need', 'to', 'hose', 'you', 'down', 'again']"
+258	before we take you to Cinna. 	перед тем, как передать Цинне. 	['перед', 'тем', 'как', 'передать', 'Цинне']	['before', 'we', 'take', 'you', 'to', 'Cinna']
+259	That was one of the bravest things I've ever seen. With your sister? 	Я восхищен твоим храбрым поступком. Я про твою сестру. 	['Я', 'восхищен', 'твоим', 'храбрым', 'поступком', 'Я', 'про', 'твою', 'сестру']	"['That', 'was', 'one', 'of', 'the', 'bravest', 'things', ""I've"", 'ever', 'seen', 'With', 'your', 'sister']"
+260	- My name's Cinna. - Katniss. 	Меня зовут Цинна. Кэтнисс. 	['Меня', 'зовут', 'Цинна', 'Кэтнисс']	"['My', ""name's"", 'Cinna', 'Katniss']"
+261	I'm sorry that this happened to you, 	Очень жаль, что ты сюда попала, 	['Очень', 'жаль', 'что', 'ты', 'сюда', 'попала']	"[""I'm"", 'sorry', 'that', 'this', 'happened', 'to', 'you']"
+262	and I'm here to help you in any way that I can. 	но я постараюсь помочь тебе всем, чем смогу. 	['но', 'я', 'постараюсь', 'помочь', 'тебе', 'всем', 'чем', 'смогу']	"['and', ""I'm"", 'here', 'to', 'help', 'you', 'in', 'any', 'way', 'that', 'I', 'can']"
+263	Most people just congratulate me. 	Меня, обычно, с этим поздравляют. 	['Меня', 'обычно', 'с', 'этим', 'поздравляют']	['Most', 'people', 'just', 'congratulate', 'me']
+264	Well, I don't see the point in that. 	Не понимаю, с чем. 	['Не', 'понимаю', 'с', 'чем']	"['Well', 'I', ""don't"", 'see', 'the', 'point', 'in', 'that']"
+265	So tonight, they have the Tribute Parade. 	Сегодня... состоится парад трибутов. 	['Сегодня', 'состоится', 'парад', 'трибутов']	['So', 'tonight', 'they', 'have', 'the', 'Tribute', 'Parade']
+266	I'm gonna take you out and show you off to the world. 	Сегодня мы представим тебя публике. 	['Сегодня', 'мы', 'представим', 'тебя', 'публике']	"[""I'm"", 'gonna', 'take', 'you', 'out', 'and', 'show', 'you', 'off', 'to', 'the', 'world']"
+267	So you're here to make me look pretty? 	Вы здесь, чтобы сделать меня красивой? 	['Вы', 'здесь', 'чтобы', 'сделать', 'меня', 'красивой']	"['So', ""you're"", 'here', 'to', 'make', 'me', 'look', 'pretty']"
+268	I'm here to help you make an impression. 	Чтобы помочь тебе  произвести впечатление. 	['Чтобы', 'помочь', 'тебе', 'произвести', 'впечатление']	"[""I'm"", 'here', 'to', 'help', 'you', 'make', 'an', 'impression']"
+269	Now, usually they dress people in the clothes from their district. 	Обычно, всех одевают в типичную одежду своих дистриктов. 	['Обычно', 'всех', 'одевают', 'в', 'типичную', 'одежду', 'своих', 'дистриктов']	['Now', 'usually', 'they', 'dress', 'people', 'in', 'the', 'clothes', 'from', 'their', 'district']
+270	- Yeah, we're always coalminers. - Yeah, but I don't wanna do that. 	Да, мы все были шахтерами. Да, и мне этого не хочется. 	['Да', 'мы', 'все', 'были', 'шахтерами', 'Да', 'и', 'мне', 'этого', 'не', 'хочется']	"['Yeah', ""we're"", 'always', 'coalminers', 'Yeah', 'but', 'I', ""don't"", 'wanna', 'do', 'that']"
+271	I wanna do something that they're gonna remember. 	Я хочу, чтобы они нас запомнили. 	['Я', 'хочу', 'чтобы', 'они', 'нас', 'запомнили']	"['I', 'wanna', 'do', 'something', 'that', ""they're"", 'gonna', 'remember']"
+272	Did they explain about trying to get sponsors? 	Тебе объяснили насчет спонсоров? 	['Тебе', 'объяснили', 'насчет', 'спонсоров']	['Did', 'they', 'explain', 'about', 'trying', 'to', 'get', 'sponsors']
+273	Yeah, but I'm not very good at making friends. 	Да, но, к сожалению, я не умею заводить друзей. 	['Да', 'но', 'к', 'сожалению', 'я', 'не', 'умею', 'заводить', 'друзей']	"['Yeah', 'but', ""I'm"", 'not', 'very', 'good', 'at', 'making', 'friends']"
+274	We'll see. 	Посмотрим. 	['Посмотрим']	"[""We'll"", 'see']"
+275	I just think somebody that brave 	Такую храбрую девушку 	['Такую', 'храбрую', 'девушку']	['I', 'just', 'think', 'somebody', 'that', 'brave']
+276	shouldn't be dressed up in some stupid costume, now should they? 	нельзя наряжать в идиотский костюм, ты согласна? 	['нельзя', 'наряжать', 'в', 'идиотский', 'костюм', 'ты', 'согласна']	"[""shouldn't"", 'be', 'dressed', 'up', 'in', 'some', 'stupid', 'costume', 'now', 'should', 'they']"
+277	I hope not. 	Надеюсь, что нет. 	['Надеюсь', 'что', 'нет']	['I', 'hope', 'not']
+278	Okay, this is safe. I promise. It's not real fire. These suits are built so you won't feel a thing. 	Огонь не настоящий. Костюмы сшиты  так, что вы ничего не почувствуете. 	['Огонь', 'не', 'настоящий', 'Костюмы', 'сшиты', 'так', 'что', 'вы', 'ничего', 'не', 'почувствуете']	"['Okay', 'this', 'is', 'safe', 'I', 'promise', ""It's"", 'not', 'real', 'fire', 'These', 'suits', 'are', 'built', 'so', 'you', ""won't"", 'feel', 'a', 'thing']"
+279	Looks pretty real to me. 	На вид настоящий. 	['На', 'вид', 'настоящий']	['Looks', 'pretty', 'real', 'to', 'me']
+280	Well, that's the idea. 	Так и задумано. 	['Так', 'и', 'задумано']	"['Well', ""that's"", 'the', 'idea']"
+281	You ready? 	Готова? 	['Готова']	['You', 'ready']
+282	- Don't be afraid. - I'm not afraid. 	Ничего не бойся. Я и не боюсь. 	['Ничего', 'не', 'бойся', 'Я', 'и', 'не', 'боюсь']	"[""Don't"", 'be', 'afraid', ""I'm"", 'not', 'afraid']"
+283	Over 100,000 people craning to get a glimpse of this year's Tributes. 	Более ста тысяч человек собралось здесь, чтоб, хоть краем глаза, взглянуть на трибутов. 	['Более', 'ста', 'тысяч', 'человек', 'собралось', 'здесь', 'чтоб', 'хоть', 'краем', 'глаза', 'взглянуть', 'на', 'трибутов']	"['Over', '100,000', 'people', 'craning', 'to', 'get', 'a', 'glimpse', 'of', 'this', ""year's"", 'Tributes']"
+284	And the sponsors get to see the Tributes for the first time. 	И спонсоры видят трибутов в первый раз. 	['И', 'спонсоры', 'видят', 'трибутов', 'в', 'первый', 'раз']	['And', 'the', 'sponsors', 'get', 'to', 'see', 'the', 'Tributes', 'for', 'the', 'first', 'time']
+285	The importance of this moment cannot be overstated. 	Важность этого события  невозможно переоценить. 	['Важность', 'этого', 'события', 'невозможно', 'переоценить']	['The', 'importance', 'of', 'this', 'moment', 'cannot', 'be', 'overstated']
+286	Very nice. 	Превосходно. 	['Превосходно']	['Very', 'nice']
+287	First chariot on my count, in 15, 14, 13... 	Первая колесница приготовилась - 15, 14, 13... 	['Первая', 'колесница', 'приготовилась', '15', '14', '13']	['First', 'chariot', 'on', 'my', 'count', 'in', '15', '14', '13']
+288	There they are. There they are. This year's Tributes. 	Вот они! Вот они! Трибуты этого года! 	['Вот', 'они', 'Вот', 'они', 'Трибуты', 'этого', 'года']	"['There', 'they', 'are', 'There', 'they', 'are', 'This', ""year's"", 'Tributes']"
+289	It's the most exciting part. It just gives you goose bumps. 	Самый волнующий момент Игр. 	['Самый', 'волнующий', 'момент', 'Игр']	"[""It's"", 'the', 'most', 'exciting', 'part', 'It', 'just', 'gives', 'you', 'goose', 'bumps']"
+290	And don't you love how the stylists, they so clearly are able to reflect the character of each district? 	И, согласитесь, стилисты безупречно сумели передать дух каждого дистрикта. 	['И', 'согласитесь', 'стилисты', 'безупречно', 'сумели', 'передать', 'дух', 'каждого', 'дистрикта']	"['And', ""don't"", 'you', 'love', 'how', 'the', 'stylists', 'they', 'so', 'clearly', 'are', 'able', 'to', 'reflect', 'the', 'character', 'of', 'each', 'district']"
+291	- Right. Right. There's District 4. - Yes. 	Вот Дистрикт 4. 	['Вот', 'Дистрикт', '4']	"['Right', 'Right', ""There's"", 'District', '4', 'Yes']"
+292	- Fishing. - I get it. 	Рыбаки. 	['Рыбаки']	['Fishing', 'I', 'get', 'it']
+293	- I like it. - That's very good. 	Мне нравится. Очень неплохо. 	['Мне', 'нравится', 'Очень', 'неплохо']	"['I', 'like', 'it', ""That's"", 'very', 'good']"
+294	And behind them, we have two power plant workers. Right? 	А за ними у нас два работника электростанции. Да? 	['А', 'за', 'ними', 'у', 'нас', 'два', 'работника', 'электростанции', 'Да']	['And', 'behind', 'them', 'we', 'have', 'two', 'power', 'plant', 'workers', 'Right']
+295	And then... 	А это... 	['А', 'это']	['And', 'then']
+296	What is that in the background? 	смотрите, что это? Вон там, в хвосте. 	['смотрите', 'что', 'это', 'Вон', 'там', 'в', 'хвосте']	['What', 'is', 'that', 'in', 'the', 'background']
+297	Come on. They'll love it. 	Давай, им понравится. 	['Давай', 'им', 'понравится']	"['Come', 'on', ""They'll"", 'love', 'it']"
+298	Yeah! 	"""Феерично!"", кричат! Феерично! "	['Феерично', 'кричат', 'Феерично']	['Yeah']
+299	"Now see that? I love that. Two young people holding their hands up, saying, ""I'm proud I come from District 12. We will not be overlooked."" "	"Двое молодых людей, они держатся за руки, как бы говоря нам: ""я из Дистрикта 12, и вы не смеете нас недооценивать!"" "	['Двое', 'молодых', 'людей', 'они', 'держатся', 'за', 'руки', 'как', 'бы', 'говоря', 'нам', 'я', 'из', 'Дистрикта', '12', 'и', 'вы', 'не', 'смеете', 'нас', 'недооценивать']	"['Now', 'see', 'that', 'I', 'love', 'that', 'Two', 'young', 'people', 'holding', 'their', 'hands', 'up', 'saying', ""I'm"", 'proud', 'I', 'come', 'from', 'District', '12', 'We', 'will', 'not', 'be', 'overlooked']"
+300	- Nope. - I love that! 	Чудесно! 	['Чудесно']	['Nope', 'I', 'love', 'that']
+301	People are sure gonna be paying attention to them right now. 	Теперь все внимание направлено только на них. 	['Теперь', 'все', 'внимание', 'направлено', 'только', 'на', 'них']	['People', 'are', 'sure', 'gonna', 'be', 'paying', 'attention', 'to', 'them', 'right', 'now']
+302	And we're ready. 	И... мы готовы. 	['И', 'мы', 'готовы']	"['And', ""we're"", 'ready']"
+303	President Snow, you're live. 	Президент Сноу, вы в эфире. 	['Президент', 'Сноу', 'вы', 'в', 'эфире']	"['President', 'Snow', ""you're"", 'live']"
+304	Welcome. 	Добро пожаловать! 	['Добро', 'пожаловать']	['Welcome']
+305	Welcome. 	Всем добро пожаловать! 	['Всем', 'добро', 'пожаловать']	['Welcome']
+306	Tributes, we welcome you. 	Трибуты, 	['Трибуты']	['Tributes', 'we', 'welcome', 'you']
+307	We salute your courage and your sacrifice. 	мы приветствуем вас. Мы салютуем вашей отваге и вашей жертвенности. 	['мы', 'приветствуем', 'вас', 'Мы', 'салютуем', 'вашей', 'отваге', 'и', 'вашей', 'жертвенности']	['We', 'salute', 'your', 'courage', 'and', 'your', 'sacrifice']
+308	And we wish you 	И мы желаем вам 	['И', 'мы', 'желаем', 'вам']	['And', 'we', 'wish', 'you']
+309	Happy Hunger Games. 	Удачных Голодных Игр. 	['Удачных', 'Голодных', 'Игр']	['Happy', 'Hunger', 'Games']
+310	And may the odds be ever in your favor. 	И пусть удача всегда будет с вами. 	['И', 'пусть', 'удача', 'всегда', 'будет', 'с', 'вами']	['And', 'may', 'the', 'odds', 'be', 'ever', 'in', 'your', 'favor']
+311	That was amazing. 	Вы были неотразимы! 	['Вы', 'были', 'неотразимы']	['That', 'was', 'amazing']
+312	We are all anybody's going to be talking about. 	Теперь говорить будут только о нас! 	['Теперь', 'говорить', 'будут', 'только', 'о', 'нас']	"['We', 'are', 'all', ""anybody's"", 'going', 'to', 'be', 'talking', 'about']"
+313	So brave. 	Очень смело. 	['Очень', 'смело']	['So', 'brave']
+314	Are you sure you should be near an open flame? 	А тебе к огню-то подходить не опасно? 	['А', 'тебе', 'к', 'огню-то', 'подходить', 'не', 'опасно']	['Are', 'you', 'sure', 'you', 'should', 'be', 'near', 'an', 'open', 'flame']
+315	Fake flame? Are you sure you... 	Фальшивый огонь. Ты уверена? Так... 	['Фальшивый', 'огонь', 'Ты', 'уверена', 'Так']	['Fake', 'flame', 'Are', 'you', 'sure', 'you']
+316	Let's go upstairs. 	Пойдемте наверх. 	['Пойдемте', 'наверх']	"[""Let's"", 'go', 'upstairs']"
+317	So, each of the districts get their own floor. 	Каждому дистрикту выделен отдельный этаж. 	['Каждому', 'дистрикту', 'выделен', 'отдельный', 'этаж']	['So', 'each', 'of', 'the', 'districts', 'get', 'their', 'own', 'floor']
+318	And because you're from 12, you get the penthouse. 	Вы из 12-го, так что у вас пентхауз. 	['Вы', 'из', '12-го', 'так', 'что', 'у', 'вас', 'пентхауз']	"['And', 'because', ""you're"", 'from', '12', 'you', 'get', 'the', 'penthouse']"
+319	Come on. 	За мной. 	['За', 'мной']	['Come', 'on']
+320	So this is the living room. 	Вот это гостиная. 	['Вот', 'это', 'гостиная']	['So', 'this', 'is', 'the', 'living', 'room']
+321	I know, I know. 	Знаю-знаю. 	['Знаю-знаю']	['I', 'know', 'I', 'know']
+322	Now, your rooms are right over here. 	Ваши комнаты вот здесь. 	['Ваши', 'комнаты', 'вот', 'здесь']	['Now', 'your', 'rooms', 'are', 'right', 'over', 'here']
+323	Why don't you go clean yourselves up a little before dinner? 	Идите-ка умойтесь перед ужином. 	['Идите-ка', 'умойтесь', 'перед', 'ужином']	"['Why', ""don't"", 'you', 'go', 'clean', 'yourselves', 'up', 'a', 'little', 'before', 'dinner']"
+324	In two weeks, 23 of you will be dead. 	Через две недели 23 человека из вас умрут, 	['Через', 'две', 'недели', '23', 'человека', 'из', 'вас', 'умрут']	['In', 'two', 'weeks', '23', 'of', 'you', 'will', 'be', 'dead']
+325	One of you will be alive. 	в живых останется только один. 	['в', 'живых', 'останется', 'только', 'один']	['One', 'of', 'you', 'will', 'be', 'alive']
+326	Who that is depends on how well you pay attention over the next four days, 	Кто это будет, зависит от того, как хорошо вы будете учиться в эти четыре дня. 	['Кто', 'это', 'будет', 'зависит', 'от', 'того', 'как', 'хорошо', 'вы', 'будете', 'учиться', 'в', 'эти', 'четыре', 'дня']	['Who', 'that', 'is', 'depends', 'on', 'how', 'well', 'you', 'pay', 'attention', 'over', 'the', 'next', 'four', 'days']
+327	particularly to what I'm about to say. 	В особенности, учиться у меня. 	['В', 'особенности', 'учиться', 'у', 'меня']	"['particularly', 'to', 'what', ""I'm"", 'about', 'to', 'say']"
+328	First, no fighting with the other Tributes. 	Первое, с другими трибутами не драться - 	['Первое', 'с', 'другими', 'трибутами', 'не', 'драться']	['First', 'no', 'fighting', 'with', 'the', 'other', 'Tributes']
+329	You'll have plenty of time for that in the Arena. 	у вас будет полно времени для этого на арене. 	['у', 'вас', 'будет', 'полно', 'времени', 'для', 'этого', 'на', 'арене']	"[""You'll"", 'have', 'plenty', 'of', 'time', 'for', 'that', 'in', 'the', 'Arena']"
+330	There are four compulsory exercises. The rest will be individual training. 	Обязательных тренировок всего четыре, остальное - индивидуальные занятия. 	['Обязательных', 'тренировок', 'всего', 'четыре', 'остальное', 'индивидуальные', 'занятия']	['There', 'are', 'four', 'compulsory', 'exercises', 'The', 'rest', 'will', 'be', 'individual', 'training']
+331	My advice is don't ignore the survival skills. 	Мой совет - не пренебрегайте уроками выживания. 	['Мой', 'совет', 'не', 'пренебрегайте', 'уроками', 'выживания']	"['My', 'advice', 'is', ""don't"", 'ignore', 'the', 'survival', 'skills']"
+332	Everybody wants to grab a sword, but most of you will die from natural causes. 	Вам не терпится схватиться за оружие, но большинство погибнет от естественных причин, 	['Вам', 'не', 'терпится', 'схватиться', 'за', 'оружие', 'но', 'большинство', 'погибнет', 'от', 'естественных', 'причин']	['Everybody', 'wants', 'to', 'grab', 'a', 'sword', 'but', 'most', 'of', 'you', 'will', 'die', 'from', 'natural', 'causes']
+333	10% from infection, 20% from dehydration. 	10% от инфекции, 20% от обезвоживания. 	['10', 'от', 'инфекции', '20', 'от', 'обезвоживания']	['10', 'from', 'infection', '20', 'from', 'dehydration']
+334	Exposure can kill as easily as a knife. 	Природа умеет убивать не хуже ножа. 	['Природа', 'умеет', 'убивать', 'не', 'хуже', 'ножа']	['Exposure', 'can', 'kill', 'as', 'easily', 'as', 'a', 'knife']
+335	- Jason, where's my knife, huh? - I didn't touch your knife. 	Так, Джейсон, где мой нож? Я не в курсе. 	['Так', 'Джейсон', 'где', 'мой', 'нож', 'Я', 'не', 'в', 'курсе']	"['Jason', ""where's"", 'my', 'knife', 'huh', 'I', ""didn't"", 'touch', 'your', 'knife']"
+336	- I put my knife right there! - Don't touch me. I didn't touch your knife! 	Он лежал здесь. Не трогай меня. 	['Он', 'лежал', 'здесь', 'Не', 'трогай', 'меня']	"['I', 'put', 'my', 'knife', 'right', 'there', ""Don't"", 'touch', 'me', 'I', ""didn't"", 'touch', 'your', 'knife']"
+337	- Yes, you took my knife! - I didn't touch your knife! 	Черт! Это ты его взял! 	['Черт', 'Это', 'ты', 'его', 'взял']	"['Yes', 'you', 'took', 'my', 'knife', 'I', ""didn't"", 'touch', 'your', 'knife']"
+338	- You took my knife, you liar! - I didn't touch your knife. 	У меня нет твоего ножа. Да нет у меня твоего ножа. 	['У', 'меня', 'нет', 'твоего', 'ножа', 'Да', 'нет', 'у', 'меня', 'твоего', 'ножа']	"['You', 'took', 'my', 'knife', 'you', 'liar', 'I', ""didn't"", 'touch', 'your', 'knife']"
+339	- You liar! - I didn't touch your knife! 	Это ты его взял. 	['Это', 'ты', 'его', 'взял']	"['You', 'liar', 'I', ""didn't"", 'touch', 'your', 'knife']"
+340	You little punk! He took my knife! 	Урод, это ты его взял! Ты его взял! 	['Урод', 'это', 'ты', 'его', 'взял', 'Ты', 'его', 'взял']	['You', 'little', 'punk', 'He', 'took', 'my', 'knife']
+341	- Get off me! - I'm just sitting here. I'll finish you right now, kid! 	Отцепись от меня. - Давай прямо тут разберемся. - Я тут просто так сидел! 	['Отцепись', 'от', 'меня', 'Давай', 'прямо', 'тут', 'разберемся', 'Я', 'тут', 'просто', 'так', 'сидел']	"['Get', 'off', 'me', ""I'm"", 'just', 'sitting', 'here', ""I'll"", 'finish', 'you', 'right', 'now', 'kid']"
+342	Actually, better yet, I'll wait for the Arena. 	Хотя нет, я подожду до арены. 	['Хотя', 'нет', 'я', 'подожду', 'до', 'арены']	"['Actually', 'better', 'yet', ""I'll"", 'wait', 'for', 'the', 'Arena']"
+343	You're the first one I get, so watch your back. 	Я убью тебя первым, ты понял? Ты труп, скотина! 	['Я', 'убью', 'тебя', 'первым', 'ты', 'понял', 'Ты', 'труп', 'скотина']	"[""You're"", 'the', 'first', 'one', 'I', 'get', 'so', 'watch', 'your', 'back']"
+344	- Everybody, back in line! - You know who you're messing with, kid! 	Обратно в строй, быстро! Ты не знаешь с кем связался, пацан! 	['Обратно', 'в', 'строй', 'быстро', 'Ты', 'не', 'знаешь', 'с', 'кем', 'связался', 'пацан']	"['Everybody', 'back', 'in', 'line', 'You', 'know', 'who', ""you're"", 'messing', 'with', 'kid']"
+345	He's a Career. You know what that is? 	Они профи. Знаете, кто это такие? 	['Они', 'профи', 'Знаете', 'кто', 'это', 'такие']	"[""He's"", 'a', 'Career', 'You', 'know', 'what', 'that', 'is']"
+346	- From District 1. - And 2. 	Из Дистрикта 1. И 2. 	['Из', 'Дистрикта', '1', 'И', '2']	['From', 'District', '1', 'And', '2']
+347	They train in a special academy until they're 18. Then they volunteer. By that point, they're pretty lethal. 	До 18-ти они тренируются в особой академии, потом идут в добровольцы. К этому моменту они машины-убийцы. 	['До', '18-ти', 'они', 'тренируются', 'в', 'особой', 'академии', 'потом', 'идут', 'в', 'добровольцы', 'К', 'этому', 'моменту', 'они', 'машины-убийцы']	"['They', 'train', 'in', 'a', 'special', 'academy', 'until', ""they're"", '18', 'Then', 'they', 'volunteer', 'By', 'that', 'point', ""they're"", 'pretty', 'lethal']"
+348	But they don't receive any special treatment. 	Но здесь их никак не выделяют. 	['Но', 'здесь', 'их', 'никак', 'не', 'выделяют']	"['But', 'they', ""don't"", 'receive', 'any', 'special', 'treatment']"
+349	In fact, they stay in the exact same apartment as you do. 	Они живут в таких же условиях, как и вы. 	['Они', 'живут', 'в', 'таких', 'же', 'условиях', 'как', 'и', 'вы']	['In', 'fact', 'they', 'stay', 'in', 'the', 'exact', 'same', 'apartment', 'as', 'you', 'do']
+350	And I don't think they let them have dessert. And you can. 	И еще, по-моему, им не  дают десерт, а вам дают. 	['И', 'еще', 'по-моему', 'им', 'не', 'дают', 'десерт', 'а', 'вам', 'дают']	"['And', 'I', ""don't"", 'think', 'they', 'let', 'them', 'have', 'dessert', 'And', 'you', 'can']"
+351	So how good are they? 	Насколько они хороши? 	['Насколько', 'они', 'хороши']	['So', 'how', 'good', 'are', 'they']
+352	Obviously they're pretty good. They win it almost every year, but... 	Очень хороши, естественно. Побеждают почти каждый год, но они... 	['Очень', 'хороши', 'естественно', 'Побеждают', 'почти', 'каждый', 'год', 'но', 'они']	"['Obviously', ""they're"", 'pretty', 'good', 'They', 'win', 'it', 'almost', 'every', 'year', 'but']"
+353	Almost. 	Почти. 	['Почти']	['Almost']
+354	...they can be arrogant. 	Много о себе думают. 	['Много', 'о', 'себе', 'думают']	['they', 'can', 'be', 'arrogant']
+355	And arrogance can be a big problem. 	А высокомерие может мешать, сильно. 	['А', 'высокомерие', 'может', 'мешать', 'сильно']	['And', 'arrogance', 'can', 'be', 'a', 'big', 'problem']
+356	I hear you can shoot. 	Слышал, ты неплохо стреляешь. 	['Слышал', 'ты', 'неплохо', 'стреляешь']	['I', 'hear', 'you', 'can', 'shoot']
+357	I'm all right. 	Ну, так, умею. 	['Ну', 'так', 'умею']	"[""I'm"", 'all', 'right']"
+358	No, she's better than all right. My father buys her squirrels. 	Не просто так умеет. Мой отец покупает у нее белок. 	['Не', 'просто', 'так', 'умеет', 'Мой', 'отец', 'покупает', 'у', 'нее', 'белок']	"['No', ""she's"", 'better', 'than', 'all', 'right', 'My', 'father', 'buys', 'her', 'squirrels']"
+359	He says she hits them right in the eye every time. 	По его словам, она попадает им  прямо в глаз, без вариантов. 	['По', 'его', 'словам', 'она', 'попадает', 'им', 'прямо', 'в', 'глаз', 'без', 'вариантов']	['He', 'says', 'she', 'hits', 'them', 'right', 'in', 'the', 'eye', 'every', 'time']
+360	- Peeta's strong. - What? 	- Зато Пит сильный. - Что? 	['Зато', 'Пит', 'сильный', 'Что']	"[""Peeta's"", 'strong', 'What']"
+361	He can throw a 100-pound sack of flour right over his head. I've seen it. 	Я видела как он легко забрасывает огромные мешки с мукой в амбар. 	['Я', 'видела', 'как', 'он', 'легко', 'забрасывает', 'огромные', 'мешки', 'с', 'мукой', 'в', 'амбар']	"['He', 'can', 'throw', 'a', '100-pound', 'sack', 'of', 'flour', 'right', 'over', 'his', 'head', ""I've"", 'seen', 'it']"
+362	Okay, well, I'm not gonna kill anybody with a sack of flour. 	Ну, мешком муки я никого не убью. 	['Ну', 'мешком', 'муки', 'я', 'никого', 'не', 'убью']	"['Okay', 'well', ""I'm"", 'not', 'gonna', 'kill', 'anybody', 'with', 'a', 'sack', 'of', 'flour']"
+363	No, but you might have a better chance of winning 	Да, но у тебя неплохие шансы выиграть, 	['Да', 'но', 'у', 'тебя', 'неплохие', 'шансы', 'выиграть']	['No', 'but', 'you', 'might', 'have', 'a', 'better', 'chance', 'of', 'winning']
+364	if somebody comes after you with a knife. 	если на тебя кто-то пойдет с ножом. 	['если', 'на', 'тебя', 'кто-то', 'пойдет', 'с', 'ножом']	['if', 'somebody', 'comes', 'after', 'you', 'with', 'a', 'knife']
+365	I have no chance of winning! None! All right? 	Нет у меня никаких шансов! Никаких! Ясно? 	['Нет', 'у', 'меня', 'никаких', 'шансов', 'Никаких', 'Ясно']	['I', 'have', 'no', 'chance', 'of', 'winning', 'None', 'All', 'right']
+366	It's true. Everybody knows it. 	Это правда. И все это знают. 	['Это', 'правда', 'И', 'все', 'это', 'знают']	"[""It's"", 'true', 'Everybody', 'knows', 'it']"
+367	You know what my mother said? 	Знаешь, что моя мать сказала? 	['Знаешь', 'что', 'моя', 'мать', 'сказала']	['You', 'know', 'what', 'my', 'mother', 'said']
+368	She said District 12 might finally have a winner. 	"""Наконец-то Дистрикт 12 может победить."" "	['Наконец-то', 'Дистрикт', '12', 'может', 'победить']	['She', 'said', 'District', '12', 'might', 'finally', 'have', 'a', 'winner']
+369	But she wasn't talking about me. 	Вот только это она не обо мне, 	['Вот', 'только', 'это', 'она', 'не', 'обо', 'мне']	"['But', 'she', ""wasn't"", 'talking', 'about', 'me']"
+370	She was talking about you. 	она говорила о тебе. 	['она', 'говорила', 'о', 'тебе']	['She', 'was', 'talking', 'about', 'you']
+371	I'm not very hungry. 	Я не очень голоден. 	['Я', 'не', 'очень', 'голоден']	"[""I'm"", 'not', 'very', 'hungry']"
+372	I'm done, too. 	Я тоже наелась. 	['Я', 'тоже', 'наелась']	"[""I'm"", 'done', 'too']"
+373	Throw that metal thing over there. 	Швырни-ка им туда гирю. 	['Швырни-ка', 'им', 'туда', 'гирю']	['Throw', 'that', 'metal', 'thing', 'over', 'there']
+374	What? 	Что? 	['Что']	['What']
+375	No. Haymitch said we're not supposed to show our skills. 	Нет. Хеймитч сказал не показывать,  что мы умеем. 	['Нет', 'Хеймитч', 'сказал', 'не', 'показывать', 'что', 'мы', 'умеем']	"['No', 'Haymitch', 'said', ""we're"", 'not', 'supposed', 'to', 'show', 'our', 'skills']"
+376	I don't care what Haymitch said. 	Наплевать, что он там сказал. 	['Наплевать', 'что', 'он', 'там', 'сказал']	"['I', ""don't"", 'care', 'what', 'Haymitch', 'said']"
+377	Those guys are looking at you like you're a meal. 	Они на тебя смотрят, как на обед. 	['Они', 'на', 'тебя', 'смотрят', 'как', 'на', 'обед']	"['Those', 'guys', 'are', 'looking', 'at', 'you', 'like', ""you're"", 'a', 'meal']"
+378	Throw it. 	Бросай. Не плохо. 	['Бросай', 'Не', 'плохо']	['Throw', 'it']
+379	Hi. 	Привет. 	['Привет']	['Hi']
+380	Hey. 	Привет. 	['Привет']	['Hey']
+381	How did you do that? 	Как ты это сделал? 	['Как', 'ты', 'это', 'сделал']	['How', 'did', 'you', 'do', 'that']
+382	I used to decorate the cakes down at the bakery. 	Я... я торты украшал в пекарне. 	['Я', 'я', 'торты', 'украшал', 'в', 'пекарне']	['I', 'used', 'to', 'decorate', 'the', 'cakes', 'down', 'at', 'the', 'bakery']
+383	I'll show you. 	Вот, смотри. 	['Вот', 'смотри']	"[""I'll"", 'show', 'you']"
+384	See? 	Видишь? 	['Видишь']	['See']
+385	Yeah. 	Ух ты. Да. 	['Ух', 'ты', 'Да']	['Yeah']
+386	Hey, I think you have a shadow. 	"У тебя хвостик завелся. ""Ру"" "	['У', 'тебя', 'хвостик', 'завелся', 'Ру']	['Hey', 'I', 'think', 'you', 'have', 'a', 'shadow']
+387	Tomorrow, they'll bring you in one by one and evaluate you. 	Завтра вы выступаете  перед распорядителями, строго по одному. 	['Завтра', 'вы', 'выступаете', 'перед', 'распорядителями', 'строго', 'по', 'одному']	"['Tomorrow', ""they'll"", 'bring', 'you', 'in', 'one', 'by', 'one', 'and', 'evaluate', 'you']"
+388	This is important, because higher ratings will mean sponsors. 	Это очень важно. Чем выше оценка - тем лучше для спонсоров. 	['Это', 'очень', 'важно', 'Чем', 'выше', 'оценка', 'тем', 'лучше', 'для', 'спонсоров']	['This', 'is', 'important', 'because', 'higher', 'ratings', 'will', 'mean', 'sponsors']
+389	This is the time to show them everything. 	Вы должны показать все, на что способны. 	['Вы', 'должны', 'показать', 'все', 'на', 'что', 'способны']	['This', 'is', 'the', 'time', 'to', 'show', 'them', 'everything']
+390	There'll be a bow. Make sure you use it. 	Там будет лук - стреляй, как никогда. 	['Там', 'будет', 'лук', 'стреляй', 'как', 'никогда']	"[""There'll"", 'be', 'a', 'bow', 'Make', 'sure', 'you', 'use', 'it']"
+391	Peeta, you make sure to show your strength. 	Пит, больше не сдерживай свою силу. 	['Пит', 'больше', 'не', 'сдерживай', 'свою', 'силу']	['Peeta', 'you', 'make', 'sure', 'to', 'show', 'your', 'strength']
+392	They'll start with District 1, so the two of you will go last. 	Начнут с первого Дистрикта, так что вы будете последними. 	['Начнут', 'с', 'первого', 'Дистрикта', 'так', 'что', 'вы', 'будете', 'последними']	"[""They'll"", 'start', 'with', 'District', '1', 'so', 'the', 'two', 'of', 'you', 'will', 'go', 'last']"
+393	I don't know how else to put this. Make sure they remember you. 	Думаю вы понимаете - они должны вас запомнить. 	['Думаю', 'вы', 'понимаете', 'они', 'должны', 'вас', 'запомнить']	"['I', ""don't"", 'know', 'how', 'else', 'to', 'put', 'this', 'Make', 'sure', 'they', 'remember', 'you']"
+394	Katniss Everdeen. 	Кэтнисс Эвердин. 	['Кэтнисс', 'Эвердин']	['Katniss', 'Everdeen']
+395	Hey, Katniss? 	Кэтнисс, 	['Кэтнисс']	['Hey', 'Katniss']
+396	Shoot straight. 	стреляй в яблочко. 	['стреляй', 'в', 'яблочко']	['Shoot', 'straight']
+397	Katniss Everdeen. 	Кэтнисс Эвердин. 	['Кэтнисс', 'Эвердин']	['Katniss', 'Everdeen']
+398	District 12. Hey, hey, hey- Hey, who ordered this pig? Who ordered this pig? Hey! Did you get some pig yet? 	Дистрикт 12. 	['Дистрикт', '12']	['District', '12', 'Hey', 'hey', 'hey', 'Hey', 'who', 'ordered', 'this', 'pig', 'Who', 'ordered', 'this', 'pig', 'Hey', 'Did', 'you', 'get', 'some', 'pig', 'yet']
+399	Thank you for your consideration. 	Спасибо. Спасибо за внимание. 	['Спасибо', 'Спасибо', 'за', 'внимание']	['Thank', 'you', 'for', 'your', 'consideration']
+400	- Are you crazy? - I just got mad. 	Ты ненормальная? Я просто разозлилась. 	['Ты', 'ненормальная', 'Я', 'просто', 'разозлилась']	['Are', 'you', 'crazy', 'I', 'just', 'got', 'mad']
+401	Mad? 	Разозлилась?! 	['Разозлилась']	['Mad']
+402	You realize that your actions reflect badly on all of us. Not just you. 	Ты хоть понимаешь, что это может плохо отразиться на всех нас, а не только на тебе? 	['Ты', 'хоть', 'понимаешь', 'что', 'это', 'может', 'плохо', 'отразиться', 'на', 'всех', 'нас', 'а', 'не', 'только', 'на', 'тебе']	['You', 'realize', 'that', 'your', 'actions', 'reflect', 'badly', 'on', 'all', 'of', 'us', 'Not', 'just', 'you']
+403	They just want a good show. It's fine. 	Они хотят зрелищ, все в порядке. 	['Они', 'хотят', 'зрелищ', 'все', 'в', 'порядке']	"['They', 'just', 'want', 'a', 'good', 'show', ""It's"", 'fine']"
+404	How about it's just bad manners, Cinna! How about that? 	Но это просто неприлично, Цинна! Как насчёт этого? 	['Но', 'это', 'просто', 'неприлично', 'Цинна', 'Как', 'насчёт', 'этого']	"['How', 'about', ""it's"", 'just', 'bad', 'manners', 'Cinna', 'How', 'about', 'that']"
+405	Well, finally! I hope you noticed we have a serious situation. 	Наконец-то! Надеюсь, ты тоже заметил, что у нас проблема. 	['Наконец-то', 'Надеюсь', 'ты', 'тоже', 'заметил', 'что', 'у', 'нас', 'проблема']	['Well', 'finally', 'I', 'hope', 'you', 'noticed', 'we', 'have', 'a', 'serious', 'situation']
+406	Nice shooting, sweetheart. 	Отличный выстрел, детка. 	['Отличный', 'выстрел', 'детка']	['Nice', 'shooting', 'sweetheart']
+407	What did they do when you shot the apple? 	А что... что они сделали, когда ты попала в яблочко? 	['А', 'что', 'что', 'они', 'сделали', 'когда', 'ты', 'попала', 'в', 'яблочко']	['What', 'did', 'they', 'do', 'when', 'you', 'shot', 'the', 'apple']
+408	Well, they looked pretty startled. 	Ну, они испугались. 	['Ну', 'они', 'испугались']	['Well', 'they', 'looked', 'pretty', 'startled']
+409	"Yeah. Now, what did you say? ""Thanks for..."" "	"А что ты там потом сказала? ""Спасибо большое, спасибо за..."" "	['А', 'что', 'ты', 'там', 'потом', 'сказала', 'Спасибо', 'большое', 'спасибо', 'за']	['Yeah', 'Now', 'what', 'did', 'you', 'say', 'Thanks', 'for']
+410	"- Thanks for your consideration. -""...your consideration."" Genius! Genius. "	- Спасибо за внимание. - Гениально! Гениально. 	['Спасибо', 'за', 'внимание', 'Гениально', 'Гениально']	['Thanks', 'for', 'your', 'consideration', 'your', 'consideration', 'Genius', 'Genius']
+411	I don't think we're gonna find this funny if the Gamemakers decide to take it out... 	Нам будет совершенно не смешно, если потом им захочется отыграться на... 	['Нам', 'будет', 'совершенно', 'не', 'смешно', 'если', 'потом', 'им', 'захочется', 'отыграться', 'на']	"['I', ""don't"", 'think', ""we're"", 'gonna', 'find', 'this', 'funny', 'if', 'the', 'Gamemakers', 'decide', 'to', 'take', 'it', 'out']"
+412	On who? On her? 	На ком? На ней? 	['На', 'ком', 'На', 'ней']	['On', 'who', 'On', 'her']
+413	On him? 	На нем? 	['На', 'нем']	['On', 'him']
+414	I think they already have. Loosen your corset, have a drink. 	Отыгрались уже. Расслабься, давай лучше выпьем. 	['Отыгрались', 'уже', 'Расслабься', 'давай', 'лучше', 'выпьем']	['I', 'think', 'they', 'already', 'have', 'Loosen', 'your', 'corset', 'have', 'a', 'drink']
+415	I would have given anything to see it. 	Я бы дорого дал, чтобы увидеть это. 	['Я', 'бы', 'дорого', 'дал', 'чтобы', 'увидеть', 'это']	['I', 'would', 'have', 'given', 'anything', 'to', 'see', 'it']
+416	As you know, the Tributes were rated on a scale of 1 to 12 after three days of careful evaluation. 	Как вы знаете, после 3-х дней внимательного наблюдения за тренировками, трибутам выставляются оценки от 1 до 12. 	['Как', 'вы', 'знаете', 'после', '3-х', 'дней', 'внимательного', 'наблюдения', 'за', 'тренировками', 'трибутам', 'выставляются', 'оценки', 'от', '1', 'до', '12']	['As', 'you', 'know', 'the', 'Tributes', 'were', 'rated', 'on', 'a', 'scale', 'of', '1', 'to', '12', 'after', 'three', 'days', 'of', 'careful', 'evaluation']
+417	The Gamekeepers would like to acknowledge that it was an exceptional... 	Распорядители сообщают, что... 	['Распорядители', 'сообщают', 'что']	['The', 'Gamekeepers', 'would', 'like', 'to', 'acknowledge', 'that', 'it', 'was', 'an', 'exceptional']
+418	From District 1, Marvel, with a score of nine. 	Итак, Дистрикт 1, Марвел. Он набрал 9 баллов. 	['Итак', 'Дистрикт', '1', 'Марвел', 'Он', 'набрал', '9', 'баллов']	['From', 'District', '1', 'Marvel', 'with', 'a', 'score', 'of', 'nine']
+419	From District 2, Cato, with a score of 10. 	Катон, 10 баллов. 	['Катон', '10', 'баллов']	['From', 'District', '2', 'Cato', 'with', 'a', 'score', 'of', '10']
+420	Clove, with a score of 10. 	Мирта, 10 баллов. 	['Мирта', '10', 'баллов']	['Clove', 'with', 'a', 'score', 'of', '10']
+421	From District 3... From District 4, with a score of... 	Дистрикт 4. Она набрала... 	['Дистрикт', '4', 'Она', 'набрала']	['From', 'District', '3', 'From', 'District', '4', 'with', 'a', 'score', 'of']
+422	From District 7... 	Дистрикт 7... 	['Дистрикт', '7']	['From', 'District', '7']
+423	From District 8... 	Дистрикт 8... 	['Дистрикт', '8']	['From', 'District', '8']
+424	And Rue with a score of seven. 	Ру, 7 баллов. 	['Ру', '7', 'баллов']	['And', 'Rue', 'with', 'a', 'score', 'of', 'seven']
+425	Now our final district. From District 12. Peeta Mellark. 	Дистрикт 12, Пит Мелларк. 	['Дистрикт', '12', 'Пит', 'Мелларк']	['Now', 'our', 'final', 'district', 'From', 'District', '12', 'Peeta', 'Mellark']
+426	A score of eight. 	И его баллы... 8. 	['И', 'его', 'баллы', '8']	['A', 'score', 'of', 'eight']
+427	- Excellent. - Peeta! Bravo. - We can work with that. - Good job. 	- Браво. - С этим можно работать. 	['Браво', 'С', 'этим', 'можно', 'работать']	['Excellent', 'Peeta', 'Bravo', 'We', 'can', 'work', 'with', 'that', 'Good', 'job']
+428	And finally, 	И, наконец, 	['И', 'наконец']	['And', 'finally']
+429	from District 12, 	Дистрикт 12, 	['Дистрикт', '12']	['from', 'District', '12']
+430	Katniss Everdeen. 	Кэтнисс Эвердин. 	['Кэтнисс', 'Эвердин']	['Katniss', 'Everdeen']
+431	With a score of... 	И она набрала... 	['И', 'она', 'набрала']	['With', 'a', 'score', 'of']
+432	Eleven. 	11. 	['11']	['Eleven']
+433	- Katniss! - Outstanding! - Yes! - Eleven? 	Великолепно! Да! 	['Великолепно', 'Да']	['Katniss', 'Outstanding', 'Yes', 'Eleven']
+434	Congratulations. 	Поздравляю. 	['Поздравляю']	['Congratulations']
+435	I thought they hated me. 	А я думала они меня возненавидят. 	['А', 'я', 'думала', 'они', 'меня', 'возненавидят']	['I', 'thought', 'they', 'hated', 'me']
+436	They must have liked your guts. 	Им понравился твой характер. 	['Им', 'понравился', 'твой', 'характер']	['They', 'must', 'have', 'liked', 'your', 'guts']
+437	To Katniss Everdeen, The Girl on Fire! 	За Кэтнисс Эвердин, 	['За', 'Кэтнисс', 'Эвердин']	['To', 'Katniss', 'Everdeen', 'The', 'Girl', 'on', 'Fire']
+438	Goodness. We are. 	за Огненную Даму! 	['за', 'Огненную', 'Даму']	['Goodness', 'We', 'are']
+439	An 11? 	Одиннадцать? 	['Одиннадцать']	['An', '11']
+440	She earned it. 	Она их заслужила. 	['Она', 'их', 'заслужила']	['She', 'earned', 'it']
+441	She shot an arrow at your head. 	Выстрелом в вашу голову. 	['Выстрелом', 'в', 'вашу', 'голову']	['She', 'shot', 'an', 'arrow', 'at', 'your', 'head']
+442	Well, at an apple. 	Ну, в яблоко. 	['Ну', 'в', 'яблоко']	['Well', 'at', 'an', 'apple']
+443	Near your head. 	Рядом с головой. 	['Рядом', 'с', 'головой']	['Near', 'your', 'head']
+444	Sit down. 	Присядьте. 	['Присядьте']	['Sit', 'down']
+445	Seneca, why do you think we have a winner? 	Сенека... Зачем, по-вашему,  нам нужен победитель? 	['Сенека', 'Зачем', 'по-вашему', 'нам', 'нужен', 'победитель']	['Seneca', 'why', 'do', 'you', 'think', 'we', 'have', 'a', 'winner']
+446	What do you mean? 	В смысле? 	['В', 'смысле']	['What', 'do', 'you', 'mean']
+447	I mean, why do we have a winner? 	В смысле, зачем нам нужен победитель? 	['В', 'смысле', 'зачем', 'нам', 'нужен', 'победитель']	['I', 'mean', 'why', 'do', 'we', 'have', 'a', 'winner']
+448	I mean, if we just wanted to intimidate the districts, why not round up 24 of them at random and execute them all at once? Be a lot faster. 	Не легче ли устраивать  прилюдные казни, если нам всего-то и нужно, что держать дистрикты в повиновении? Это быстрее. 	['Не', 'легче', 'ли', 'устраивать', 'прилюдные', 'казни', 'если', 'нам', 'всего-то', 'и', 'нужно', 'что', 'держать', 'дистрикты', 'в', 'повиновении', 'Это', 'быстрее']	['I', 'mean', 'if', 'we', 'just', 'wanted', 'to', 'intimidate', 'the', 'districts', 'why', 'not', 'round', 'up', '24', 'of', 'them', 'at', 'random', 'and', 'execute', 'them', 'all', 'at', 'once', 'Be', 'a', 'lot', 'faster']
+449	Hope. 	Надежда. 	['Надежда']	['Hope']
+450	Hope? 	Надежда? 	['Надежда']	['Hope']
+451	Hope. 	Надежда. 	['Надежда']	['Hope']
+452	It is the only thing stronger than fear. 	Это единственное, что сильнее страха. 	['Это', 'единственное', 'что', 'сильнее', 'страха']	['It', 'is', 'the', 'only', 'thing', 'stronger', 'than', 'fear']
+453	A little hope is effective. A lot of hope is dangerous. 	Призрак надежды - это эффективно. Но переборщить с ней опасно. 	['Призрак', 'надежды', 'это', 'эффективно', 'Но', 'переборщить', 'с', 'ней', 'опасно']	['A', 'little', 'hope', 'is', 'effective', 'A', 'lot', 'of', 'hope', 'is', 'dangerous']
+454	A spark is fine, as long as it's contained. 	Немного можно, только  если она под контролем. 	['Немного', 'можно', 'только', 'если', 'она', 'под', 'контролем']	"['A', 'spark', 'is', 'fine', 'as', 'long', 'as', ""it's"", 'contained']"
+455	So... 	Значит? 	['Значит']	['So']
+456	So contain it. 	Значит... Возьмите её под контроль. 	['Значит', 'Возьмите', 'её', 'под', 'контроль']	['So', 'contain', 'it']
+457	Right. 	Ясно. 	['Ясно']	['Right']
+458	So she's staring at all my jewels. She cannot take her eyes off of them. 	Если она пялится на мои драгоценности, она не может отвести глаз от... 	['Если', 'она', 'пялится', 'на', 'мои', 'драгоценности', 'она', 'не', 'может', 'отвести', 'глаз', 'от']	"['So', ""she's"", 'staring', 'at', 'all', 'my', 'jewels', 'She', 'cannot', 'take', 'her', 'eyes', 'off', 'of', 'them']"
+459	- Well, look at all that that you're wearing. - Frankly, it was rude. 	Если честно... это неприлично. 	['Если', 'честно', 'это', 'неприлично']	"['Well', 'look', 'at', 'all', 'that', 'that', ""you're"", 'wearing', 'Frankly', 'it', 'was', 'rude']"
+460	Haymitch, you should join us. 	Хеймитч. Садись с нами. 	['Хеймитч', 'Садись', 'с', 'нами']	['Haymitch', 'you', 'should', 'join', 'us']
+461	We're having some of your favorite for dinner. 	Кроме спиртного как раз ничего не осталось. 	['Кроме', 'спиртного', 'как', 'раз', 'ничего', 'не', 'осталось']	"[""We're"", 'having', 'some', 'of', 'your', 'favorite', 'for', 'dinner']"
+462	Lovely. 	О, рад за вас. 	['О', 'рад', 'за', 'вас']	['Lovely']
+463	- Where's Peeta? - He's in his room. Now, listen, tomorrow's the last day. 	Где Пит? Он у себя. Значит, слушай. Завтра последний день. 	['Где', 'Пит', 'Он', 'у', 'себя', 'Значит', 'слушай', 'Завтра', 'последний', 'день']	"[""Where's"", 'Peeta', ""He's"", 'in', 'his', 'room', 'Now', 'listen', ""tomorrow's"", 'the', 'last', 'day']"
+464	And they let us work with our own Tributes right before The Games, 	Это день персональных тренировок трибутов с их наставниками. 	['Это', 'день', 'персональных', 'тренировок', 'трибутов', 'с', 'их', 'наставниками']	['And', 'they', 'let', 'us', 'work', 'with', 'our', 'own', 'Tributes', 'right', 'before', 'The', 'Games']
+465	so you and I will be going down at 9:00. 	Мы с тобой начинаем работу в девять. 	['Мы', 'с', 'тобой', 'начинаем', 'работу', 'в', 'девять']	['so', 'you', 'and', 'I', 'will', 'be', 'going', 'down', 'at', '9:00']
+466	What about him? 	А Пит что? 	['А', 'Пит', 'что']	['What', 'about', 'him']
+467	He says he wants to be trained on his own from now on. 	Он теперь хочет тренироваться отдельно. 	['Он', 'теперь', 'хочет', 'тренироваться', 'отдельно']	['He', 'says', 'he', 'wants', 'to', 'be', 'trained', 'on', 'his', 'own', 'from', 'now', 'on']
+468	What? 	Что? 	['Что']	['What']
+469	This kind of thing does happen at this point. There's only one winner, right? 	На последней стадии  такое бывает, ведь... победитель-то только один. 	['На', 'последней', 'стадии', 'такое', 'бывает', 'ведь', 'победитель-то', 'только', 'один']	"['This', 'kind', 'of', 'thing', 'does', 'happen', 'at', 'this', 'point', ""There's"", 'only', 'one', 'winner', 'right']"
+470	We should have some chocolate-covered strawberries. 	У нас же есть клубника в шоколаде. 	['У', 'нас', 'же', 'есть', 'клубника', 'в', 'шоколаде']	['We', 'should', 'have', 'some', 'chocolate-covered', 'strawberries']
+471	- Oh, my, yes. - Please. Ladies and gentlemen, your master of ceremonies, 	Дамы и господа, ваш ведущий 	['Дамы', 'и', 'господа', 'ваш', 'ведущий']	['Oh', 'my', 'yes', 'Please', 'Ladies', 'and', 'gentlemen', 'your', 'master', 'of', 'ceremonies']
+472	Caesar Flickerman! 	Цезарь Фликерман! 	['Цезарь', 'Фликерман']	['Caesar', 'Flickerman']
+473	Thank you! Thank you! 	Спасибо! Спасибо! 	['Спасибо', 'Спасибо']	['Thank', 'you', 'Thank', 'you']
+474	Welcome, welcome, welcome to the 74th Annual Hunger Games! 	Добро пожаловать! На 74-е ежегодные Голодные Игры! 	['Добро', 'пожаловать', 'На', '74-е', 'ежегодные', 'Голодные', 'Игры']	['Welcome', 'welcome', 'welcome', 'to', 'the', '74th', 'Annual', 'Hunger', 'Games']
+475	Now, in about five minutes, they're all going to be out here. 	Через пять минут они все будут здесь. 	['Через', 'пять', 'минут', 'они', 'все', 'будут', 'здесь']	"['Now', 'in', 'about', 'five', 'minutes', ""they're"", 'all', 'going', 'to', 'be', 'out', 'here']"
+476	All of the Tributes that you've heard about. 	Все трибуты, о которых вы слышали. 	['Все', 'трибуты', 'о', 'которых', 'вы', 'слышали']	"['All', 'of', 'the', 'Tributes', 'that', ""you've"", 'heard', 'about']"
+477	Are you excited? 	Вы в предвкушении? 	['Вы', 'в', 'предвкушении']	['Are', 'you', 'excited']
+478	Let me hear it! 	Не слышу! 	['Не', 'слышу']	['Let', 'me', 'hear', 'it']
+479	Amazing. 	Изумительно. 	['Изумительно']	['Amazing']
+480	I don't feel amazing. 	Мне так не кажется. 	['Мне', 'так', 'не', 'кажется']	"['I', ""don't"", 'feel', 'amazing']"
+481	Don't you know how beautiful you look? 	Ты же понимаешь, что ты красавица? 	['Ты', 'же', 'понимаешь', 'что', 'ты', 'красавица']	"[""Don't"", 'you', 'know', 'how', 'beautiful', 'you', 'look']"
+482	No. And I don't know how to make people like me. 	Нет! Я не умею нравиться людям. Я не знаю как мне всем им понравиться. 	['Нет', 'Я', 'не', 'умею', 'нравиться', 'людям', 'Я', 'не', 'знаю', 'как', 'мне', 'всем', 'им', 'понравиться']	"['No', 'And', 'I', ""don't"", 'know', 'how', 'to', 'make', 'people', 'like', 'me']"
+483	- How do you make people like you? - Well, you made me like you. 	Но мне-то ты понравилась. 	['Но', 'мне-то', 'ты', 'понравилась']	['How', 'do', 'you', 'make', 'people', 'like', 'you', 'Well', 'you', 'made', 'me', 'like', 'you']
+484	That's different. I wasn't trying. 	Это другое, я не старалась. 	['Это', 'другое', 'я', 'не', 'старалась']	"[""That's"", 'different', 'I', ""wasn't"", 'trying']"
+485	Exactly. Just be yourself, I'll be there the whole time. 	Вот именно. Будь собой, я все время в зале, я все время смотрю на тебя. 	['Вот', 'именно', 'Будь', 'собой', 'я', 'все', 'время', 'в', 'зале', 'я', 'все', 'время', 'смотрю', 'на', 'тебя']	"['Exactly', 'Just', 'be', 'yourself', ""I'll"", 'be', 'there', 'the', 'whole', 'time']"
+486	And just pretend that you're talking to me. Okay? 	Представь, что разговариваешь со мной. Договорились? 	['Представь', 'что', 'разговариваешь', 'со', 'мной', 'Договорились']	"['And', 'just', 'pretend', 'that', ""you're"", 'talking', 'to', 'me', 'Okay']"
+487	Okay. 	Договорились. 	['Договорились']	['Okay']
+488	Let's see if she does indeed shine. 	И мы проверим, правда ли она блестит. 	['И', 'мы', 'проверим', 'правда', 'ли', 'она', 'блестит']	"[""Let's"", 'see', 'if', 'she', 'does', 'indeed', 'shine']"
+489	Let's have a warm round of applause for Glimmer! 	Давайте тепло ее поприветствуем. Прошу, Диадема. 	['Давайте', 'тепло', 'ее', 'поприветствуем', 'Прошу', 'Диадема']	"[""Let's"", 'have', 'a', 'warm', 'round', 'of', 'applause', 'for', 'Glimmer']"
+490	Glimmer, are you prepared? 	Ну что, Диадема, ты готова? 	['Ну', 'что', 'Диадема', 'ты', 'готова']	['Glimmer', 'are', 'you', 'prepared']
+491	Yes, Caesar, I am very prepared. 	Да, Цезарь, я готова ко всему. 	['Да', 'Цезарь', 'я', 'готова', 'ко', 'всему']	['Yes', 'Caesar', 'I', 'am', 'very', 'prepared']
+492	I like it. That's assurance. That's self-assurance. - Don't you think? - And, as you can see... ...I'm wearing one of our own creations. 	Это мне нравится. Какая уверенность, 	['Это', 'мне', 'нравится', 'Какая', 'уверенность']	"['I', 'like', 'it', ""That's"", 'assurance', ""That's"", 'self-assurance', ""Don't"", 'you', 'think', 'And', 'as', 'you', 'can', 'see', ""I'm"", 'wearing', 'one', 'of', 'our', 'own', 'creations']"
+493	A big round of applause! 	Ваши аплодисменты! 	['Ваши', 'аплодисменты']	['A', 'big', 'round', 'of', 'applause']
+494	Marvel! 	Марвел! 	['Марвел']	['Marvel']
+495	Welcome, Clove. 	Добро пожаловать, Клов. 	['Добро', 'пожаловать', 'Клов']	['Welcome', 'Clove']
+496	- It's an honor representing my district. - You're a fighter. 	Представлять свой дистрикт - большая честь для меня. Ты воин? 	['Представлять', 'свой', 'дистрикт', 'большая', 'честь', 'для', 'меня', 'Ты', 'воин']	"[""It's"", 'an', 'honor', 'representing', 'my', 'district', ""You're"", 'a', 'fighter']"
+497	I'm prepared. I'm vicious. I'm ready to go. 	Я боец, я жесток, я готов к играм. 	['Я', 'боец', 'я', 'жесток', 'я', 'готов', 'к', 'играм']	"[""I'm"", 'prepared', ""I'm"", 'vicious', ""I'm"", 'ready', 'to', 'go']"
+498	Cato! I find that if I can apply myself to the situation present, I will be able to figure it out. Thank you. Lovely to see you. Thank you so much. Good. So you can climb trees. You're pretty quick. And are you a hunter? A gatherer? 	Като! 	['Като']	"['Cato', 'I', 'find', 'that', 'if', 'I', 'can', 'apply', 'myself', 'to', 'the', 'situation', 'present', 'I', 'will', 'be', 'able', 'to', 'figure', 'it', 'out', 'Thank', 'you', 'Lovely', 'to', 'see', 'you', 'Thank', 'you', 'so', 'much', 'Good', 'So', 'you', 'can', 'climb', 'trees', ""You're"", 'pretty', 'quick', 'And', 'are', 'you', 'a', 'hunter', 'A', 'gatherer']"
+499	From District 12, District 12... 	И, наконец, Дистрикт 12. Дистрикт 12. 	['И', 'наконец', 'Дистрикт', '12', 'Дистрикт', '12']	['From', 'District', '12', 'District', '12']
+500	You know her as The Girl on Fire! 	Вы знаете ее. Это Огненная Дама! 	['Вы', 'знаете', 'ее', 'Это', 'Огненная', 'Дама']	['You', 'know', 'her', 'as', 'The', 'Girl', 'on', 'Fire']
+501	Well, we know her as the lovely Katniss Everdeen! Welcome! Welcome. Welcome. Well, that was quite an entrance you made the other day. 	Позвольте представить, Кэтнисс Эвердин! 	['Позвольте', 'представить', 'Кэтнисс', 'Эвердин']	['Well', 'we', 'know', 'her', 'as', 'the', 'lovely', 'Katniss', 'Everdeen', 'Welcome', 'Welcome', 'Welcome', 'Well', 'that', 'was', 'quite', 'an', 'entrance', 'you', 'made', 'the', 'other', 'day']
+502	What? 	Чего? 	['Чего']	['What']
+503	I think someone's a little nervous. 	Кажется, кто-то переволновался. 	['Кажется', 'кто-то', 'переволновался']	"['I', 'think', ""someone's"", 'a', 'little', 'nervous']"
+504	I said that was quite an entrance that you made at the Tribute Parade the other day. 	Я сказал, на параде трибутов ты недавно произвела самый настоящий фурор. 	['Я', 'сказал', 'на', 'параде', 'трибутов', 'ты', 'недавно', 'произвела', 'самый', 'настоящий', 'фурор']	['I', 'said', 'that', 'was', 'quite', 'an', 'entrance', 'that', 'you', 'made', 'at', 'the', 'Tribute', 'Parade', 'the', 'other', 'day']
+505	Do you want to tell us about it? 	Расскажи нам об этом. 	['Расскажи', 'нам', 'об', 'этом']	['Do', 'you', 'want', 'to', 'tell', 'us', 'about', 'it']
+506	Well, I was just hoping that I wouldn't burn to death. 	Ну, я... надеялась, что не сгорю заживо. 	['Ну', 'я', 'надеялась', 'что', 'не', 'сгорю', 'заживо']	"['Well', 'I', 'was', 'just', 'hoping', 'that', 'I', ""wouldn't"", 'burn', 'to', 'death']"
+507	When you came out of that chariot, 	Когда ты спустилась с колесницы, 	['Когда', 'ты', 'спустилась', 'с', 'колесницы']	['When', 'you', 'came', 'out', 'of', 'that', 'chariot']
+508	I have to say, my heart stopped. 	должен признаться, мое сердце замерло. 	['должен', 'признаться', 'мое', 'сердце', 'замерло']	['I', 'have', 'to', 'say', 'my', 'heart', 'stopped']
+509	Did any of you experience this as well? 	И вы, наверняка, почувствовали подобное. 	['И', 'вы', 'наверняка', 'почувствовали', 'подобное']	['Did', 'any', 'of', 'you', 'experience', 'this', 'as', 'well']
+510	My heart stopped. 	У меня сердце остановилось. 	['У', 'меня', 'сердце', 'остановилось']	['My', 'heart', 'stopped']
+511	So did mine. 	И мое тоже. 	['И', 'мое', 'тоже']	['So', 'did', 'mine']
+512	Now, tell me about the flames. Are they real? 	Расскажи про огонь. Он был настоящим? 	['Расскажи', 'про', 'огонь', 'Он', 'был', 'настоящим']	['Now', 'tell', 'me', 'about', 'the', 'flames', 'Are', 'they', 'real']
+513	Yes. 	Да. 	['Да']	['Yes']
+514	In fact, I'm wearing them today. Would you like to see? 	Он и сейчас со мной. Хотите увидеть? 	['Он', 'и', 'сейчас', 'со', 'мной', 'Хотите', 'увидеть']	"['In', 'fact', ""I'm"", 'wearing', 'them', 'today', 'Would', 'you', 'like', 'to', 'see']"
+515	Wait, wait, wait. Is it safe? Yes. 	Стой, стой, стой. - Это безопасно? - Да. 	['Стой', 'стой', 'стой', 'Это', 'безопасно', 'Да']	['Wait', 'wait', 'wait', 'Is', 'it', 'safe', 'Yes']
+516	What do you think, folks? 	Ну, что скажете, ребята? 	['Ну', 'что', 'скажете', 'ребята']	['What', 'do', 'you', 'think', 'folks']
+517	I think that's a yes. 	"Я думаю, это ""да""! "	['Я', 'думаю', 'это', 'да']	"['I', 'think', ""that's"", 'a', 'yes']"
+518	Steady. Steady. Lovely. Thank you. 	Превосходно, спасибо! 	['Превосходно', 'спасибо']	['Steady', 'Steady', 'Lovely', 'Thank', 'you']
+519	That was really something. Katniss, that was something. That was something. Thank you for that. 	Это просто что-то. Невероятно, Кэтнисс. Это невероятно. Спасибо большое. 	['Это', 'просто', 'что-то', 'Невероятно', 'Кэтнисс', 'Это', 'невероятно', 'Спасибо', 'большое']	['That', 'was', 'really', 'something', 'Katniss', 'that', 'was', 'something', 'That', 'was', 'something', 'Thank', 'you', 'for', 'that']
+520	I have one more question for you. 	У меня еще только один вопрос. 	['У', 'меня', 'еще', 'только', 'один', 'вопрос']	['I', 'have', 'one', 'more', 'question', 'for', 'you']
+521	It's about your sister. 	Насчет твоей сестры. 	['Насчет', 'твоей', 'сестры']	"[""It's"", 'about', 'your', 'sister']"
+522	We were all very moved, I think, when you volunteered for her at the Reaping. 	Я думаю, все были тронуты, когда ты вызвалась заменить ее. 	['Я', 'думаю', 'все', 'были', 'тронуты', 'когда', 'ты', 'вызвалась', 'заменить', 'ее']	['We', 'were', 'all', 'very', 'moved', 'I', 'think', 'when', 'you', 'volunteered', 'for', 'her', 'at', 'the', 'Reaping']
+523	Did she come and say goodbye to you? 	Она пришла проститься с тобой? 	['Она', 'пришла', 'проститься', 'с', 'тобой']	['Did', 'she', 'come', 'and', 'say', 'goodbye', 'to', 'you']
+524	Yes. 	Да. 	['Да']	['Yes']
+525	- She did. - She did. 	Пришла. Пришла. 	['Пришла', 'Пришла']	['She', 'did', 'She', 'did']
+526	And what did you say to her in the end? 	И, что же ты сказала ей на прощание? 	['И', 'что', 'же', 'ты', 'сказала', 'ей', 'на', 'прощание']	['And', 'what', 'did', 'you', 'say', 'to', 'her', 'in', 'the', 'end']
+527	I told her that I would try to win. 	Что я попробую победить. 	['Что', 'я', 'попробую', 'победить']	['I', 'told', 'her', 'that', 'I', 'would', 'try', 'to', 'win']
+528	That I would try to win for her. 	Попробую победить ради нее. 	['Попробую', 'победить', 'ради', 'нее']	['That', 'I', 'would', 'try', 'to', 'win', 'for', 'her']
+529	Of course you did. 	Ну, конечно. 	['Ну', 'конечно']	['Of', 'course', 'you', 'did']
+530	And try you will. 	Конечно, попробуй. 	['Конечно', 'попробуй']	['And', 'try', 'you', 'will']
+531	Ladies and gentlemen, from District 12, Katniss Everdeen, The Girl on Fire! 	Дамы и господа, с нами была Огненная Дама Кэтнисс Эвердин из Дистрикта 12! 	['Дамы', 'и', 'господа', 'с', 'нами', 'была', 'Огненная', 'Дама', 'Кэтнисс', 'Эвердин', 'из', 'Дистрикта', '12']	['Ladies', 'and', 'gentlemen', 'from', 'District', '12', 'Katniss', 'Everdeen', 'The', 'Girl', 'on', 'Fire']
+532	You did it, darling. That was incredible. 	Отлично, ты справилась. Просто умничка. 	['Отлично', 'ты', 'справилась', 'Просто', 'умничка']	['You', 'did', 'it', 'darling', 'That', 'was', 'incredible']
+533	Thank you. 	Спасибо. 	['Спасибо']	['Thank', 'you']
+534	Nice job, sweetheart. 	А ты у нас молодец, детка. 	['А', 'ты', 'у', 'нас', 'молодец', 'детка']	['Nice', 'job', 'sweetheart']
+535	Thank you. 	Спасибо. 	['Спасибо']	['Thank', 'you']
+536	Nice dress, too. 	Платье тоже ничего. 	['Платье', 'тоже', 'ничего']	['Nice', 'dress', 'too']
+537	- Not yours. - Please welcome Peeta Mellark! 	Я не про тебя. Пит Мелларк! 	['Я', 'не', 'про', 'тебя', 'Пит', 'Мелларк']	['Not', 'yours', 'Please', 'welcome', 'Peeta', 'Mellark']
+538	Peeta, welcome. 	Пит, добро пожаловать. 	['Пит', 'добро', 'пожаловать']	['Peeta', 'welcome']
+539	"How are you finding The Capitol? And don't say, ""With a map. "" "	Как ты находишь нашу столицу? Только не говори по карте. 	['Как', 'ты', 'находишь', 'нашу', 'столицу', 'Только', 'не', 'говори', 'по', 'карте']	"['How', 'are', 'you', 'finding', 'The', 'Capitol', 'And', ""don't"", 'say', 'With', 'a', 'map']"
+540	It's different. It's very different than back home. 	Здесь все... по-другому. Совсем не так, как дома. 	['Здесь', 'все', 'по-другому', 'Совсем', 'не', 'так', 'как', 'дома']	"[""It's"", 'different', ""It's"", 'very', 'different', 'than', 'back', 'home']"
+541	Different. In what way? Give us an example. 	По-другому? В чем именно? Например? 	['По-другому', 'В', 'чем', 'именно', 'Например']	['Different', 'In', 'what', 'way', 'Give', 'us', 'an', 'example']
+542	Okay. Well, the showers here are weird. 	Ладно. Например, душ здесь какой-то странный. 	['Ладно', 'Например', 'душ', 'здесь', 'какой-то', 'странный']	['Okay', 'Well', 'the', 'showers', 'here', 'are', 'weird']
+543	- The showers? - Yes. 	Душ? Да. 	['Душ', 'Да']	['The', 'showers', 'Yes']
+544	We have different showers. 	У нас странные души. 	['У', 'нас', 'странные', 'души']	['We', 'have', 'different', 'showers']
+545	I have a question for you, Caesar. Do I smell like roses to you? 	Цезарь, мне кажется, или я пахну розами из-за него? 	['Цезарь', 'мне', 'кажется', 'или', 'я', 'пахну', 'розами', 'из-за', 'него']	['I', 'have', 'a', 'question', 'for', 'you', 'Caesar', 'Do', 'I', 'smell', 'like', 'roses', 'to', 'you']
+546	- Take a whiff? - All right. 	Хорошо. 	['Хорошо']	['Take', 'a', 'whiff', 'All', 'right']
+547	- You see? - Yes. Do I smell like it? 	- Чувствуешь? - Да. А я пахну? 	['Чувствуешь', 'Да', 'А', 'я', 'пахну']	['You', 'see', 'Yes', 'Do', 'I', 'smell', 'like', 'it']
+548	- You definitely smell better than I do. - Well, I've lived here longer. That makes sense. 	Ты точно пахнешь лучше, чем я. - Ну, я живу здесь дольше. - Вообще логично. 	['Ты', 'точно', 'пахнешь', 'лучше', 'чем', 'я', 'Ну', 'я', 'живу', 'здесь', 'дольше', 'Вообще', 'логично']	"['You', 'definitely', 'smell', 'better', 'than', 'I', 'do', 'Well', ""I've"", 'lived', 'here', 'longer', 'That', 'makes', 'sense']"
+549	Very funny. So, Peeta, tell me, 	Забавно. Итак, Пит, расскажи, 	['Забавно', 'Итак', 'Пит', 'расскажи']	['Very', 'funny', 'So', 'Peeta', 'tell', 'me']
+550	is there a special girl back home? 	тебя дома ждет девушка? 	['тебя', 'дома', 'ждет', 'девушка']	['is', 'there', 'a', 'special', 'girl', 'back', 'home']
+551	No. No. Not really. 	Нет, нет девушки. 	['Нет', 'нет', 'девушки']	['No', 'No', 'Not', 'really']
+552	No? I don't believe it for a second. Look at that face. Handsome man like you. Peeta, tell me. 	Нет? Не верю и не обманывай. Вы только посмотрите на этого скромного красавчика. Пит, рассказывай. 	['Нет', 'Не', 'верю', 'и', 'не', 'обманывай', 'Вы', 'только', 'посмотрите', 'на', 'этого', 'скромного', 'красавчика', 'Пит', 'рассказывай']	"['No', 'I', ""don't"", 'believe', 'it', 'for', 'a', 'second', 'Look', 'at', 'that', 'face', 'Handsome', 'man', 'like', 'you', 'Peeta', 'tell', 'me']"
+553	Well, there... 	Ну, есть... 	['Ну', 'есть']	['Well', 'there']
+554	There is this one girl that I've had a crush on forever. 	есть одна девушка - она всегда мне нравилась. 	['есть', 'одна', 'девушка', 'она', 'всегда', 'мне', 'нравилась']	"['There', 'is', 'this', 'one', 'girl', 'that', ""I've"", 'had', 'a', 'crush', 'on', 'forever']"
+555	But I don't think she actually recognized me until the Reaping. 	Но, до этой жатвы, она вообще не замечала меня. 	['Но', 'до', 'этой', 'жатвы', 'она', 'вообще', 'не', 'замечала', 'меня']	"['But', 'I', ""don't"", 'think', 'she', 'actually', 'recognized', 'me', 'until', 'the', 'Reaping']"
+556	Well, I'll tell you what, Peeta. 	Ну, что я могу сказать, Пит. 	['Ну', 'что', 'я', 'могу', 'сказать', 'Пит']	"['Well', ""I'll"", 'tell', 'you', 'what', 'Peeta']"
+557	You go out there and you win this thing, 	Ты должен сражаться, ты должен победить, 	['Ты', 'должен', 'сражаться', 'ты', 'должен', 'победить']	['You', 'go', 'out', 'there', 'and', 'you', 'win', 'this', 'thing']
+558	and when you get home, she'll have to go out with you. 	и, когда ты вернешься домой, она от тебя никуда не денется. 	['и', 'когда', 'ты', 'вернешься', 'домой', 'она', 'от', 'тебя', 'никуда', 'не', 'денется']	"['and', 'when', 'you', 'get', 'home', ""she'll"", 'have', 'to', 'go', 'out', 'with', 'you']"
+559	Right, folks? 	Правильно? 	['Правильно']	['Right', 'folks']
+560	Thanks, but I don't think winning's gonna help me at all. 	Спасибо, только... это мне вряд ли поможет. 	['Спасибо', 'только', 'это', 'мне', 'вряд', 'ли', 'поможет']	"['Thanks', 'but', 'I', ""don't"", 'think', ""winning's"", 'gonna', 'help', 'me', 'at', 'all']"
+561	And why not? 	Почему это? 	['Почему', 'это']	['And', 'why', 'not']
+562	Because she came here with me. 	Мы приехали сюда вместе. 	['Мы', 'приехали', 'сюда', 'вместе']	['Because', 'she', 'came', 'here', 'with', 'me']
+563	Well, that's bad luck. 	Да, не повезло. 	['Да', 'не', 'повезло']	"['Well', ""that's"", 'bad', 'luck']"
+564	Yeah, it is. 	Да, правда. 	['Да', 'правда']	['Yeah', 'it', 'is']
+565	- And I wish you all the best of luck. - Thank you. 	Что ж, удачи тебе. Спасибо. 	['Что', 'ж', 'удачи', 'тебе', 'Спасибо']	['And', 'I', 'wish', 'you', 'all', 'the', 'best', 'of', 'luck', 'Thank', 'you']
+566	Peeta Mellark. 	Пит Мелларк, 	['Пит', 'Мелларк']	['Peeta', 'Mellark']
+567	District 12! 	Дистрикт 12! 	['Дистрикт', '12']	['District', '12']
+568	What the hell was that? 	Это что за херня? 	['Это', 'что', 'за', 'херня']	['What', 'the', 'hell', 'was', 'that']
+569	You don't talk to me, and then you say you have a crush on me? 	То ты меня не знаешь, а теперь ты в меня влюблен? 	['То', 'ты', 'меня', 'не', 'знаешь', 'а', 'теперь', 'ты', 'в', 'меня', 'влюблен']	"['You', ""don't"", 'talk', 'to', 'me', 'and', 'then', 'you', 'say', 'you', 'have', 'a', 'crush', 'on', 'me']"
+570	You say you want to train alone? Is that how you want to play? 	А сам тренируешься отдельно. Это ты вот так решил поиграть? 	['А', 'сам', 'тренируешься', 'отдельно', 'Это', 'ты', 'вот', 'так', 'решил', 'поиграть']	['You', 'say', 'you', 'want', 'to', 'train', 'alone', 'Is', 'that', 'how', 'you', 'want', 'to', 'play']
+571	Stop it! Stop it! 	Хватит! Хватит! 	['Хватит', 'Хватит']	['Stop', 'it', 'Stop', 'it']
+572	- Let's start right now! - Hey! 	Может, сейчас и начнем? 	['Может', 'сейчас', 'и', 'начнем']	"[""Let's"", 'start', 'right', 'now', 'Hey']"
+573	- He did you a favor. - He made me look weak. 	Он тебе помог. Теперь я выгляжу слабой! 	['Он', 'тебе', 'помог', 'Теперь', 'я', 'выгляжу', 'слабой']	['He', 'did', 'you', 'a', 'favor', 'He', 'made', 'me', 'look', 'weak']
+574	He made you look desirable, which in your case, can't hurt, sweetheart. 	Теперь ты выглядишь желанной. А тебе, детка, это не повредит, ты сама знаешь. 	['Теперь', 'ты', 'выглядишь', 'желанной', 'А', 'тебе', 'детка', 'это', 'не', 'повредит', 'ты', 'сама', 'знаешь']	"['He', 'made', 'you', 'look', 'desirable', 'which', 'in', 'your', 'case', ""can't"", 'hurt', 'sweetheart']"
+575	He's right, Katniss. 	Он прав, Кэтнисс. 	['Он', 'прав', 'Кэтнисс']	"[""He's"", 'right', 'Katniss']"
+576	Of course I'm right. 	Конечно, я прав! 	['Конечно', 'я', 'прав']	"['Of', 'course', ""I'm"", 'right']"
+577	Now, I can sell the star-crossed lovers from District 12... 	Я могу раскрутить несчастных влюбленных из Дистрикта 12. 	['Я', 'могу', 'раскрутить', 'несчастных', 'влюбленных', 'из', 'Дистрикта', '12']	['Now', 'I', 'can', 'sell', 'the', 'star-crossed', 'lovers', 'from', 'District', '12']
+578	We are not star-crossed lovers. 	Мы - не несчастные влюбленные! 	['Мы', 'не', 'несчастные', 'влюбленные']	['We', 'are', 'not', 'star-crossed', 'lovers']
+579	It's a television show! 	Это телевидение, шоу. 	['Это', 'телевидение', 'шоу']	"[""It's"", 'a', 'television', 'show']"
+580	And being in love with that boy might just get you sponsors, which could save your damn life. 	Если ты влюблена в этого мальчишку, то, значит, у тебя есть спонсоры, а они могут тебе жизнь спасти. 	['Если', 'ты', 'влюблена', 'в', 'этого', 'мальчишку', 'то', 'значит', 'у', 'тебя', 'есть', 'спонсоры', 'а', 'они', 'могут', 'тебе', 'жизнь', 'спасти']	['And', 'being', 'in', 'love', 'with', 'that', 'boy', 'might', 'just', 'get', 'you', 'sponsors', 'which', 'could', 'save', 'your', 'damn', 'life']
+581	Okay. Why don't you get out of here? 	Значит, так. Пит, иди отсюда. 	['Значит', 'так', 'Пит', 'иди', 'отсюда']	"['Okay', 'Why', ""don't"", 'you', 'get', 'out', 'of', 'here']"
+582	Maybe I can deliver you both in one piece tomorrow. 	А то вы так и до Игр не доживете. 	['А', 'то', 'вы', 'так', 'и', 'до', 'Игр', 'не', 'доживете']	['Maybe', 'I', 'can', 'deliver', 'you', 'both', 'in', 'one', 'piece', 'tomorrow']
+583	Manners! 	Что за манеры? 	['Что', 'за', 'манеры']	['Manners']
+584	You, too? 	И ты здесь? 	['И', 'ты', 'здесь']	['You', 'too']
+585	Hey. 	Привет. 	['Привет']	['Hey']
+586	Can't sleep? 	Не спится? 	['Не', 'спится']	"[""Can't"", 'sleep']"
+587	No. Of course not. 	Уснешь тут. 	['Уснешь', 'тут']	['No', 'Of', 'course', 'not']
+588	I'm sorry I went after you. 	Извини, что я на тебя набросилась. 	['Извини', 'что', 'я', 'на', 'тебя', 'набросилась']	"[""I'm"", 'sorry', 'I', 'went', 'after', 'you']"
+589	You know, I meant that as a compliment. 	Я думал, тебе будет приятно. 	['Я', 'думал', 'тебе', 'будет', 'приятно']	['You', 'know', 'I', 'meant', 'that', 'as', 'a', 'compliment']
+590	I know. 	Я поняла. 	['Я', 'поняла']	['I', 'know']
+591	Listen to them. 	Как же они шумят. 	['Как', 'же', 'они', 'шумят']	['Listen', 'to', 'them']
+592	Yeah. 	Да. 	['Да']	['Yeah']
+593	I just don't want them to change me. 	Игры не должны меня изменить. 	['Игры', 'не', 'должны', 'меня', 'изменить']	"['I', 'just', ""don't"", 'want', 'them', 'to', 'change', 'me']"
+594	How would they change you? 	Как они тебя изменят? 	['Как', 'они', 'тебя', 'изменят']	['How', 'would', 'they', 'change', 'you']
+595	I don't know. They'd turn me into something I'm not. 	Ну, не знаю... Превратят меня в кого-то другого. 	['Ну', 'не', 'знаю', 'Превратят', 'меня', 'в', 'кого-то', 'другого']	"['I', ""don't"", 'know', ""They'd"", 'turn', 'me', 'into', 'something', ""I'm"", 'not']"
+596	I just don't want to be another piece in their game, you know? 	Я не хочу быть пешкой в чужих руках, понимаешь? 	['Я', 'не', 'хочу', 'быть', 'пешкой', 'в', 'чужих', 'руках', 'понимаешь']	"['I', 'just', ""don't"", 'want', 'to', 'be', 'another', 'piece', 'in', 'their', 'game', 'you', 'know']"
+597	You mean you won't kill anyone? 	То есть, ты не будешь убивать? 	['То', 'есть', 'ты', 'не', 'будешь', 'убивать']	"['You', 'mean', 'you', ""won't"", 'kill', 'anyone']"
+598	No. 	Нет. 	['Нет']	['No']
+599	I mean, I'm sure I would, just like anybody else when the time came, 	То есть, наверняка, придется. Рано или поздно придется, как и всем. 	['То', 'есть', 'наверняка', 'придется', 'Рано', 'или', 'поздно', 'придется', 'как', 'и', 'всем']	"['I', 'mean', ""I'm"", 'sure', 'I', 'would', 'just', 'like', 'anybody', 'else', 'when', 'the', 'time', 'came']"
+600	but I just keep wishing that I could think of a way to show them 	Я пока не пойму, как, но я должен им показать - 	['Я', 'пока', 'не', 'пойму', 'как', 'но', 'я', 'должен', 'им', 'показать']	['but', 'I', 'just', 'keep', 'wishing', 'that', 'I', 'could', 'think', 'of', 'a', 'way', 'to', 'show', 'them']
+601	that they don't own me. 	я не их собственность. 	['я', 'не', 'их', 'собственность']	"['that', 'they', ""don't"", 'own', 'me']"
+602	If I'm gonna die, I want to still be me. 	Даже если придется умереть, я хочу остаться собой. 	['Даже', 'если', 'придется', 'умереть', 'я', 'хочу', 'остаться', 'собой']	"['If', ""I'm"", 'gonna', 'die', 'I', 'want', 'to', 'still', 'be', 'me']"
+603	Does that make any sense? 	Ты меня понимаешь? 	['Ты', 'меня', 'понимаешь']	['Does', 'that', 'make', 'any', 'sense']
+604	Yeah. 	Да. 	['Да']	['Yeah']
+605	I just can't afford to think like that. 	Я не могу себе позволить такого. 	['Я', 'не', 'могу', 'себе', 'позволить', 'такого']	"['I', 'just', ""can't"", 'afford', 'to', 'think', 'like', 'that']"
+606	I have my sister. 	У меня дома сестра. 	['У', 'меня', 'дома', 'сестра']	['I', 'have', 'my', 'sister']
+607	Yeah, I know. 	Да, знаю. 	['Да', 'знаю']	['Yeah', 'I', 'know']
+608	I guess I'll see you tomorrow. 	Ну что, до завтра? 	['Ну', 'что', 'до', 'завтра']	"['I', 'guess', ""I'll"", 'see', 'you', 'tomorrow']"
+609	See you tomorrow. 	Да, до завтра. 	['Да', 'до', 'завтра']	['See', 'you', 'tomorrow']
+610	They'll put all kinds of stuff right in front, right in the mouth of the Cornucopia. 	Они разложат кучу всего прямо у вас перед... прямо вокруг Рога Изобилия. 	['Они', 'разложат', 'кучу', 'всего', 'прямо', 'у', 'вас', 'перед', 'прямо', 'вокруг', 'Рога', 'Изобилия']	"[""They'll"", 'put', 'all', 'kinds', 'of', 'stuff', 'right', 'in', 'front', 'right', 'in', 'the', 'mouth', 'of', 'the', 'Cornucopia']"
+611	There'll even be a bow there. Don't go for it. 	Там будут даже лук и стрелы, не ходи туда. 	['Там', 'будут', 'даже', 'лук', 'и', 'стрелы', 'не', 'ходи', 'туда']	"[""There'll"", 'even', 'be', 'a', 'bow', 'there', ""Don't"", 'go', 'for', 'it']"
+612	Why not? 	Почему? 	['Почему']	['Why', 'not']
+613	It's a bloodbath. They're trying to pull you in. 	Там начнется резня - они нарочно вас стравливают, 	['Там', 'начнется', 'резня', 'они', 'нарочно', 'вас', 'стравливают']	"[""It's"", 'a', 'bloodbath', ""They're"", 'trying', 'to', 'pull', 'you', 'in']"
+614	That's not your game. 	не лезь туда. 	['не', 'лезь', 'туда']	"[""That's"", 'not', 'your', 'game']"
+615	You turn, run, find high ground, look for water. Water's your new best friend. 	Развернись, беги в сторону холмов, ищи воду. Вода - твой лучший друг. 	['Развернись', 'беги', 'в', 'сторону', 'холмов', 'ищи', 'воду', 'Вода', 'твой', 'лучший', 'друг']	"['You', 'turn', 'run', 'find', 'high', 'ground', 'look', 'for', 'water', ""Water's"", 'your', 'new', 'best', 'friend']"
+616	Don't step off that pedestal early or they'll blow you sky high. 	И не сходи с пьедестала до старта, а то взлетишь на воздух. 	['И', 'не', 'сходи', 'с', 'пьедестала', 'до', 'старта', 'а', 'то', 'взлетишь', 'на', 'воздух']	"[""Don't"", 'step', 'off', 'that', 'pedestal', 'early', 'or', ""they'll"", 'blow', 'you', 'sky', 'high']"
+617	I won't. 	Не сойду. 	['Не', 'сойду']	"['I', ""won't""]"
+618	Katniss, you can do this. 	Кэтнисс. Ты справишься. 	['Кэтнисс', 'Ты', 'справишься']	['Katniss', 'you', 'can', 'do', 'this']
+619	Thanks. 	Спасибо. 	['Спасибо']	['Thanks']
+620	Give me your arm. 	Дай руку. 	['Дай', 'руку']	['Give', 'me', 'your', 'arm']
+621	Give me your arm. 	Дай руку. 	['Дай', 'руку']	['Give', 'me', 'your', 'arm']
+622	- Give me your arm. - What is that? 	Дай руку. Что это? 	['Дай', 'руку', 'Что', 'это']	['Give', 'me', 'your', 'arm', 'What', 'is', 'that']
+623	Your tracker. We're up. We're up! 	Датчик слежения. 	['Датчик', 'слежения']	"['Your', 'tracker', ""We're"", 'up', ""We're"", 'up']"
+624	All right. Less than a minute, people. Final checks. 	Поехали, меньше минуты до старта! Проверка. 	['Поехали', 'меньше', 'минуты', 'до', 'старта', 'Проверка']	['All', 'right', 'Less', 'than', 'a', 'minute', 'people', 'Final', 'checks']
+625	There are 15 out. They are flying. 	Пятнадцатый готов, подлетают. 	['Пятнадцатый', 'готов', 'подлетают']	['There', 'are', '15', 'out', 'They', 'are', 'flying']
+626	Here. 	Давай. 	['Давай']	['Here']
+627	Thank you. 	Спасибо. 	['Спасибо']	['Thank', 'you']
+628	Thirty seconds. 	30 секунд. 	['30', 'секунд']	['Thirty', 'seconds']
+629	I'm not allowed to bet, but if I could, I'd bet on you. 	Мне нельзя делать ставки, но я бы поставил на тебя. 	['Мне', 'нельзя', 'делать', 'ставки', 'но', 'я', 'бы', 'поставил', 'на', 'тебя']	"[""I'm"", 'not', 'allowed', 'to', 'bet', 'but', 'if', 'I', 'could', ""I'd"", 'bet', 'on', 'you']"
+630	Twenty seconds. 	20 секунд. 	['20', 'секунд']	['Twenty', 'seconds']
+631	Ten seconds. 	10 секунд. 	['10', 'секунд']	['Ten', 'seconds']
+632	Okay, they're in the tubes. 	Готовы, они на местах. 	['Готовы', 'они', 'на', 'местах']	"['Okay', ""they're"", 'in', 'the', 'tubes']"
+633	50, 49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 39, 38, 37, 36, 35, 34, 33, 32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22... 	50, 49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 39, 38, 37, 36, 35, 34, 33, 32, 31, 30, 29, 28, 27, 26, 25, 24, 23, 22... 	['50', '49', '48', '47', '46', '45', '44', '43', '42', '41', '40', '39', '38', '37', '36', '35', '34', '33', '32', '31', '30', '29', '28', '27', '26', '25', '24', '23', '22']	['50', '49', '48', '47', '46', '45', '44', '43', '42', '41', '40', '39', '38', '37', '36', '35', '34', '33', '32', '31', '30', '29', '28', '27', '26', '25', '24', '23', '22']
+634	"And, of course, there's the familiar ""boom"" of the cannon, "	И, конечно, всем знакомый, пушечный выстрел, 	['И', 'конечно', 'всем', 'знакомый', 'пушечный', 'выстрел']	"['And', 'of', 'course', ""there's"", 'the', 'familiar', 'boom', 'of', 'the', 'cannon']"
+635	which marks the end of another fallen Tribute. ...eight... ...nine... ...10... ...11... ...12. 	знак, что очередной трибут пал в бою. 	['знак', 'что', 'очередной', 'трибут', 'пал', 'в', 'бою']	['which', 'marks', 'the', 'end', 'of', 'another', 'fallen', 'Tribute', 'eight', 'nine', '10', '11', '12']
+636	Twenty-five? Got it. He's moving now. 	Павшие. Дистрикт 3. Дистрикт 4. Дистрикт 7. Дистрикт 8. Дистрикт 9. 	['Павшие', 'Дистрикт', '3', 'Дистрикт', '4', 'Дистрикт', '7', 'Дистрикт', '8', 'Дистрикт', '9']	"['Twenty-five', 'Got', 'it', ""He's"", 'moving', 'now']"
+637	Well, that makes 13 gone in the first eight hours. 	Итак, 13 погибших трибутов за 8 часов. 	['Итак', '13', 'погибших', 'трибутов', 'за', '8', 'часов']	['Well', 'that', 'makes', '13', 'gone', 'in', 'the', 'first', 'eight', 'hours']
+638	And Claudius, I think I see an alliance forming. 	И, Клавдий, кажется, некоторые трибуты сформировали союз. 	['И', 'Клавдий', 'кажется', 'некоторые', 'трибуты', 'сформировали', 'союз']	['And', 'Claudius', 'I', 'think', 'I', 'see', 'an', 'alliance', 'forming']
+639	Wait! Did you see the look on her face? - How stupid can you get? - A fire? 	Вы бы видели её лицо! 	['Вы', 'бы', 'видели', 'её', 'лицо']	['Wait', 'Did', 'you', 'see', 'the', 'look', 'on', 'her', 'face', 'How', 'stupid', 'can', 'you', 'get', 'A', 'fire']
+640	"""Oh, no! Please don't kill me! Oh, no!"" That's actually a good impression. "	"- ""Ой, не убивайте меня. О, нет!"" - Чуть похоже. "	['Ой', 'не', 'убивайте', 'меня', 'О', 'нет', 'Чуть', 'похоже']	"['Oh', 'no', 'Please', ""don't"", 'kill', 'me', 'Oh', 'no', ""That's"", 'actually', 'a', 'good', 'impression']"
+641	Hey, lover boy! 	Эй, женишок. 	['Эй', 'женишок']	['Hey', 'lover', 'boy']
+642	- You sure she went this way? - Yeah, I'm sure. 	Она точно сюда пошла? Да, точно. 	['Она', 'точно', 'сюда', 'пошла', 'Да', 'точно']	"['You', 'sure', 'she', 'went', 'this', 'way', 'Yeah', ""I'm"", 'sure']"
+643	You better be. 	Смотри у меня. 	['Смотри', 'у', 'меня']	['You', 'better', 'be']
+644	Yeah, that was her snare we found back there. 	Ну, мы же видели там ее силки. 	['Ну', 'мы', 'же', 'видели', 'там', 'ее', 'силки']	['Yeah', 'that', 'was', 'her', 'snare', 'we', 'found', 'back', 'there']
+645	Are you sure we shouldn't just kill him now? 	Может, лучше сразу его убить? 	['Может', 'лучше', 'сразу', 'его', 'убить']	"['Are', 'you', 'sure', 'we', ""shouldn't"", 'just', 'kill', 'him', 'now']"
+646	Nah. He's our best chance of finding her. 	Нет, тогда мы ее никогда не найдем. 	['Нет', 'тогда', 'мы', 'ее', 'никогда', 'не', 'найдем']	"['Nah', ""He's"", 'our', 'best', 'chance', 'of', 'finding', 'her']"
+647	Let's go. 	Пошли. 	['Пошли']	"[""Let's"", 'go']"
+648	Sir? 	Сэр, 	['Сэр']	['Sir']
+649	She is almost at the edge. 	она почти на границе. 	['она', 'почти', 'на', 'границе']	['She', 'is', 'almost', 'at', 'the', 'edge']
+650	Two kilometers away from the nearest Tribute. 	2 километра до ближайшего трибута. 	['2', 'километра', 'до', 'ближайшего', 'трибута']	['Two', 'kilometers', 'away', 'from', 'the', 'nearest', 'Tribute']
+651	Let's turn her around. 	Повернем ее обратно. 	['Повернем', 'ее', 'обратно']	"[""Let's"", 'turn', 'her', 'around']"
+652	Cueing another. On my count. One, two... 	Второй пошел,  по моей команде, один, два... 	['Второй', 'пошел', 'по', 'моей', 'команде', 'один', 'два']	['Cueing', 'another', 'On', 'my', 'count', 'One', 'two']
+653	She's heading towards the left flank. 	Она движется к левой границе. 	['Она', 'движется', 'к', 'левой', 'границе']	"[""She's"", 'heading', 'towards', 'the', 'left', 'flank']"
+654	Okay. Can you give me a tree right there? Sure. Cueing tree. 	Понятно. - Нарисуй мне там дерево. - Конечно. Вот вам дерево. 	['Понятно', 'Нарисуй', 'мне', 'там', 'дерево', 'Конечно', 'Вот', 'вам', 'дерево']	['Okay', 'Can', 'you', 'give', 'me', 'a', 'tree', 'right', 'there', 'Sure', 'Cueing', 'tree']
+655	She's almost there. 	Она уже на месте. 	['Она', 'уже', 'на', 'месте']	"[""She's"", 'almost', 'there']"
+656	Lucia, get a cannon ready. 	Люсия, приготовь пушку. 	['Люсия', 'приготовь', 'пушку']	['Lucia', 'get', 'a', 'cannon', 'ready']
+657	There she is! There she is! - She's mine! - Not if I get her first! - Where you gonna go? - Mine! Fish out of the pond! And someone found her. - There she is! - Yeah! Here we go! - Where you going, huh? - Get her, Cato! Where do you think you're going? 	Вон она! Вон она! 	['Вон', 'она', 'Вон', 'она']	"['There', 'she', 'is', 'There', 'she', 'is', ""She's"", 'mine', 'Not', 'if', 'I', 'get', 'her', 'first', 'Where', 'you', 'gonna', 'go', 'Mine', 'Fish', 'out', 'of', 'the', 'pond', 'And', 'someone', 'found', 'her', 'There', 'she', 'is', 'Yeah', 'Here', 'we', 'go', 'Where', 'you', 'going', 'huh', 'Get', 'her', 'Cato', 'Where', 'do', 'you', 'think', ""you're"", 'going']"
+658	Where you going, baby? Three o'clock. - Where you going, Girl on Fire? - We got her! Miss Everdeen, I'm gonna get you! 	Куда ты, детка, а? 	['Куда', 'ты', 'детка', 'а']	"['Where', 'you', 'going', 'baby', 'Three', ""o'clock"", 'Where', 'you', 'going', 'Girl', 'on', 'Fire', 'We', 'got', 'her', 'Miss', 'Everdeen', ""I'm"", 'gonna', 'get', 'you']"
+659	That's not gonna help you up there, Katniss. Where are you going? - Go get her, man! - You are so done. Just get her, Cato! - He's gonna get you, Katniss. - Look at her scurry. Right up there. - Kill her! - Just go, keep going! - Go, Cato. - Come on, Cato. - She's right there. - Go, Cato! Come on, Cato! You got this. Go! He's got this. 	Это тебе не поможет! 	['Это', 'тебе', 'не', 'поможет']	"[""That's"", 'not', 'gonna', 'help', 'you', 'up', 'there', 'Katniss', 'Where', 'are', 'you', 'going', 'Go', 'get', 'her', 'man', 'You', 'are', 'so', 'done', 'Just', 'get', 'her', 'Cato', ""He's"", 'gonna', 'get', 'you', 'Katniss', 'Look', 'at', 'her', 'scurry', 'Right', 'up', 'there', 'Kill', 'her', 'Just', 'go', 'keep', 'going', 'Go', 'Cato', 'Come', 'on', 'Cato', ""She's"", 'right', 'there', 'Go', 'Cato', 'Come', 'on', 'Cato', 'You', 'got', 'this', 'Go', ""He's"", 'got', 'this']"
+660	- Kill her, Cato! Just get her, Cato! - Go! Go! - Take her down! - Go! Go! - You got this, Cato! - Come on, kill her! 	Убей ее, Като! 	['Убей', 'ее', 'Като']	['Kill', 'her', 'Cato', 'Just', 'get', 'her', 'Cato', 'Go', 'Go', 'Take', 'her', 'down', 'Go', 'Go', 'You', 'got', 'this', 'Cato', 'Come', 'on', 'kill', 'her']
+661	I'm coming for you! Come on, Cato! 	Я иду к тебе! 	['Я', 'иду', 'к', 'тебе']	"[""I'm"", 'coming', 'for', 'you', 'Come', 'on', 'Cato']"
+662	I'll do it myself. 	Сейчас я ее сама. 	['Сейчас', 'я', 'ее', 'сама']	"[""I'll"", 'do', 'it', 'myself']"
+663	Give me that before... - Get her. - Come on. Come on, come on! 	- А ну дай сюда. - Мочи ее, мочи! Давай, давай. 	['А', 'ну', 'дай', 'сюда', 'Мочи', 'ее', 'мочи', 'Давай', 'давай']	['Give', 'me', 'that', 'before', 'Get', 'her', 'Come', 'on', 'Come', 'on', 'come', 'on']
+664	Maybe you should throw the sword! 	Метните в меня меч. 	['Метните', 'в', 'меня', 'меч']	['Maybe', 'you', 'should', 'throw', 'the', 'sword']
+665	Let's just wait her out. 	А выждать не проще? 	['А', 'выждать', 'не', 'проще']	"[""Let's"", 'just', 'wait', 'her', 'out']"
+666	She's gotta come down at some point. It's that or starve to death. 	Спустится, рано или поздно,  иначе помрет с голоду. 	['Спустится', 'рано', 'или', 'поздно', 'иначе', 'помрет', 'с', 'голоду']	"[""She's"", 'gotta', 'come', 'down', 'at', 'some', 'point', ""It's"", 'that', 'or', 'starve', 'to', 'death']"
+667	We'll just kill her then. 	Тогда и убьем. 	['Тогда', 'и', 'убьем']	"[""We'll"", 'just', 'kill', 'her', 'then']"
+668	Okay. 	Ладно. 	['Ладно']	['Okay']
+669	Somebody make a fire. - Let's make camp over here! - Hurry up with the fire. Boys. 	Разведите огонь. Перестань. 	['Разведите', 'огонь', 'Перестань']	"['Somebody', 'make', 'a', 'fire', ""Let's"", 'make', 'camp', 'over', 'here', 'Hurry', 'up', 'with', 'the', 'fire', 'Boys']"
+670	Thank you. 	"""Не жалей мази и не сдавайся. Хеймитч."" Спасибо. "	['Не', 'жалей', 'мази', 'и', 'не', 'сдавайся', 'Хеймитч', 'Спасибо']	['Thank', 'you']
+671	Claudius, I think those are tracker jackers Am I wrong? 	Клавдий, кажется, это осы-убийцы. Я прав? 	['Клавдий', 'кажется', 'это', 'осы-убийцы', 'Я', 'прав']	['Claudius', 'I', 'think', 'those', 'are', 'tracker', 'jackers', 'Am', 'I', 'wrong']
+672	- Those things are very lethal. - Very. 	Они очень опасны. Весьма. 	['Они', 'очень', 'опасны', 'Весьма']	['Those', 'things', 'are', 'very', 'lethal', 'Very']
+673	For those of you who don't know, 	На случай, если вы этого не знали, 	['На', 'случай', 'если', 'вы', 'этого', 'не', 'знали']	"['For', 'those', 'of', 'you', 'who', ""don't"", 'know']"
+674	tracker jackers are genetically engineered wasps whose venom causes searing pain, 	осы-убийцы - генетически модифицированный вид. Их яд вызывает мучительную боль, 	['осы-убийцы', 'генетически', 'модифицированный', 'вид', 'Их', 'яд', 'вызывает', 'мучительную', 'боль']	['tracker', 'jackers', 'are', 'genetically', 'engineered', 'wasps', 'whose', 'venom', 'causes', 'searing', 'pain']
+675	powerful hallucinations, and in extreme cases, death. 	сильнейшие галлюцинации, а, в самых тяжелых случаях, смерть. 	['сильнейшие', 'галлюцинации', 'а', 'в', 'самых', 'тяжелых', 'случаях', 'смерть']	['powerful', 'hallucinations', 'and', 'in', 'extreme', 'cases', 'death']
+676	Run! 	Беги! 	['Беги']	['Run']
+677	Run! 	Беги! 	['Беги']	['Run']
+678	Run! 	Беги! 	['Беги']	['Run']
+679	Katniss, go! 	Кэтнисс, беги! 	['Кэтнисс', 'беги']	['Katniss', 'go']
+680	Get out of here! Go! What are you doing? Go! 	Уходи скорее! Ты меня слышишь? Уходи! 	['Уходи', 'скорее', 'Ты', 'меня', 'слышишь', 'Уходи']	['Get', 'out', 'of', 'here', 'Go', 'What', 'are', 'you', 'doing', 'Go']
+681	Not only is it lethal, but the venom of a tracker jacker sting can produce powerful hallucinations. 	Они не только смертельно опасны, яд осы-убийцы нередко вызывает мощные галлюцинации. 	['Они', 'не', 'только', 'смертельно', 'опасны', 'яд', 'осы-убийцы', 'нередко', 'вызывает', 'мощные', 'галлюцинации']	['Not', 'only', 'is', 'it', 'lethal', 'but', 'the', 'venom', 'of', 'a', 'tracker', 'jacker', 'sting', 'can', 'produce', 'powerful', 'hallucinations']
+682	Mom, don't just sit there and look at me! Please say something! 	Мам, ну что ты сидишь, не смотри  так! Скажи же что-нибудь! 	['Мам', 'ну', 'что', 'ты', 'сидишь', 'не', 'смотри', 'так', 'Скажи', 'же', 'что-нибудь']	"['Mom', ""don't"", 'just', 'sit', 'there', 'and', 'look', 'at', 'me', 'Please', 'say', 'something']"
+683	Katniss, go! 	Кэтнисс, беги! 	['Кэтнисс', 'беги']	['Katniss', 'go']
+684	Get out of here! Go! What are you doing? Go! 	Уходи отсюда! Уходи! Что с тобой? Уходи! 	['Уходи', 'отсюда', 'Уходи', 'Что', 'с', 'тобой', 'Уходи']	['Get', 'out', 'of', 'here', 'Go', 'What', 'are', 'you', 'doing', 'Go']
+685	Rue? 	Ру? 	['Ру']	['Rue']
+686	It's okay. I'm not gonna hurt you. 	Не бойся. Я тебя не обижу. 	['Не', 'бойся', 'Я', 'тебя', 'не', 'обижу']	"[""It's"", 'okay', ""I'm"", 'not', 'gonna', 'hurt', 'you']"
+687	You want mine, too? 	Хочешь мою? 	['Хочешь', 'мою']	['You', 'want', 'mine', 'too']
+688	No, that's okay. 	Да нет, спасибо. 	['Да', 'нет', 'спасибо']	"['No', ""that's"", 'okay']"
+689	Here. 	Держи. 	['Держи']	['Here']
+690	Thanks. 	Спасибо. 	['Спасибо']	['Thanks']
+691	How long was I asleep? 	Сколько я проспала? 	['Сколько', 'я', 'проспала']	['How', 'long', 'was', 'I', 'asleep']
+692	Couple of days. I changed your leaves twice. 	Два дня. Я два раза меняла листья. 	['Два', 'дня', 'Я', 'два', 'раза', 'меняла', 'листья']	['Couple', 'of', 'days', 'I', 'changed', 'your', 'leaves', 'twice']
+693	Thank you. 	Спасибо. 	['Спасибо']	['Thank', 'you']
+694	So what happened while I was out? 	И что произошло,  пока меня не было? 	['И', 'что', 'произошло', 'пока', 'меня', 'не', 'было']	['So', 'what', 'happened', 'while', 'I', 'was', 'out']
+695	The girl from 1 and the boy from 10. 	Девочка из Первого и мальчик из Десятого. 	['Девочка', 'из', 'Первого', 'и', 'мальчик', 'из', 'Десятого']	['The', 'girl', 'from', '1', 'and', 'the', 'boy', 'from', '10']
+696	And the boy from my district? 	А... Парень из моего дистрикта? 	['А', 'Парень', 'из', 'моего', 'дистрикта']	['And', 'the', 'boy', 'from', 'my', 'district']
+697	Yeah, he's okay. I think he's down by the river. 	С ним все нормально. Кажется, он где-то у реки. 	['С', 'ним', 'все', 'нормально', 'Кажется', 'он', 'где-то', 'у', 'реки']	"['Yeah', ""he's"", 'okay', 'I', 'think', ""he's"", 'down', 'by', 'the', 'river']"
+698	Is all of that true? 	Это правда? 	['Это', 'правда']	['Is', 'all', 'of', 'that', 'true']
+699	What? 	Что? 	['Что']	['What']
+700	You and him? 	Ну, вы с ним... 	['Ну', 'вы', 'с', 'ним']	['You', 'and', 'him']
+701	So where are Cato and the others? 	А где Като и компания? 	['А', 'где', 'Като', 'и', 'компания']	['So', 'where', 'are', 'Cato', 'and', 'the', 'others']
+702	They got all their supplies down by the lake. 	У озера. Собрали там все свои припасы 	['У', 'озера', 'Собрали', 'там', 'все', 'свои', 'припасы']	['They', 'got', 'all', 'their', 'supplies', 'down', 'by', 'the', 'lake']
+703	It's piled up in this great big pyramid. 	и сложили в огромную кучу. 	['и', 'сложили', 'в', 'огромную', 'кучу']	"[""It's"", 'piled', 'up', 'in', 'this', 'great', 'big', 'pyramid']"
+704	That sounds tempting. 	Звучит заманчиво. 	['Звучит', 'заманчиво']	['That', 'sounds', 'tempting']
+705	Now, this green stuff is gonna smoke like crazy, 	Листва будет дымить, как не знаю что, 	['Листва', 'будет', 'дымить', 'как', 'не', 'знаю', 'что']	['Now', 'this', 'green', 'stuff', 'is', 'gonna', 'smoke', 'like', 'crazy']
+706	so as soon as you light it, move on to the next fire. 	как зажжешь, отступай  к следующему костру. 	['как', 'зажжешь', 'отступай', 'к', 'следующему', 'костру']	['so', 'as', 'soon', 'as', 'you', 'light', 'it', 'move', 'on', 'to', 'the', 'next', 'fire']
+707	Light this one last, and I'll meet you back over there. 	Этот запали последним. Я тебя здесь найду. 	['Этот', 'запали', 'последним', 'Я', 'тебя', 'здесь', 'найду']	"['Light', 'this', 'one', 'last', 'and', ""I'll"", 'meet', 'you', 'back', 'over', 'there']"
+708	Right. 	Ладно. 	['Ладно']	['Right']
+709	And then I'll destroy their stuff while they're chasing us. 	Я уничтожу их припасы,  пока они будут искать нас. 	['Я', 'уничтожу', 'их', 'припасы', 'пока', 'они', 'будут', 'искать', 'нас']	"['And', 'then', ""I'll"", 'destroy', 'their', 'stuff', 'while', ""they're"", 'chasing', 'us']"
+710	We need a signal in case one of us gets held up. 	Нам нужен сигнал, если кого-нибудь из нас поймают. 	['Нам', 'нужен', 'сигнал', 'если', 'кого-нибудь', 'из', 'нас', 'поймают']	['We', 'need', 'a', 'signal', 'in', 'case', 'one', 'of', 'us', 'gets', 'held', 'up']
+711	Okay. Like what? 	Ладно. Какой? 	['Ладно', 'Какой']	['Okay', 'Like', 'what']
+712	Here. Watch this. 	Вот, слушай. 	['Вот', 'слушай']	['Here', 'Watch', 'this']
+713	Mockingjays. That's great. 	Сойки-пересмешницы. Здорово. 	['Сойки-пересмешницы', 'Здорово']	"['Mockingjays', ""That's"", 'great']"
+714	Back home, we use them to signal all the time. 	Дома мы всегда посылаем сигналы с ними. 	['Дома', 'мы', 'всегда', 'посылаем', 'сигналы', 'с', 'ними']	['Back', 'home', 'we', 'use', 'them', 'to', 'signal', 'all', 'the', 'time']
+715	You try. 	Теперь ты. 	['Теперь', 'ты']	['You', 'try']
+716	Okay, so if we hear that, it means we're okay and we'll be back real soon. 	Если они запоют эту мелодию, значит все в порядке и мы с тобой скоро встретимся. 	['Если', 'они', 'запоют', 'эту', 'мелодию', 'значит', 'все', 'в', 'порядке', 'и', 'мы', 'с', 'тобой', 'скоро', 'встретимся']	"['Okay', 'so', 'if', 'we', 'hear', 'that', 'it', 'means', ""we're"", 'okay', 'and', ""we'll"", 'be', 'back', 'real', 'soon']"
+717	We're gonna be okay. 	Все будет хорошо. 	['Все', 'будет', 'хорошо']	"[""We're"", 'gonna', 'be', 'okay']"
+718	Hey, I'll see you for supper. 	Эй, увидимся за ужином. 	['Эй', 'увидимся', 'за', 'ужином']	"['Hey', ""I'll"", 'see', 'you', 'for', 'supper']"
+719	- Okay. - Okay. 	- Хорошо. - Давай. 	['Хорошо', 'Давай']	['Okay', 'Okay']
+720	Guys. Guys, look! Over here. Come on, come on. Look! 	Народ, народ, смотрите! Давай все сюда. Давай-давай. Смотри! 	['Народ', 'народ', 'смотрите', 'Давай', 'все', 'сюда', 'Давай-давай', 'Смотри']	['Guys', 'Guys', 'look', 'Over', 'here', 'Come', 'on', 'come', 'on', 'Look']
+721	Let's go. 	Пошли. 	['Пошли']	"[""Let's"", 'go']"
+722	You stay guard and don't move until we can get back. 	А ты сторожи, пока не вернемся. 	['А', 'ты', 'сторожи', 'пока', 'не', 'вернемся']	"['You', 'stay', 'guard', 'and', ""don't"", 'move', 'until', 'we', 'can', 'get', 'back']"
+723	I want to see if she's gonna figure out this booby trap. 	Интересно, догадается ли она, что там ловушка? 	['Интересно', 'догадается', 'ли', 'она', 'что', 'там', 'ловушка']	"['I', 'want', 'to', 'see', 'if', ""she's"", 'gonna', 'figure', 'out', 'this', 'booby', 'trap']"
+724	Yes. It seems they've reburied their mines 	Да, похоже они хорошо, прекрасно подготовились - 	['Да', 'похоже', 'они', 'хорошо', 'прекрасно', 'подготовились']	"['Yes', 'It', 'seems', ""they've"", 'reburied', 'their', 'mines']"
+725	around that big pile of goodies. 	мины со всех сторон. 	['мины', 'со', 'всех', 'сторон']	['around', 'that', 'big', 'pile', 'of', 'goodies']
+726	She's certainly figured it out, hasn't she? I don't know what happened. - What the hell happened? - I don't know! Our stuff! 	Посмотрите, а кое-кто сразу обо всем догадался. 	['Посмотрите', 'а', 'кое-кто', 'сразу', 'обо', 'всем', 'догадался']	"[""She's"", 'certainly', 'figured', 'it', 'out', ""hasn't"", 'she', 'I', ""don't"", 'know', 'what', 'happened', 'What', 'the', 'hell', 'happened', 'I', ""don't"", 'know', 'Our', 'stuff']"
+727	Katniss! 	Кэтнисс! 	['Кэтнисс']	['Katniss']
+728	Katniss! 	Кэтнисс! 	['Кэтнисс']	['Katniss']
+729	Katniss, help! 	Кэтнисс, помоги! 	['Кэтнисс', 'помоги']	['Katniss', 'help']
+730	Katniss! 	Кэтнисс! 	['Кэтнисс']	['Katniss']
+731	Katniss! Help! 	Помоги мне! Помоги! 	['Помоги', 'мне', 'Помоги']	['Katniss', 'Help']
+732	Katniss! 	Кэтнисс! 	['Кэтнисс']	['Katniss']
+733	Katniss! 	Кэтнисс! 	['Кэтнисс']	['Katniss']
+734	It's okay. It's okay. 	Все хорошо. 	['Все', 'хорошо']	"[""It's"", 'okay', ""It's"", 'okay']"
+735	You're okay. You're okay. You're fine. See? 	Все в порядке. Все хорошо. Все в порядке, видишь? 	['Все', 'в', 'порядке', 'Все', 'хорошо', 'Все', 'в', 'порядке', 'видишь']	"[""You're"", 'okay', ""You're"", 'okay', ""You're"", 'fine', 'See']"
+736	It's okay. You're okay. 	Всё хорошо. 	['Всё', 'хорошо']	"[""It's"", 'okay', ""You're"", 'okay']"
+737	You're okay. You're okay. 	Ты в порядке. Все хорошо. Хорошо. 	['Ты', 'в', 'порядке', 'Все', 'хорошо', 'Хорошо']	"[""You're"", 'okay', ""You're"", 'okay']"
+738	Did you blow up the food? 	Ты взорвала их припасы? 	['Ты', 'взорвала', 'их', 'припасы']	['Did', 'you', 'blow', 'up', 'the', 'food']
+739	Every bit of it. 	Все до последнего. 	['Все', 'до', 'последнего']	['Every', 'bit', 'of', 'it']
+740	Good. 	Хорошо. 	['Хорошо']	['Good']
+741	You have to win. 	Ты должна победить. 	['Ты', 'должна', 'победить']	['You', 'have', 'to', 'win']
+742	Can you sing? 	Споёшь мне? 	['Споёшь', 'мне']	['Can', 'you', 'sing']
+743	Okay. 	Хорошо. 	['Хорошо']	['Okay']
+744	Deep in the meadow Under the willows 	Где-то под ивой, Прямо в лугах, 	['Где-то', 'под', 'ивой', 'Прямо', 'в', 'лугах']	['Deep', 'in', 'the', 'meadow', 'Under', 'the', 'willows']
+745	A bed of grass A soft green pillow 	Постелька есть Из ласковых трав. 	['Постелька', 'есть', 'Из', 'ласковых', 'трав']	['A', 'bed', 'of', 'grass', 'A', 'soft', 'green', 'pillow']
+746	Lay down your head and close your eyes And when they open, the sun... 	Сонные глазки Закрой поскорей... 	['Сонные', 'глазки', 'Закрой', 'поскорей']	['Lay', 'down', 'your', 'head', 'and', 'close', 'your', 'eyes', 'And', 'when', 'they', 'open', 'the', 'sun']
+747	I'm sorry. I'm sorry. 	Прости. 	['Прости']	"[""I'm"", 'sorry', ""I'm"", 'sorry']"
+748	Don't kill her. You'll just create a martyr. 	Дистрикт 11. Не убивайте ее. Она станет мученицей. 	['Дистрикт', '11', 'Не', 'убивайте', 'ее', 'Она', 'станет', 'мученицей']	"[""Don't"", 'kill', 'her', ""You'll"", 'just', 'create', 'a', 'martyr']"
+749	Well, it seems we've already got one. 	Похоже, у нас уже есть одна. 	['Похоже', 'у', 'нас', 'уже', 'есть', 'одна']	"['Well', 'it', 'seems', ""we've"", 'already', 'got', 'one']"
+750	I hear these rumors out of District 11. This could get away from you. 	Да, я слышал про Одиннадцатый, это может плохо кончиться. 	['Да', 'я', 'слышал', 'про', 'Одиннадцатый', 'это', 'может', 'плохо', 'кончиться']	['I', 'hear', 'these', 'rumors', 'out', 'of', 'District', '11', 'This', 'could', 'get', 'away', 'from', 'you']
+751	What do you want? 	Что вам надо? 	['Что', 'вам', 'надо']	['What', 'do', 'you', 'want']
+752	You have a lot of anger out there. 	Там растет недовольство. 	['Там', 'растет', 'недовольство']	['You', 'have', 'a', 'lot', 'of', 'anger', 'out', 'there']
+753	I know you know how to handle a mob. You've done it before. 	Вы не хуже меня знаете, как управлять толпой. 	['Вы', 'не', 'хуже', 'меня', 'знаете', 'как', 'управлять', 'толпой']	"['I', 'know', 'you', 'know', 'how', 'to', 'handle', 'a', 'mob', ""You've"", 'done', 'it', 'before']"
+754	If you can't scare them, give them something to root for. 	Если толпу нельзя запугать, толпе надо во что-то верить. 	['Если', 'толпу', 'нельзя', 'запугать', 'толпе', 'надо', 'во', 'что-то', 'верить']	"['If', 'you', ""can't"", 'scare', 'them', 'give', 'them', 'something', 'to', 'root', 'for']"
+755	Such as? 	Например? 	['Например']	['Such', 'as']
+756	Young love. 	В юную любовь. 	['В', 'юную', 'любовь']	['Young', 'love']
+757	So you like an underdog? 	Вы, значит, за аутсайдеров? 	['Вы', 'значит', 'за', 'аутсайдеров']	['So', 'you', 'like', 'an', 'underdog']
+758	Everyone likes an underdog. 	За них всегда все болеют. 	['За', 'них', 'всегда', 'все', 'болеют']	['Everyone', 'likes', 'an', 'underdog']
+759	I don't. 	Только не я. 	['Только', 'не', 'я']	"['I', ""don't""]"
+760	Have you been out there? 10? 11? 12? 	Вы там бывали? В Десятом, Одиннадцатом, Двенадцатом? 	['Вы', 'там', 'бывали', 'В', 'Десятом', 'Одиннадцатом', 'Двенадцатом']	['Have', 'you', 'been', 'out', 'there', '10', '11', '12']
+761	Not personally. No. 	Лично не был, нет. 	['Лично', 'не', 'был', 'нет']	['Not', 'personally', 'No']
+762	Well, I have. 	А я бывал. 	['А', 'я', 'бывал']	['Well', 'I', 'have']
+763	There are lots of underdogs. 	Там полно неудачников. 	['Там', 'полно', 'неудачников']	['There', 'are', 'lots', 'of', 'underdogs']
+764	Lots of coal, too. 	А также угля, 	['А', 'также', 'угля']	['Lots', 'of', 'coal', 'too']
+765	Grow crops, minerals, things we need. 	зерновых, ресурсов, много полезного. 	['зерновых', 'ресурсов', 'много', 'полезного']	['Grow', 'crops', 'minerals', 'things', 'we', 'need']
+766	There are lots of underdogs. 	Но, больше всего, неудачников. 	['Но', 'больше', 'всего', 'неудачников']	['There', 'are', 'lots', 'of', 'underdogs']
+767	And I think if you could see them, 	Если бы вы там побывали, 	['Если', 'бы', 'вы', 'там', 'побывали']	['And', 'I', 'think', 'if', 'you', 'could', 'see', 'them']
+768	you would not root for them either. 	вы бы за них не болели. 	['вы', 'бы', 'за', 'них', 'не', 'болели']	['you', 'would', 'not', 'root', 'for', 'them', 'either']
+769	I like you. 	Вы мне нравитесь. 	['Вы', 'мне', 'нравитесь']	['I', 'like', 'you']
+770	Be careful. 	Будьте осторожны. 	['Будьте', 'осторожны']	['Be', 'careful']
+771	Attention, Tributes. Attention. 	Внимание, трибуты, внимание. 	['Внимание', 'трибуты', 'внимание']	['Attention', 'Tributes', 'Attention']
+772	The regulations requiring a single victor have been suspended. 	Правило, требующее, чтобы победитель был только один, отменяется. 	['Правило', 'требующее', 'чтобы', 'победитель', 'был', 'только', 'один', 'отменяется']	['The', 'regulations', 'requiring', 'a', 'single', 'victor', 'have', 'been', 'suspended']
+773	From now on, two victors may be crowned, if both originate from the same district. This will be the only announcement. 	Новое правило гласит, что в Игре могут победить двое, если они родом из одного и того же дистрикта. Конец объявления. 	['Новое', 'правило', 'гласит', 'что', 'в', 'Игре', 'могут', 'победить', 'двое', 'если', 'они', 'родом', 'из', 'одного', 'и', 'того', 'же', 'дистрикта', 'Конец', 'объявления']	['From', 'now', 'on', 'two', 'victors', 'may', 'be', 'crowned', 'if', 'both', 'originate', 'from', 'the', 'same', 'district', 'This', 'will', 'be', 'the', 'only', 'announcement']
+774	Peeta. 	Пит. 	['Пит']	['Peeta']
+775	Oh, my God! Peeta! Peeta! 	О, боже! Пит! Пит! 	['О', 'боже', 'Пит', 'Пит']	['Oh', 'my', 'God', 'Peeta', 'Peeta']
+776	Hi. 	Привет. 	['Привет']	['Hi']
+777	It's okay. 	Поднимайся. 	['Поднимайся']	"[""It's"", 'okay']"
+778	What was it? 	Чем это тебя? 	['Чем', 'это', 'тебя']	['What', 'was', 'it']
+779	A sword. 	Мечом. 	['Мечом']	['A', 'sword']
+780	It's bad, huh? 	Плохо, да? 	['Плохо', 'да']	"[""It's"", 'bad', 'huh']"
+781	It's gonna be fine. 	Всё заживет. 	['Всё', 'заживет']	"[""It's"", 'gonna', 'be', 'fine']"
+782	Katniss. 	Кэтнисс. 	['Кэтнисс']	['Katniss']
+783	- Katniss. - No! 	Кэтнисс. Нет! 	['Кэтнисс', 'Нет']	['Katniss', 'No']
+784	I'm not gonna leave you. I'm not gonna do that. 	Я тебя не брошу. И не собираюсь. 	['Я', 'тебя', 'не', 'брошу', 'И', 'не', 'собираюсь']	"[""I'm"", 'not', 'gonna', 'leave', 'you', ""I'm"", 'not', 'gonna', 'do', 'that']"
+785	Why not? 	Почему? 	['Почему']	['Why', 'not']
+786	Nobody's gonna find you in here. 	Здесь тебя никто не найдет. 	['Здесь', 'тебя', 'никто', 'не', 'найдет']	"[""Nobody's"", 'gonna', 'find', 'you', 'in', 'here']"
+787	They already found me. 	Один раз уже нашли. 	['Один', 'раз', 'уже', 'нашли']	['They', 'already', 'found', 'me']
+788	We'll just get you some medicine. 	Мы раздобудем лекарство. 	['Мы', 'раздобудем', 'лекарство']	"[""We'll"", 'just', 'get', 'you', 'some', 'medicine']"
+789	Katniss, I don't get many parachutes. 	Что, их на парашюте сбросят? 	['Что', 'их', 'на', 'парашюте', 'сбросят']	"['Katniss', 'I', ""don't"", 'get', 'many', 'parachutes']"
+790	We'll figure something out. 	Что-нибудь придумаем. 	['Что-нибудь', 'придумаем']	"[""We'll"", 'figure', 'something', 'out']"
+791	Like what? 	Например? 	['Например']	['Like', 'what']
+792	Something. 	"Что-нибудь. ""Разве это поцелуй? Хеймитч."" "	['Что-нибудь', 'Разве', 'это', 'поцелуй', 'Хеймитч']	['Something']
+793	- Medicine? - No. Soup. 	Лекарство? Нет! Суп. 	['Лекарство', 'Нет', 'Суп']	['Medicine', 'No', 'Soup']
+794	I'll do it. 	Я сама. 	['Я', 'сама']	"[""I'll"", 'do', 'it']"
+795	That's nice. 	Вкусно. 	['Вкусно']	"[""That's"", 'nice']"
+796	You fed me once. 	Когда-то ты меня накормил. 	['Когда-то', 'ты', 'меня', 'накормил']	['You', 'fed', 'me', 'once']
+797	I think about that all the time. 	Я часто это вспоминаю. 	['Я', 'часто', 'это', 'вспоминаю']	['I', 'think', 'about', 'that', 'all', 'the', 'time']
+798	How I tossed you that bread. 	Как я швырнул тебе буханку. 	['Как', 'я', 'швырнул', 'тебе', 'буханку']	['How', 'I', 'tossed', 'you', 'that', 'bread']
+799	- Peeta... - I should have gone to you. 	Пит! Надо было подойти. 	['Пит', 'Надо', 'было', 'подойти']	['Peeta', 'I', 'should', 'have', 'gone', 'to', 'you']
+800	I should have just gone out in the rain and... 	Выйти под дождь, подойти к тебе и... 	['Выйти', 'под', 'дождь', 'подойти', 'к', 'тебе', 'и']	['I', 'should', 'have', 'just', 'gone', 'out', 'in', 'the', 'rain', 'and']
+801	You feel hot. 	Ты горишь. 	['Ты', 'горишь']	['You', 'feel', 'hot']
+802	I remember the first time I saw you. 	Помню, как я тебя впервые увидел. 	['Помню', 'как', 'я', 'тебя', 'впервые', 'увидел']	['I', 'remember', 'the', 'first', 'time', 'I', 'saw', 'you']
+803	Your hair was in two braids instead of one. 	У тебя тогда было две косички, а не одна. 	['У', 'тебя', 'тогда', 'было', 'две', 'косички', 'а', 'не', 'одна']	['Your', 'hair', 'was', 'in', 'two', 'braids', 'instead', 'of', 'one']
+804	And I remember when you sang in the music assembly. 	Это было в школе... на пении учитель спросил: 	['Это', 'было', 'в', 'школе', 'на', 'пении', 'учитель', 'спросил']	['And', 'I', 'remember', 'when', 'you', 'sang', 'in', 'the', 'music', 'assembly']
+805	"The teacher said, ""Who knows The Valley Song?вЂќ And your hand shot straight up. "	"""Кто знает ""Песню Долины?"", и ты тут же подняла руку. "	['Кто', 'знает', 'Песню', 'Долины', 'и', 'ты', 'тут', 'же', 'подняла', 'руку']	['The', 'teacher', 'said', 'Who', 'knows', 'The', 'Valley', 'Song?вЂќ', 'And', 'your', 'hand', 'shot', 'straight', 'up']
+806	Stop. 	А потом, 	['А', 'потом']	['Stop']
+807	After that, I watched you going home every day. 	я провожал тебя тайком  каждый день. 	['я', 'провожал', 'тебя', 'тайком', 'каждый', 'день']	['After', 'that', 'I', 'watched', 'you', 'going', 'home', 'every', 'day']
+808	Every day- 	Каждый день. 	['Каждый', 'день']	['Every', 'day']
+809	Well, say something. 	Ну, скажи что-нибудь. 	['Ну', 'скажи', 'что-нибудь']	['Well', 'say', 'something']
+810	I'm not good at saying something. 	Не могу я вот так что-то сказать. 	['Не', 'могу', 'я', 'вот', 'так', 'что-то', 'сказать']	"[""I'm"", 'not', 'good', 'at', 'saying', 'something']"
+811	Then come here. 	Иди сюда. 	['Иди', 'сюда']	['Then', 'come', 'here']
+812	Please. 	Пожалуйста. 	['Пожалуйста']	['Please']
+813	Even if I don't make it... 	Даже если я не выживу... 	['Даже', 'если', 'я', 'не', 'выживу']	"['Even', 'if', 'I', ""don't"", 'make', 'it']"
+814	Stop it. 	Замолчи. 	['Замолчи']	['Stop', 'it']
+815	Attention, Tributes. Attention. 	Внимание, трибуты, внимание. 	['Внимание', 'трибуты', 'внимание']	['Attention', 'Tributes', 'Attention']
+816	Commencing at sunrise, there will be a feast tomorrow at the Cornucopia. 	Завтра на рассвете у Рога Изобилия состоится пир. 	['Завтра', 'на', 'рассвете', 'у', 'Рога', 'Изобилия', 'состоится', 'пир']	['Commencing', 'at', 'sunrise', 'there', 'will', 'be', 'a', 'feast', 'tomorrow', 'at', 'the', 'Cornucopia']
+817	This will be no ordinary occasion. 	На этот раз, он будет необычным - 	['На', 'этот', 'раз', 'он', 'будет', 'необычным']	['This', 'will', 'be', 'no', 'ordinary', 'occasion']
+818	Each of you needs something desperately. 	каждому из вас кое-что крайне необходимо. 	['каждому', 'из', 'вас', 'кое-что', 'крайне', 'необходимо']	['Each', 'of', 'you', 'needs', 'something', 'desperately']
+819	And we plan to be generous hosts. 	И, в этот раз, мы будем очень щедры. 	['И', 'в', 'этот', 'раз', 'мы', 'будем', 'очень', 'щедры']	['And', 'we', 'plan', 'to', 'be', 'generous', 'hosts']
+820	Your medicine. 	Лекарство. 	['Лекарство']	['Your', 'medicine']
+821	You're not going alone. 	Одна ты не пойдешь. 	['Одна', 'ты', 'не', 'пойдешь']	"[""You're"", 'not', 'going', 'alone']"
+822	Yeah? You need it, and you can't walk. 	Тебе нужно лекарство. И ты не можешь ходить. 	['Тебе', 'нужно', 'лекарство', 'И', 'ты', 'не', 'можешь', 'ходить']	"['Yeah', 'You', 'need', 'it', 'and', 'you', ""can't"", 'walk']"
+823	Katniss, you're not gonna risk your life for me. I'm not gonna let you. 	Кэтнисс, ты не будешь рисковать ради меня жизнью. Я не позволю! 	['Кэтнисс', 'ты', 'не', 'будешь', 'рисковать', 'ради', 'меня', 'жизнью', 'Я', 'не', 'позволю']	"['Katniss', ""you're"", 'not', 'gonna', 'risk', 'your', 'life', 'for', 'me', ""I'm"", 'not', 'gonna', 'let', 'you']"
+824	You would do it for me. Wouldn't you? 	Ты бы ради меня пошел. Или нет? 	['Ты', 'бы', 'ради', 'меня', 'пошел', 'Или', 'нет']	"['You', 'would', 'do', 'it', 'for', 'me', ""Wouldn't"", 'you']"
+825	Why are you doing this? 	Зачем ты это делаешь? 	['Зачем', 'ты', 'это', 'делаешь']	['Why', 'are', 'you', 'doing', 'this']
+826	Now there's no way I'm letting you go. 	Я никуда тебя не отпущу. 	['Я', 'никуда', 'тебя', 'не', 'отпущу']	"['Now', ""there's"", 'no', 'way', ""I'm"", 'letting', 'you', 'go']"
+827	Peeta... 	Пит. 	['Пит']	['Peeta']
+828	Please. 	Пожалуйста. 	['Пожалуйста']	['Please']
+829	Stay. 	Не уходи. 	['Не', 'уходи']	['Stay']
+830	Okay. 	Ладно. 	['Ладно']	['Okay']
+831	I'll stay. 	Я не пойду. 	['Я', 'не', 'пойду']	"[""I'll"", 'stay']"
+832	Oh, God! 	Ах ты, бл... 	['Ах', 'ты', 'бл']	['Oh', 'God']
+833	Where's lover boy? 	Где твой женишок? 	['Где', 'твой', 'женишок']	"[""Where's"", 'lover', 'boy']"
+834	I see. You were gonna help him, right? 	О, понятно. Ты его спасать прискакала. 	['О', 'понятно', 'Ты', 'его', 'спасать', 'прискакала']	['I', 'see', 'You', 'were', 'gonna', 'help', 'him', 'right']
+835	Well, that's sweet. You know, it's too bad that you couldn't help your little friend. 	Как трогательно. Кстати, ужасно жалко твою подружку. 	['Как', 'трогательно', 'Кстати', 'ужасно', 'жалко', 'твою', 'подружку']	"['Well', ""that's"", 'sweet', 'You', 'know', ""it's"", 'too', 'bad', 'that', 'you', ""couldn't"", 'help', 'your', 'little', 'friend']"
+836	That little girl? What was her name again? 	Как там эту малявку звали? 	['Как', 'там', 'эту', 'малявку', 'звали']	['That', 'little', 'girl', 'What', 'was', 'her', 'name', 'again']
+837	Rue? 	Ру? 	['Ру']	['Rue']
+838	Yeah, well, we killed her. 	А мы ее взяли и убили. 	['А', 'мы', 'ее', 'взяли', 'и', 'убили']	['Yeah', 'well', 'we', 'killed', 'her']
+839	And now we're gonna kill you. 	А теперь, и тебя убьем. 	['А', 'теперь', 'и', 'тебя', 'убьем']	"['And', 'now', ""we're"", 'gonna', 'kill', 'you']"
+840	You kill her? 	- Это ты ее убила? - Нет! 	['Это', 'ты', 'ее', 'убила', 'Нет']	['You', 'kill', 'her']
+841	- No! - I heard you! 	- Като! - Я все слышал! 	['Като', 'Я', 'все', 'слышал']	['No', 'I', 'heard', 'you']
+842	- Cato! Cato! - You said her name! You said her name! 	- Като! - Ты о ней говорила! О Ру! 	['Като', 'Ты', 'о', 'ней', 'говорила', 'О', 'Ру']	['Cato', 'Cato', 'You', 'said', 'her', 'name', 'You', 'said', 'her', 'name']
+843	Just this time, 12. 	Только на этот раз, двенадцатая! 	['Только', 'на', 'этот', 'раз', 'двенадцатая']	['Just', 'this', 'time', '12']
+844	For Rue. 	Ради Ру. 	['Ради', 'Ру']	['For', 'Rue']
+845	Peeta, I got it. I got the medicine. 	Пит, Я его достала. Вот лекарство. 	['Пит', 'Я', 'его', 'достала', 'Вот', 'лекарство']	['Peeta', 'I', 'got', 'it', 'I', 'got', 'the', 'medicine']
+846	- What happened to you? - I'm fine. 	- Что с тобой? - Все в порядке. 	['Что', 'с', 'тобой', 'Все', 'в', 'порядке']	"['What', 'happened', 'to', 'you', ""I'm"", 'fine']"
+847	No, you're not. What happened? 	Неправда, что случилось? 	['Неправда', 'что', 'случилось']	"['No', ""you're"", 'not', 'What', 'happened']"
+848	The girl from 2, she threw a knife. I'm okay. 	Девка из Второго ножом зацепила, нормально. 	['Девка', 'из', 'Второго', 'ножом', 'зацепила', 'нормально']	"['The', 'girl', 'from', '2', 'she', 'threw', 'a', 'knife', ""I'm"", 'okay']"
+849	You shouldn't have gone. You said you weren't gonna go. 	Не надо было ходить, ты же мне обещала. 	['Не', 'надо', 'было', 'ходить', 'ты', 'же', 'мне', 'обещала']	"['You', ""shouldn't"", 'have', 'gone', 'You', 'said', 'you', ""weren't"", 'gonna', 'go']"
+850	You got worse. 	Тебе стало хуже. 	['Тебе', 'стало', 'хуже']	['You', 'got', 'worse']
+851	I'm sorry. 	Прости. 	['Прости']	"[""I'm"", 'sorry']"
+852	You need some of that, too. 	Тебе тоже нужно, оставь себе. 	['Тебе', 'тоже', 'нужно', 'оставь', 'себе']	['You', 'need', 'some', 'of', 'that', 'too']
+853	I'm okay. 	Я в порядке. 	['Я', 'в', 'порядке']	"[""I'm"", 'okay']"
+854	That feels better. 	Уже легче. 	['Уже', 'легче']	['That', 'feels', 'better']
+855	Okay. Now you. 	Так, теперь ты. 	['Так', 'теперь', 'ты']	['Okay', 'Now', 'you']
+856	- I'm okay. - No, come on, you need it, too. 	Мне не надо. Нет, пожалуйста, теперь тебе. 	['Мне', 'не', 'надо', 'Нет', 'пожалуйста', 'теперь', 'тебе']	"[""I'm"", 'okay', 'No', 'come', 'on', 'you', 'need', 'it', 'too']"
+857	Come on. 	Давай. 	['Давай']	['Come', 'on']
+858	All right. 	Ладно. 	['Ладно']	['All', 'right']
+859	Hi. 	Привет. 	['Привет']	['Hi']
+860	You're so much better. 	У тебя все прошло. 	['У', 'тебя', 'все', 'прошло']	"[""You're"", 'so', 'much', 'better']"
+861	Oh, my God, Peeta. 	О боже, Пит! 	['О', 'боже', 'Пит']	['Oh', 'my', 'God', 'Peeta']
+862	I hardly feel anything. 	И не болит почти. 	['И', 'не', 'болит', 'почти']	['I', 'hardly', 'feel', 'anything']
+863	We could go home. 	Мы можем вернуться домой. 	['Мы', 'можем', 'вернуться', 'домой']	['We', 'could', 'go', 'home']
+864	We could. We're the only team left. 	Правда. Мы последняя пара. 	['Правда', 'Мы', 'последняя', 'пара']	"['We', 'could', ""We're"", 'the', 'only', 'team', 'left']"
+865	We could go home. 	Мы можем вернуться домой. 	['Мы', 'можем', 'вернуться', 'домой']	['We', 'could', 'go', 'home']
+866	We know Thresh took off. 	Мы знаем, что Молот скрылся. 	['Мы', 'знаем', 'что', 'Молот', 'скрылся']	['We', 'know', 'Thresh', 'took', 'off']
+867	Cato's gonna be by the Cornucopia. 	Като будет у Рога Изобилия, 	['Като', 'будет', 'у', 'Рога', 'Изобилия']	"[""Cato's"", 'gonna', 'be', 'by', 'the', 'Cornucopia']"
+868	He's not gonna go someplace he doesn't know. 	в незнакомые места он не сунется. 	['в', 'незнакомые', 'места', 'он', 'не', 'сунется']	"[""He's"", 'not', 'gonna', 'go', 'someplace', 'he', ""doesn't"", 'know']"
+869	Foxface, she could be anywhere. 	Лиса может быть где угодно. 	['Лиса', 'может', 'быть', 'где', 'угодно']	['Foxface', 'she', 'could', 'be', 'anywhere']
+870	We should probably hunt around here. We don't have any food left. 	Нам бы с тобой поохотиться - у нас еда кончилась. 	['Нам', 'бы', 'с', 'тобой', 'поохотиться', 'у', 'нас', 'еда', 'кончилась']	"['We', 'should', 'probably', 'hunt', 'around', 'here', 'We', ""don't"", 'have', 'any', 'food', 'left']"
+871	Okay, I'll take the bow. 	Ладно, давай сюда лук. 	['Ладно', 'давай', 'сюда', 'лук']	"['Okay', ""I'll"", 'take', 'the', 'bow']"
+872	I'm just kidding. I'll go pick some stuff. 	Я пошутил. Пойду, соберу что-нибудь. 	['Я', 'пошутил', 'Пойду', 'соберу', 'что-нибудь']	"[""I'm"", 'just', 'kidding', ""I'll"", 'go', 'pick', 'some', 'stuff']"
+873	Peeta? 	Пит! 	['Пит']	['Peeta']
+874	Peeta? 	Пит! 	['Пит']	['Peeta']
+875	Peeta! 	Пит! 	['Пит']	['Peeta']
+876	Peeta! 	Пит! 	['Пит']	['Peeta']
+877	Are you okay? 	Ты чего? 	['Ты', 'чего']	['Are', 'you', 'okay']
+878	- I heard the cannon. I thought... - No. 	Пушка выстрелила, и я подумала... 	['Пушка', 'выстрелила', 'и', 'я', 'подумала']	['I', 'heard', 'the', 'cannon', 'I', 'thought', 'No']
+879	That's Nightlock, Peeta! You'd be dead in a minute! 	Пит, это же морник! Ты умрешь от одной ягоды! 	['Пит', 'это', 'же', 'морник', 'Ты', 'умрешь', 'от', 'одной', 'ягоды']	"[""That's"", 'Nightlock', 'Peeta', ""You'd"", 'be', 'dead', 'in', 'a', 'minute']"
+880	I didn't know. 	Я не знал. 	['Я', 'не', 'знал']	"['I', ""didn't"", 'know']"
+881	You scared me to death. Damn you. 	Ты меня до смерти напугал. Черт бы тебя... 	['Ты', 'меня', 'до', 'смерти', 'напугал', 'Черт', 'бы', 'тебя']	['You', 'scared', 'me', 'to', 'death', 'Damn', 'you']
+882	I'm sorry. 	Прости. 	['Прости']	"[""I'm"", 'sorry']"
+883	I'm sorry. 	Прости. 	['Прости']	"[""I'm"", 'sorry']"
+884	I never even knew she was following me. 	Даже не знал, что она меня выследила. 	['Даже', 'не', 'знал', 'что', 'она', 'меня', 'выследила']	['I', 'never', 'even', 'knew', 'she', 'was', 'following', 'me']
+885	She's clever. 	Умная была. 	['Умная', 'была']	"[""She's"", 'clever']"
+886	Too clever. 	Даже слишком. 	['Даже', 'слишком']	['Too', 'clever']
+887	- What are you doing? - Maybe Cato likes berries, too. 	Ты что делаешь? Может, Като тоже ягодки любит? 	['Ты', 'что', 'делаешь', 'Может', 'Като', 'тоже', 'ягодки', 'любит']	['What', 'are', 'you', 'doing', 'Maybe', 'Cato', 'likes', 'berries', 'too']
+888	What time is it? 	Который час? 	['Который', 'час']	['What', 'time', 'is', 'it']
+889	A little after noon. 	К обеду уже. 	['К', 'обеду', 'уже']	['A', 'little', 'after', 'noon']
+890	Why is it getting so dark? 	Тогда почему темнеет? 	['Тогда', 'почему', 'темнеет']	['Why', 'is', 'it', 'getting', 'so', 'dark']
+891	Must be in a hurry to end it. 	Нагнетают к финалу. 	['Нагнетают', 'к', 'финалу']	['Must', 'be', 'in', 'a', 'hurry', 'to', 'end', 'it']
+892	- You ready, Lucia? - Right here, sir. 	Ну что, готово? Все готово, сэр. 	['Ну', 'что', 'готово', 'Все', 'готово', 'сэр']	['You', 'ready', 'Lucia', 'Right', 'here', 'sir']
+893	Well, that's great. 	Замечательно. 	['Замечательно']	"['Well', ""that's"", 'great']"
+894	- Now can you put that in the middle? - Sure. 	В центр выведи. Сейчас. 	['В', 'центр', 'выведи', 'Сейчас']	['Now', 'can', 'you', 'put', 'that', 'in', 'the', 'middle', 'Sure']
+895	That's it. That's excellent. 	Отлично. То, что надо. 	['Отлично', 'То', 'что', 'надо']	"[""That's"", 'it', ""That's"", 'excellent']"
+896	Did you hear that? 	Ты слышала? 	['Ты', 'слышала']	['Did', 'you', 'hear', 'that']
+897	What was that? 	Что это было? 	['Что', 'это', 'было']	['What', 'was', 'that']
+898	It's the finale. 	Это финал. 	['Это', 'финал']	"[""It's"", 'the', 'finale']"
+899	Let's go. Go. Katniss! Here! 	Пошли. 	['Пошли']	"[""Let's"", 'go', 'Go', 'Katniss', 'Here']"
+900	Go on. Shoot. 	Давай. Давай. Стреляй. 	['Давай', 'Давай', 'Стреляй']	['Go', 'on', 'Shoot']
+901	Then we both go down and you'd win. 	Мы упадем, а ты победишь. 	['Мы', 'упадем', 'а', 'ты', 'победишь']	"['Then', 'we', 'both', 'go', 'down', 'and', ""you'd"", 'win']"
+902	Go on. I'm dead anyway. 	Давай. Мне, по-любому, конец! 	['Давай', 'Мне', 'по-любому', 'конец']	"['Go', 'on', ""I'm"", 'dead', 'anyway']"
+903	I always was, right? 	Так и должно быть, правда? 	['Так', 'и', 'должно', 'быть', 'правда']	['I', 'always', 'was', 'right']
+904	I didn't know that till now. 	Раньше я этого не понимал. 	['Раньше', 'я', 'этого', 'не', 'понимал']	"['I', ""didn't"", 'know', 'that', 'till', 'now']"
+905	How is that? Is that what they want? 	Ну что, отдать его вам? 	['Ну', 'что', 'отдать', 'его', 'вам']	['How', 'is', 'that', 'Is', 'that', 'what', 'they', 'want']
+906	- No. - No, no. 	Нет. 	['Нет']	['No', 'No', 'no']
+907	I could still do this. 	Я сам могу. 	['Я', 'сам', 'могу']	['I', 'could', 'still', 'do', 'this']
+908	I could still do this. 	Я с ним сам справлюсь. 	['Я', 'с', 'ним', 'сам', 'справлюсь']	['I', 'could', 'still', 'do', 'this']
+909	One more kill. 	Ещё один труп. 	['Ещё', 'один', 'труп']	['One', 'more', 'kill']
+910	It's the only thing I know how to do. 	Я только убивать и умею. 	['Я', 'только', 'убивать', 'и', 'умею']	"[""It's"", 'the', 'only', 'thing', 'I', 'know', 'how', 'to', 'do']"
+911	Bring pride to my district. 	Чтобы дистрикт мной гордился. 	['Чтобы', 'дистрикт', 'мной', 'гордился']	['Bring', 'pride', 'to', 'my', 'district']
+912	Not that it matters. Please! No! Please! 	Хотя, уже все равно. 	['Хотя', 'уже', 'все', 'равно']	['Not', 'that', 'it', 'matters', 'Please', 'No', 'Please']
+913	Attention. Attention, Tributes. 	Внимание. Внимание, трибуты. 	['Внимание', 'Внимание', 'трибуты']	['Attention', 'Attention', 'Tributes']
+914	There has been a slight rule change. 	В правилах произошло  небольшое изменение. 	['В', 'правилах', 'произошло', 'небольшое', 'изменение']	['There', 'has', 'been', 'a', 'slight', 'rule', 'change']
+915	The previous revision, allowing for two victors from the same district, has been revoked. 	Предыдущая поправка,  позволявшая двум участникам из одного дистрикта стать победителями, отменяется. 	['Предыдущая', 'поправка', 'позволявшая', 'двум', 'участникам', 'из', 'одного', 'дистрикта', 'стать', 'победителями', 'отменяется']	['The', 'previous', 'revision', 'allowing', 'for', 'two', 'victors', 'from', 'the', 'same', 'district', 'has', 'been', 'revoked']
+916	Only one victor may be crowned. Good luck. 	В игре может победить только один. Удачи. 	['В', 'игре', 'может', 'победить', 'только', 'один', 'Удачи']	['Only', 'one', 'victor', 'may', 'be', 'crowned', 'Good', 'luck']
+917	And may the odds be ever in your favor. 	Пусть она всегда будет с вами. 	['Пусть', 'она', 'всегда', 'будет', 'с', 'вами']	['And', 'may', 'the', 'odds', 'be', 'ever', 'in', 'your', 'favor']
+918	Go ahead. 	Ну давай. 	['Ну', 'давай']	['Go', 'ahead']
+919	One of us should go home. 	Кто-то должен вернуться. 	['Кто-то', 'должен', 'вернуться']	['One', 'of', 'us', 'should', 'go', 'home']
+920	One of us has to die. They have to have their victor. 	Они получат своего победителя. 	['Они', 'получат', 'своего', 'победителя']	['One', 'of', 'us', 'has', 'to', 'die', 'They', 'have', 'to', 'have', 'their', 'victor']
+921	No. 	Нет. 	['Нет']	['No']
+922	They don't. 	Не получат. 	['Не', 'получат']	"['They', ""don't""]"
+923	Why should they? 	Это не обязательно. 	['Это', 'не', 'обязательно']	['Why', 'should', 'they']
+924	- No! - Trust me. Trust me. 	Нет! Не бойся. Поверь мне. 	['Нет', 'Не', 'бойся', 'Поверь', 'мне']	['No', 'Trust', 'me', 'Trust', 'me']
+925	Together? 	Вместе? 	['Вместе']	['Together']
+926	Together. 	Вместе. 	['Вместе']	['Together']
+927	Okay. 	Хорошо. 	['Хорошо']	['Okay']
+928	One... 	Раз. 	['Раз']	['One']
+929	Two... 	Два. 	['Два']	['Two']
+930	Three. 	Три. 	['Три']	['Three']
+931	Stop! 	Стойте! 	['Стойте']	['Stop']
+932	Stop! 	Стойте! 	['Стойте']	['Stop']
+933	Ladies and gentlemen, may I present the winners 	Дамы и господа, позвольте представить  вам победителей 	['Дамы', 'и', 'господа', 'позвольте', 'представить', 'вам', 'победителей']	['Ladies', 'and', 'gentlemen', 'may', 'I', 'present', 'the', 'winners']
+934	of the 74th Annual Hunger Games. 	74-х Голодных Игр. 	['74-х', 'Голодных', 'Игр']	['of', 'the', '74th', 'Annual', 'Hunger', 'Games']
+935	They're not happy with you. 	Они тобой не довольны. 	['Они', 'тобой', 'не', 'довольны']	"[""They're"", 'not', 'happy', 'with', 'you']"
+936	Why? Because I didn't die? 	Чем? Что я не умерла? 	['Чем', 'Что', 'я', 'не', 'умерла']	"['Why', 'Because', 'I', ""didn't"", 'die']"
+937	Because you showed them up. 	Что навязала свои правила. 	['Что', 'навязала', 'свои', 'правила']	['Because', 'you', 'showed', 'them', 'up']
+938	Well, I'm sorry it didn't go the way they planned. 	Что ж, жаль, что я спутала им все карты. 	['Что', 'ж', 'жаль', 'что', 'я', 'спутала', 'им', 'все', 'карты']	"['Well', ""I'm"", 'sorry', 'it', ""didn't"", 'go', 'the', 'way', 'they', 'planned']"
+939	- I'm not very happy with them either. - Katniss! 	Я тоже, кстати, ими не довольна, поэтому можешь... Кэтнисс, 	['Я', 'тоже', 'кстати', 'ими', 'не', 'довольна', 'поэтому', 'можешь', 'Кэтнисс']	"[""I'm"", 'not', 'very', 'happy', 'with', 'them', 'either', 'Katniss']"
+940	This is serious. Not just for you. They don't take these things lightly. 	это не шутки. На кону не ты одна. Они такого не прощают. 	['это', 'не', 'шутки', 'На', 'кону', 'не', 'ты', 'одна', 'Они', 'такого', 'не', 'прощают']	"['This', 'is', 'serious', 'Not', 'just', 'for', 'you', 'They', ""don't"", 'take', 'these', 'things', 'lightly']"
+941	When they ask, you say you couldn't help yourself. You were so in love with this boy that the thought of not being with him was unthinkable. 	Если спросят, скажи, не могла  ничего поделать. Ты так влюблена в этого парня, что и представить не могла, как можно его лишиться. 	['Если', 'спросят', 'скажи', 'не', 'могла', 'ничего', 'поделать', 'Ты', 'так', 'влюблена', 'в', 'этого', 'парня', 'что', 'и', 'представить', 'не', 'могла', 'как', 'можно', 'его', 'лишиться']	"['When', 'they', 'ask', 'you', 'say', 'you', ""couldn't"", 'help', 'yourself', 'You', 'were', 'so', 'in', 'love', 'with', 'this', 'boy', 'that', 'the', 'thought', 'of', 'not', 'being', 'with', 'him', 'was', 'unthinkable']"
+942	You'd rather die than not be with him. You understand? 	Ты... Ты лучше умрёшь, чем останешься  без него. Ты меня поняла? 	['Ты', 'Ты', 'лучше', 'умрёшь', 'чем', 'останешься', 'без', 'него', 'Ты', 'меня', 'поняла']	"[""You'd"", 'rather', 'die', 'than', 'not', 'be', 'with', 'him', 'You', 'understand']"
+943	How did you feel when you found him by that river? 	И что же ты почувствовала, когда ты нашла его у той реки? 	['И', 'что', 'же', 'ты', 'почувствовала', 'когда', 'ты', 'нашла', 'его', 'у', 'той', 'реки']	['How', 'did', 'you', 'feel', 'when', 'you', 'found', 'him', 'by', 'that', 'river']
+944	I felt like the happiest person in the world. 	Что я самый счастливый человек на свете. 	['Что', 'я', 'самый', 'счастливый', 'человек', 'на', 'свете']	['I', 'felt', 'like', 'the', 'happiest', 'person', 'in', 'the', 'world']
+945	I couldn't imagine life without him. 	Я не знала, как без него жить. 	['Я', 'не', 'знала', 'как', 'без', 'него', 'жить']	"['I', ""couldn't"", 'imagine', 'life', 'without', 'him']"
+946	And what about you, Peeta? 	А что скажешь ты, Пит? 	['А', 'что', 'скажешь', 'ты', 'Пит']	['And', 'what', 'about', 'you', 'Peeta']
+947	She saved my life. 	Она спасла мне жизнь. 	['Она', 'спасла', 'мне', 'жизнь']	['She', 'saved', 'my', 'life']
+948	We saved each other. 	Мы спасли друг друга. 	['Мы', 'спасли', 'друг', 'друга']	['We', 'saved', 'each', 'other']
+949	Ladies and gentlemen, the star-crossed lovers from District 12, 	Дамы и господа, несчастные влюбленные из Дистрикта 12 	['Дамы', 'и', 'господа', 'несчастные', 'влюбленные', 'из', 'Дистрикта', '12']	['Ladies', 'and', 'gentlemen', 'the', 'star-crossed', 'lovers', 'from', 'District', '12']
+950	this year's victors of the 74th Annual Hunger Games! 	новые победители 74-х Голодных Игр. 	['новые', 'победители', '74-х', 'Голодных', 'Игр']	"['this', ""year's"", 'victors', 'of', 'the', '74th', 'Annual', 'Hunger', 'Games']"
+951	Congratulations. 	Поздравляю. 	['Поздравляю']	['Congratulations']
+952	Thank you. 	Спасибо. 	['Спасибо']	['Thank', 'you']
+953	What a lovely pin. 	Прелестная брошка. 	['Прелестная', 'брошка']	['What', 'a', 'lovely', 'pin']
+954	Thank you. It's from my district. 	Спасибо, это из моего дистрикта. 	['Спасибо', 'это', 'из', 'моего', 'дистрикта']	"['Thank', 'you', ""It's"", 'from', 'my', 'district']"
+955	They must be very proud of you. 	Должно быть, они очень  тобой гордятся. 	['Должно', 'быть', 'они', 'очень', 'тобой', 'гордятся']	['They', 'must', 'be', 'very', 'proud', 'of', 'you']
+956	So what happens when we get back? 	Что будет, когда мы вернёмся? 	['Что', 'будет', 'когда', 'мы', 'вернёмся']	['So', 'what', 'happens', 'when', 'we', 'get', 'back']
+957	I don't know. I guess we try to forget. 	Не знаю. Думаю, надо всё забыть. 	['Не', 'знаю', 'Думаю', 'надо', 'всё', 'забыть']	"['I', ""don't"", 'know', 'I', 'guess', 'we', 'try', 'to', 'forget']"
+958	I don't want to forget. 	Я не хочу забывать. 	['Я', 'не', 'хочу', 'забывать']	"['I', ""don't"", 'want', 'to', 'forget']"

@@ -1,0 +1,1002 @@
+	en	ru	ru_tokens	en_tokens
+0	Good morning, James. 	Доброе утро, Джеймс! 	['Доброе', 'утро', 'Джеймс']	['Good', 'morning', 'James']
+1	How are you feeling? Wait. What? 	- Как себя чувствуете? - Что? Не понял! 	['Как', 'себя', 'чувствуете', 'Что', 'Не', 'понял']	['How', 'are', 'you', 'feeling', 'Wait', 'What']
+2	It's perfectly normal to feel confused. 	Растерянность - это абсолютно нормально. 	['Растерянность', 'это', 'абсолютно', 'нормально']	"[""It's"", 'perfectly', 'normal', 'to', 'feel', 'confused']"
+3	You just spent 120 years in suspended animation. 	Вы провели в полном анабиозе 120 лет. 	['Вы', 'провели', 'в', 'полном', 'анабиозе', '120', 'лет']	['You', 'just', 'spent', '120', 'years', 'in', 'suspended', 'animation']
+4	What? It's okay, James. 	- Что? - Всё в порядке, Джеймс. 	['Что', 'Всё', 'в', 'порядке', 'Джеймс']	"['What', ""It's"", 'okay', 'James']"
+5	- It's Jim. - Jim. 	- Я Джим. - Джим. 	['Я', 'Джим', 'Джим']	"[""It's"", 'Jim', 'Jim']"
+6	Just breathe. Everything is okay. 	Дышите. С вами всё в порядке. 	['Дышите', 'С', 'вами', 'всё', 'в', 'порядке']	['Just', 'breathe', 'Everything', 'is', 'okay']
+7	Where am I? You're a passenger on the Starship Avalon, 	- Где я? - На межгалактическом корабле «Авалон»! 	['Где', 'я', 'На', 'межгалактическом', 'корабле', '«Авалон»']	"['Where', 'am', 'I', ""You're"", 'a', 'passenger', 'on', 'the', 'Starship', 'Avalon']"
+8	the Homestead Company's premier interstellar starliner. 	Первом космическом лайнере компании «Родная обитель». 	['Первом', 'космическом', 'лайнере', 'компании', '«Родная', 'обитель»']	"['the', 'Homestead', ""Company's"", 'premier', 'interstellar', 'starliner']"
+9	We've nearly completed the voyage from Earth to your new home. 	Мы практически завершили путешествие в ваш новый дом. 	['Мы', 'практически', 'завершили', 'путешествие', 'в', 'ваш', 'новый', 'дом']	"[""We've"", 'nearly', 'completed', 'the', 'voyage', 'from', 'Earth', 'to', 'your', 'new', 'home']"
+10	The colony world of Homestead II. 	Поселение «Родная обитель 2». 	['Поселение', '«Родная', 'обитель', '2»']	['The', 'colony', 'world', 'of', 'Homestead', 'II']
+11	A new world. A fresh start. Room to grow. 	Новый мир. Новое начало. Перспективы. 	['Новый', 'мир', 'Новое', 'начало', 'Перспективы']	['A', 'new', 'world', 'A', 'fresh', 'start', 'Room', 'to', 'grow']
+12	Oh, yeah. 	Ах, да! 	['Ах', 'да']	['Oh', 'yeah']
+13	The Avalon is on final approach. 	Мы на финальном отрезке пути. 	['Мы', 'на', 'финальном', 'отрезке', 'пути']	['The', 'Avalon', 'is', 'on', 'final', 'approach']
+14	For the next four months, you'll enjoy space travel 	Вы будете наслаждаться роскошью космического путешествия. 	['Вы', 'будете', 'наслаждаться', 'роскошью', 'космического', 'путешествия']	"['For', 'the', 'next', 'four', 'months', ""you'll"", 'enjoy', 'space', 'travel']"
+15	at its most luxurious. Food. Fun. Friends. 	Досуг. Еда. Друзья. 	['Досуг', 'Еда', 'Друзья']	['at', 'its', 'most', 'luxurious', 'Food', 'Fun', 'Friends']
+16	- My friends. - That's right, Jim. 	- Мои друзья. - Всё верно, Джим. 	['Мои', 'друзья', 'Всё', 'верно', 'Джим']	"['My', 'friends', ""That's"", 'right', 'Jim']"
+17	The ID band on your wrist is your key to the wonders of the Avalon. 	Идентификационный браслет даст доступ к чудесам «Авалона». 	['Идентификационный', 'браслет', 'даст', 'доступ', 'к', 'чудесам', '«Авалона»']	['The', 'ID', 'band', 'on', 'your', 'wrist', 'is', 'your', 'key', 'to', 'the', 'wonders', 'of', 'the', 'Avalon']
+18	You're in perfect health, Jim. 	Вы совершенно здоровы! 	['Вы', 'совершенно', 'здоровы']	"[""You're"", 'in', 'perfect', 'health', 'Jim']"
+19	Let's get you to your cabin, where you can get some rest. 	Давайте отправимся в каюту, где вы сможете отдохнуть. 	['Давайте', 'отправимся', 'в', 'каюту', 'где', 'вы', 'сможете', 'отдохнуть']	"[""Let's"", 'get', 'you', 'to', 'your', 'cabin', 'where', 'you', 'can', 'get', 'some', 'rest']"
+20	You may be experiencing post-hibernation sickness. 	Вы можете испытывать постгибернальную тошноту. 	['Вы', 'можете', 'испытывать', 'постгибернальную', 'тошноту']	['You', 'may', 'be', 'experiencing', 'post-hibernation', 'sickness']
+21	Your door will illuminate for you. 	Дверь в вашу каюту подсвечена. 	['Дверь', 'в', 'вашу', 'каюту', 'подсвечена']	['Your', 'door', 'will', 'illuminate', 'for', 'you']
+22	Welcome to your cabin, your home until we make landfall. 	Эта каюта станет вашим домом вплоть до прибытия. 	['Эта', 'каюта', 'станет', 'вашим', 'домом', 'вплоть', 'до', 'прибытия']	['Welcome', 'to', 'your', 'cabin', 'your', 'home', 'until', 'we', 'make', 'landfall']
+23	Over the next four months, you'll prepare for your new life on Homestead II, 	Следующие 4 месяца вы будете готовиться здесь к новой жизни. 	['Следующие', '4', 'месяца', 'вы', 'будете', 'готовиться', 'здесь', 'к', 'новой', 'жизни']	"['Over', 'the', 'next', 'four', 'months', ""you'll"", 'prepare', 'for', 'your', 'new', 'life', 'on', 'Homestead', 'II']"
+24	meet your fellow passengers, take skill-building classes, 	Познакомитесь с остальными, повысите квалификацию. 	['Познакомитесь', 'с', 'остальными', 'повысите', 'квалификацию']	['meet', 'your', 'fellow', 'passengers', 'take', 'skill-building', 'classes']
+25	and learn about colonial living. 	Узнаете о жизни в поселении. 	['Узнаете', 'о', 'жизни', 'в', 'поселении']	['and', 'learn', 'about', 'colonial', 'living']
+26	You've been assigned to learning group 38 for passengers with engineering and technical trade skills. 	Вы член группы учащихся 38 - для пассажиров с инженерными навыками. 	['Вы', 'член', 'группы', 'учащихся', '38', 'для', 'пассажиров', 'с', 'инженерными', 'навыками']	"[""You've"", 'been', 'assigned', 'to', 'learning', 'group', '38', 'for', 'passengers', 'with', 'engineering', 'and', 'technical', 'trade', 'skills']"
+27	Please scan your ID to confirm luggage delivery. 	Просканируйте браслет и получите ваш багаж. 	['Просканируйте', 'браслет', 'и', 'получите', 'ваш', 'багаж']	['Please', 'scan', 'your', 'ID', 'to', 'confirm', 'luggage', 'delivery']
+28	Jim. 	Джим! 	['Джим']	['Jim']
+29	Please scan your ID to confirm luggage delivery. 	Просканируйте браслет и получите ваш багаж. 	['Просканируйте', 'браслет', 'и', 'получите', 'ваш', 'багаж']	['Please', 'scan', 'your', 'ID', 'to', 'confirm', 'luggage', 'delivery']
+30	To help you recover from hibernation, be sure to drink plenty of fluids. 	Чтобы помочь организму быстрее восстановиться, надо пить много жидкости. 	['Чтобы', 'помочь', 'организму', 'быстрее', 'восстановиться', 'надо', 'пить', 'много', 'жидкости']	['To', 'help', 'you', 'recover', 'from', 'hibernation', 'be', 'sure', 'to', 'drink', 'plenty', 'of', 'fluids']
+31	Enjoy the rest of your voyage on the Avalon, 	Приятно провести оставшееся в полёте время… 	['Приятно', 'провести', 'оставшееся', 'в', 'полёте', 'время…']	['Enjoy', 'the', 'rest', 'of', 'your', 'voyage', 'on', 'the', 'Avalon']
+32	a Homestead Company Starship. 	на межпланетном корабле «Авалон» компании «Родная обитель». 	['на', 'межпланетном', 'корабле', '«Авалон»', 'компании', '«Родная', 'обитель»']	['a', 'Homestead', 'Company', 'Starship']
+33	Good morning, one and all. It's a beautiful morning here on the Starship Avalon. 	Доброе утро! Какое прекрасное утро на «Авалоне»! 	['Доброе', 'утро', 'Какое', 'прекрасное', 'утро', 'на', '«Авалоне»']	"['Good', 'morning', 'one', 'and', 'all', ""It's"", 'a', 'beautiful', 'morning', 'here', 'on', 'the', 'Starship', 'Avalon']"
+34	Whatever you do, don't get homesick, get Homestead. 	Не тоскуйте по родному дому, ведь вас ждёт «Родная обитель». 	['Не', 'тоскуйте', 'по', 'родному', 'дому', 'ведь', 'вас', 'ждёт', '«Родная', 'обитель»']	"['Whatever', 'you', 'do', ""don't"", 'get', 'homesick', 'get', 'Homestead']"
+35	Let's start things off with one of my favorites back on Earth. Once upon a time You dressed so fine Threw the bums a dime in your prime Didn't you? 	Начнём с одной из моих любимых ещё там, на Земле, композиций. 	['Начнём', 'с', 'одной', 'из', 'моих', 'любимых', 'ещё', 'там', 'на', 'Земле', 'композиций']	"[""Let's"", 'start', 'things', 'off', 'with', 'one', 'of', 'my', 'favorites', 'back', 'on', 'Earth', 'Once', 'upon', 'a', 'time', 'You', 'dressed', 'so', 'fine', 'Threw', 'the', 'bums', 'a', 'dime', 'in', 'your', 'prime', ""Didn't"", 'you']"
+36	No. 	Нет. 	['Нет']	['No']
+37	That's stupid. 	Глупо. 	['Глупо']	"[""That's"", 'stupid']"
+38	Just own it. Own it, Jim. You got a cool jacket. 	Смелее. Смелее, Джим. У тебя крутой куртец. 	['Смелее', 'Смелее', 'Джим', 'У', 'тебя', 'крутой', 'куртец']	['Just', 'own', 'it', 'Own', 'it', 'Jim', 'You', 'got', 'a', 'cool', 'jacket']
+39	Hello, passengers. 	Здравствуйте, пассажиры. 	['Здравствуйте', 'пассажиры']	['Hello', 'passengers']
+40	Will you all please take a seat. 	Я попрошу вас всех сесть. 	['Я', 'попрошу', 'вас', 'всех', 'сесть']	['Will', 'you', 'all', 'please', 'take', 'a', 'seat']
+41	Welcome, learning group 38. Your introduction to colonial life. 	Приветствую, группа номер 38. Это вводный курс в колониальную жизнь. 	['Приветствую', 'группа', 'номер', '38', 'Это', 'вводный', 'курс', 'в', 'колониальную', 'жизнь']	['Welcome', 'learning', 'group', '38', 'Your', 'introduction', 'to', 'colonial', 'life']
+42	Earth is a prosperous planet, the cradle of civilization. 	Земля - плодородная планета, колыбель цивилизации. 	['Земля', 'плодородная', 'планета', 'колыбель', 'цивилизации']	['Earth', 'is', 'a', 'prosperous', 'planet', 'the', 'cradle', 'of', 'civilization']
+43	But for many, it's also overpopulated, overpriced, overrated. 	Но жизнь на ней слишком дорогостояща. Она мала и неудобна. 	['Но', 'жизнь', 'на', 'ней', 'слишком', 'дорогостояща', 'Она', 'мала', 'и', 'неудобна']	"['But', 'for', 'many', ""it's"", 'also', 'overpopulated', 'overpriced', 'overrated']"
+44	I'm sorry, I think I may be in the wrong... Hold all questions till the end, please. 	Простите, я… - Я подумал, что, возможно… - Вопросы в конце, не перебивайте. 	['Простите', 'я…', 'Я', 'подумал', 'что', 'возможно…', 'Вопросы', 'в', 'конце', 'не', 'перебивайте']	"[""I'm"", 'sorry', 'I', 'think', 'I', 'may', 'be', 'in', 'the', 'wrong', 'Hold', 'all', 'questions', 'till', 'the', 'end', 'please']"
+45	Oh, sorry. The colonies offer an alternative, a better way of life. 	- Простите. - Колонии предлагают альтернативу. Жизнь в них намного лучше. 	['Простите', 'Колонии', 'предлагают', 'альтернативу', 'Жизнь', 'в', 'них', 'намного', 'лучше']	['Oh', 'sorry', 'The', 'colonies', 'offer', 'an', 'alternative', 'a', 'better', 'way', 'of', 'life']
+46	Where are all the other... And there's no colony more beautiful than Homestead II, the jewel of the occupied world. 	- Простите, а остальные... - И нет колонии прекраснее… чем «Родная обитель 2» - жемчужина Захваченных Миров. 	['Простите', 'а', 'остальные', 'И', 'нет', 'колонии', 'прекраснее…', 'чем', '«Родная', 'обитель', '2»', 'жемчужина', 'Захваченных', 'Миров']	"['Where', 'are', 'all', 'the', 'other', 'And', ""there's"", 'no', 'colony', 'more', 'beautiful', 'than', 'Homestead', 'II', 'the', 'jewel', 'of', 'the', 'occupied', 'world']"
+47	I'm sorry. 	Простите. 	['Простите']	"[""I'm"", 'sorry']"
+48	Where is everybody? We are all on the Starship Avalon. 	- А где остальные? - Мы на межпланетном корабле «Авалон». 	['А', 'где', 'остальные', 'Мы', 'на', 'межпланетном', 'корабле', '«Авалон»']	['Where', 'is', 'everybody', 'We', 'are', 'all', 'on', 'the', 'Starship', 'Avalon']
+49	But I'm the only one here. 	Но я же здесь один. 	['Но', 'я', 'же', 'здесь', 'один']	"['But', ""I'm"", 'the', 'only', 'one', 'here']"
+50	There are 5,000 passengers and 258 crew members. 	Здесь 5 000 пассажиров и 258 членов экипажа. 	['Здесь', '5', '000', 'пассажиров', 'и', '258', 'членов', 'экипажа']	['There', 'are', '5,000', 'passengers', 'and', '258', 'crew', 'members']
+51	So why am I alone? 	Тогда почему я один? 	['Тогда', 'почему', 'я', 'один']	['So', 'why', 'am', 'I', 'alone']
+52	We're all in this together. 	Вы не одиноки. Мы вместе на этом корабле. 	['Вы', 'не', 'одиноки', 'Мы', 'вместе', 'на', 'этом', 'корабле']	"[""We're"", 'all', 'in', 'this', 'together']"
+53	Hello? 	Эй! 	['Эй']	['Hello']
+54	Anybody here? 	Тут кто-нибудь есть?! Ау! 	['Тут', 'кто-нибудь', 'есть', 'Ау']	['Anybody', 'here']
+55	Hello? Please buckle up and secure any loose items. 	Пристегнитесь и придерживайте незакреплённые предметы. 	['Пристегнитесь', 'и', 'придерживайте', 'незакреплённые', 'предметы']	['Hello', 'Please', 'buckle', 'up', 'and', 'secure', 'any', 'loose', 'items']
+56	This elevator will experience a momentary lapse in gravity. 	Лифт будет находиться в состоянии невесомости. 	['Лифт', 'будет', 'находиться', 'в', 'состоянии', 'невесомости']	['This', 'elevator', 'will', 'experience', 'a', 'momentary', 'lapse', 'in', 'gravity']
+57	Grand concourse. 	Главный вестибюль. 	['Главный', 'вестибюль']	['Grand', 'concourse']
+58	Hello. 	Здравствуйте! 	['Здравствуйте']	['Hello']
+59	Welcome to the grand concourse aboard the Avalon. Can I help you? 	Вы в Главном вестибюле корабля «Авалон». Чем могу вам помочь? 	['Вы', 'в', 'Главном', 'вестибюле', 'корабля', '«Авалон»', 'Чем', 'могу', 'вам', 'помочь']	['Welcome', 'to', 'the', 'grand', 'concourse', 'aboard', 'the', 'Avalon', 'Can', 'I', 'help', 'you']
+60	I need to talk to a person. 	Я хочу поговорить с кем-нибудь. 	['Я', 'хочу', 'поговорить', 'с', 'кем-нибудь']	['I', 'need', 'to', 'talk', 'to', 'a', 'person']
+61	A real live person, please? What sort of person? Personal trainer? Travel planner? - Therapist? - I... I don't know. Somebody in charge. 	- С живым человеком, если можно. - С кем именно? - С тренером? С турагентом? С врачом? - Не знаю. С кем-то из начальства. 	['С', 'живым', 'человеком', 'если', 'можно', 'С', 'кем', 'именно', 'С', 'тренером', 'С', 'турагентом', 'С', 'врачом', 'Не', 'знаю', 'С', 'кем-то', 'из', 'начальства']	"['A', 'real', 'live', 'person', 'please', 'What', 'sort', 'of', 'person', 'Personal', 'trainer', 'Travel', 'planner', 'Therapist', 'I', 'I', ""don't"", 'know', 'Somebody', 'in', 'charge']"
+62	The ship's steward handles passenger affairs. It's on level three of the grand concourse. 	Стюард, отвечающий за пассажиров, на 3 уровне Главного вестибюля. 	['Стюард', 'отвечающий', 'за', 'пассажиров', 'на', '3', 'уровне', 'Главного', 'вестибюля']	"['The', ""ship's"", 'steward', 'handles', 'passenger', 'affairs', ""It's"", 'on', 'level', 'three', 'of', 'the', 'grand', 'concourse']"
+63	- Thank you. - Happy to help. 	- Спасибо. - Рад помочь. 	['Спасибо', 'Рад', 'помочь']	['Thank', 'you', 'Happy', 'to', 'help']
+64	Not good. 	Хреново. 	['Хреново']	['Not', 'good']
+65	- Hello. - Who's flying the ship? 	- Здравствуйте. - Кто ведёт корабль? 	['Здравствуйте', 'Кто', 'ведёт', 'корабль']	"['Hello', ""Who's"", 'flying', 'the', 'ship']"
+66	The flight crew, the captain, the pilot, the chief navigator... 	Экипаж: капитан, пилот, главный штурман. 	['Экипаж', 'капитан', 'пилот', 'главный', 'штурман']	['The', 'flight', 'crew', 'the', 'captain', 'the', 'pilot', 'the', 'chief', 'navigator']
+67	Captain. I want to speak to the captain. 	Я хочу поговорить с капитаном. 	['Я', 'хочу', 'поговорить', 'с', 'капитаном']	['Captain', 'I', 'want', 'to', 'speak', 'to', 'the', 'captain']
+68	The captain rarely handles passenger queries... It's an emergency! Please. 	- Он не занимается вопросами пассажиров. - Нештатная ситуация! Пожалуйста! 	['Он', 'не', 'занимается', 'вопросами', 'пассажиров', 'Нештатная', 'ситуация', 'Пожалуйста']	"['The', 'captain', 'rarely', 'handles', 'passenger', 'queries', ""It's"", 'an', 'emergency', 'Please']"
+69	The captain is usually found on the bridge, in the command ring. 	Капитана можно найти на мостике в кольцевой зоне экипажа. 	['Капитана', 'можно', 'найти', 'на', 'мостике', 'в', 'кольцевой', 'зоне', 'экипажа']	['The', 'captain', 'is', 'usually', 'found', 'on', 'the', 'bridge', 'in', 'the', 'command', 'ring']
+70	Bridge access requires special authorization. 	Для доступа на мостик требуется особое разрешение. 	['Для', 'доступа', 'на', 'мостик', 'требуется', 'особое', 'разрешение']	['Bridge', 'access', 'requires', 'special', 'authorization']
+71	Bridge access requires special authorization. 	Для доступа на мостик требуется особое разрешение. 	['Для', 'доступа', 'на', 'мостик', 'требуется', 'особое', 'разрешение']	['Bridge', 'access', 'requires', 'special', 'authorization']
+72	You got to be kidding me. 	Вы издеваетесь, да?! 	['Вы', 'издеваетесь', 'да']	['You', 'got', 'to', 'be', 'kidding', 'me']
+73	Welcome to the observatory. 	Добро пожаловать в обсерваторию. 	['Добро', 'пожаловать', 'в', 'обсерваторию']	['Welcome', 'to', 'the', 'observatory']
+74	What can I show you? 	Что вам показать? 	['Что', 'вам', 'показать']	['What', 'can', 'I', 'show', 'you']
+75	We're supposed to land soon. 	Мы скоро прибываем на место. 	['Мы', 'скоро', 'прибываем', 'на', 'место']	"[""We're"", 'supposed', 'to', 'land', 'soon']"
+76	I'm... I'm the only one awake. 	И... просто проснулся только я. 	['И', 'просто', 'проснулся', 'только', 'я']	"[""I'm"", ""I'm"", 'the', 'only', 'one', 'awake']"
+77	I don't understand. What can I show you? 	Я не понимаю. Что вам показать? 	['Я', 'не', 'понимаю', 'Что', 'вам', 'показать']	"['I', ""don't"", 'understand', 'What', 'can', 'I', 'show', 'you']"
+78	Show me Homestead II. 	Покажите «Родную обитель 2». 	['Покажите', '«Родную', 'обитель', '2»']	['Show', 'me', 'Homestead', 'II']
+79	Homestead II is the fourth planet in the Bhakti System. Right. And where are we? 	- Это 4 планета в системе Бхакти. - Так. А где мы сейчас? 	['Это', '4', 'планета', 'в', 'системе', 'Бхакти', 'Так', 'А', 'где', 'мы', 'сейчас']	['Homestead', 'II', 'is', 'the', 'fourth', 'planet', 'in', 'the', 'Bhakti', 'System', 'Right', 'And', 'where', 'are', 'we']
+80	We're in transit from Earth to Homestead II. 	Мы на пути с Земли к «Родной обители 2». 	['Мы', 'на', 'пути', 'с', 'Земли', 'к', '«Родной', 'обители', '2»']	"[""We're"", 'in', 'transit', 'from', 'Earth', 'to', 'Homestead', 'II']"
+81	We will arrive in approximately 90 years. What? 	- Прибудем приблизительно через 90 лет. - Что?! 	['Прибудем', 'приблизительно', 'через', '90', 'лет', 'Что']	['We', 'will', 'arrive', 'in', 'approximately', '90', 'years', 'What']
+82	We arrive at Homestead II in 90 years, three weeks and one day. 	Мы прибудем через 90 лет, 3 недели и один день. 	['Мы', 'прибудем', 'через', '90', 'лет', '3', 'недели', 'и', 'один', 'день']	['We', 'arrive', 'at', 'Homestead', 'II', 'in', '90', 'years', 'three', 'weeks', 'and', 'one', 'day']
+83	No. Wait. How long ago did we leave Earth? 	Нет! Стойте! А давно мы покинули Землю? 	['Нет', 'Стойте', 'А', 'давно', 'мы', 'покинули', 'Землю']	['No', 'Wait', 'How', 'long', 'ago', 'did', 'we', 'leave', 'Earth']
+84	Approximately 30 years ago. 	Приблизительно 30 лет назад. 	['Приблизительно', '30', 'лет', 'назад']	['Approximately', '30', 'years', 'ago']
+85	I woke up too soon. 	Я слишком рано проснулся. 	['Я', 'слишком', 'рано', 'проснулся']	['I', 'woke', 'up', 'too', 'soon']
+86	Hello. How do I send a message to Earth? 	- Здравствуйте! - Как послать сообщение на Землю? 	['Здравствуйте', 'Как', 'послать', 'сообщение', 'на', 'Землю']	['Hello', 'How', 'do', 'I', 'send', 'a', 'message', 'to', 'Earth']
+87	Interstellar messages are sent by laser array. 	Сообщения отправляются с помощью лазерной матрицы. 	['Сообщения', 'отправляются', 'с', 'помощью', 'лазерной', 'матрицы']	['Interstellar', 'messages', 'are', 'sent', 'by', 'laser', 'array']
+88	This is an expensive service. - Bite me. - Happy to help. 	- Это дорогостоящая услуга. - Да пошёл ты! Рад помочь. 	['Это', 'дорогостоящая', 'услуга', 'Да', 'пошёл', 'ты', 'Рад', 'помочь']	['This', 'is', 'an', 'expensive', 'service', 'Bite', 'me', 'Happy', 'to', 'help']
+89	Planet and connection? Earth. The Homestead Company. 	- Планета и абонент? - Земля. Компания «Родная обитель». 	['Планета', 'и', 'абонент', 'Земля', 'Компания', '«Родная', 'обитель»']	['Planet', 'and', 'connection', 'Earth', 'The', 'Homestead', 'Company']
+90	There are 30,826 contacts listed under Homestead Company. 	В списке компании 30 826 контактов. 	['В', 'списке', 'компании', '30', '826', 'контактов']	['There', 'are', '30,826', 'contacts', 'listed', 'under', 'Homestead', 'Company']
+91	I'm emigrating to Homestead II and I have an emergency. 	Я лечу на «Родную обитель 2», и у меня ЧП. 	['Я', 'лечу', 'на', '«Родную', 'обитель', '2»', 'и', 'у', 'меня', 'ЧП']	"[""I'm"", 'emigrating', 'to', 'Homestead', 'II', 'and', 'I', 'have', 'an', 'emergency']"
+92	I have a customer help line. Sounds about right. 	- Есть линия помощи клиентам. - Соединяйте. 	['Есть', 'линия', 'помощи', 'клиентам', 'Соединяйте']	['I', 'have', 'a', 'customer', 'help', 'line', 'Sounds', 'about', 'right']
+93	Begin message. Hi. Uh, I'm Jim Preston. I'm a passenger on the Avalon. 	- Начните запись. - Здрасьте! Я Джим Престон. Пассажир на «Авалоне». 	['Начните', 'запись', 'Здрасьте', 'Я', 'Джим', 'Престон', 'Пассажир', 'на', '«Авалоне»']	"['Begin', 'message', 'Hi', 'Uh', ""I'm"", 'Jim', 'Preston', ""I'm"", 'a', 'passenger', 'on', 'the', 'Avalon']"
+94	I, uh... 	И... 	['И']	['I', 'uh']
+95	I think something went wrong with my hibernation pod. 	В моей капсуле гибернации какой-то сбой. 	['В', 'моей', 'капсуле', 'гибернации', 'какой-то', 'сбой']	['I', 'think', 'something', 'went', 'wrong', 'with', 'my', 'hibernation', 'pod']
+96	I woke up too soon. And I mean, way too soon. 	Я слишком рано проснулся. Намного раньше, чем надо. 	['Я', 'слишком', 'рано', 'проснулся', 'Намного', 'раньше', 'чем', 'надо']	['I', 'woke', 'up', 'too', 'soon', 'And', 'I', 'mean', 'way', 'too', 'soon']
+97	Nobody else is awake, and... 	Остальные все спят. 	['Остальные', 'все', 'спят']	['Nobody', 'else', 'is', 'awake', 'and']
+98	I don't know how to get back to sleep. 	И я не знаю, как мне опять заснуть. 	['И', 'я', 'не', 'знаю', 'как', 'мне', 'опять', 'заснуть']	"['I', ""don't"", 'know', 'how', 'to', 'get', 'back', 'to', 'sleep']"
+99	And the thing is, there's 90 years to go. 	Дело в том, что лететь ещё 90 лет. 	['Дело', 'в', 'том', 'что', 'лететь', 'ещё', '90', 'лет']	"['And', 'the', 'thing', 'is', ""there's"", '90', 'years', 'to', 'go']"
+100	At this rate, I'm... 	Но если так, я ведь… 	['Но', 'если', 'так', 'я', 'ведь…']	"['At', 'this', 'rate', ""I'm""]"
+101	I'm sorry, I'm trying to fix this. 	Я просто пытаюсь всё разрулить. 	['Я', 'просто', 'пытаюсь', 'всё', 'разрулить']	"[""I'm"", 'sorry', ""I'm"", 'trying', 'to', 'fix', 'this']"
+102	Maybe I missed something. I could use a hand. 	Может, я чего-то не понял. Помогите мне! 	['Может', 'я', 'чего-то', 'не', 'понял', 'Помогите', 'мне']	['Maybe', 'I', 'missed', 'something', 'I', 'could', 'use', 'a', 'hand']
+103	That's all. 	Вот и всё. 	['Вот', 'и', 'всё']	"[""That's"", 'all']"
+104	Thank you. 	Спасибо. 	['Спасибо']	['Thank', 'you']
+105	Message sent. 	Сообщение отправлено. 	['Сообщение', 'отправлено']	['Message', 'sent']
+106	Outstanding. 	Потрясающе. 	['Потрясающе']	['Outstanding']
+107	Message will arrive in 19 years. 	Сообщение будет доставлено через 19 лет. 	['Сообщение', 'будет', 'доставлено', 'через', '19', 'лет']	['Message', 'will', 'arrive', 'in', '19', 'years']
+108	Wait, what? 	Не понял! 	['Не', 'понял']	['Wait', 'what']
+109	Earliest reply in 55 years. Fifty-five years? 	- Ответ придёт через 55 лет. - 55 лет... 	['Ответ', 'придёт', 'через', '55', 'лет', '55', 'лет']	['Earliest', 'reply', 'in', '55', 'years', 'Fifty-five', 'years']
+110	We apologize for the delay. That will be $6,012. Call me irresponsible 	Просим прощения за задержку. Стоимость услуги 6 012 долларов. 	['Просим', 'прощения', 'за', 'задержку', 'Стоимость', 'услуги', '6', '012', 'долларов']	['We', 'apologize', 'for', 'the', 'delay', 'That', 'will', 'be', '6,012', 'Call', 'me', 'irresponsible']
+111	- Afternoon. - Oh, man! 	- Добрый день. - О боже! 	['Добрый', 'день', 'О', 'боже']	['Afternoon', 'Oh', 'man']
+112	Is it good to see another face! 	Значит, не только я проснулся! 	['Значит', 'не', 'только', 'я', 'проснулся']	['Is', 'it', 'good', 'to', 'see', 'another', 'face']
+113	Thought I was the only one awake. 	Я думал, я тут один. 	['Я', 'думал', 'я', 'тут', 'один']	['Thought', 'I', 'was', 'the', 'only', 'one', 'awake']
+114	Who wants to sleep on a beautiful day like this? 	Кто же захочет спать в такой прекрасный день? 	['Кто', 'же', 'захочет', 'спать', 'в', 'такой', 'прекрасный', 'день']	['Who', 'wants', 'to', 'sleep', 'on', 'a', 'beautiful', 'day', 'like', 'this']
+115	No, I mean we're in trouble. We're not supposed to be here. 	У нас проблема. Мы не должны сейчас быть здесь. 	['У', 'нас', 'проблема', 'Мы', 'не', 'должны', 'сейчас', 'быть', 'здесь']	"['No', 'I', 'mean', ""we're"", 'in', 'trouble', ""We're"", 'not', 'supposed', 'to', 'be', 'here']"
+116	Well, I won't tell if you don't. 	Я никому не расскажу. 	['Я', 'никому', 'не', 'расскажу']	"['Well', 'I', ""won't"", 'tell', 'if', 'you', ""don't""]"
+117	- Huh? - Our little secret. 	- Что? - Это будет наш секрет. 	['Что', 'Это', 'будет', 'наш', 'секрет']	['Huh', 'Our', 'little', 'secret']
+118	What can I get for you? 	Чего желаете? 	['Чего', 'желаете']	['What', 'can', 'I', 'get', 'for', 'you']
+119	What? You look like a whiskey man. 	- Что? - Думаю, вы предпочитаете виски. 	['Что', 'Думаю', 'вы', 'предпочитаете', 'виски']	['What', 'You', 'look', 'like', 'a', 'whiskey', 'man']
+120	Uh, okay. 	Ну, давайте. 	['Ну', 'давайте']	['Uh', 'okay']
+121	Oh, you're a robot. 	О! Ты робот. 	['О', 'Ты', 'робот']	"['Oh', ""you're"", 'a', 'robot']"
+122	Android. Technically. 	Вообще-то, андроид. 	['Вообще-то', 'андроид']	['Android', 'Technically']
+123	Arthur's the name. 	Я Артур, сэр. 	['Я', 'Артур', 'сэр']	"[""Arthur's"", 'the', 'name']"
+124	- Jim. - Pleased to meet you, Jim. 	- Джим. - Приятно познакомиться. 	['Джим', 'Приятно', 'познакомиться']	['Jim', 'Pleased', 'to', 'meet', 'you', 'Jim']
+125	How much do you know about this ship? 	Что тебе известно о корабле? 	['Что', 'тебе', 'известно', 'о', 'корабле']	['How', 'much', 'do', 'you', 'know', 'about', 'this', 'ship']
+126	I don't know. I know some things. 	Даже не знаю. Кое-что известно. 	['Даже', 'не', 'знаю', 'Кое-что', 'известно']	"['I', ""don't"", 'know', 'I', 'know', 'some', 'things']"
+127	What do I do if my hibernation pod malfunctions? 	Что делать, если дала сбой капсула гибернации? 	['Что', 'делать', 'если', 'дала', 'сбой', 'капсула', 'гибернации']	['What', 'do', 'I', 'do', 'if', 'my', 'hibernation', 'pod', 'malfunctions']
+128	Oh, hibernation pods are fail-safe. They never malfunction. 	Капсулы гибернации очень надёжные. Они не могут дать сбой. 	['Капсулы', 'гибернации', 'очень', 'надёжные', 'Они', 'не', 'могут', 'дать', 'сбой']	['Oh', 'hibernation', 'pods', 'are', 'fail-safe', 'They', 'never', 'malfunction']
+129	Well, I woke up early. Can't happen. 	- Я-то проснулся раньше. - Невозможно. 	['Я-то', 'проснулся', 'раньше', 'Невозможно']	"['Well', 'I', 'woke', 'up', 'early', ""Can't"", 'happen']"
+130	How long until we get to Homestead II? About 90 years or so. 	- Долго ещё лететь до «Родной обители»? - Где-то около 90 лет. 	['Долго', 'ещё', 'лететь', 'до', '«Родной', 'обители»', 'Где-то', 'около', '90', 'лет']	['How', 'long', 'until', 'we', 'get', 'to', 'Homestead', 'II', 'About', '90', 'years', 'or', 'so']
+131	And when are all the passengers supposed to wake up? Not till the last four months. 	- А когда пассажиры должны проснуться? - За 4 месяца до прибытия. 	['А', 'когда', 'пассажиры', 'должны', 'проснуться', 'За', '4', 'месяца', 'до', 'прибытия']	['And', 'when', 'are', 'all', 'the', 'passengers', 'supposed', 'to', 'wake', 'up', 'Not', 'till', 'the', 'last', 'four', 'months']
+132	How is it that I'm sitting here with you 	Как же тогда я оказался здесь... если ещё столько лететь? 	['Как', 'же', 'тогда', 'я', 'оказался', 'здесь', 'если', 'ещё', 'столько', 'лететь']	"['How', 'is', 'it', 'that', ""I'm"", 'sitting', 'here', 'with', 'you']"
+133	with 90 years to go? Hmm? It's not possible for you to be here. 	Вы не можете здесь находиться. 	['Вы', 'не', 'можете', 'здесь', 'находиться']	"['with', '90', 'years', 'to', 'go', 'Hmm', ""It's"", 'not', 'possible', 'for', 'you', 'to', 'be', 'here']"
+134	Well, I am. 	Но я здесь. 	['Но', 'я', 'здесь']	['Well', 'I', 'am']
+135	Good morning. It's a beautiful day here on the Avalon. 	Доброе утро! На «Авалоне» прекрасный новый день. 	['Доброе', 'утро', 'На', '«Авалоне»', 'прекрасный', 'новый', 'день']	"['Good', 'morning', ""It's"", 'a', 'beautiful', 'day', 'here', 'on', 'the', 'Avalon']"
+136	So wake up, sunshine. It's time to relax and enjoy your stay. 	Просыпайтесь, солнышки! Пора получать удовольствие от пребывания на борту. 	['Просыпайтесь', 'солнышки', 'Пора', 'получать', 'удовольствие', 'от', 'пребывания', 'на', 'борту']	"['So', 'wake', 'up', 'sunshine', ""It's"", 'time', 'to', 'relax', 'and', 'enjoy', 'your', 'stay']"
+137	Please make a selection. 	Пожалуйста, выберите напиток. 	['Пожалуйста', 'выберите', 'напиток']	['Please', 'make', 'a', 'selection']
+138	Sorry. The Mocha Cappuccino Extreme is reserved for gold-class passengers. 	Извините. Мокко-капучино-экстрим - для пассажиров золотого уровня. 	['Извините', 'Мокко-капучино-экстрим', 'для', 'пассажиров', 'золотого', 'уровня']	['Sorry', 'The', 'Mocha', 'Cappuccino', 'Extreme', 'is', 'reserved', 'for', 'gold-class', 'passengers']
+139	Sorry. The Mocha Cappuccino Extreme is reserved for... 	Извините. Мокко-капучино-экстрим - для пассажиров... 	['Извините', 'Мокко-капучино-экстрим', 'для', 'пассажиров']	['Sorry', 'The', 'Mocha', 'Cappuccino', 'Extreme', 'is', 'reserved', 'for']
+140	I want the Mocha Cappuccino Extreme. Bill my room, please. 	Я хочу мокко-капучино-экстрим. Запишите на мой номер. 	['Я', 'хочу', 'мокко-капучино-экстрим', 'Запишите', 'на', 'мой', 'номер']	['I', 'want', 'the', 'Mocha', 'Cappuccino', 'Extreme', 'Bill', 'my', 'room', 'please']
+141	Food can be purchased in the ship's... Sorry. The French Roast... 	Еду можно приобрести в ресторанах... Извините. Французская обжар... 	['Еду', 'можно', 'приобрести', 'в', 'ресторанах', 'Извините', 'Французская', 'обжар']	"['Food', 'can', 'be', 'purchased', 'in', 'the', ""ship's"", 'Sorry', 'The', 'French', 'Roast']"
+142	Sorry. The Pumpkin Spice... Sorry. Vanilla Chai... 	Извините. Тыквенный… Извините. Извините. Ванильный чай… 	['Извините', 'Тыквенный…', 'Извините', 'Извините', 'Ванильный', 'чай…']	['Sorry', 'The', 'Pumpkin', 'Spice', 'Sorry', 'Vanilla', 'Chai']
+143	Sorry. Sorry. Sorry. 	Извините. Извините. Извините. 	['Извините', 'Извините', 'Извините']	['Sorry', 'Sorry', 'Sorry']
+144	Large coffee. 	Чёрный кофе. 	['Чёрный', 'кофе']	['Large', 'coffee']
+145	- Cream... - Please enjoy your coffee. 	- А сливки, сах… - Пожалуйста, возьмите ваш кофе. 	['А', 'сливки', 'сах…', 'Пожалуйста', 'возьмите', 'ваш', 'кофе']	['Cream', 'Please', 'enjoy', 'your', 'coffee']
+146	Oh, really? 	О, неужели! 	['О', 'неужели']	['Oh', 'really']
+147	Crew pod room access requires special authorization. 	МЕДИЦИНСКИЙ РОБОТ МОДЕЛЬ БАРМЕНА КАПСУЛА ГИБЕРНАЦИИ Для доступа в капсульный отсек команды требуется особое разрешение. АВАРИЯ ЭНЕРГОУСТАНОВКИ: ЛИФТ 2Б 	['МЕДИЦИНСКИЙ', 'РОБОТ', 'МОДЕЛЬ', 'БАРМЕНА', 'КАПСУЛА', 'ГИБЕРНАЦИИ', 'Для', 'доступа', 'в', 'капсульный', 'отсек', 'команды', 'требуется', 'особое', 'разрешение', 'АВАРИЯ', 'ЭНЕРГОУСТАНОВКИ', 'ЛИФТ', '2Б']	['Crew', 'pod', 'room', 'access', 'requires', 'special', 'authorization']
+148	Grand... Going... Please make... Level... 	Главный вестибюль. Направля… вниз… пожа… уровень… 	['Главный', 'вестибюль', 'Направля…', 'вниз…', 'пожа…', 'уровень…']	['Grand', 'Going', 'Please', 'make', 'Level']
+149	Grand concourse. 	Главный вестибюль. 	['Главный', 'вестибюль']	['Grand', 'concourse']
+150	I'm screwed, Arthur. Completely and ridiculously screwed. 	Я попал, Артур. По полной программе, и так нелепо. 	['Я', 'попал', 'Артур', 'По', 'полной', 'программе', 'и', 'так', 'нелепо']	"[""I'm"", 'screwed', 'Arthur', 'Completely', 'and', 'ridiculously', 'screwed']"
+151	Come on, now. 	Да будет вам. 	['Да', 'будет', 'вам']	['Come', 'on', 'now']
+152	Every cloud has a silver lining. 	Говорят же, что нет худа без добра. 	['Говорят', 'же', 'что', 'нет', 'худа', 'без', 'добра']	['Every', 'cloud', 'has', 'a', 'silver', 'lining']
+153	Guess I am gonna die of old age on this ship. 	Наверное, я умру от старости на этом корабле. 	['Наверное', 'я', 'умру', 'от', 'старости', 'на', 'этом', 'корабле']	['Guess', 'I', 'am', 'gonna', 'die', 'of', 'old', 'age', 'on', 'this', 'ship']
+154	Oh, we all die. 	Все мы умираем. 	['Все', 'мы', 'умираем']	['Oh', 'we', 'all', 'die']
+155	Even androids end up on the scrap heap. 	Даже андроиды на свалку попадают. 	['Даже', 'андроиды', 'на', 'свалку', 'попадают']	['Even', 'androids', 'end', 'up', 'on', 'the', 'scrap', 'heap']
+156	I'm your only customer. Why are you always polishing a glass? 	Других посетителей нет - зачем натирать бокал? 	['Других', 'посетителей', 'нет', 'зачем', 'натирать', 'бокал']	"[""I'm"", 'your', 'only', 'customer', 'Why', 'are', 'you', 'always', 'polishing', 'a', 'glass']"
+157	Trick of the trade. 	Часть профессии. 	['Часть', 'профессии']	['Trick', 'of', 'the', 'trade']
+158	Makes people nervous when a bartender just stands there. 	Когда бармен ничего не делает, люди нервничают. 	['Когда', 'бармен', 'ничего', 'не', 'делает', 'люди', 'нервничают']	['Makes', 'people', 'nervous', 'when', 'a', 'bartender', 'just', 'stands', 'there']
+159	So lay some bartender wisdom on me. I'm lost in space here. 	Поделись своей барменской мудростью. Я затерялся в космосе. 	['Поделись', 'своей', 'барменской', 'мудростью', 'Я', 'затерялся', 'в', 'космосе']	"['So', 'lay', 'some', 'bartender', 'wisdom', 'on', 'me', ""I'm"", 'lost', 'in', 'space', 'here']"
+160	You're not where you want to be. 	Обстоятельства против тебя. 	['Обстоятельства', 'против', 'тебя']	"[""You're"", 'not', 'where', 'you', 'want', 'to', 'be']"
+161	You feel like you're supposed to be somewhere else. 	Ты думаешь, что должен быть в другом месте. 	['Ты', 'думаешь', 'что', 'должен', 'быть', 'в', 'другом', 'месте']	"['You', 'feel', 'like', ""you're"", 'supposed', 'to', 'be', 'somewhere', 'else']"
+162	You said it. 	Это точно. 	['Это', 'точно']	['You', 'said', 'it']
+163	Well, say you could snap your fingers and be wherever you wanted to be. 	Представь, что мог бы по щелчку пальцев оказаться, где пожелаешь. 	['Представь', 'что', 'мог', 'бы', 'по', 'щелчку', 'пальцев', 'оказаться', 'где', 'пожелаешь']	['Well', 'say', 'you', 'could', 'snap', 'your', 'fingers', 'and', 'be', 'wherever', 'you', 'wanted', 'to', 'be']
+164	I bet you'd still feel this way. Not in the right place. 	Спорим, ты всё равно бы так думал. Что ты не в том месте. 	['Спорим', 'ты', 'всё', 'равно', 'бы', 'так', 'думал', 'Что', 'ты', 'не', 'в', 'том', 'месте']	"['I', 'bet', ""you'd"", 'still', 'feel', 'this', 'way', 'Not', 'in', 'the', 'right', 'place']"
+165	Point is, you can't get so hung up on where you'd rather be 	Если слишком зацикливаться на том, где ты хотел бы быть… 	['Если', 'слишком', 'зацикливаться', 'на', 'том', 'где', 'ты', 'хотел', 'бы', 'быть…']	"['Point', 'is', 'you', ""can't"", 'get', 'so', 'hung', 'up', 'on', 'where', ""you'd"", 'rather', 'be']"
+166	that you forget how to make the most of where you are. 	то упустишь возможность жить здесь и сейчас. 	['то', 'упустишь', 'возможность', 'жить', 'здесь', 'и', 'сейчас']	['that', 'you', 'forget', 'how', 'to', 'make', 'the', 'most', 'of', 'where', 'you', 'are']
+167	What are you telling me? 	Не совсем понимаю. 	['Не', 'совсем', 'понимаю']	['What', 'are', 'you', 'telling', 'me']
+168	Take a break from worrying about what you can't control. 	Перестань волноваться о том, что не можешь контролировать. 	['Перестань', 'волноваться', 'о', 'том', 'что', 'не', 'можешь', 'контролировать']	"['Take', 'a', 'break', 'from', 'worrying', 'about', 'what', 'you', ""can't"", 'control']"
+169	Live a little. Live a little. 	- Просто живи. - Просто живи... 	['Просто', 'живи', 'Просто', 'живи']	['Live', 'a', 'little', 'Live', 'a', 'little']
+170	Welcome to the Vienna Suite. 	Добро пожаловать в апартаменты «Вена». 	['Добро', 'пожаловать', 'в', 'апартаменты', '«Вена»']	['Welcome', 'to', 'the', 'Vienna', 'Suite']
+171	Oh. 	О, да! 	['О', 'да']	['Oh']
+172	Oh, yeah. Huh. What? Ah! - Oh, yeah! Oh, yeah! - Yeah! 	Да! 	['Да']	['Oh', 'yeah', 'Huh', 'What', 'Ah', 'Oh', 'yeah', 'Oh', 'yeah', 'Yeah']
+173	Make that a double jumbo shrimp. Triple. 	Мне креветок. Две порции. Нет, три. Аригато гозаимас. 	['Мне', 'креветок', 'Две', 'порции', 'Нет', 'три', 'Аригато', 'гозаимас']	['Make', 'that', 'a', 'double', 'jumbo', 'shrimp', 'Triple']
+174	Dance-off. 	Танцевальный баттл. 	['Танцевальный', 'баттл']	['Dance-off']
+175	All right. I did exactly what you just did. 	Я правильно делал. 	['Я', 'правильно', 'делал']	['All', 'right', 'I', 'did', 'exactly', 'what', 'you', 'just', 'did']
+176	Large coffee. 	Чёрный кофе. 	['Чёрный', 'кофе']	['Large', 'coffee']
+177	You have had many, señor. Sí, señor. 	Уно мас маргарита, пор фавор. Вы много выпили, сеньор. Ой, Гектор, пор фавор. Ещё всего одну. Си, сеньор. 	['Уно', 'мас', 'маргарита', 'пор', 'фавор', 'Вы', 'много', 'выпили', 'сеньор', 'Ой', 'Гектор', 'пор', 'фавор', 'Ещё', 'всего', 'одну', 'Си', 'сеньор']	['You', 'have', 'had', 'many', 'señor', 'Sí', 'señor']
+178	Gracias. Come on, come on Oh, yeah! Oh, yeah! Oh, yeah! A little less conversation A little more action, please 	Грасиас. 	['Грасиас']	['Gracias', 'Come', 'on', 'come', 'on', 'Oh', 'yeah', 'Oh', 'yeah', 'Oh', 'yeah', 'A', 'little', 'less', 'conversation', 'A', 'little', 'more', 'action', 'please']
+179	Get out of here! 	А ну, убирайтесь! 	['А', 'ну', 'убирайтесь']	['Get', 'out', 'of', 'here']
+180	Come back. Hey. Come here. 	Ко мне! Эй, вы! Иди сюда! 	['Ко', 'мне', 'Эй', 'вы', 'Иди', 'сюда']	['Come', 'back', 'Hey', 'Come', 'here']
+181	Welcome, Jim. 	Приветствую, Джим. 	['Приветствую', 'Джим']	['Welcome', 'Jim']
+182	Please turn your attention to the screens displaying safety tips. 	Обратите внимание на экраны с информацией по технике безопасности. 	['Обратите', 'внимание', 'на', 'экраны', 'с', 'информацией', 'по', 'технике', 'безопасности']	['Please', 'turn', 'your', 'attention', 'to', 'the', 'screens', 'displaying', 'safety', 'tips']
+183	These spacesuits are designed to withstand the harsh environment of space. 	Эти скафандры способны выдержать суровые условия космоса. 	['Эти', 'скафандры', 'способны', 'выдержать', 'суровые', 'условия', 'космоса']	['These', 'spacesuits', 'are', 'designed', 'to', 'withstand', 'the', 'harsh', 'environment', 'of', 'space']
+184	The carbon fiber and polyamide construction 	Графитовое волокно и полиамидная конструкция… 	['Графитовое', 'волокно', 'и', 'полиамидная', 'конструкция…']	['The', 'carbon', 'fiber', 'and', 'polyamide', 'construction']
+185	means your suit is both flexible and durable. 	делают скафандр гибким и прочным. 	['делают', 'скафандр', 'гибким', 'и', 'прочным']	['means', 'your', 'suit', 'is', 'both', 'flexible', 'and', 'durable']
+186	Remember, your spacesuit is your lifeline. 	Помните: скафандр сохраняет вам жизнь. 	['Помните', 'скафандр', 'сохраняет', 'вам', 'жизнь']	['Remember', 'your', 'spacesuit', 'is', 'your', 'lifeline']
+187	Slide the handle on the right to release the air pressure. 	Потяните за рычаг справа от вас, чтобы сбалансировать давление. 	['Потяните', 'за', 'рычаг', 'справа', 'от', 'вас', 'чтобы', 'сбалансировать', 'давление']	['Slide', 'the', 'handle', 'on', 'the', 'right', 'to', 'release', 'the', 'air', 'pressure']
+188	Your magnetic boots are now engaged. 	Магнитные ботинки активированы. 	['Магнитные', 'ботинки', 'активированы']	['Your', 'magnetic', 'boots', 'are', 'now', 'engaged']
+189	They can be deactivated using the control panel on your arm. 	Их можно отключить, используя панель управления на левой руке. 	['Их', 'можно', 'отключить', 'используя', 'панель', 'управления', 'на', 'левой', 'руке']	['They', 'can', 'be', 'deactivated', 'using', 'the', 'control', 'panel', 'on', 'your', 'arm']
+190	Press the red button to open the airlock door. 	Нажмите на красную кнопку, чтобы открыть дверь шлюза. 	['Нажмите', 'на', 'красную', 'кнопку', 'чтобы', 'открыть', 'дверь', 'шлюза']	['Press', 'the', 'red', 'button', 'to', 'open', 'the', 'airlock', 'door']
+191	Have a wonderful time. 	Приятного времяпрепровождения. 	['Приятного', 'времяпрепровождения']	['Have', 'a', 'wonderful', 'time']
+192	Tether attached. 	Трос подсоединён. 	['Трос', 'подсоединён']	['Tether', 'attached']
+193	Welcome back, Jim. 	МАГНИТНАЯ ПОДОШВА С возвращением, Джим. 	['МАГНИТНАЯ', 'ПОДОШВА', 'С', 'возвращением', 'Джим']	['Welcome', 'back', 'Jim']
+194	We hope you decide to join us again soon for another thrilling experience. 	Надеемся, скоро вы вернётесь за новой порцией острых ощущений. 	['Надеемся', 'скоро', 'вы', 'вернётесь', 'за', 'новой', 'порцией', 'острых', 'ощущений']	['We', 'hope', 'you', 'decide', 'to', 'join', 'us', 'again', 'soon', 'for', 'another', 'thrilling', 'experience']
+195	Have a wonderful time. 	Приятного времяпрепровождения. 	['Приятного', 'времяпрепровождения']	['Have', 'a', 'wonderful', 'time']
+196	Aurora. 	АВРОРА ЛЭЙН, ПИСАТЕЛЬ Аврора. 	['АВРОРА', 'ЛЭЙН', 'ПИСАТЕЛЬ', 'Аврора']	['Aurora']
+197	Searching passenger profiles. 	Поиск в каталоге. 	['Поиск', 'в', 'каталоге']	['Searching', 'passenger', 'profiles']
+198	I'm Aurora Lane. Passenger 1456. I'm a writer. 	Я Аврора Лэйн, пассажир 14-56. Я писатель. 	['Я', 'Аврора', 'Лэйн', 'пассажир', '14-56', 'Я', 'писатель']	"[""I'm"", 'Aurora', 'Lane', 'Passenger', '1456', ""I'm"", 'a', 'writer']"
+199	I think we tell each other stories to know we're not alone, to make contact. 	Истории нужны нам, чтобы знать, что мы не одиноки. Чтобы наладить контакт. 	['Истории', 'нужны', 'нам', 'чтобы', 'знать', 'что', 'мы', 'не', 'одиноки', 'Чтобы', 'наладить', 'контакт']	"['I', 'think', 'we', 'tell', 'each', 'other', 'stories', 'to', 'know', ""we're"", 'not', 'alone', 'to', 'make', 'contact']"
+200	Your father was Oliver Lane, a Pulitzer Prize-winning author. 	Ваш отец - Оливер Лэйн. Лауреат Пулитцеровской премии. 	['Ваш', 'отец', 'Оливер', 'Лэйн', 'Лауреат', 'Пулитцеровской', 'премии']	['Your', 'father', 'was', 'Oliver', 'Lane', 'a', 'Pulitzer', 'Prize-winning', 'author']
+201	"No pressure, right? My dad used to say, ""If you live an ordinary life, ""all you'll have are ordinary stories. "	Это совсем не давит. Папа часто говорил... если у тебя обычная жизнь, то и истории будут обычные. 	['Это', 'совсем', 'не', 'давит', 'Папа', 'часто', 'говорил', 'если', 'у', 'тебя', 'обычная', 'жизнь', 'то', 'и', 'истории', 'будут', 'обычные']	"['No', 'pressure', 'right', 'My', 'dad', 'used', 'to', 'say', 'If', 'you', 'live', 'an', 'ordinary', 'life', 'all', ""you'll"", 'have', 'are', 'ordinary', 'stories']"
+202	"""You have to live a life of adventure."" "	Жизнь должна быть полна приключений. 	['Жизнь', 'должна', 'быть', 'полна', 'приключений']	['You', 'have', 'to', 'live', 'a', 'life', 'of', 'adventure']
+203	So... Here I am. 	И вот... я полетела. 	['И', 'вот', 'я', 'полетела']	['So', 'Here', 'I', 'am']
+204	Good morning. 	Доброе утро. 	['Доброе', 'утро']	['Good', 'morning']
+205	We're starting over in every way. 	Мы начинаем с нуля во всех смыслах. 	['Мы', 'начинаем', 'с', 'нуля', 'во', 'всех', 'смыслах']	"[""We're"", 'starting', 'over', 'in', 'every', 'way']"
+206	I'll have to figure out where to live, how to live, Who my friends will be. 	Придётся думать о том, где жить, как жить, кто будет моими друзьями. 	['Придётся', 'думать', 'о', 'том', 'где', 'жить', 'как', 'жить', 'кто', 'будет', 'моими', 'друзьями']	"[""I'll"", 'have', 'to', 'figure', 'out', 'where', 'to', 'live', 'how', 'to', 'live', 'Who', 'my', 'friends', 'will', 'be']"
+207	It's like the first day of school. If the school bus took 120 years to get there. 	Это как в первый день в школе. А школьный автобус идёт туда 120 лет. 	['Это', 'как', 'в', 'первый', 'день', 'в', 'школе', 'А', 'школьный', 'автобус', 'идёт', 'туда', '120', 'лет']	"[""It's"", 'like', 'the', 'first', 'day', 'of', 'school', 'If', 'the', 'school', 'bus', 'took', '120', 'years', 'to', 'get', 'there']"
+208	We're creating a culture... You are funny. 	- Мы создаём новую культуру, обычаи... - Ты забавная. 	['Мы', 'создаём', 'новую', 'культуру', 'обычаи', 'Ты', 'забавная']	"[""We're"", 'creating', 'a', 'culture', 'You', 'are', 'funny']"
+209	Do you ever read something and feel like it's written just for you? 	Бывало чувство, что писатель обращается именно к тебе? 	['Бывало', 'чувство', 'что', 'писатель', 'обращается', 'именно', 'к', 'тебе']	"['Do', 'you', 'ever', 'read', 'something', 'and', 'feel', 'like', ""it's"", 'written', 'just', 'for', 'you']"
+210	I don't do a lot of reading. 	Я не слишком много читаю. 	['Я', 'не', 'слишком', 'много', 'читаю']	"['I', ""don't"", 'do', 'a', 'lot', 'of', 'reading']"
+211	She's good. 	Она талантливая. 	['Она', 'талантливая']	"[""She's"", 'good']"
+212	Who's that? 	- Кто, сэр? - Аврора. 	['Кто', 'сэр', 'Аврора']	"[""Who's"", 'that']"
+213	- Aurora. - Ah... The sleeping girl. 	А! Спящая девушка. 	['А', 'Спящая', 'девушка']	['Aurora', 'Ah', 'The', 'sleeping', 'girl']
+214	You know, I'm not saying the universe is evil, but it sure has a nasty sense of humor. 	Я не считаю, что Вселенная зла, но у неё дурацкое чувство юмора. 	['Я', 'не', 'считаю', 'что', 'Вселенная', 'зла', 'но', 'у', 'неё', 'дурацкое', 'чувство', 'юмора']	"['You', 'know', ""I'm"", 'not', 'saying', 'the', 'universe', 'is', 'evil', 'but', 'it', 'sure', 'has', 'a', 'nasty', 'sense', 'of', 'humor']"
+215	How is that? 	Поясните. 	['Поясните']	['How', 'is', 'that']
+216	You get to fly to another planet, but you'll die along the way. 	Вот ты летишь на другую планету, но ты умрёшь по пути. 	['Вот', 'ты', 'летишь', 'на', 'другую', 'планету', 'но', 'ты', 'умрёшь', 'по', 'пути']	"['You', 'get', 'to', 'fly', 'to', 'another', 'planet', 'but', ""you'll"", 'die', 'along', 'the', 'way']"
+217	And you find the perfect woman 	И ты находишь женщину мечты. 	['И', 'ты', 'находишь', 'женщину', 'мечты']	['And', 'you', 'find', 'the', 'perfect', 'woman']
+218	right in front of you... 	И она так близко! 	['И', 'она', 'так', 'близко']	['right', 'in', 'front', 'of', 'you']
+219	Yet she's completely out of reach. 	Но совершенно недосягаема. 	['Но', 'совершенно', 'недосягаема']	"['Yet', ""she's"", 'completely', 'out', 'of', 'reach']"
+220	Yeah, I'll miss New York City. 	Да, по Нью-Йорку буду скучать. 	['Да', 'по', 'Нью-Йорку', 'буду', 'скучать']	"['Yeah', ""I'll"", 'miss', 'New', 'York', 'City']"
+221	Give me a cup of coffee and a view of the Chrysler Building, and I can write all day. 	Кофе и вид на Крайслер-билдинг - и я могу писать весь день. 	['Кофе', 'и', 'вид', 'на', 'Крайслер-билдинг', 'и', 'я', 'могу', 'писать', 'весь', 'день']	['Give', 'me', 'a', 'cup', 'of', 'coffee', 'and', 'a', 'view', 'of', 'the', 'Chrysler', 'Building', 'and', 'I', 'can', 'write', 'all', 'day']
+222	They do have coffee on Homestead II, right? 	В «Родной обители 2» ведь есть кофе? 	['В', '«Родной', 'обители', '2»', 'ведь', 'есть', 'кофе']	['They', 'do', 'have', 'coffee', 'on', 'Homestead', 'II', 'right']
+223	They better have coffee. If they don't, I have to turn around and come back to Earth. 	Надеюсь, что есть, иначе придётся лететь обратно на Землю. 	['Надеюсь', 'что', 'есть', 'иначе', 'придётся', 'лететь', 'обратно', 'на', 'Землю']	"['They', 'better', 'have', 'coffee', 'If', 'they', ""don't"", 'I', 'have', 'to', 'turn', 'around', 'and', 'come', 'back', 'to', 'Earth']"
+224	Is there anything you regret leaving behind? 	Значит, с Нью-Йорком вам будет жалко прощаться? 	['Значит', 'с', 'Нью-Йорком', 'вам', 'будет', 'жалко', 'прощаться']	['Is', 'there', 'anything', 'you', 'regret', 'leaving', 'behind']
+225	Yeah, I'll miss the trees in Central Park turning in the fall. I'll also miss crowds... 	Да, я буду скучать по Нью-Йорку. По его небоскрёбам... ИНСТРУКЦИЯ К КАПСУЛЕ ГИБЕРНАЦИИ 	['Да', 'я', 'буду', 'скучать', 'по', 'Нью-Йорку', 'По', 'его', 'небоскрёбам', 'ИНСТРУКЦИЯ', 'К', 'КАПСУЛЕ', 'ГИБЕРНАЦИИ']	"['Yeah', ""I'll"", 'miss', 'the', 'trees', 'in', 'Central', 'Park', 'turning', 'in', 'the', 'fall', ""I'll"", 'also', 'miss', 'crowds']"
+226	Say you were trapped on a desert island, 	Ты попал на необитаемый остров. 	['Ты', 'попал', 'на', 'необитаемый', 'остров']	['Say', 'you', 'were', 'trapped', 'on', 'a', 'desert', 'island']
+227	and you had the power to wish somebody there with you. 	И можешь пожелать, чтобы с тобой кто-то был. 	['И', 'можешь', 'пожелать', 'чтобы', 'с', 'тобой', 'кто-то', 'был']	['and', 'you', 'had', 'the', 'power', 'to', 'wish', 'somebody', 'there', 'with', 'you']
+228	You wouldn't be alone anymore. 	И ты не будешь одинок. 	['И', 'ты', 'не', 'будешь', 'одинок']	"['You', ""wouldn't"", 'be', 'alone', 'anymore']"
+229	But you'd be stranding the person on the island. How do... Would you make that wish? I don't know. I've never been on an island. 	Но вы так и останетесь на острове. Как бы ты… - Ты бы пожелал этого? - Не знаю. Я не был на островах. 	['Но', 'вы', 'так', 'и', 'останетесь', 'на', 'острове', 'Как', 'бы', 'ты…', 'Ты', 'бы', 'пожелал', 'этого', 'Не', 'знаю', 'Я', 'не', 'был', 'на', 'островах']	"['But', ""you'd"", 'be', 'stranding', 'the', 'person', 'on', 'the', 'island', 'How', 'do', 'Would', 'you', 'make', 'that', 'wish', 'I', ""don't"", 'know', ""I've"", 'never', 'been', 'on', 'an', 'island']"
+230	Okay, well, yeah. 	Ну хорошо, ладно. 	['Ну', 'хорошо', 'ладно']	['Okay', 'well', 'yeah']
+231	Uh... Forget the island. 	Пусть не остров. 	['Пусть', 'не', 'остров']	['Uh', 'Forget', 'the', 'island']
+232	Let's say you figured out how to do something 	Допустим, ты задумал совершить поступок... 	['Допустим', 'ты', 'задумал', 'совершить', 'поступок']	"[""Let's"", 'say', 'you', 'figured', 'out', 'how', 'to', 'do', 'something']"
+233	that would make your life a million times better, but you knew it was wrong and there's no taking it back. How do you do the math? 	который улучшит твою жизнь, но ты знаешь, что это неправильно. И обратного пути нет. Как ты поступишь? 	['который', 'улучшит', 'твою', 'жизнь', 'но', 'ты', 'знаешь', 'что', 'это', 'неправильно', 'И', 'обратного', 'пути', 'нет', 'Как', 'ты', 'поступишь']	"['that', 'would', 'make', 'your', 'life', 'a', 'million', 'times', 'better', 'but', 'you', 'knew', 'it', 'was', 'wrong', 'and', ""there's"", 'no', 'taking', 'it', 'back', 'How', 'do', 'you', 'do', 'the', 'math']"
+234	Jim, these are not robot questions. 	Роботы не решают такие задачи. 	['Роботы', 'не', 'решают', 'такие', 'задачи']	['Jim', 'these', 'are', 'not', 'robot', 'questions']
+235	I know how to wake Aurora up. Oh. Well, that seems like a fine idea. 	- Я знаю, как разбудить Аврору. - О! Это прекрасная идея. 	['Я', 'знаю', 'как', 'разбудить', 'Аврору', 'О', 'Это', 'прекрасная', 'идея']	['I', 'know', 'how', 'to', 'wake', 'Aurora', 'up', 'Oh', 'Well', 'that', 'seems', 'like', 'a', 'fine', 'idea']
+236	You could use some company. 	Друг вам не помешает. 	['Друг', 'вам', 'не', 'помешает']	['You', 'could', 'use', 'some', 'company']
+237	I'd be stranding her on this ship for the rest of her life. 	Но тогда она проведёт здесь всю свою жизнь. 	['Но', 'тогда', 'она', 'проведёт', 'здесь', 'всю', 'свою', 'жизнь']	"[""I'd"", 'be', 'stranding', 'her', 'on', 'this', 'ship', 'for', 'the', 'rest', 'of', 'her', 'life']"
+238	Oh. Well, you can't do that. 	О! Нельзя этого делать. 	['О', 'Нельзя', 'этого', 'делать']	"['Oh', 'Well', 'you', ""can't"", 'do', 'that']"
+239	What am I gonna do? I'm here for you. 	- Как же мне быть? - У вас есть я. 	['Как', 'же', 'мне', 'быть', 'У', 'вас', 'есть', 'я']	"['What', 'am', 'I', 'gonna', 'do', ""I'm"", 'here', 'for', 'you']"
+240	Arthur, you're a machine. 	Да, Артур, но ты - механизм. 	['Да', 'Артур', 'но', 'ты', 'механизм']	"['Arthur', ""you're"", 'a', 'machine']"
+241	See? You can't feel that. You don't have feelings. 	Видишь? Видишь? Ты не чувствуешь ничего. У тебя чувств нет. 	['Видишь', 'Видишь', 'Ты', 'не', 'чувствуешь', 'ничего', 'У', 'тебя', 'чувств', 'нет']	"['See', 'You', ""can't"", 'feel', 'that', 'You', ""don't"", 'have', 'feelings']"
+242	See? 	Видишь? 	['Видишь']	['See']
+243	That doesn't hurt. And you don't even mind. 	Тебе не больно. И ты не отвечаешь. 	['Тебе', 'не', 'больно', 'И', 'ты', 'не', 'отвечаешь']	"['That', ""doesn't"", 'hurt', 'And', 'you', ""don't"", 'even', 'mind']"
+244	'Cause you're not a person. 	Потому что... ты не человек. 	['Потому', 'что', 'ты', 'не', 'человек']	"[""'Cause"", ""you're"", 'not', 'a', 'person']"
+245	Don't even think about it. 	Не смей даже думать! 	['Не', 'смей', 'даже', 'думать']	"[""Don't"", 'even', 'think', 'about', 'it']"
+246	No more Aurora talk. I'm over it. 	Об Авроре больше ни слова. Я всё обдумал. 	['Об', 'Авроре', 'больше', 'ни', 'слова', 'Я', 'всё', 'обдумал']	"['No', 'more', 'Aurora', 'talk', ""I'm"", 'over', 'it']"
+247	I'm moving on. 	Буду жить дальше. 	['Буду', 'жить', 'дальше']	"[""I'm"", 'moving', 'on']"
+248	Don't even think about it! 	Не смей даже думать об этом! 	['Не', 'смей', 'даже', 'думать', 'об', 'этом']	"[""Don't"", 'even', 'think', 'about', 'it']"
+249	What am I gonna do? I'm just gonna sit and think about it? I'm not... I can't think about it, so I'm not going to. 	Думаешь, буду сидеть и думать об этом? Мне нельзя, я и не буду. 	['Думаешь', 'буду', 'сидеть', 'и', 'думать', 'об', 'этом', 'Мне', 'нельзя', 'я', 'и', 'не', 'буду']	"['What', 'am', 'I', 'gonna', 'do', ""I'm"", 'just', 'gonna', 'sit', 'and', 'think', 'about', 'it', ""I'm"", 'not', 'I', ""can't"", 'think', 'about', 'it', 'so', ""I'm"", 'not', 'going', 'to']"
+250	That's the deal. I've made my decision. I know what I'm doing. 	Я принял решение. Я знаю, что делаю. 	['Я', 'принял', 'решение', 'Я', 'знаю', 'что', 'делаю']	"[""That's"", 'the', 'deal', ""I've"", 'made', 'my', 'decision', 'I', 'know', 'what', ""I'm"", 'doing']"
+251	I just cut it off. I'm not... No more. 	Отрезал и всё! 	['Отрезал', 'и', 'всё']	"['I', 'just', 'cut', 'it', 'off', ""I'm"", 'not', 'No', 'more']"
+252	You won't hear me bring up her name again. I'll never even mention her name again. 	Больше ты не услышишь от меня её имя, я просто забуду её имя. 	['Больше', 'ты', 'не', 'услышишь', 'от', 'меня', 'её', 'имя', 'я', 'просто', 'забуду', 'её', 'имя']	"['You', ""won't"", 'hear', 'me', 'bring', 'up', 'her', 'name', 'again', ""I'll"", 'never', 'even', 'mention', 'her', 'name', 'again']"
+253	Done. 	Всё. 	['Всё']	['Done']
+254	You can't do it. 	Не надо. 	['Не', 'надо']	"['You', ""can't"", 'do', 'it']"
+255	Shaving off my beard. 	Я сбриваю бороду. 	['Я', 'сбриваю', 'бороду']	['Shaving', 'off', 'my', 'beard']
+256	Please don't do it. 	Пожалуйста, не надо. 	['Пожалуйста', 'не', 'надо']	"['Please', ""don't"", 'do', 'it']"
+257	Good morning, Aurora. 	Доброе утро, Аврора. 	['Доброе', 'утро', 'Аврора']	['Good', 'morning', 'Aurora']
+258	How are you feeling? 	Как себя чувствуете? 	['Как', 'себя', 'чувствуете']	['How', 'are', 'you', 'feeling']
+259	It's perfectly normal to feel confused. 	Растерянность - это абсолютно нормально. 	['Растерянность', 'это', 'абсолютно', 'нормально']	"[""It's"", 'perfectly', 'normal', 'to', 'feel', 'confused']"
+260	You just spent 120 years in suspended animation. 	Вы провели в полном анабиозе 120 лет. 	['Вы', 'провели', 'в', 'полном', 'анабиозе', '120', 'лет']	['You', 'just', 'spent', '120', 'years', 'in', 'suspended', 'animation']
+261	Grand concourse. 	Главный вестибюль 	['Главный', 'вестибюль']	['Grand', 'concourse']
+262	Hello? 	Эй! 	['Эй']	['Hello']
+263	Anybody? 	Есть кто-нибудь? 	['Есть', 'кто-нибудь']	['Anybody']
+264	Hello. 	Привет! 	['Привет']	['Hello']
+265	Hi. 	Привет! 	['Привет']	['Hi']
+266	Are you passenger or crew? 	Вы член экипажа? 	['Вы', 'член', 'экипажа']	['Are', 'you', 'passenger', 'or', 'crew']
+267	Passenger. 	Пассажир. 	['Пассажир']	['Passenger']
+268	Jim Preston. Aurora Lane. 	- Джим Престон. - Аврора Лэйн. 	['Джим', 'Престон', 'Аврора', 'Лэйн']	['Jim', 'Preston', 'Aurora', 'Lane']
+269	Do you know what's going on? 	Вы знаете, что происходит? 	['Вы', 'знаете', 'что', 'происходит']	"['Do', 'you', 'know', ""what's"", 'going', 'on']"
+270	Nobody else from my row woke up. 	Никто рядом со мной не проснулся. 	['Никто', 'рядом', 'со', 'мной', 'не', 'проснулся']	['Nobody', 'else', 'from', 'my', 'row', 'woke', 'up']
+271	Same for me. 	Как и у меня. 	['Как', 'и', 'у', 'меня']	['Same', 'for', 'me']
+272	The crew's supposed to wake up a month before we do, 	Ровно за месяц до нас должен был проснуться экипаж. 	['Ровно', 'за', 'месяц', 'до', 'нас', 'должен', 'был', 'проснуться', 'экипаж']	"['The', ""crew's"", 'supposed', 'to', 'wake', 'up', 'a', 'month', 'before', 'we', 'do']"
+273	but I haven't seen anybody. 	Но я никого не видела. 	['Но', 'я', 'никого', 'не', 'видела']	"['but', 'I', ""haven't"", 'seen', 'anybody']"
+274	The crew is still asleep. 	Экипаж ещё спит. 	['Экипаж', 'ещё', 'спит']	['The', 'crew', 'is', 'still', 'asleep']
+275	Are you saying nobody's awake? 	То есть никто не проснулся? 	['То', 'есть', 'никто', 'не', 'проснулся']	"['Are', 'you', 'saying', ""nobody's"", 'awake']"
+276	Just me. Just you? 	- Только я. - Только вы? 	['Только', 'я', 'Только', 'вы']	['Just', 'me', 'Just', 'you']
+277	It's just us. 	Я и вы. 	['Я', 'и', 'вы']	"[""It's"", 'just', 'us']"
+278	But somebody's got to land the ship in a few weeks. 	Подождите, но скоро нужно сажать корабль! 	['Подождите', 'но', 'скоро', 'нужно', 'сажать', 'корабль']	"['But', ""somebody's"", 'got', 'to', 'land', 'the', 'ship', 'in', 'a', 'few', 'weeks']"
+279	We will arrive in approximately 89 years. 	Прибудем приблизительно через 89 лет. 	['Прибудем', 'приблизительно', 'через', '89', 'лет']	['We', 'will', 'arrive', 'in', 'approximately', '89', 'years']
+280	Eighty-nine years? 	Через восемьдесят девять лет?! 	['Через', 'восемьдесят', 'девять', 'лет']	['Eighty-nine', 'years']
+281	The other passengers aren't late waking up. 	Все пассажиры должны проснуться вовремя. 	['Все', 'пассажиры', 'должны', 'проснуться', 'вовремя']	"['The', 'other', 'passengers', ""aren't"", 'late', 'waking', 'up']"
+282	We were early. 	Это мы - рано. 	['Это', 'мы', 'рано']	['We', 'were', 'early']
+283	We... We need help. Where's the crew? 	Нам нужна помощь. Где экипаж? 	['Нам', 'нужна', 'помощь', 'Где', 'экипаж']	"['We', 'We', 'need', 'help', ""Where's"", 'the', 'crew']"
+284	The crew's in a secure hibernation room. 	Экипаж в строго охраняемом гибернационном отсеке. 	['Экипаж', 'в', 'строго', 'охраняемом', 'гибернационном', 'отсеке']	"['The', ""crew's"", 'in', 'a', 'secure', 'hibernation', 'room']"
+285	Everything important, the controls, the reactors, the engines... It's all behind firewalls. 	Всё важное - пульты управления, реак- торы, двигатели - под надёжной защитой. 	['Всё', 'важное', 'пульты', 'управления', 'реак', 'торы', 'двигатели', 'под', 'надёжной', 'защитой']	"['Everything', 'important', 'the', 'controls', 'the', 'reactors', 'the', 'engines', ""It's"", 'all', 'behind', 'firewalls']"
+286	There's no way through. 	К ним не подобраться. 	['К', 'ним', 'не', 'подобраться']	"[""There's"", 'no', 'way', 'through']"
+287	How long have you been awake? 	А ты давно проснулся? 	['А', 'ты', 'давно', 'проснулся']	['How', 'long', 'have', 'you', 'been', 'awake']
+288	A year and three weeks. 	- Год и 3 недели назад. - О нет! 	['Год', 'и', '3', 'недели', 'назад', 'О', 'нет']	['A', 'year', 'and', 'three', 'weeks']
+289	No. No, no, no. No, this can't be happening. 	Нет, нет, нет... Этого не может быть. 	['Нет', 'нет', 'нет', 'Этого', 'не', 'может', 'быть']	"['No', 'No', 'no', 'no', 'No', 'this', ""can't"", 'be', 'happening']"
+290	We have to go back to sleep. 	Нам надо опять заснуть. 	['Нам', 'надо', 'опять', 'заснуть']	['We', 'have', 'to', 'go', 'back', 'to', 'sleep']
+291	Aurora, we can't. 	Аврора! Не получится. 	['Аврора', 'Не', 'получится']	"['Aurora', 'we', ""can't""]"
+292	We just have to get back to our pods and start them up again. 	Надо просто лечь в капсулы и запустить их! 	['Надо', 'просто', 'лечь', 'в', 'капсулы', 'и', 'запустить', 'их']	['We', 'just', 'have', 'to', 'get', 'back', 'to', 'our', 'pods', 'and', 'start', 'them', 'up', 'again']
+293	I can't find my pod. I can't find my pod. I can't find my pod. I don't know which... 	Не могу найти капсулу! Где моя капсула? Где она? 	['Не', 'могу', 'найти', 'капсулу', 'Где', 'моя', 'капсула', 'Где', 'она']	"['I', ""can't"", 'find', 'my', 'pod', 'I', ""can't"", 'find', 'my', 'pod', 'I', ""can't"", 'find', 'my', 'pod', 'I', ""don't"", 'know', 'which']"
+294	It doesn't matter. 	Это неважно! 	['Это', 'неважно']	"['It', ""doesn't"", 'matter']"
+295	- Aurora... - I can't find it! 	- Аврора! - Не вижу! 	['Аврора', 'Не', 'вижу']	"['Aurora', 'I', ""can't"", 'find', 'it']"
+296	- Stop. Aurora... - I can't find which one is mine! 	- Остановись! - Не могу найти! 	['Остановись', 'Не', 'могу', 'найти']	"['Stop', 'Aurora', 'I', ""can't"", 'find', 'which', 'one', 'is', 'mine']"
+297	- Stop. - I don't know which one is mine! - I'll help you. - I can't... 	- Какая же из них моя?! - Я тебе помогу! Стой! 	['Какая', 'же', 'из', 'них', 'моя', 'Я', 'тебе', 'помогу', 'Стой']	"['Stop', 'I', ""don't"", 'know', 'which', 'one', 'is', 'mine', ""I'll"", 'help', 'you', 'I', ""can't""]"
+298	Stop! It doesn't matter. 	Пойми, это неважно. 	['Пойми', 'это', 'неважно']	"['Stop', 'It', ""doesn't"", 'matter']"
+299	Putting somebody into hibernation requires special equipment. 	Чтобы ввести в гибернацию, нужно специальное оборудование. 	['Чтобы', 'ввести', 'в', 'гибернацию', 'нужно', 'специальное', 'оборудование']	['Putting', 'somebody', 'into', 'hibernation', 'requires', 'special', 'equipment']
+300	Remember the facility where they put us under, all the procedures we went through? 	Помнишь центр, где нас в неё вводили, процедуры, которые нам делали? 	['Помнишь', 'центр', 'где', 'нас', 'в', 'неё', 'вводили', 'процедуры', 'которые', 'нам', 'делали']	['Remember', 'the', 'facility', 'where', 'they', 'put', 'us', 'under', 'all', 'the', 'procedures', 'we', 'went', 'through']
+301	These pods are designed to keep us in hibernation, to wake us up at the right time, 	Капсулы поддерживают спящий режим и выводят из него. 	['Капсулы', 'поддерживают', 'спящий', 'режим', 'и', 'выводят', 'из', 'него']	['These', 'pods', 'are', 'designed', 'to', 'keep', 'us', 'in', 'hibernation', 'to', 'wake', 'us', 'up', 'at', 'the', 'right', 'time']
+302	but they can't put us back to sleep. 	Но погрузить обратно в сон не могут. 	['Но', 'погрузить', 'обратно', 'в', 'сон', 'не', 'могут']	"['but', 'they', ""can't"", 'put', 'us', 'back', 'to', 'sleep']"
+303	You don't think there's a way back into hibernation? 	И нас никак нельзя ввести в гибернацию? 	['И', 'нас', 'никак', 'нельзя', 'ввести', 'в', 'гибернацию']	"['You', ""don't"", 'think', ""there's"", 'a', 'way', 'back', 'into', 'hibernation']"
+304	No. 	Нет. 	['Нет']	['No']
+305	But there has to be. 	Должен быть способ! 	['Должен', 'быть', 'способ']	['But', 'there', 'has', 'to', 'be']
+306	There has to be. 	Обязательно должен быть! 	['Обязательно', 'должен', 'быть']	['There', 'has', 'to', 'be']
+307	9:00. Nighttime. 	9 часов. Ночь наступает. 	['9', 'часов', 'Ночь', 'наступает']	['9:00', 'Nighttime']
+308	I know I should be working the problem, but... I can't even keep my eyes open. 	Я знаю, что нам надо решать проблему, но у меня глаза слипаются. 	['Я', 'знаю', 'что', 'нам', 'надо', 'решать', 'проблему', 'но', 'у', 'меня', 'глаза', 'слипаются']	"['I', 'know', 'I', 'should', 'be', 'working', 'the', 'problem', 'but', 'I', ""can't"", 'even', 'keep', 'my', 'eyes', 'open']"
+309	You just came out of hibernation. 	Ты только вышла из гибернации. 	['Ты', 'только', 'вышла', 'из', 'гибернации']	['You', 'just', 'came', 'out', 'of', 'hibernation']
+310	It's going to be a couple of days before you're 100%. You should get some rest. 	Восстановление занимает несколько дней. Тебе нужно отдыхать. 	['Восстановление', 'занимает', 'несколько', 'дней', 'Тебе', 'нужно', 'отдыхать']	"[""It's"", 'going', 'to', 'be', 'a', 'couple', 'of', 'days', 'before', ""you're"", '100', 'You', 'should', 'get', 'some', 'rest']"
+311	Think I'm gonna have to. 	Наверное, придётся. 	['Наверное', 'придётся']	"['Think', ""I'm"", 'gonna', 'have', 'to']"
+312	I'll walk you to your cabin. No, it's okay. I'll be all right. 	- Я провожу тебя. - Нет, не надо. Я справлюсь. 	['Я', 'провожу', 'тебя', 'Нет', 'не', 'надо', 'Я', 'справлюсь']	"[""I'll"", 'walk', 'you', 'to', 'your', 'cabin', 'No', ""it's"", 'okay', ""I'll"", 'be', 'all', 'right']"
+313	Okay. 	Хорошо. 	['Хорошо']	['Okay']
+314	Good night, Aurora. 	Доброй ночи, Аврора. 	['Доброй', 'ночи', 'Аврора']	['Good', 'night', 'Aurora']
+315	More than a year? I can't imagine. 	Больше года? Не представляю. 	['Больше', 'года', 'Не', 'представляю']	"['More', 'than', 'a', 'year', 'I', ""can't"", 'imagine']"
+316	It must have been so hard for you. 	Должно быть, тяжело было? 	['Должно', 'быть', 'тяжело', 'было']	['It', 'must', 'have', 'been', 'so', 'hard', 'for', 'you']
+317	It was. Good night, Jim. 	- Ещё как. - Доброй ночи, Джим. 	['Ещё', 'как', 'Доброй', 'ночи', 'Джим']	['It', 'was', 'Good', 'night', 'Jim']
+318	Please buckle up and secure any loose items. 	Пожалуйста, пристегнитесь и поверьте незакреплённые предметы. 	['Пожалуйста', 'пристегнитесь', 'и', 'поверьте', 'незакреплённые', 'предметы']	['Please', 'buckle', 'up', 'and', 'secure', 'any', 'loose', 'items']
+319	- Whiskey, neat. - Sure thing. 	- Виски. Чистый. - Отличный выбор. 	['Виски', 'Чистый', 'Отличный', 'выбор']	['Whiskey', 'neat', 'Sure', 'thing']
+320	How's your day been? 	Как прошёл день? 	['Как', 'прошёл', 'день']	"[""How's"", 'your', 'day', 'been']"
+321	Aurora's awake. Congratulations. 	- Аврора проснулась. - Я поздравляю вас, сэр. 	['Аврора', 'проснулась', 'Я', 'поздравляю', 'вас', 'сэр']	"[""Aurora's"", 'awake', 'Congratulations']"
+322	You don't look happy. 	Почему вы грустите? 	['Почему', 'вы', 'грустите']	"['You', ""don't"", 'look', 'happy']"
+323	Arthur, can you keep a secret? Jim... 	- Ты секреты умеешь хранить? - Джим! 	['Ты', 'секреты', 'умеешь', 'хранить', 'Джим']	['Arthur', 'can', 'you', 'keep', 'a', 'secret', 'Jim']
+324	I'm not just a bartender, I'm a gentleman. 	Я не только бармен. Я джентльмен. 	['Я', 'не', 'только', 'бармен', 'Я', 'джентльмен']	"[""I'm"", 'not', 'just', 'a', 'bartender', ""I'm"", 'a', 'gentleman']"
+325	Don't tell Aurora that I woke her up. 	Не говори ей, что это я её разбудил. 	['Не', 'говори', 'ей', 'что', 'это', 'я', 'её', 'разбудил']	"[""Don't"", 'tell', 'Aurora', 'that', 'I', 'woke', 'her', 'up']"
+326	She thinks it was an accident. Let me tell her. Of course. 	- Когда-нибудь, однажды, я сам расскажу. - Конечно. 	['Когда-нибудь', 'однажды', 'я', 'сам', 'расскажу', 'Конечно']	['She', 'thinks', 'it', 'was', 'an', 'accident', 'Let', 'me', 'tell', 'her', 'Of', 'course']
+327	How can there be no way to put someone back into hibernation? What if a pod breaks down? 	Как это - нет способа? А если капсула сломалась? 	['Как', 'это', 'нет', 'способа', 'А', 'если', 'капсула', 'сломалась']	['How', 'can', 'there', 'be', 'no', 'way', 'to', 'put', 'someone', 'back', 'into', 'hibernation', 'What', 'if', 'a', 'pod', 'breaks', 'down']
+328	No hibernation pod has malfunctioned in thousands of interstellar flights. 	За всё время межпланетных полётов ни одна капсула не сломалась. 	['За', 'всё', 'время', 'межпланетных', 'полётов', 'ни', 'одна', 'капсула', 'не', 'сломалась']	['No', 'hibernation', 'pod', 'has', 'malfunctioned', 'in', 'thousands', 'of', 'interstellar', 'flights']
+329	Well, I'm awake. Hibernation pods are fail-safe. 	- Ну, я-то проснулась. - Капсулы гибернации очень надёжны. 	['Ну', 'я-то', 'проснулась', 'Капсулы', 'гибернации', 'очень', 'надёжны']	"['Well', ""I'm"", 'awake', 'Hibernation', 'pods', 'are', 'fail-safe']"
+330	Good morning. - Have you eaten? - No. I'm starving. 	- Доброе утро. Позавтракала? - Нет, умираю с голоду. 	['Доброе', 'утро', 'Позавтракала', 'Нет', 'умираю', 'с', 'голоду']	"['Good', 'morning', 'Have', 'you', 'eaten', 'No', ""I'm"", 'starving']"
+331	And this is the dumbest machine. 	А ещё эта тупая машина. 	['А', 'ещё', 'эта', 'тупая', 'машина']	['And', 'this', 'is', 'the', 'dumbest', 'machine']
+332	Happy to help. 	Рад помочь. 	['Рад', 'помочь']	['Happy', 'to', 'help']
+333	Gold-class breakfast. 	Завтрак пассажира золотого уровня. 	['Завтрак', 'пассажира', 'золотого', 'уровня']	['Gold-class', 'breakfast']
+334	Well, you're a man of simple tastes. I'm not a gold-class passenger. 	- У тебя непритязательный вкус. - У меня не золотой уровень. 	['У', 'тебя', 'непритязательный', 'вкус', 'У', 'меня', 'не', 'золотой', 'уровень']	"['Well', ""you're"", 'a', 'man', 'of', 'simple', 'tastes', ""I'm"", 'not', 'a', 'gold-class', 'passenger']"
+335	French breakfast puffs above my pay grade. What? This whole time? - Yeah. - What can I get you? - No. No, I'm fine. - Stop it. Really. Okay. 	Маффин на завтрак мне не по карману. - Ты всё это время… - Да. - Давай я тебе возьму! - Нет! Нет, не надо. - Да перестань! - Правда. Ну, ладно. 	['Маффин', 'на', 'завтрак', 'мне', 'не', 'по', 'карману', 'Ты', 'всё', 'это', 'время…', 'Да', 'Давай', 'я', 'тебе', 'возьму', 'Нет', 'Нет', 'не', 'надо', 'Да', 'перестань', 'Правда', 'Ну', 'ладно']	"['French', 'breakfast', 'puffs', 'above', 'my', 'pay', 'grade', 'What', 'This', 'whole', 'time', 'Yeah', 'What', 'can', 'I', 'get', 'you', 'No', 'No', ""I'm"", 'fine', 'Stop', 'it', 'Really', 'Okay']"
+336	Here you go. 	Держи. 	['Держи']	['Here', 'you', 'go']
+337	Yeah. 	Да. 	['Да']	['Yeah']
+338	So, I was thinking, maybe there's another way to go to sleep. 	Я тут подумала: может, нас можно как-то усыпить? 	['Я', 'тут', 'подумала', 'может', 'нас', 'можно', 'как-то', 'усыпить']	"['So', 'I', 'was', 'thinking', 'maybe', ""there's"", 'another', 'way', 'to', 'go', 'to', 'sleep']"
+339	What about the infirmary? I checked it out. It's just scanners and an Autodoc. 	- Чем-нибудь в медпункте? - Там только сканеры и Автодок. 	['Чем-нибудь', 'в', 'медпункте', 'Там', 'только', 'сканеры', 'и', 'Автодок']	"['What', 'about', 'the', 'infirmary', 'I', 'checked', 'it', 'out', ""It's"", 'just', 'scanners', 'and', 'an', 'Autodoc']"
+340	There could be another hibernation machine in the cargo hold. 	Может, оборудование для гибернации в багаже. 	['Может', 'оборудование', 'для', 'гибернации', 'в', 'багаже']	['There', 'could', 'be', 'another', 'hibernation', 'machine', 'in', 'the', 'cargo', 'hold']
+341	I had that thought, too. 	Я тоже так думал. 	['Я', 'тоже', 'так', 'думал']	['I', 'had', 'that', 'thought', 'too']
+342	And then I read the manifest. It's mostly farming stuff, machines and trade goods. 	Но в грузовой ведомости только семена, станки и промтовары. 	['Но', 'в', 'грузовой', 'ведомости', 'только', 'семена', 'станки', 'и', 'промтовары']	"['And', 'then', 'I', 'read', 'the', 'manifest', ""It's"", 'mostly', 'farming', 'stuff', 'machines', 'and', 'trade', 'goods']"
+343	Replacement parts for computers and engineering. 	Запчасти для компьютеров и техника. 	['Запчасти', 'для', 'компьютеров', 'и', 'техника']	['Replacement', 'parts', 'for', 'computers', 'and', 'engineering']
+344	We're not gonna find a hibernation facility in a box. 	Оборудования для гибернации там нет. 	['Оборудования', 'для', 'гибернации', 'там', 'нет']	"[""We're"", 'not', 'gonna', 'find', 'a', 'hibernation', 'facility', 'in', 'a', 'box']"
+345	- We could build our own. - We can't. 	- Сами соберём. - Не выйдет. 	['Сами', 'соберём', 'Не', 'выйдет']	"['We', 'could', 'build', 'our', 'own', 'We', ""can't""]"
+346	Jim, you're not even trying. I have tried everything. 	- Ты даже не хочешь попробовать! - Я уже всё испробовал. 	['Ты', 'даже', 'не', 'хочешь', 'попробовать', 'Я', 'уже', 'всё', 'испробовал']	"['Jim', ""you're"", 'not', 'even', 'trying', 'I', 'have', 'tried', 'everything']"
+347	For over a year, I... 	Больше года я... 	['Больше', 'года', 'я']	['For', 'over', 'a', 'year', 'I']
+348	I tried everything. 	Я пробовал всё. 	['Я', 'пробовал', 'всё']	['I', 'tried', 'everything']
+349	Well... Well, I'm not ready to give up. 	Ну а я не готова сдаться! 	['Ну', 'а', 'я', 'не', 'готова', 'сдаться']	"['Well', 'Well', ""I'm"", 'not', 'ready', 'to', 'give', 'up']"
+350	Infirmary. 	Медпункт. 	['Медпункт']	['Infirmary']
+351	What about research articles? Any kind of technical documents. 	А есть научные статьи, техническая документация? 	['А', 'есть', 'научные', 'статьи', 'техническая', 'документация']	['What', 'about', 'research', 'articles', 'Any', 'kind', 'of', 'technical', 'documents']
+352	Hibernation technology is proprietary. 	Гибернация - авторская технология компании. 	['Гибернация', 'авторская', 'технология', 'компании']	['Hibernation', 'technology', 'is', 'proprietary']
+353	The following articles deal with the subject on a theoretical level. 	Вот теоретические статьи, касающиеся этой темы. 	['Вот', 'теоретические', 'статьи', 'касающиеся', 'этой', 'темы']	['The', 'following', 'articles', 'deal', 'with', 'the', 'subject', 'on', 'a', 'theoretical', 'level']
+354	New file. My voyage. 	Новый файл. «Моё путешествие». 	['Новый', 'файл', '«Моё', 'путешествие»']	['New', 'file', 'My', 'voyage']
+355	I boarded the Avalon with an idea, a destination. 	Я поднялась на борт «Авалона», имея конкретную цель. 	['Я', 'поднялась', 'на', 'борт', '«Авалона»', 'имея', 'конкретную', 'цель']	['I', 'boarded', 'the', 'Avalon', 'with', 'an', 'idea', 'a', 'destination']
+356	Both now out of reach. 	Теперь она... недосягаема. 	['Теперь', 'она', 'недосягаема']	['Both', 'now', 'out', 'of', 'reach']
+357	I've been awake for seven days. 	Я проснулась уже неделю назад. 	['Я', 'проснулась', 'уже', 'неделю', 'назад']	"[""I've"", 'been', 'awake', 'for', 'seven', 'days']"
+358	Awake far too soon. 	Проснулась слишком рано. 	['Проснулась', 'слишком', 'рано']	['Awake', 'far', 'too', 'soon']
+359	And I may well spend the rest of my life here, 	И, возможно, проведу здесь всю жизнь. 	['И', 'возможно', 'проведу', 'здесь', 'всю', 'жизнь']	['And', 'I', 'may', 'well', 'spend', 'the', 'rest', 'of', 'my', 'life', 'here']
+360	in a steel world 1,000 meters long. 	В этой стальной вселенной протяжённостью 1 000 метров. 	['В', 'этой', 'стальной', 'вселенной', 'протяжённостью', '1', '000', 'метров']	['in', 'a', 'steel', 'world', '1,000', 'meters', 'long']
+361	There's another passenger awake, a mechanic named Jim Preston. 	На корабле есть ещё один проснувшийся - механик Джим Престон. 	['На', 'корабле', 'есть', 'ещё', 'один', 'проснувшийся', 'механик', 'Джим', 'Престон']	"[""There's"", 'another', 'passenger', 'awake', 'a', 'mechanic', 'named', 'Jim', 'Preston']"
+362	He seems to have accepted our fate. 	Похоже, он смирился с нашей участью. 	['Похоже', 'он', 'смирился', 'с', 'нашей', 'участью']	['He', 'seems', 'to', 'have', 'accepted', 'our', 'fate']
+363	But I'm scared. 	Мне очень страшно. 	['Мне', 'очень', 'страшно']	"['But', ""I'm"", 'scared']"
+364	I'm fighting to stay calm. 	Но я стараюсь сохранять спокойствие. 	['Но', 'я', 'стараюсь', 'сохранять', 'спокойствие']	"[""I'm"", 'fighting', 'to', 'stay', 'calm']"
+365	All the other passengers will sleep for another 90 years 	Остальные пассажиры будут спать ещё 90 лет. 	['Остальные', 'пассажиры', 'будут', 'спать', 'ещё', '90', 'лет']	['All', 'the', 'other', 'passengers', 'will', 'sleep', 'for', 'another', '90', 'years']
+366	while I live out my life on this ship, 	В то время как я проведу всю свою жизнь на этом корабле. 	['В', 'то', 'время', 'как', 'я', 'проведу', 'всю', 'свою', 'жизнь', 'на', 'этом', 'корабле']	['while', 'I', 'live', 'out', 'my', 'life', 'on', 'this', 'ship']
+367	traveling forever... 	Постоянно находясь в пути... 	['Постоянно', 'находясь', 'в', 'пути']	['traveling', 'forever']
+368	Never arriving... 	И так никуда и не добравшись. 	['И', 'так', 'никуда', 'и', 'не', 'добравшись']	['Never', 'arriving']
+369	My only companion a total stranger. 	Мой единственный спутник - человек, которого я совсем не знаю. 	['Мой', 'единственный', 'спутник', 'человек', 'которого', 'я', 'совсем', 'не', 'знаю']	['My', 'only', 'companion', 'a', 'total', 'stranger']
+370	Why did you do it? 	Зачем ты это сделал? 	['Зачем', 'ты', 'это', 'сделал']	['Why', 'did', 'you', 'do', 'it']
+371	Do what? 	Что сделал? 	['Что', 'сделал']	['Do', 'what']
+372	Emigrate. Leave Earth. 	Эмигрировал. Оставил Землю. 	['Эмигрировал', 'Оставил', 'Землю']	['Emigrate', 'Leave', 'Earth']
+373	I'm interviewing you. You're what? 	- Я беру интервью. - Для чего? 	['Я', 'беру', 'интервью', 'Для', 'чего']	"[""I'm"", 'interviewing', 'you', ""You're"", 'what']"
+374	You were the first hibernation failure in the history of space travel. 	Это первый сбой гибернации в истории покорения космоса. 	['Это', 'первый', 'сбой', 'гибернации', 'в', 'истории', 'покорения', 'космоса']	['You', 'were', 'the', 'first', 'hibernation', 'failure', 'in', 'the', 'history', 'of', 'space', 'travel']
+375	That makes you a story. 	О тебе стоит написать. 	['О', 'тебе', 'стоит', 'написать']	['That', 'makes', 'you', 'a', 'story']
+376	Who you gonna tell? Posterity. So, why did you give up your life on Earth? 	- Кому это нужно? - Потомкам. Итак? Почему ты улетел с Земли? 	['Кому', 'это', 'нужно', 'Потомкам', 'Итак', 'Почему', 'ты', 'улетел', 'с', 'Земли']	['Who', 'you', 'gonna', 'tell', 'Posterity', 'So', 'why', 'did', 'you', 'give', 'up', 'your', 'life', 'on', 'Earth']
+377	120-year space hibernation means you'll never see your family or friends again. 	120 лет гибернации. Ты больше не увидишь ни родных, ни друзей. 	['120', 'лет', 'гибернации', 'Ты', 'больше', 'не', 'увидишь', 'ни', 'родных', 'ни', 'друзей']	"['120-year', 'space', 'hibernation', 'means', ""you'll"", 'never', 'see', 'your', 'family', 'or', 'friends', 'again']"
+378	You'll wake up in a new century on a new planet. 	Очнёшься в другом столетии, на другой планете. 	['Очнёшься', 'в', 'другом', 'столетии', 'на', 'другой', 'планете']	"[""You'll"", 'wake', 'up', 'in', 'a', 'new', 'century', 'on', 'a', 'new', 'planet']"
+379	It's the ultimate geographical suicide. 	Географическое самоубийство! 	['Географическое', 'самоубийство']	"[""It's"", 'the', 'ultimate', 'geographical', 'suicide']"
+380	Well, I could ask you the same thing. 	А ты что на этот вопрос ответишь? 	['А', 'ты', 'что', 'на', 'этот', 'вопрос', 'ответишь']	['Well', 'I', 'could', 'ask', 'you', 'the', 'same', 'thing']
+381	But it's my interview. 	Я тебя интервьюирую. 	['Я', 'тебя', 'интервьюирую']	"['But', ""it's"", 'my', 'interview']"
+382	Were you running away from something? No. 	- Ты что, бежал от чего-нибудь? - Нет. 	['Ты', 'что', 'бежал', 'от', 'чего-нибудь', 'Нет']	['Were', 'you', 'running', 'away', 'from', 'something', 'No']
+383	- Everything was okay. - So? 	- Всё было хорошо. - Тогда - что? 	['Всё', 'было', 'хорошо', 'Тогда', 'что']	['Everything', 'was', 'okay', 'So']
+384	Well, I guess I just wanted a new world, I don't know, a fresh start. That's Homestead Company advertising. 	- Увидеть новый мир, начать всё с начала. - Это фраза из рекламы Обители. 	['Увидеть', 'новый', 'мир', 'начать', 'всё', 'с', 'начала', 'Это', 'фраза', 'из', 'рекламы', 'Обители']	"['Well', 'I', 'guess', 'I', 'just', 'wanted', 'a', 'new', 'world', 'I', ""don't"", 'know', 'a', 'fresh', 'start', ""That's"", 'Homestead', 'Company', 'advertising']"
+385	- Is it? - Jim. 	- Правда? - Джим. 	['Правда', 'Джим']	['Is', 'it', 'Jim']
+386	I... I know. I guess. You're right. 	Да, знаю, ты права. 	['Да', 'знаю', 'ты', 'права']	"['I', 'I', 'know', 'I', 'guess', ""You're"", 'right']"
+387	Back on Earth, when something breaks, you don't fix it, you replace it. 	На Земле уже давно ничего не чинят, а заменяют. 	['На', 'Земле', 'уже', 'давно', 'ничего', 'не', 'чинят', 'а', 'заменяют']	"['Back', 'on', 'Earth', 'when', 'something', 'breaks', 'you', ""don't"", 'fix', 'it', 'you', 'replace', 'it']"
+388	The colonies, they have problems to solve. 	В колониях же много проблем, которые надо решать. 	['В', 'колониях', 'же', 'много', 'проблем', 'которые', 'надо', 'решать']	['The', 'colonies', 'they', 'have', 'problems', 'to', 'solve']
+389	They're my kind of problems. 	Меня это привлекает. 	['Меня', 'это', 'привлекает']	"[""They're"", 'my', 'kind', 'of', 'problems']"
+390	And a mechanic is somebody. 	Механики там на вес золота. 	['Механики', 'там', 'на', 'вес', 'золота']	['And', 'a', 'mechanic', 'is', 'somebody']
+391	This is a new world still being built. 	Это ещё строящийся новый мир. 	['Это', 'ещё', 'строящийся', 'новый', 'мир']	['This', 'is', 'a', 'new', 'world', 'still', 'being', 'built']
+392	I could build a house and live in it. 	Я могу сам построить дом. 	['Я', 'могу', 'сам', 'построить', 'дом']	['I', 'could', 'build', 'a', 'house', 'and', 'live', 'in', 'it']
+393	Open country. Room to grow. 	Чистая природа, перспективы. 	['Чистая', 'природа', 'перспективы']	['Open', 'country', 'Room', 'to', 'grow']
+394	Now you're back to slogans. Can't slogans be true? 	- Это опять слоганы. - Они не могут быть правдой? 	['Это', 'опять', 'слоганы', 'Они', 'не', 'могут', 'быть', 'правдой']	"['Now', ""you're"", 'back', 'to', 'slogans', ""Can't"", 'slogans', 'be', 'true']"
+395	Do you know how much Homestead Company made off its first planet? 	Знаешь, сколько «Родная обитель» заработала на первой планете? 	['Знаешь', 'сколько', '«Родная', 'обитель»', 'заработала', 'на', 'первой', 'планете']	['Do', 'you', 'know', 'how', 'much', 'Homestead', 'Company', 'made', 'off', 'its', 'first', 'planet']
+396	Eight quadrillion dollars. That's eight million billions. 	8 квадриллионов долларов. Это 8 миллионов миллиардов. 	['8', 'квадриллионов', 'долларов', 'Это', '8', 'миллионов', 'миллиардов']	"['Eight', 'quadrillion', 'dollars', ""That's"", 'eight', 'million', 'billions']"
+397	Colony planets are the biggest business going. 	Колониальные планеты - крупный бизнес. 	['Колониальные', 'планеты', 'крупный', 'бизнес']	['Colony', 'planets', 'are', 'the', 'biggest', 'business', 'going']
+398	Did you pay full price for your ticket? 	Ты заплатил полную цену за билет? 	['Ты', 'заплатил', 'полную', 'цену', 'за', 'билет']	['Did', 'you', 'pay', 'full', 'price', 'for', 'your', 'ticket']
+399	No. I'm in a desirable trade. 	Нет. Им нужны такие, как я. 	['Нет', 'Им', 'нужны', 'такие', 'как', 'я']	"['No', ""I'm"", 'in', 'a', 'desirable', 'trade']"
+400	So they fill your head with dreams, discount your ticket, and you fly off to populate their planet 	Значит, они... наобещали с три короба... дали скидку, и ты улетел развивать их планету... 	['Значит', 'они', 'наобещали', 'с', 'три', 'короба', 'дали', 'скидку', 'и', 'ты', 'улетел', 'развивать', 'их', 'планету']	['So', 'they', 'fill', 'your', 'head', 'with', 'dreams', 'discount', 'your', 'ticket', 'and', 'you', 'fly', 'off', 'to', 'populate', 'their', 'planet']
+401	and give Homestead 20% of everything that you make for the rest of your life. 	и отдавать им 20% своих доходов до конца жизни. 	['и', 'отдавать', 'им', '20', 'своих', 'доходов', 'до', 'конца', 'жизни']	['and', 'give', 'Homestead', '20', 'of', 'everything', 'that', 'you', 'make', 'for', 'the', 'rest', 'of', 'your', 'life']
+402	Not to mention the debt you run up on this fancy starship. 	Это не говоря о долге, который набежит на корабле. 	['Это', 'не', 'говоря', 'о', 'долге', 'который', 'набежит', 'на', 'корабле']	['Not', 'to', 'mention', 'the', 'debt', 'you', 'run', 'up', 'on', 'this', 'fancy', 'starship']
+403	So all you see here is 5,000 suckers? 	Считаешь, все эти 5 000 человек - наивные? 	['Считаешь', 'все', 'эти', '5', '000', 'человек', 'наивные']	['So', 'all', 'you', 'see', 'here', 'is', '5,000', 'suckers']
+404	I see zeros on the Homestead Company's bottom line. 	Я считаю нули в сумме доходов «Родной обители». 	['Я', 'считаю', 'нули', 'в', 'сумме', 'доходов', '«Родной', 'обители»']	"['I', 'see', 'zeros', 'on', 'the', 'Homestead', ""Company's"", 'bottom', 'line']"
+405	I see 5,000 men and women changing their lives. 	А я считаю, что все эти люди меняют свою жизнь. 	['А', 'я', 'считаю', 'что', 'все', 'эти', 'люди', 'меняют', 'свою', 'жизнь']	['I', 'see', '5,000', 'men', 'and', 'women', 'changing', 'their', 'lives']
+406	For 5,000 different reasons. You don't know these people. 	Ты их не знаешь, а у них есть 5 000 причин. 	['Ты', 'их', 'не', 'знаешь', 'а', 'у', 'них', 'есть', '5', '000', 'причин']	"['For', '5,000', 'different', 'reasons', 'You', ""don't"", 'know', 'these', 'people']"
+407	I'm a journalist. I know people. 	Я журналист. Я знаю людей. 	['Я', 'журналист', 'Я', 'знаю', 'людей']	"[""I'm"", 'a', 'journalist', 'I', 'know', 'people']"
+408	Really? 	Правда? 	['Правда']	['Really']
+409	This one. 	Вот этот! 	['Вот', 'этот']	['This', 'one']
+410	Is he a banker, a teacher or a gardener? 	Кто он - банкир, учитель или садовник? 	['Кто', 'он', 'банкир', 'учитель', 'или', 'садовник']	['Is', 'he', 'a', 'banker', 'a', 'teacher', 'or', 'a', 'gardener']
+411	- Banker. - He's a gardener. 	- Банкир. - Садовник! 	['Банкир', 'Садовник']	"['Banker', ""He's"", 'a', 'gardener']"
+412	And her. Is she a... Madison, Donna or a Lola? 	А вот её зовут... Мэдисон, Донна или Лола? 	['А', 'вот', 'её', 'зовут', 'Мэдисон', 'Донна', 'или', 'Лола']	['And', 'her', 'Is', 'she', 'a', 'Madison', 'Donna', 'or', 'a', 'Lola']
+413	Donna's too serious for that hair. Lola. 	Донна - слишком пафосно для такой шевелюры. Лола. 	['Донна', 'слишком', 'пафосно', 'для', 'такой', 'шевелюры', 'Лола']	"[""Donna's"", 'too', 'serious', 'for', 'that', 'hair', 'Lola']"
+414	- Madison. - Shit! 	- Мэдисон. - Чёрт! 	['Мэдисон', 'Чёрт']	['Madison', 'Shit']
+415	All right, chef, accountant or midwife? 	Давай! Повар, бухгалтер или акушерка? 	['Давай', 'Повар', 'бухгалтер', 'или', 'акушерка']	['All', 'right', 'chef', 'accountant', 'or', 'midwife']
+416	She has to be a midwife. There's no way you just made that one up. 	Акушерка, не сомневаюсь. Ты бы такое не выдумал! 	['Акушерка', 'не', 'сомневаюсь', 'Ты', 'бы', 'такое', 'не', 'выдумал']	"['She', 'has', 'to', 'be', 'a', 'midwife', ""There's"", 'no', 'way', 'you', 'just', 'made', 'that', 'one', 'up']"
+417	Yeah. She's a midwife. 	Да, акушерка. 	['Да', 'акушерка']	"['Yeah', ""She's"", 'a', 'midwife']"
+418	I didn't know they still had midwives. 	Акушерки до сих пор есть? 	['Акушерки', 'до', 'сих', 'пор', 'есть']	"['I', ""didn't"", 'know', 'they', 'still', 'had', 'midwives']"
+419	I like her. We'd be friends. 	Хорошая. Мы бы подружились. 	['Хорошая', 'Мы', 'бы', 'подружились']	"['I', 'like', 'her', ""We'd"", 'be', 'friends']"
+420	You think you can see that? Don't you? 	- Думаешь, это можно увидеть? - А ты? 	['Думаешь', 'это', 'можно', 'увидеть', 'А', 'ты']	"['You', 'think', 'you', 'can', 'see', 'that', ""Don't"", 'you']"
+421	I do. 	Можно. 	['Можно']	['I', 'do']
+422	- A round-trip ticket? - That's right. 	- Туда и обратно? - Ну да. 	['Туда', 'и', 'обратно', 'Ну', 'да']	"['A', 'round-trip', 'ticket', ""That's"", 'right']"
+423	I was gonna fly to Homestead II, live for a year, and then right back to Earth. 	Хотела слетать туда, годик пожить и потом вернуться. 	['Хотела', 'слетать', 'туда', 'годик', 'пожить', 'и', 'потом', 'вернуться']	['I', 'was', 'gonna', 'fly', 'to', 'Homestead', 'II', 'live', 'for', 'a', 'year', 'and', 'then', 'right', 'back', 'to', 'Earth']
+424	I don't get it. I left Earth for a new life, but you end up back where you started? 	Все улетают ради новой жизни, а ты хочешь вернуться? 	['Все', 'улетают', 'ради', 'новой', 'жизни', 'а', 'ты', 'хочешь', 'вернуться']	"['I', ""don't"", 'get', 'it', 'I', 'left', 'Earth', 'for', 'a', 'new', 'life', 'but', 'you', 'end', 'up', 'back', 'where', 'you', 'started']"
+425	I end up in the future. Two hundred and fifty years in the future, 	Я окажусь в будущем. Через целых 250 лет. 	['Я', 'окажусь', 'в', 'будущем', 'Через', 'целых', '250', 'лет']	['I', 'end', 'up', 'in', 'the', 'future', 'Two', 'hundred', 'and', 'fifty', 'years', 'in', 'the', 'future']
+426	on Earth, which is still the center of civilization, like it or not. 	На Земле, которая всё равно будет центром цивилизации. 	['На', 'Земле', 'которая', 'всё', 'равно', 'будет', 'центром', 'цивилизации']	['on', 'Earth', 'which', 'is', 'still', 'the', 'center', 'of', 'civilization', 'like', 'it', 'or', 'not']
+427	And I'll be the only writer to ever travel to a colony world and come back. 	И я буду единственным писателем, побывавшем в колониальном мире. 	['И', 'я', 'буду', 'единственным', 'писателем', 'побывавшем', 'в', 'колониальном', 'мире']	"['And', ""I'll"", 'be', 'the', 'only', 'writer', 'to', 'ever', 'travel', 'to', 'a', 'colony', 'world', 'and', 'come', 'back']"
+428	I'll have a story no one else can tell. What story? 	- И я расскажу свою историю. - Какую историю? 	['И', 'я', 'расскажу', 'свою', 'историю', 'Какую', 'историю']	"[""I'll"", 'have', 'a', 'story', 'no', 'one', 'else', 'can', 'tell', 'What', 'story']"
+429	Humanity's flight to the stars. The greatest migration in human history. It's the biggest story there is. 	О полёте к звёздам, о величайшей миграции в мировой истории - это будет сенсация! 	['О', 'полёте', 'к', 'звёздам', 'о', 'величайшей', 'миграции', 'в', 'мировой', 'истории', 'это', 'будет', 'сенсация']	"[""Humanity's"", 'flight', 'to', 'the', 'stars', 'The', 'greatest', 'migration', 'in', 'human', 'history', ""It's"", 'the', 'biggest', 'story', 'there', 'is']"
+430	But you won't know any of the people who are reading it. But they'd be reading it. 	- Ты не будешь знать своих читателей. - Но люди будут читать. 	['Ты', 'не', 'будешь', 'знать', 'своих', 'читателей', 'Но', 'люди', 'будут', 'читать']	"['But', 'you', ""won't"", 'know', 'any', 'of', 'the', 'people', 'who', 'are', 'reading', 'it', 'But', ""they'd"", 'be', 'reading', 'it']"
+431	Or they would have been. 	Читали бы. 	['Читали', 'бы']	['Or', 'they', 'would', 'have', 'been']
+432	I'll never write it now. I don't know if I'll ever write again. 	Уже не напишу. Смогу ли я вообще писать? 	['Уже', 'не', 'напишу', 'Смогу', 'ли', 'я', 'вообще', 'писать']	"[""I'll"", 'never', 'write', 'it', 'now', 'I', ""don't"", 'know', 'if', ""I'll"", 'ever', 'write', 'again']"
+433	Jim, I can't think of anything else to try 	Джим, я думаю только о том, как постараться... 	['Джим', 'я', 'думаю', 'только', 'о', 'том', 'как', 'постараться']	"['Jim', 'I', ""can't"", 'think', 'of', 'anything', 'else', 'to', 'try']"
+434	to save us. 	спасти нас. 	['спасти', 'нас']	['to', 'save', 'us']
+435	And I don't even want to think about it anymore. 	Я не хочу больше говорить о книге. 	['Я', 'не', 'хочу', 'больше', 'говорить', 'о', 'книге']	"['And', 'I', ""don't"", 'even', 'want', 'to', 'think', 'about', 'it', 'anymore']"
+436	What is there to do around here? 	Чем тут можно заняться? 	['Чем', 'тут', 'можно', 'заняться']	['What', 'is', 'there', 'to', 'do', 'around', 'here']
+437	- Are you serious? - Dead serious. 	- Ты серьёзно? - Да, абсолютно. 	['Ты', 'серьёзно', 'Да', 'абсолютно']	['Are', 'you', 'serious', 'Dead', 'serious']
+438	- Partner mode. - Let's get it on! 	Командный режим! Ну, начали! 	['Командный', 'режим', 'Ну', 'начали']	"['Partner', 'mode', ""Let's"", 'get', 'it', 'on']"
+439	Come on, get in power mode. 	Давай, посоревнуемся! 	['Давай', 'посоревнуемся']	['Come', 'on', 'get', 'in', 'power', 'mode']
+440	You just stand here. 	Вставай сюда! 	['Вставай', 'сюда']	['You', 'just', 'stand', 'here']
+441	And then we repeat what they do. 	Надо повторять за ними. 	['Надо', 'повторять', 'за', 'ними']	['And', 'then', 'we', 'repeat', 'what', 'they', 'do']
+442	Uh, is there anything else we can do? 	А чем-то другим заняться можно? 	['А', 'чем-то', 'другим', 'заняться', 'можно']	['Uh', 'is', 'there', 'anything', 'else', 'we', 'can', 'do']
+443	- Just do the... - Okay. - You don't have to. - Okay. I can... 	- Попробуй, это весело! - Ладно, попробую! 	['Попробуй', 'это', 'весело', 'Ладно', 'попробую']	"['Just', 'do', 'the', 'Okay', 'You', ""don't"", 'have', 'to', 'Okay', 'I', 'can']"
+444	- Beat down! - Hey! 	Продула! Эй! 	['Продула', 'Эй']	['Beat', 'down', 'Hey']
+445	Here we go. Let's see it. Oh! 	Начали! Посмотрим! Ой! 	['Начали', 'Посмотрим', 'Ой']	"['Here', 'we', 'go', ""Let's"", 'see', 'it', 'Oh']"
+446	Whoa! Whoa! Oh. 	Ой! Ой! 	['Ой', 'Ой']	['Whoa', 'Whoa', 'Oh']
+447	Oh! - Why you smiling? - Aurora! Aurora! 	Ого! Чего улыбаешься? 	['Ого', 'Чего', 'улыбаешься']	['Oh', 'Why', 'you', 'smiling', 'Aurora', 'Aurora']
+448	'Cause I'm up two points. 	Веду на 2 очка! 	['Веду', 'на', '2', 'очка']	"[""'Cause"", ""I'm"", 'up', 'two', 'points']"
+449	Who's the lovely lady? This is Aurora. 	- Кто эта волшебная леди? - Это Аврора. 	['Кто', 'эта', 'волшебная', 'леди', 'Это', 'Аврора']	"[""Who's"", 'the', 'lovely', 'lady', 'This', 'is', 'Aurora']"
+450	Aurora. A pleasure. 	Аврора! Очень приятно. 	['Аврора', 'Очень', 'приятно']	['Aurora', 'A', 'pleasure']
+451	- I can't! - You did great! 	- Не могу! - Молодец! 	['Не', 'могу', 'Молодец']	"['I', ""can't"", 'You', 'did', 'great']"
+452	Okay, one more time. One more time, let's see it. 	Ещё один раз! Попробуем ещё раз. 	['Ещё', 'один', 'раз', 'Попробуем', 'ещё', 'раз']	"['Okay', 'one', 'more', 'time', 'One', 'more', 'time', ""let's"", 'see', 'it']"
+453	Oh! 	ФАНТАСТИЧЕСКАЯ ДРАМА 	['ФАНТАСТИЧЕСКАЯ', 'ДРАМА']	['Oh']
+454	- Yes! - Whoo! 	Да! 	['Да']	['Yes', 'Whoo']
+455	I swear, I didn't wear pants for a month. 	Я месяц ходил без штанов! 	['Я', 'месяц', 'ходил', 'без', 'штанов']	"['I', 'swear', 'I', ""didn't"", 'wear', 'pants', 'for', 'a', 'month']"
+456	Seven weeks and two days, to be exact. The man has no shame. 	7 недель и 2 дня. Мэм, у этого человека нет стыда. 	['7', 'недель', 'и', '2', 'дня', 'Мэм', 'у', 'этого', 'человека', 'нет', 'стыда']	['Seven', 'weeks', 'and', 'two', 'days', 'to', 'be', 'exact', 'The', 'man', 'has', 'no', 'shame']
+457	Well, you're a little lacking in that area yourself, Arthur. 	А у тебя, Артур, вообще в этой области недокомплект. 	['А', 'у', 'тебя', 'Артур', 'вообще', 'в', 'этой', 'области', 'недокомплект']	"['Well', ""you're"", 'a', 'little', 'lacking', 'in', 'that', 'area', 'yourself', 'Arthur']"
+458	I laughed at the man with no pants until I realized I have no legs. 	Я смеялся над ним до тех пор, пока не вспомнил, что сам безногий. 	['Я', 'смеялся', 'над', 'ним', 'до', 'тех', 'пор', 'пока', 'не', 'вспомнил', 'что', 'сам', 'безногий']	['I', 'laughed', 'at', 'the', 'man', 'with', 'no', 'pants', 'until', 'I', 'realized', 'I', 'have', 'no', 'legs']
+459	For a minute, I almost forgot my life is in ruins. 	На мгновенье забыла, что моя жизнь разрушена. 	['На', 'мгновенье', 'забыла', 'что', 'моя', 'жизнь', 'разрушена']	['For', 'a', 'minute', 'I', 'almost', 'forgot', 'my', 'life', 'is', 'in', 'ruins']
+460	I'm sorry. 	Прости. 	['Прости']	"[""I'm"", 'sorry']"
+461	What for? 	За что? 	['За', 'что']	['What', 'for']
+462	I'm gonna go to bed. 	Я пойду спать. 	['Я', 'пойду', 'спать']	"[""I'm"", 'gonna', 'go', 'to', 'bed']"
+463	Good night. 	- До завтра. - До завтра. 	['До', 'завтра', 'До', 'завтра']	['Good', 'night']
+464	- All right. - Good night, Aurora. 	Доброй ночи, Аврора. 	['Доброй', 'ночи', 'Аврора']	['All', 'right', 'Good', 'night', 'Aurora']
+465	She is wonderful. 	Она чудесная! 	['Она', 'чудесная']	['She', 'is', 'wonderful']
+466	Excellent choice. 	Отличный выбор. 	['Отличный', 'выбор']	['Excellent', 'choice']
+467	Hello. 	Здравствуй! 	['Здравствуй']	['Hello']
+468	Hi. 	Привет! 	['Привет']	['Hi']
+469	Here you go. 	Держи! 	['Держи']	['Here', 'you', 'go']
+470	Is he asking me on a date? 	ПОУЖИНАЕМ СЕГОДНЯ? ДЖИМ Он приглашает меня на свидание? 	['ПОУЖИНАЕМ', 'СЕГОДНЯ', 'ДЖИМ', 'Он', 'приглашает', 'меня', 'на', 'свидание']	['Is', 'he', 'asking', 'me', 'on', 'a', 'date']
+471	Do you need a pen? 	Ручку возьми. 	['Ручку', 'возьми']	['Do', 'you', 'need', 'a', 'pen']
+472	She didn't seem that impressed. 	Не так уж она и поразилась. 	['Не', 'так', 'уж', 'она', 'и', 'поразилась']	"['She', ""didn't"", 'seem', 'that', 'impressed']"
+473	"""Love to."" She wrote, ""Love to."" "	С УДОВОЛЬСТВИЕМ. Написала «с удовольствием», прикинь? 	['С', 'УДОВОЛЬСТВИЕМ', 'Написала', '«с', 'удовольствием»', 'прикинь']	['Love', 'to', 'She', 'wrote', 'Love', 'to']
+474	You have a visitor. 	К вам посетитель. 	['К', 'вам', 'посетитель']	['You', 'have', 'a', 'visitor']
+475	Wow. 	Ух ты! 	['Ух', 'ты']	['Wow']
+476	You clean up pretty good yourself. 	Я смотрю, ты приоделся. 	['Я', 'смотрю', 'ты', 'приоделся']	['You', 'clean', 'up', 'pretty', 'good', 'yourself']
+477	You went shopping. I went shoplifting. 	- Сходил в магазин? - Скорее, залез в магазин. 	['Сходил', 'в', 'магазин', 'Скорее', 'залез', 'в', 'магазин']	['You', 'went', 'shopping', 'I', 'went', 'shoplifting']
+478	Evening. What can I get for you? 	Добрый вечер. Чего желаете? 	['Добрый', 'вечер', 'Чего', 'желаете']	['Evening', 'What', 'can', 'I', 'get', 'for', 'you']
+479	I'll have a Manhattan, please. 	Мне «Манхэттен», пожалуйста! 	['Мне', '«Манхэттен»', 'пожалуйста']	"[""I'll"", 'have', 'a', 'Manhattan', 'please']"
+480	- Whiskey, rocks. - Coming up. 	- Виски со льдом. - Отличный выбор. 	['Виски', 'со', 'льдом', 'Отличный', 'выбор']	['Whiskey', 'rocks', 'Coming', 'up']
+481	You two look fine this evening. Thank you, Arthur. We're on a date. 	- Вы оба прекрасно выглядите. - Спасибо, Артур! У нас свидание! 	['Вы', 'оба', 'прекрасно', 'выглядите', 'Спасибо', 'Артур', 'У', 'нас', 'свидание']	"['You', 'two', 'look', 'fine', 'this', 'evening', 'Thank', 'you', 'Arthur', ""We're"", 'on', 'a', 'date']"
+482	Very nice. 	Замечательно! 	['Замечательно']	['Very', 'nice']
+483	Took you long enough to ask. I was giving you space. 	- Долго же ты с этим тянул. - Не хотел на тебя давить. 	['Долго', 'же', 'ты', 'с', 'этим', 'тянул', 'Не', 'хотел', 'на', 'тебя', 'давить']	['Took', 'you', 'long', 'enough', 'to', 'ask', 'I', 'was', 'giving', 'you', 'space']
+484	Space. 	Ох! «Давить»! 	['Ох', '«Давить»']	['Space']
+485	The one thing I do not need more of. That was so good. 	Ничто не давит больше, чем наша ситуация! Мерси боку! Всё так вкусно. 	['Ничто', 'не', 'давит', 'больше', 'чем', 'наша', 'ситуация', 'Мерси', 'боку', 'Всё', 'так', 'вкусно']	['The', 'one', 'thing', 'I', 'do', 'not', 'need', 'more', 'of', 'That', 'was', 'so', 'good']
+486	It wasn't easy getting a reservation. 	Забронировать столик было непросто. 	['Забронировать', 'столик', 'было', 'непросто']	"['It', ""wasn't"", 'easy', 'getting', 'a', 'reservation']"
+487	They're probably gonna want us to give up our table. - Mmm-hmm. - I'm getting a lot of dirty looks. 	Наверное, скоро начнут торопить. Ловлю недобрые взгляды. 	['Наверное', 'скоро', 'начнут', 'торопить', 'Ловлю', 'недобрые', 'взгляды']	"[""They're"", 'probably', 'gonna', 'want', 'us', 'to', 'give', 'up', 'our', 'table', 'Mmm-hmm', ""I'm"", 'getting', 'a', 'lot', 'of', 'dirty', 'looks']"
+488	Very popular tonight. 	Ага. Очень популярное место. 	['Ага', 'Очень', 'популярное', 'место']	['Very', 'popular', 'tonight']
+489	So how's your book coming? I don't really know what it is yet. 	- Как твоя книга? - Даже не знаю, книга ли это. 	['Как', 'твоя', 'книга', 'Даже', 'не', 'знаю', 'книга', 'ли', 'это']	"['So', ""how's"", 'your', 'book', 'coming', 'I', ""don't"", 'really', 'know', 'what', 'it', 'is', 'yet']"
+490	My dad, he used to always write about his life, but he had stories. 	Отец всегда писал о своей жизни, но ему было что рассказать. 	['Отец', 'всегда', 'писал', 'о', 'своей', 'жизни', 'но', 'ему', 'было', 'что', 'рассказать']	['My', 'dad', 'he', 'used', 'to', 'always', 'write', 'about', 'his', 'life', 'but', 'he', 'had', 'stories']
+491	He'd sailed around Antarctica. 	Он ходил на корабле по Антарктике. 	['Он', 'ходил', 'на', 'корабле', 'по', 'Антарктике']	"[""He'd"", 'sailed', 'around', 'Antarctica']"
+492	He was a war reporter. He had lovers. 	Был военным журналистом с кучей любовниц. 	['Был', 'военным', 'журналистом', 'с', 'кучей', 'любовниц']	['He', 'was', 'a', 'war', 'reporter', 'He', 'had', 'lovers']
+493	He wrote about his daughter. He wrote about you? 	Писал о своей дочери… - Писал о тебе? - Да. 	['Писал', 'о', 'своей', 'дочери…', 'Писал', 'о', 'тебе', 'Да']	['He', 'wrote', 'about', 'his', 'daughter', 'He', 'wrote', 'about', 'you']
+494	Yeah. I grew up reading about myself in his books. How was that? 	- Я выросла, читая книги о себе. - Каково это? 	['Я', 'выросла', 'читая', 'книги', 'о', 'себе', 'Каково', 'это']	['Yeah', 'I', 'grew', 'up', 'reading', 'about', 'myself', 'in', 'his', 'books', 'How', 'was', 'that']
+495	Not always easy. A little more than you wanted to know about yourself. 	Сомнительно. Не все подробности о себе хочется знать. 	['Сомнительно', 'Не', 'все', 'подробности', 'о', 'себе', 'хочется', 'знать']	['Not', 'always', 'easy', 'A', 'little', 'more', 'than', 'you', 'wanted', 'to', 'know', 'about', 'yourself']
+496	And then, when I was 17, 	А когда мне было 17 лет... 	['А', 'когда', 'мне', 'было', '17', 'лет']	['And', 'then', 'when', 'I', 'was', '17']
+497	he had a heart attack. 	его настиг инфаркт. 	['его', 'настиг', 'инфаркт']	['he', 'had', 'a', 'heart', 'attack']
+498	Right at his keypad. 	Прямо за компьютером. 	['Прямо', 'за', 'компьютером']	['Right', 'at', 'his', 'keypad']
+499	End of story. 	Конец истории. 	['Конец', 'истории']	['End', 'of', 'story']
+500	That was so serious. I'm sorry. 	Как-то всё мрачно. Прости, ладно? 	['Как-то', 'всё', 'мрачно', 'Прости', 'ладно']	"['That', 'was', 'so', 'serious', ""I'm"", 'sorry']"
+501	We need more wine. I like hearing about your life. 	- Нужно ещё выпить. - Мне нравится тебя узнавать. 	['Нужно', 'ещё', 'выпить', 'Мне', 'нравится', 'тебя', 'узнавать']	['We', 'need', 'more', 'wine', 'I', 'like', 'hearing', 'about', 'your', 'life']
+502	Thanks. 	Спасибо. 	['Спасибо']	['Thanks']
+503	Why are we here? You'll see. 	- Зачем мы сюда пришли? - Увидишь. 	['Зачем', 'мы', 'сюда', 'пришли', 'Увидишь']	"['Why', 'are', 'we', 'here', ""You'll"", 'see']"
+504	Best show in town. 	Лучший вид в городе. 	['Лучший', 'вид', 'в', 'городе']	['Best', 'show', 'in', 'town']
+505	So you've done this before? 	То есть ты уже это делал? 	['То', 'есть', 'ты', 'уже', 'это', 'делал']	"['So', ""you've"", 'done', 'this', 'before']"
+506	Oh, yeah. 	О, да! 	['О', 'да']	['Oh', 'yeah']
+507	And it's safe? No. 	- Это безопасно? - Нет! 	['Это', 'безопасно', 'Нет']	"['And', ""it's"", 'safe', 'No']"
+508	Reasonably safe. 	Ну, более-менее. 	['Ну', 'более-менее']	['Reasonably', 'safe']
+509	Hop in. You're next. 	Надевай скафандр. 	['Надевай', 'скафандр']	"['Hop', 'in', ""You're"", 'next']"
+510	What about my dress? 	Но я же в платье. 	['Но', 'я', 'же', 'в', 'платье']	['What', 'about', 'my', 'dress']
+511	Right. 	Да. 	['Да']	['Right']
+512	Turn around. 	Отвернись! 	['Отвернись']	['Turn', 'around']
+513	Tether attached. 	Трос прикреплён. 	['Трос', 'прикреплён']	['Tether', 'attached']
+514	What are you doing? Do you trust me? 	- Что ты делаешь? - Ты мне доверяешь? 	['Что', 'ты', 'делаешь', 'Ты', 'мне', 'доверяешь']	['What', 'are', 'you', 'doing', 'Do', 'you', 'trust', 'me']
+515	Thank you. 	Спасибо! 	['Спасибо']	['Thank', 'you']
+516	You're the most beautiful woman I've ever seen. 	Ты самая красивая женщина в мире. 	['Ты', 'самая', 'красивая', 'женщина', 'в', 'мире']	"[""You're"", 'the', 'most', 'beautiful', 'woman', ""I've"", 'ever', 'seen']"
+517	You kill me. 	Ты меня убиваешь. 	['Ты', 'меня', 'убиваешь']	['You', 'kill', 'me']
+518	You okay? 	Всё нормально? 	['Всё', 'нормально']	['You', 'okay']
+519	Yeah. 	Да. 	['Да']	['Yeah']
+520	I'm fine. 	Всё хорошо. 	['Всё', 'хорошо']	"[""I'm"", 'fine']"
+521	It's just... 	Просто… 	['Просто…']	"[""It's"", 'just']"
+522	Yeah, I know. 	Да, я знаю. 	['Да', 'я', 'знаю']	['Yeah', 'I', 'know']
+523	So, I'm seeing someone. 	В общем, я встречаюсь с парнем. 	['В', 'общем', 'я', 'встречаюсь', 'с', 'парнем']	"['So', ""I'm"", 'seeing', 'someone']"
+524	You'll never guess who. 	Ни за что не догадаетесь, с кем. 	['Ни', 'за', 'что', 'не', 'догадаетесь', 'с', 'кем']	"[""You'll"", 'never', 'guess', 'who']"
+525	We're the last two people in the world who would ever get together. 	Он последний, на кого бы я обычно запала, и наоборот. 	['Он', 'последний', 'на', 'кого', 'бы', 'я', 'обычно', 'запала', 'и', 'наоборот']	"[""We're"", 'the', 'last', 'two', 'people', 'in', 'the', 'world', 'who', 'would', 'ever', 'get', 'together']"
+526	But here we are. The last two people in the world. 	Но ведь мы и есть... двое последних людей на свете. 	['Но', 'ведь', 'мы', 'и', 'есть', 'двое', 'последних', 'людей', 'на', 'свете']	['But', 'here', 'we', 'are', 'The', 'last', 'two', 'people', 'in', 'the', 'world']
+527	What's that? I'm writing, Arthur. Hush. 	- Что-что? - Я пишу, Артур. Тише. 	['Что-что', 'Я', 'пишу', 'Артур', 'Тише']	"[""What's"", 'that', ""I'm"", 'writing', 'Arthur', 'Hush']"
+528	Jim and I live in accidental happiness. 	Мы с Джимом обрели наше нежданное счастье. 	['Мы', 'с', 'Джимом', 'обрели', 'наше', 'нежданное', 'счастье']	['Jim', 'and', 'I', 'live', 'in', 'accidental', 'happiness']
+529	Like castaways, making their home on strange shores. 	Подобно изгнанникам, обживающим чужие берега. 	['Подобно', 'изгнанникам', 'обживающим', 'чужие', 'берега']	['Like', 'castaways', 'making', 'their', 'home', 'on', 'strange', 'shores']
+530	"""Strange shores."" I love it. You do? You don't have to say that. "	«Чужие берега». - Здорово! - Не обязательно это говорить. 	['«Чужие', 'берега»', 'Здорово', 'Не', 'обязательно', 'это', 'говорить']	"['Strange', 'shores', 'I', 'love', 'it', 'You', 'do', 'You', ""don't"", 'have', 'to', 'say', 'that']"
+531	- I know. - You're not gonna eat this. 	- Я знаю. - Дай, всё равно не ешь! 	['Я', 'знаю', 'Дай', 'всё', 'равно', 'не', 'ешь']	"['I', 'know', ""You're"", 'not', 'gonna', 'eat', 'this']"
+532	Does that seem fishy to you? 	Вот бы нас не съели! 	['Вот', 'бы', 'нас', 'не', 'съели']	['Does', 'that', 'seem', 'fishy', 'to', 'you']
+533	Keep reading. 	Читай, читай! 	['Читай', 'читай']	['Keep', 'reading']
+534	It's funny. 	Смешно. 	['Смешно']	"[""It's"", 'funny']"
+535	We all have dreams. 	У каждого из нас есть мечты. ДРАГОЦЕННЫЕ МЕТАЛЛЫ 	['У', 'каждого', 'из', 'нас', 'есть', 'мечты', 'ДРАГОЦЕННЫЕ', 'МЕТАЛЛЫ']	['We', 'all', 'have', 'dreams']
+536	We plan our futures like we're the captains of our fates. 	Мы планируем будущее, как будто наша жизнь в наших руках. 	['Мы', 'планируем', 'будущее', 'как', 'будто', 'наша', 'жизнь', 'в', 'наших', 'руках']	"['We', 'plan', 'our', 'futures', 'like', ""we're"", 'the', 'captains', 'of', 'our', 'fates']"
+537	But we're passengers. 	Но мы лишь пассажиры. 	['Но', 'мы', 'лишь', 'пассажиры']	"['But', ""we're"", 'passengers']"
+538	We go where fate takes us. 	Плывём туда, куда несёт нас судьба. 	['Плывём', 'туда', 'куда', 'несёт', 'нас', 'судьба']	['We', 'go', 'where', 'fate', 'takes', 'us']
+539	I can't Help 	«Ничего не могу поделать с собой...» 	['«Ничего', 'не', 'могу', 'поделать', 'с', 'собой...»']	"['I', ""can't"", 'Help']"
+540	Arthur! 	Артур! 	['Артур']	['Arthur']
+541	This isn't the life we planned. 	Это не та жизнь, что мы планировали. 	['Это', 'не', 'та', 'жизнь', 'что', 'мы', 'планировали']	"['This', ""isn't"", 'the', 'life', 'we', 'planned']"
+542	But it's ours. 	Но она наша. 	['Но', 'она', 'наша']	"['But', ""it's"", 'ours']"
+543	And for the first time in my life, I don't feel alone. 	И впервые в жизни... я не чувствую себя одинокой. 	['И', 'впервые', 'в', 'жизни', 'я', 'не', 'чувствую', 'себя', 'одинокой']	"['And', 'for', 'the', 'first', 'time', 'in', 'my', 'life', 'I', ""don't"", 'feel', 'alone']"
+544	We weren't supposed to find each other. 	Мы не должны были найти друг друга. 	['Мы', 'не', 'должны', 'были', 'найти', 'друг', 'друга']	"['We', ""weren't"", 'supposed', 'to', 'find', 'each', 'other']"
+545	But we did. 	Но нашли. 	['Но', 'нашли']	['But', 'we', 'did']
+546	He makes me feel like my life isn't over. 	Он дал мне почувствовать, что моя жизнь не закончилась. 	['Он', 'дал', 'мне', 'почувствовать', 'что', 'моя', 'жизнь', 'не', 'закончилась']	"['He', 'makes', 'me', 'feel', 'like', 'my', 'life', ""isn't"", 'over']"
+547	Like it's just beginning. 	Что она только началась. 	['Что', 'она', 'только', 'началась']	"['Like', ""it's"", 'just', 'beginning']"
+548	How was your day? 	Как прошёл день? 	['Как', 'прошёл', 'день']	['How', 'was', 'your', 'day']
+549	Good. I wrote a few pages. 	Хорошо. Написала несколько страниц. 	['Хорошо', 'Написала', 'несколько', 'страниц']	['Good', 'I', 'wrote', 'a', 'few', 'pages']
+550	Did you find anything that can help us? 	Нашёл что-нибудь полезное? 	['Нашёл', 'что-нибудь', 'полезное']	['Did', 'you', 'find', 'anything', 'that', 'can', 'help', 'us']
+551	- I did. - Are they real? 	- Нашёл. - Они живые? 	['Нашёл', 'Они', 'живые']	['I', 'did', 'Are', 'they', 'real']
+552	I cut them myself. 	Я сам их срезал. 	['Я', 'сам', 'их', 'срезал']	['I', 'cut', 'them', 'myself']
+553	Oh, wow! 	Ух ты! 	['Ух', 'ты']	['Oh', 'wow']
+554	You know, for two unlucky people, we sure got pretty lucky. 	Знаешь, для неудачников мы очень даже счастливые. 	['Знаешь', 'для', 'неудачников', 'мы', 'очень', 'даже', 'счастливые']	['You', 'know', 'for', 'two', 'unlucky', 'people', 'we', 'sure', 'got', 'pretty', 'lucky']
+555	Attention. 	Внимание! 	['Внимание']	['Attention']
+556	You may wish to proceed to a viewing area. 	Возможно, вам стоит посетить наблюдательную зону. 	['Возможно', 'вам', 'стоит', 'посетить', 'наблюдательную', 'зону']	['You', 'may', 'wish', 'to', 'proceed', 'to', 'a', 'viewing', 'area']
+557	The Avalon will slingshot around the star Arcturus. 	«Авалон» совершит пролёт мимо звезды Арктур. 	['«Авалон»', 'совершит', 'пролёт', 'мимо', 'звезды', 'Арктур']	['The', 'Avalon', 'will', 'slingshot', 'around', 'the', 'star', 'Arcturus']
+558	Look! 	Смотри! 	['Смотри']	['Look']
+559	Oh, my God! 	О боже мой! 	['О', 'боже', 'мой']	['Oh', 'my', 'God']
+560	That was amazing. 	Это потрясающе! 	['Это', 'потрясающе']	['That', 'was', 'amazing']
+561	A red giant. 	Красный гигант. 	['Красный', 'гигант']	['A', 'red', 'giant']
+562	The universe's present to you. 	Подарок тебе от Вселенной. 	['Подарок', 'тебе', 'от', 'Вселенной']	"['The', ""universe's"", 'present', 'to', 'you']"
+563	What? 	Что? 	['Что']	['What']
+564	Happy birthday. 	С днём рождения. 	['С', 'днём', 'рождения']	['Happy', 'birthday']
+565	Happy birthday to you 	С днём рождения тебя! 	['С', 'днём', 'рождения', 'тебя']	['Happy', 'birthday', 'to', 'you']
+566	Happy birthday to you 	С днём рождения тебя! 	['С', 'днём', 'рождения', 'тебя']	['Happy', 'birthday', 'to', 'you']
+567	Happy birthday, dear Aurora 	С днём рождения, дорогая Аврора! 	['С', 'днём', 'рождения', 'дорогая', 'Аврора']	['Happy', 'birthday', 'dear', 'Aurora']
+568	Happy birthday to you 	С днём рождения тебя! 	['С', 'днём', 'рождения', 'тебя']	['Happy', 'birthday', 'to', 'you']
+569	A birthday drink for the birthday girl. 	Именинный напиток для именинницы! 	['Именинный', 'напиток', 'для', 'именинницы']	['A', 'birthday', 'drink', 'for', 'the', 'birthday', 'girl']
+570	Aren't you going to ask for my ID? I might not be old enough to drink. 	Документы не проверишь? Может быть, мне ещё рано пить? 	['Документы', 'не', 'проверишь', 'Может', 'быть', 'мне', 'ещё', 'рано', 'пить']	"[""Aren't"", 'you', 'going', 'to', 'ask', 'for', 'my', 'ID', 'I', 'might', 'not', 'be', 'old', 'enough', 'to', 'drink']"
+571	Oh, I would never ask your age in front of a gentleman. 	Никогда бы не спросил про возраст при джентльмене. 	['Никогда', 'бы', 'не', 'спросил', 'про', 'возраст', 'при', 'джентльмене']	['Oh', 'I', 'would', 'never', 'ask', 'your', 'age', 'in', 'front', 'of', 'a', 'gentleman']
+572	Jim's no gentleman. 	Джим не джентльмен. 	['Джим', 'не', 'джентльмен']	"[""Jim's"", 'no', 'gentleman']"
+573	Anyway, there's no secrets between me and Jim. 	И нет никаких секретов между нами. 	['И', 'нет', 'никаких', 'секретов', 'между', 'нами']	"['Anyway', ""there's"", 'no', 'secrets', 'between', 'me', 'and', 'Jim']"
+574	- Is that so? - You heard the lady. I will be right back. 	Неужели? Ну, леди же сказала. Сейчас вернусь! 	['Неужели', 'Ну', 'леди', 'же', 'сказала', 'Сейчас', 'вернусь']	['Is', 'that', 'so', 'You', 'heard', 'the', 'lady', 'I', 'will', 'be', 'right', 'back']
+575	This is a perfect birthday drink. Thank you. 	Идеальный именинный напиток! 	['Идеальный', 'именинный', 'напиток']	['This', 'is', 'a', 'perfect', 'birthday', 'drink', 'Thank', 'you']
+576	I remember this day a year ago. 	В этот же самый день год назад... 	['В', 'этот', 'же', 'самый', 'день', 'год', 'назад']	['I', 'remember', 'this', 'day', 'a', 'year', 'ago']
+577	Jim was so looking forward to meeting you. 	Джим не мог дождаться встречи с вами. 	['Джим', 'не', 'мог', 'дождаться', 'встречи', 'с', 'вами']	['Jim', 'was', 'so', 'looking', 'forward', 'to', 'meeting', 'you']
+578	What? 	Что? 	['Что']	['What']
+579	How could he be looking forward to it? 	Как он мог ждать встречи со мной? 	['Как', 'он', 'мог', 'ждать', 'встречи', 'со', 'мной']	['How', 'could', 'he', 'be', 'looking', 'forward', 'to', 'it']
+580	Oh, he spent months deciding whether to wake you up. 	Он долго раздумывал над тем, чтобы вас разбудить. 	['Он', 'долго', 'раздумывал', 'над', 'тем', 'чтобы', 'вас', 'разбудить']	['Oh', 'he', 'spent', 'months', 'deciding', 'whether', 'to', 'wake', 'you', 'up']
+581	He couldn't stop talking about you. 	Он говорил о вас, не переставая. 	['Он', 'говорил', 'о', 'вас', 'не', 'переставая']	"['He', ""couldn't"", 'stop', 'talking', 'about', 'you']"
+582	Jim woke me up? 	Джим меня разбудил? 	['Джим', 'меня', 'разбудил']	['Jim', 'woke', 'me', 'up']
+583	Oh, yes. 	О да! 	['О', 'да']	['Oh', 'yes']
+584	He said it was the hardest decision of his life. 	Он сказал, что это тяжелейшее решение в его жизни. 	['Он', 'сказал', 'что', 'это', 'тяжелейшее', 'решение', 'в', 'его', 'жизни']	['He', 'said', 'it', 'was', 'the', 'hardest', 'decision', 'of', 'his', 'life']
+585	But I see it worked out just fine. 	Но всё получилось прекрасно. 	['Но', 'всё', 'получилось', 'прекрасно']	['But', 'I', 'see', 'it', 'worked', 'out', 'just', 'fine']
+586	What? 	Что? 	['Что']	['What']
+587	Did you wake me up? 	Ты меня разбудил? 	['Ты', 'меня', 'разбудил']	['Did', 'you', 'wake', 'me', 'up']
+588	Yes, I woke you up. 	Да, это правда. 	['Да', 'это', 'правда']	['Yes', 'I', 'woke', 'you', 'up']
+589	How... How could you do it? 	Как?! Как ты мог?! 	['Как', 'Как', 'ты', 'мог']	['How', 'How', 'could', 'you', 'do', 'it']
+590	I tried not to. 	Я пытался себя остановить. 	['Я', 'пытался', 'себя', 'остановить']	['I', 'tried', 'not', 'to']
+591	I'm gonna be sick. 	Сейчас вырвет. 	['Сейчас', 'вырвет']	"[""I'm"", 'gonna', 'be', 'sick']"
+592	I can't see. 	Ничего не вижу. 	['Ничего', 'не', 'вижу']	"['I', ""can't"", 'see']"
+593	Aurora, please... 	Аврора, подожди! 	['Аврора', 'подожди']	['Aurora', 'please']
+594	Stay away from me! 	Не смей подходить ко мне! 	['Не', 'смей', 'подходить', 'ко', 'мне']	['Stay', 'away', 'from', 'me']
+595	I can't get off this ship. I can't get off this ship. I can't get off. No! 	Я не могу уйти. Не могу отсюда уйти. Не могу. 	['Я', 'не', 'могу', 'уйти', 'Не', 'могу', 'отсюда', 'уйти', 'Не', 'могу']	"['I', ""can't"", 'get', 'off', 'this', 'ship', 'I', ""can't"", 'get', 'off', 'this', 'ship', 'I', ""can't"", 'get', 'off', 'No']"
+596	Oh, God. 	О боже! 	['О', 'боже']	['Oh', 'God']
+597	Can I talk to you? 	Мы можем поговорить? 	['Мы', 'можем', 'поговорить']	['Can', 'I', 'talk', 'to', 'you']
+598	Aurora, 	Аврора! 	['Аврора']	['Aurora']
+599	I know nothing I can say will make this okay. 	Понимаю, никакие слова не исправят то, что я сделал. 	['Понимаю', 'никакие', 'слова', 'не', 'исправят', 'то', 'что', 'я', 'сделал']	['I', 'know', 'nothing', 'I', 'can', 'say', 'will', 'make', 'this', 'okay']
+600	But please listen. 	Но прошу, выслушай меня. 	['Но', 'прошу', 'выслушай', 'меня']	['But', 'please', 'listen']
+601	I was so alone for so long. 	Мне было одиноко. Очень одиноко. 	['Мне', 'было', 'одиноко', 'Очень', 'одиноко']	['I', 'was', 'so', 'alone', 'for', 'so', 'long']
+602	It felt like I was disappearing. 	Я чувствовал, что исчезаю. 	['Я', 'чувствовал', 'что', 'исчезаю']	['It', 'felt', 'like', 'I', 'was', 'disappearing']
+603	The night I first saw you, I was ready to... 	Прямо перед тем, как увидеть тебя, я чуть не… 	['Прямо', 'перед', 'тем', 'как', 'увидеть', 'тебя', 'я', 'чуть', 'не…']	['The', 'night', 'I', 'first', 'saw', 'you', 'I', 'was', 'ready', 'to']
+604	You saved my life. 	Ты спасла мне жизнь. 	['Ты', 'спасла', 'мне', 'жизнь']	['You', 'saved', 'my', 'life']
+605	And I know that's no excuse for what I did. 	Знаю - тому, что я сделал, нет оправдания. 	['Знаю', 'тому', 'что', 'я', 'сделал', 'нет', 'оправдания']	"['And', 'I', 'know', ""that's"", 'no', 'excuse', 'for', 'what', 'I', 'did']"
+606	I read everything you wrote, 	Я смотрел твои интервью. 	['Я', 'смотрел', 'твои', 'интервью']	['I', 'read', 'everything', 'you', 'wrote']
+607	and I fell in love with your voice 	Я влюбился... в твой голос. 	['Я', 'влюбился', 'в', 'твой', 'голос']	['and', 'I', 'fell', 'in', 'love', 'with', 'your', 'voice']
+608	and with the way your mind works. 	В твой образ мыслей. 	['В', 'твой', 'образ', 'мыслей']	['and', 'with', 'the', 'way', 'your', 'mind', 'works']
+609	I fell in love with you. 	Я влюбился в тебя. 	['Я', 'влюбился', 'в', 'тебя']	['I', 'fell', 'in', 'love', 'with', 'you']
+610	And all of a sudden, it was like I... I wasn't trapped anymore. 	И внезапно почувствовал... что я выбрался из этой ловушки. 	['И', 'внезапно', 'почувствовал', 'что', 'я', 'выбрался', 'из', 'этой', 'ловушки']	"['And', 'all', 'of', 'a', 'sudden', 'it', 'was', 'like', 'I', 'I', ""wasn't"", 'trapped', 'anymore']"
+611	My pointless life suddenly had meaning. 	Бесцельная жизнь наполнилась смыслом. 	['Бесцельная', 'жизнь', 'наполнилась', 'смыслом']	['My', 'pointless', 'life', 'suddenly', 'had', 'meaning']
+612	And I wish I could take it back. 	Я бы хотел всё исправить. 	['Я', 'бы', 'хотел', 'всё', 'исправить']	['And', 'I', 'wish', 'I', 'could', 'take', 'it', 'back']
+613	But I can't. 	Но не могу. 	['Но', 'не', 'могу']	"['But', 'I', ""can't""]"
+614	Aurora, I don't want to lose you. I don't care! 	- Аврора, я не хочу тебя потерять. - Да мне плевать! 	['Аврора', 'я', 'не', 'хочу', 'тебя', 'потерять', 'Да', 'мне', 'плевать']	"['Aurora', 'I', ""don't"", 'want', 'to', 'lose', 'you', 'I', ""don't"", 'care']"
+615	I don't care what you want! 	Мне плевать, чего ты хочешь! 	['Мне', 'плевать', 'чего', 'ты', 'хочешь']	"['I', ""don't"", 'care', 'what', 'you', 'want']"
+616	I don't care why you woke me up! 	Мне плевать, почему ты меня разбудил! 	['Мне', 'плевать', 'почему', 'ты', 'меня', 'разбудил']	"['I', ""don't"", 'care', 'why', 'you', 'woke', 'me', 'up']"
+617	You took my life! 	Ты отобрал у меня жизнь, сволочь! 	['Ты', 'отобрал', 'у', 'меня', 'жизнь', 'сволочь']	['You', 'took', 'my', 'life']
+618	Please stand by. Your suite's control center is rebooting. 	Не волнуйтесь. Идёт перезапуск центра управления вашего номера. СБОЙ СИСТЕМЫ ДИАГНОСТИКИ 	['Не', 'волнуйтесь', 'Идёт', 'перезапуск', 'центра', 'управления', 'вашего', 'номера', 'СБОЙ', 'СИСТЕМЫ', 'ДИАГНОСТИКИ']	"['Please', 'stand', 'by', 'Your', ""suite's"", 'control', 'center', 'is', 'rebooting']"
+619	I envy you, Arthur. 	Я тебе завидую, Артур. 	['Я', 'тебе', 'завидую', 'Артур']	['I', 'envy', 'you', 'Arthur']
+620	How so? 	Почему же? 	['Почему', 'же']	['How', 'so']
+621	You have a purpose. 	У тебя есть предназначение. 	['У', 'тебя', 'есть', 'предназначение']	['You', 'have', 'a', 'purpose']
+622	You're always happy. 	Ты всегда счастлив. 	['Ты', 'всегда', 'счастлив']	"[""You're"", 'always', 'happy']"
+623	How's your book coming along? 	А как продвигается ваша книга? 	['А', 'как', 'продвигается', 'ваша', 'книга']	"[""How's"", 'your', 'book', 'coming', 'along']"
+624	I've never written about myself before. 	Я никогда прежде о себе не писала. 	['Я', 'никогда', 'прежде', 'о', 'себе', 'не', 'писала']	"[""I've"", 'never', 'written', 'about', 'myself', 'before']"
+625	I think it's some of the best work I've ever done, and I don't even know why I'm doing it. 	По-моему, это моя лучшая книга, но я даже не знаю, зачем я её пишу. 	['По-моему', 'это', 'моя', 'лучшая', 'книга', 'но', 'я', 'даже', 'не', 'знаю', 'зачем', 'я', 'её', 'пишу']	"['I', 'think', ""it's"", 'some', 'of', 'the', 'best', 'work', ""I've"", 'ever', 'done', 'and', 'I', ""don't"", 'even', 'know', 'why', ""I'm"", 'doing', 'it']"
+626	There's only one person who could read it, and I can't stand him. 	Единственного, кто её может прочитать, я ненавижу. 	['Единственного', 'кто', 'её', 'может', 'прочитать', 'я', 'ненавижу']	"[""There's"", 'only', 'one', 'person', 'who', 'could', 'read', 'it', 'and', 'I', ""can't"", 'stand', 'him']"
+627	They say time heals all wounds. 	Говорят, время лечит любые раны. 	['Говорят', 'время', 'лечит', 'любые', 'раны']	['They', 'say', 'time', 'heals', 'all', 'wounds']
+628	Broken hearts aren't that simple, Arthur. 	С разбитым сердцем всё сложнее. 	['С', 'разбитым', 'сердцем', 'всё', 'сложнее']	"['Broken', 'hearts', ""aren't"", 'that', 'simple', 'Arthur']"
+629	You wouldn't understand. 	Тебе не понять. 	['Тебе', 'не', 'понять']	"['You', ""wouldn't"", 'understand']"
+630	Arthur! 	Артур! 	['Артур']	['Arthur']
+631	Tuesday's my day with Arthur. It's Wednesday. 	- Сегодня вторник - мой день. - Сегодня среда. 	['Сегодня', 'вторник', 'мой', 'день', 'Сегодня', 'среда']	"[""Tuesday's"", 'my', 'day', 'with', 'Arthur', ""It's"", 'Wednesday']"
+632	The bar's all yours. 	Бар твой, вперёд. 	['Бар', 'твой', 'вперёд']	"['The', ""bar's"", 'all', 'yours']"
+633	What'll you have? Whiskey? 	Чего желаете? Виски? 	['Чего', 'желаете', 'Виски']	"[""What'll"", 'you', 'have', 'Whiskey']"
+634	Coffee. 	Кофе. 	['Кофе']	['Coffee']
+635	Aurora! We love you! What are we gonna do without you? We'll miss you so... 	Аврора! Мы тебя любим! Как мы будем тут без тебя? 	['Аврора', 'Мы', 'тебя', 'любим', 'Как', 'мы', 'будем', 'тут', 'без', 'тебя']	"['Aurora', 'We', 'love', 'you', 'What', 'are', 'we', 'gonna', 'do', 'without', 'you', ""We'll"", 'miss', 'you', 'so']"
+636	You're the bravest woman I know. 	Ты очень храбрая девчонка! 	['Ты', 'очень', 'храбрая', 'девчонка']	"[""You're"", 'the', 'bravest', 'woman', 'I', 'know']"
+637	Bye, Aurora! 	Пока, Аврора! 	['Пока', 'Аврора']	['Bye', 'Aurora']
+638	I promise that I will think of you every day. 	Я обещаю думать о тебе каждый день. 	['Я', 'обещаю', 'думать', 'о', 'тебе', 'каждый', 'день']	['I', 'promise', 'that', 'I', 'will', 'think', 'of', 'you', 'every', 'day']
+639	When you wake up, I'll be gone, 	Ты проснёшься - а я уже умерла. 	['Ты', 'проснёшься', 'а', 'я', 'уже', 'умерла']	"['When', 'you', 'wake', 'up', ""I'll"", 'be', 'gone']"
+640	but just know that I will never forget you. 	Но просто знай: я тебя не забыла. 	['Но', 'просто', 'знай', 'я', 'тебя', 'не', 'забыла']	['but', 'just', 'know', 'that', 'I', 'will', 'never', 'forget', 'you']
+641	You're my best friend. 	Ты моя лучшая подруга. 	['Ты', 'моя', 'лучшая', 'подруга']	"[""You're"", 'my', 'best', 'friend']"
+642	You were never happy here. I know. 	Ты никогда не была здесь счастлива. 	['Ты', 'никогда', 'не', 'была', 'здесь', 'счастлива']	['You', 'were', 'never', 'happy', 'here', 'I', 'know']
+643	Nothing was ever enough for you. 	Тебе всегда хотелось большего. 	['Тебе', 'всегда', 'хотелось', 'большего']	['Nothing', 'was', 'ever', 'enough', 'for', 'you']
+644	You know, you don't have to go. 	Но необязательно улетать. 	['Но', 'необязательно', 'улетать']	"['You', 'know', 'you', ""don't"", 'have', 'to', 'go']"
+645	You could do whatever it is you have to do right here. 	Ты можешь заниматься всем, чем угодно, здесь. 	['Ты', 'можешь', 'заниматься', 'всем', 'чем', 'угодно', 'здесь']	['You', 'could', 'do', 'whatever', 'it', 'is', 'you', 'have', 'to', 'do', 'right', 'here']
+646	But, uh... Since you're going, here's my wish. 	А если всё же полетишь... хочу тебе пожелать вот что. 	['А', 'если', 'всё', 'же', 'полетишь', 'хочу', 'тебе', 'пожелать', 'вот', 'что']	"['But', 'uh', 'Since', ""you're"", 'going', ""here's"", 'my', 'wish']"
+647	I hope you finally find someone who fills your heart, and I hope you let him in. 	Найди того, кто заполнит твоё сердце, и... позволь ему это сделать. 	['Найди', 'того', 'кто', 'заполнит', 'твоё', 'сердце', 'и', 'позволь', 'ему', 'это', 'сделать']	['I', 'hope', 'you', 'finally', 'find', 'someone', 'who', 'fills', 'your', 'heart', 'and', 'I', 'hope', 'you', 'let', 'him', 'in']
+648	I hope you realize you don't have to do something amazing to be happy. 	Надеюсь, ты понимаешь: не надо делать ничего потрясающего, чтобы быть счастливой. 	['Надеюсь', 'ты', 'понимаешь', 'не', 'надо', 'делать', 'ничего', 'потрясающего', 'чтобы', 'быть', 'счастливой']	"['I', 'hope', 'you', 'realize', 'you', ""don't"", 'have', 'to', 'do', 'something', 'amazing', 'to', 'be', 'happy']"
+649	You know, have fun, 	Так что... отрывайся. 	['Так', 'что', 'отрывайся']	['You', 'know', 'have', 'fun']
+650	take chances. 	Рискуй. 	['Рискуй']	['take', 'chances']
+651	Um, okay. 	Ну, всё. 	['Ну', 'всё']	['Um', 'okay']
+652	I love you, Aurora. 	Я люблю тебя, Аврора. 	['Я', 'люблю', 'тебя', 'Аврора']	['I', 'love', 'you', 'Aurora']
+653	Bye. 	Пока! 	['Пока']	['Bye']
+654	Morning, Arthur! 	Доброе утро! 	['Доброе', 'утро']	['Morning', 'Arthur']
+655	- Coffee, please. - Coming up. 	- Кофе, пожалуйста! - Сию минуту. 	['Кофе', 'пожалуйста', 'Сию', 'минуту']	['Coffee', 'please', 'Coming', 'up']
+656	Are you soiling my barstool? 	Сейчас ты пачкаешь мой барный стул. 	['Сейчас', 'ты', 'пачкаешь', 'мой', 'барный', 'стул']	['Are', 'you', 'soiling', 'my', 'barstool']
+657	You want to make things, you got to get your hands dirty. 	Нельзя сделать что-то, не запачкав руки. 	['Нельзя', 'сделать', 'что-то', 'не', 'запачкав', 'руки']	['You', 'want', 'to', 'make', 'things', 'you', 'got', 'to', 'get', 'your', 'hands', 'dirty']
+658	And what have you been making? 	И что же ты делаешь? 	['И', 'что', 'же', 'ты', 'делаешь']	['And', 'what', 'have', 'you', 'been', 'making']
+659	Improvements. 	Улучшения. 	['Улучшения']	['Improvements']
+660	Grand concourse. 	Главный вестибюль. 	['Главный', 'вестибюль']	['Grand', 'concourse']
+661	First floor. 	Первый этаж. 	['Первый', 'этаж']	['First', 'floor']
+662	Gold-class breakfast. 	Завтрак пассажира золотого уровня. 	['Завтрак', 'пассажира', 'золотого', 'уровня']	['Gold-class', 'breakfast']
+663	This is Deck Chief Gus Mancuso. 	Говорит старший помощник капитана Гас Манкузо! 	['Говорит', 'старший', 'помощник', 'капитана', 'Гас', 'Манкузо']	['This', 'is', 'Deck', 'Chief', 'Gus', 'Mancuso']
+664	Who the hell planted a tree on my ship? 	Кто, чёрт возьми, посадил дерево на корабле?! 	['Кто', 'чёрт', 'возьми', 'посадил', 'дерево', 'на', 'корабле']	['Who', 'the', 'hell', 'planted', 'a', 'tree', 'on', 'my', 'ship']
+665	- Who did that? - I did. 	- Кто это сделал? - Я. 	['Кто', 'это', 'сделал', 'Я']	['Who', 'did', 'that', 'I', 'did']
+666	Who are you? Jim Preston. 	- Кто вы такой? - Джим Престон. 	['Кто', 'вы', 'такой', 'Джим', 'Престон']	['Who', 'are', 'you', 'Jim', 'Preston']
+667	Aurora Lane. 	Аврора Лэйн. 	['Аврора', 'Лэйн']	['Aurora', 'Lane']
+668	Anybody else awake? Just me and him. 	- Кто-то ещё проснулся? - Только мы с ним. 	['Кто-то', 'ещё', 'проснулся', 'Только', 'мы', 'с', 'ним']	['Anybody', 'else', 'awake', 'Just', 'me', 'and', 'him']
+669	How far along are we? 	Хорошо, сколько ещё лететь? 	['Хорошо', 'сколько', 'ещё', 'лететь']	['How', 'far', 'along', 'are', 'we']
+670	Eighty-eight years to go. 	88 лет. 	['88', 'лет']	['Eighty-eight', 'years', 'to', 'go']
+671	Hibernation failure. 	Сбой в гибернации. 	['Сбой', 'в', 'гибернации']	['Hibernation', 'failure']
+672	They said that couldn't happen. 	Сказали, это невозможно. 	['Сказали', 'это', 'невозможно']	"['They', 'said', 'that', ""couldn't"", 'happen']"
+673	Three people, three pod failures. 	Три человека... три поломки капсул. 	['Три', 'человека', 'три', 'поломки', 'капсул']	['Three', 'people', 'three', 'pod', 'failures']
+674	You have no idea how long I've been trying to get in there. 	Сколько же раз я пытался попасть сюда! 	['Сколько', 'же', 'раз', 'я', 'пытался', 'попасть', 'сюда']	"['You', 'have', 'no', 'idea', 'how', 'long', ""I've"", 'been', 'trying', 'to', 'get', 'in', 'there']"
+675	Now that you're in, don't touch anything. 	Ну вот, попали. Ничего не трогайте. 	['Ну', 'вот', 'попали', 'Ничего', 'не', 'трогайте']	"['Now', 'that', ""you're"", 'in', ""don't"", 'touch', 'anything']"
+676	This is where you work? 	Здесь вы работаете? 	['Здесь', 'вы', 'работаете']	['This', 'is', 'where', 'you', 'work']
+677	No, this is flight crew. I'm a deck chief. 	Здесь экипаж, а я старший по палубе. 	['Здесь', 'экипаж', 'а', 'я', 'старший', 'по', 'палубе']	"['No', 'this', 'is', 'flight', 'crew', ""I'm"", 'a', 'deck', 'chief']"
+678	Hmm. Ops, Navigation, Comm. 	Управление, навигация, коммуникации... 	['Управление', 'навигация', 'коммуникации']	['Hmm', 'Ops', 'Navigation', 'Comm']
+679	Hmm. Unauthorized personnel. 	Неуполномоченный персонал. 	['Неуполномоченный', 'персонал']	['Hmm', 'Unauthorized', 'personnel']
+680	Sorry. 	Простите. 	['Простите']	['Sorry']
+681	If I'm reading this right, we're still on course. 	Если не ошибаюсь... курс мы держим правильный. 	['Если', 'не', 'ошибаюсь', 'курс', 'мы', 'держим', 'правильный']	"['If', ""I'm"", 'reading', 'this', 'right', ""we're"", 'still', 'on', 'course']"
+682	So whatever's wrong with the ship, NavCom is still on the job. 	Даже если что-то не так, система связи работает. 	['Даже', 'если', 'что-то', 'не', 'так', 'система', 'связи', 'работает']	"['So', ""whatever's"", 'wrong', 'with', 'the', 'ship', 'NavCom', 'is', 'still', 'on', 'the', 'job']"
+683	There's something wrong with the ship? Three pod failures? Yeah, there's something wrong. Question is what. 	- А что-то не так? - Сбой в 3-х капсулах? Да! Что-то не так. Вопрос - что именно. 	['А', 'что-то', 'не', 'так', 'Сбой', 'в', '3-х', 'капсулах', 'Да', 'Что-то', 'не', 'так', 'Вопрос', 'что', 'именно']	"[""There's"", 'something', 'wrong', 'with', 'the', 'ship', 'Three', 'pod', 'failures', 'Yeah', ""there's"", 'something', 'wrong', 'Question', 'is', 'what']"
+684	That's strange. We should be getting diagnostics from all over the ship right here, but there's no data. 	Странно. Здесь должна быть показана диагностика корабля, но данных нет. 	['Странно', 'Здесь', 'должна', 'быть', 'показана', 'диагностика', 'корабля', 'но', 'данных', 'нет']	"[""That's"", 'strange', 'We', 'should', 'be', 'getting', 'diagnostics', 'from', 'all', 'over', 'the', 'ship', 'right', 'here', 'but', ""there's"", 'no', 'data']"
+685	Got to check all the systems manually. Can't we turn the ship around, go back to Earth? 	- Придётся проверять вручную. - Может, развернёмся и полетим обратно? 	['Придётся', 'проверять', 'вручную', 'Может', 'развернёмся', 'и', 'полетим', 'обратно']	"['Got', 'to', 'check', 'all', 'the', 'systems', 'manually', ""Can't"", 'we', 'turn', 'the', 'ship', 'around', 'go', 'back', 'to', 'Earth']"
+686	No, we're doing 50% of light speed. Turning back would take just as much time as going on. 	Наша скорость - половина скорости света. На разворот уйдёт не меньше времени. 	['Наша', 'скорость', 'половина', 'скорости', 'света', 'На', 'разворот', 'уйдёт', 'не', 'меньше', 'времени']	"['No', ""we're"", 'doing', '50', 'of', 'light', 'speed', 'Turning', 'back', 'would', 'take', 'just', 'as', 'much', 'time', 'as', 'going', 'on']"
+687	Well, there's got to be something we can do. Sorry. We're going where we're going. 	- Но хоть что-то можно сделать? - Увы, мы летим дальше. 	['Но', 'хоть', 'что-то', 'можно', 'сделать', 'Увы', 'мы', 'летим', 'дальше']	"['Well', ""there's"", 'got', 'to', 'be', 'something', 'we', 'can', 'do', 'Sorry', ""We're"", 'going', 'where', ""we're"", 'going']"
+688	You okay? 	Чёрт! Вы как? 	['Чёрт', 'Вы', 'как']	['You', 'okay']
+689	Hibernation hangover. 	Постгибернация. 	['Постгибернация']	['Hibernation', 'hangover']
+690	Get it all the time. 	Так каждый раз. 	['Так', 'каждый', 'раз']	['Get', 'it', 'all', 'the', 'time']
+691	Grand concourse. 	Главный вестибюль. 	['Главный', 'вестибюль']	['Grand', 'concourse']
+692	Two years, huh? 	Два года, да? 	['Два', 'года', 'да']	['Two', 'years', 'huh']
+693	Any more trees I need to know about? 	Ещё деревьев насажать успели? 	['Ещё', 'деревьев', 'насажать', 'успели']	['Any', 'more', 'trees', 'I', 'need', 'to', 'know', 'about']
+694	Look out! 	Осторожно! 	['Осторожно']	['Look', 'out']
+695	Never seen that before. 	А вот такое - впервые. 	['А', 'вот', 'такое', 'впервые']	['Never', 'seen', 'that', 'before']
+696	These robots have been breaking down. This guy makes fifteen? 	Да, роботы стали ломаться. Этот, по-моему... пятнадцатый. 	['Да', 'роботы', 'стали', 'ломаться', 'Этот', 'по-моему', 'пятнадцатый']	['These', 'robots', 'have', 'been', 'breaking', 'down', 'This', 'guy', 'makes', 'fifteen']
+697	Fifteen. The breakfast bar went crazy today. - Yeah, and an elevator. - Last week, my door broke. - I was trapped in my cabin for two days. - You were? 	Пятнадцатый... - Буфет сегодня тоже дурил. - И лифт тоже. Дверь каюты замыкает. Бывает, не выйдешь по два дня. Серьёзно? 	['Пятнадцатый', 'Буфет', 'сегодня', 'тоже', 'дурил', 'И', 'лифт', 'тоже', 'Дверь', 'каюты', 'замыкает', 'Бывает', 'не', 'выйдешь', 'по', 'два', 'дня', 'Серьёзно']	['Fifteen', 'The', 'breakfast', 'bar', 'went', 'crazy', 'today', 'Yeah', 'and', 'an', 'elevator', 'Last', 'week', 'my', 'door', 'broke', 'I', 'was', 'trapped', 'in', 'my', 'cabin', 'for', 'two', 'days', 'You', 'were']
+698	Things like that don't happen. Not on this ship. 	Такого на этих кораблях не должно быть. 	['Такого', 'на', 'этих', 'кораблях', 'не', 'должно', 'быть']	"['Things', 'like', 'that', ""don't"", 'happen', 'Not', 'on', 'this', 'ship']"
+699	There are 16 of these tech stations on every deck. 	На палубах по 16 таких техстанций. 	['На', 'палубах', 'по', '16', 'таких', 'техстанций']	['There', 'are', '16', 'of', 'these', 'tech', 'stations', 'on', 'every', 'deck']
+700	Dock your slate. - Data syncs automatically. Got it? - Hmm. 	Вставляете - данные синхронизируются. Ясно? 	['Вставляете', 'данные', 'синхронизируются', 'Ясно']	['Dock', 'your', 'slate', 'Data', 'syncs', 'automatically', 'Got', 'it', 'Hmm']
+701	- Yeah. - Okay. 	- Да. - Ладно. 	['Да', 'Ладно']	['Yeah', 'Okay']
+702	You take decks one and two. You take decks three and four. I'm going down to the hibernation bay, check our pods. 	Вам - палубы 1 и 2, вам - 3 и 4. А я - в отсек гибернации. Капсулы проверю. 	['Вам', 'палубы', '1', 'и', '2', 'вам', '3', 'и', '4', 'А', 'я', 'в', 'отсек', 'гибернации', 'Капсулы', 'проверю']	"['You', 'take', 'decks', 'one', 'and', 'two', 'You', 'take', 'decks', 'three', 'and', 'four', ""I'm"", 'going', 'down', 'to', 'the', 'hibernation', 'bay', 'check', 'our', 'pods']"
+703	Well, that should be interesting. 	Это уже интересно. 	['Это', 'уже', 'интересно']	['Well', 'that', 'should', 'be', 'interesting']
+704	Ain't you supposed to be making your rounds? 	Вы должны обойти все станции. 	['Вы', 'должны', 'обойти', 'все', 'станции']	"[""Ain't"", 'you', 'supposed', 'to', 'be', 'making', 'your', 'rounds']"
+705	I'm finished. 	Я обошёл все. 	['Я', 'обошёл', 'все']	"[""I'm"", 'finished']"
+706	I checked your pod. 	С вашей капсулой... 	['С', 'вашей', 'капсулой']	['I', 'checked', 'your', 'pod']
+707	Problem's very simple. The clock chip's burnt out. 	проблема очевидна: в ней полетел чип таймера. 	['проблема', 'очевидна', 'в', 'ней', 'полетел', 'чип', 'таймера']	"[""Problem's"", 'very', 'simple', 'The', 'clock', ""chip's"", 'burnt', 'out']"
+708	It ain't supposed to happen, but pretty simple. 	Маловероятно, но... всё же случилось. 	['Маловероятно', 'но', 'всё', 'же', 'случилось']	"['It', ""ain't"", 'supposed', 'to', 'happen', 'but', 'pretty', 'simple']"
+709	My pod's more complicated. 	С моей - сложнее. 	['С', 'моей', 'сложнее']	"['My', ""pod's"", 'more', 'complicated']"
+710	Bunch of system failures that all happened at the same time. Whole damn thing went haywire. 	Одновременный отказ ряда систем. Поэтому пошли перебои. 	['Одновременный', 'отказ', 'ряда', 'систем', 'Поэтому', 'пошли', 'перебои']	['Bunch', 'of', 'system', 'failures', 'that', 'all', 'happened', 'at', 'the', 'same', 'time', 'Whole', 'damn', 'thing', 'went', 'haywire']
+711	Explains why I'm feeling so bad. 	Понятно, почему мне так плохо. 	['Понятно', 'почему', 'мне', 'так', 'плохо']	"['Explains', 'why', ""I'm"", 'feeling', 'so', 'bad']"
+712	But Aurora's pod... 	А вот капсула Авроры… 	['А', 'вот', 'капсула', 'Авроры…']	"['But', ""Aurora's"", 'pod']"
+713	You did this. 	Вы её вскрыли. 	['Вы', 'её', 'вскрыли']	['You', 'did', 'this']
+714	Yeah. All this time, I'm thinking you're one lucky son of a bitch to get stuck with Aurora. 	Да. А я всё думал, какой вы везунчик, что оказались здесь с Авророй. 	['Да', 'А', 'я', 'всё', 'думал', 'какой', 'вы', 'везунчик', 'что', 'оказались', 'здесь', 'с', 'Авророй']	"['Yeah', 'All', 'this', 'time', ""I'm"", 'thinking', ""you're"", 'one', 'lucky', 'son', 'of', 'a', 'bitch', 'to', 'get', 'stuck', 'with', 'Aurora']"
+715	It wasn't luck, was it? 	А везение ни при чём. 	['А', 'везение', 'ни', 'при', 'чём']	"['It', ""wasn't"", 'luck', 'was', 'it']"
+716	No. 	Да. 	['Да']	['No']
+717	She knows? 	Она в курсе? 	['Она', 'в', 'курсе']	['She', 'knows']
+718	She knows. 	Да, в курсе. 	['Да', 'в', 'курсе']	['She', 'knows']
+719	How long were you alone? A year. 	- Долго вы были один? - Год. 	['Долго', 'вы', 'были', 'один', 'Год']	['How', 'long', 'were', 'you', 'alone', 'A', 'year']
+720	Still... 	И всё же… 	['И', 'всё', 'же…']	['Still']
+721	Damn. 	Чёрт! 	['Чёрт']	['Damn']
+722	Data received. 	Информация получена. 	['Информация', 'получена']	['Data', 'received']
+723	Data received. 	Информация получена. 	['Информация', 'получена']	['Data', 'received']
+724	- Data received. - Same as Jim's. 	Информация получена. То же, что и у Джима. 	['Информация', 'получена', 'То', 'же', 'что', 'и', 'у', 'Джима']	"['Data', 'received', 'Same', 'as', ""Jim's""]"
+725	Interpolating data. System shutdowns... Everywhere, but no apparent connection. 	Системы сбоят... но не наблюдаю никакой связи. 	['Системы', 'сбоят', 'но', 'не', 'наблюдаю', 'никакой', 'связи']	['Interpolating', 'data', 'System', 'shutdowns', 'Everywhere', 'but', 'no', 'apparent', 'connection']
+726	You saw the hibernation pods? 	Вы мою капсулу проверили? 	['Вы', 'мою', 'капсулу', 'проверили']	['You', 'saw', 'the', 'hibernation', 'pods']
+727	I saw them. 	Так точно. 	['Так', 'точно']	['I', 'saw', 'them']
+728	Data received. So you know 	Значит, знаете... 	['Значит', 'знаете']	['Data', 'received', 'So', 'you', 'know']
+729	what Jim did. 	что сделал Джим? 	['что', 'сделал', 'Джим']	['what', 'Jim', 'did']
+730	Yeah. 	Да. 	['Да']	['Yeah']
+731	And? 	И? 	['И']	['And']
+732	- It's not my... - He woke me up. 	- Это не моё де… - Он разбудил меня! 	['Это', 'не', 'моё', 'де…', 'Он', 'разбудил', 'меня']	"[""It's"", 'not', 'my', 'He', 'woke', 'me', 'up']"
+733	He took away my life. I know, and I'm sorry, but there's work I'd... It's murder. 	- Он отнял у меня жизнь! - Знаю, и мне очень жаль. - Но есть проблемы, кото… - Это убийство! 	['Он', 'отнял', 'у', 'меня', 'жизнь', 'Знаю', 'и', 'мне', 'очень', 'жаль', 'Но', 'есть', 'проблемы', 'кото…', 'Это', 'убийство']	"['He', 'took', 'away', 'my', 'life', 'I', 'know', 'and', ""I'm"", 'sorry', 'but', ""there's"", 'work', ""I'd"", ""It's"", 'murder']"
+734	You're right, Aurora. 	Вы правы, Аврора. 	['Вы', 'правы', 'Аврора']	"[""You're"", 'right', 'Aurora']"
+735	But the drowning man will always try and drag somebody down with him. 	Но утопающий всегда тянет кого-то за собой. 	['Но', 'утопающий', 'всегда', 'тянет', 'кого-то', 'за', 'собой']	['But', 'the', 'drowning', 'man', 'will', 'always', 'try', 'and', 'drag', 'somebody', 'down', 'with', 'him']
+736	It ain't right, but the man's drowning. 	Это неправильно. Но он тонет. 	['Это', 'неправильно', 'Но', 'он', 'тонет']	"['It', ""ain't"", 'right', 'but', 'the', ""man's"", 'drowning']"
+737	This one makes 16. 	Вот, уже шестнадцатый. 	['Вот', 'уже', 'шестнадцатый']	['This', 'one', 'makes', '16']
+738	Yeah. Hey. You okay? 	Сэр, всё в порядке? 	['Сэр', 'всё', 'в', 'порядке']	['Yeah', 'Hey', 'You', 'okay']
+739	- You should go rest. - Yeah. 	- Идите, отдохните. - Да. 	['Идите', 'отдохните', 'Да']	['You', 'should', 'go', 'rest', 'Yeah']
+740	But just a couple hours, and then back at it first thing in the morning. 	Но всего часик, а потом опять надо за работу. 	['Но', 'всего', 'часик', 'а', 'потом', 'опять', 'надо', 'за', 'работу']	['But', 'just', 'a', 'couple', 'hours', 'and', 'then', 'back', 'at', 'it', 'first', 'thing', 'in', 'the', 'morning']
+741	I was in the pool when the gravity gave out. 	ПОТЕРЯ ГРАВИТАЦИИ ГРАВИТАЦИЯ ВКЛЮЧЕНА Я была в бассейне, когда это случилось! 	['ПОТЕРЯ', 'ГРАВИТАЦИИ', 'ГРАВИТАЦИЯ', 'ВКЛЮЧЕНА', 'Я', 'была', 'в', 'бассейне', 'когда', 'это', 'случилось']	['I', 'was', 'in', 'the', 'pool', 'when', 'the', 'gravity', 'gave', 'out']
+742	Are you okay? We need to find Gus. 	- Ты как? - Надо найти Гаса. 	['Ты', 'как', 'Надо', 'найти', 'Гаса']	['Are', 'you', 'okay', 'We', 'need', 'to', 'find', 'Gus']
+743	Gus! Gus! 	Гас! Гас! 	['Гас', 'Гас']	['Gus', 'Gus']
+744	Gravity loss means that whatever's wrong is starting to hit the big-ticket items. 	Отказы начинают бить по самым важным системам. 	['Отказы', 'начинают', 'бить', 'по', 'самым', 'важным', 'системам']	"['Gravity', 'loss', 'means', 'that', ""whatever's"", 'wrong', 'is', 'starting', 'to', 'hit', 'the', 'big-ticket', 'items']"
+745	Not good. 	Нехорошо. 	['Нехорошо']	['Not', 'good']
+746	Every failure's a burnt out processor. Everything on board's thinking too hard. 	При каждом сбое сгорает один процессор. Все системы подвисают. 	['При', 'каждом', 'сбое', 'сгорает', 'один', 'процессор', 'Все', 'системы', 'подвисают']	"['Every', ""failure's"", 'a', 'burnt', 'out', 'processor', 'Everything', 'on', ""board's"", 'thinking', 'too', 'hard']"
+747	Why? 	Почему? 	['Почему']	['Why']
+748	Computer, display these failures over time. 	Компьютер, отобрази последовательность сбоев. 	['Компьютер', 'отобрази', 'последовательность', 'сбоев']	['Computer', 'display', 'these', 'failures', 'over', 'time']
+749	Processing timeline. 	Обрабатываю информацию. 	['Обрабатываю', 'информацию']	['Processing', 'timeline']
+750	Cascade failure. 	Каскадное отключение. 	['Каскадное', 'отключение']	['Cascade', 'failure']
+751	It started two years ago. Power surge. 	Скачок напряжения. 2 года назад. 	['Скачок', 'напряжения', '2', 'года', 'назад']	['It', 'started', 'two', 'years', 'ago', 'Power', 'surge']
+752	Seventeen failures in one day. 	17 сбоев за один день... 	['17', 'сбоев', 'за', 'один', 'день']	['Seventeen', 'failures', 'in', 'one', 'day']
+753	Including hibernation pod 1498. 	включая капсулу 14-98. 	['включая', 'капсулу', '14-98']	['Including', 'hibernation', 'pod', '1498']
+754	That's me. 	Это моя. 	['Это', 'моя']	"[""That's"", 'me']"
+755	Woke me up. 	Я проснулся. 	['Я', 'проснулся']	['Woke', 'me', 'up']
+756	- What happened that day? - Something big. 	- Что произошло? - Что-то серьёзное. 	['Что', 'произошло', 'Что-то', 'серьёзное']	['What', 'happened', 'that', 'day', 'Something', 'big']
+757	A major system went down somewhere. 	Отказ в основной системе. 	['Отказ', 'в', 'основной', 'системе']	['A', 'major', 'system', 'went', 'down', 'somewhere']
+758	Everything else on board is trying to pick up the load, but the load's too heavy. 	Остальные пытались взять на себя её функции, но не потянули. 	['Остальные', 'пытались', 'взять', 'на', 'себя', 'её', 'функции', 'но', 'не', 'потянули']	"['Everything', 'else', 'on', 'board', 'is', 'trying', 'to', 'pick', 'up', 'the', 'load', 'but', 'the', ""load's"", 'too', 'heavy']"
+759	Whatever started this, we got to find it. 	Мы должны найти причину! 	['Мы', 'должны', 'найти', 'причину']	['Whatever', 'started', 'this', 'we', 'got', 'to', 'find', 'it']
+760	And fix it. How bad can this get? 	- И устранить. - А что может произойти? 	['И', 'устранить', 'А', 'что', 'может', 'произойти']	['And', 'fix', 'it', 'How', 'bad', 'can', 'this', 'get']
+761	Give me risk analysis based on this data. 	Анализ рисков, основанный на этих данных! 	['Анализ', 'рисков', 'основанный', 'на', 'этих', 'данных']	['Give', 'me', 'risk', 'analysis', 'based', 'on', 'this', 'data']
+762	Extrapolating. 	Экстраполирую. 	['Экстраполирую']	['Extrapolating']
+763	A mission-critical failure is imminent. 	Высокая вероятность критичного для миссии сбоя. 	['Высокая', 'вероятность', 'критичного', 'для', 'миссии', 'сбоя']	['A', 'mission-critical', 'failure', 'is', 'imminent']
+764	Failing systems. Life Support, Fusion Reactor... 	Под угрозой системы жизнеобеспечения, термоядерный реактор… 	['Под', 'угрозой', 'системы', 'жизнеобеспечения', 'термоядерный', 'реактор…']	['Failing', 'systems', 'Life', 'Support', 'Fusion', 'Reactor']
+765	So we're stranded. 	Мы терпим бедствие... 	['Мы', 'терпим', 'бедствие']	"['So', ""we're"", 'stranded']"
+766	Hibernation Bay, Ion Drive... On a sinking ship. 	- ...ионный двигатель... - ...на тонущем корабле. 	['ионный', 'двигатель', 'на', 'тонущем', 'корабле']	['Hibernation', 'Bay', 'Ion', 'Drive', 'On', 'a', 'sinking', 'ship']
+767	Main Engineering. 	Главный инженерный отсек. 	['Главный', 'инженерный', 'отсек']	['Main', 'Engineering']
+768	Not a lot of things big enough to hit this ship that hard. 	Мало что может ударить по кораблю так сильно. 	['Мало', 'что', 'может', 'ударить', 'по', 'кораблю', 'так', 'сильно']	['Not', 'a', 'lot', 'of', 'things', 'big', 'enough', 'to', 'hit', 'this', 'ship', 'that', 'hard']
+769	With Diagnostics out, we'll have to find it ourselves. 	Диагностика не работает, придётся искать поломку самим. 	['Диагностика', 'не', 'работает', 'придётся', 'искать', 'поломку', 'самим']	"['With', 'Diagnostics', 'out', ""we'll"", 'have', 'to', 'find', 'it', 'ourselves']"
+770	Where do we start? 	С чего начинать? 	['С', 'чего', 'начинать']	['Where', 'do', 'we', 'start']
+771	Gus! 	Гас! 	['Гас']	['Gus']
+772	Scan complete. Analyzing data. 	Сканирование завершено. Анализирую данные. 	['Сканирование', 'завершено', 'Анализирую', 'данные']	['Scan', 'complete', 'Analyzing', 'data']
+773	What's it say is wrong with me? 	612 ПАТОЛОГИЙ Что там пишут? Что со мной? 	['612', 'ПАТОЛОГИЙ', 'Что', 'там', 'пишут', 'Что', 'со', 'мной']	"[""What's"", 'it', 'say', 'is', 'wrong', 'with', 'me']"
+774	It's a few things. 	Так, ерунда. 	['Так', 'ерунда']	"[""It's"", 'a', 'few', 'things']"
+775	612 disorders found. 	Обнаружено 612 патологий. 	['Обнаружено', '612', 'патологий']	['612', 'disorders', 'found']
+776	Get me out of here. 	Выпустите. 	['Выпустите']	['Get', 'me', 'out', 'of', 'here']
+777	What's the prognosis? 	И какой прогноз? 	['И', 'какой', 'прогноз']	"[""What's"", 'the', 'prognosis']"
+778	Critical diagnoses cannot be discussed without a doctor in attendance. 	Критические диагнозы не могут обсуждаться в отсутствии врача. 	['Критические', 'диагнозы', 'не', 'могут', 'обсуждаться', 'в', 'отсутствии', 'врача']	['Critical', 'diagnoses', 'cannot', 'be', 'discussed', 'without', 'a', 'doctor', 'in', 'attendance']
+779	Override on my authority. ID 2317. 	Под мою ответственность. Номер 2317. 	['Под', 'мою', 'ответственность', 'Номер', '2317']	['Override', 'on', 'my', 'authority', 'ID', '2317']
+780	Lay it on me, doc. 	Выкладывай, док. 	['Выкладывай', 'док']	['Lay', 'it', 'on', 'me', 'doc']
+781	Pansystemic necrosis. Progressive organ failure. Cause, unknown. 	Распространённый некроз. Полиорганная недостаточность. Причина неизвестна. 	['Распространённый', 'некроз', 'Полиорганная', 'недостаточность', 'Причина', 'неизвестна']	['Pansystemic', 'necrosis', 'Progressive', 'organ', 'failure', 'Cause', 'unknown']
+782	My goofy hibernation pod. That's the cause. 	Причина в моей гибернационной капсуле! 	['Причина', 'в', 'моей', 'гибернационной', 'капсуле']	"['My', 'goofy', 'hibernation', 'pod', ""That's"", 'the', 'cause']"
+783	- What's the treatment? - Various treatments are possible. None will meaningfully extend the patient's life. 	Лечение возможно? Ни один вариант лечения существенно не продлит жизнь пациента. 	['Лечение', 'возможно', 'Ни', 'один', 'вариант', 'лечения', 'существенно', 'не', 'продлит', 'жизнь', 'пациента']	"[""What's"", 'the', 'treatment', 'Various', 'treatments', 'are', 'possible', 'None', 'will', 'meaningfully', 'extend', 'the', ""patient's"", 'life']"
+784	How long have I got? 	Сколько мне осталось? 	['Сколько', 'мне', 'осталось']	['How', 'long', 'have', 'I', 'got']
+785	Your end-of-life transition is already underway. 	Ваш переход от жизни к смерти уже в процессе. 	['Ваш', 'переход', 'от', 'жизни', 'к', 'смерти', 'уже', 'в', 'процессе']	['Your', 'end-of-life', 'transition', 'is', 'already', 'underway']
+786	These sedatives will alleviate your suffering during these final hours. 	Эти препараты облегчат последние часы вашей жизни. 	['Эти', 'препараты', 'облегчат', 'последние', 'часы', 'вашей', 'жизни']	['These', 'sedatives', 'will', 'alleviate', 'your', 'suffering', 'during', 'these', 'final', 'hours']
+787	Gus. 	Гас! 	['Гас']	['Gus']
+788	I need a minute. 	Я на минутку. 	['Я', 'на', 'минутку']	['I', 'need', 'a', 'minute']
+789	We are experiencing difficulties in flight. 	Наш полёт столкнулся с затруднениями. НЕ ПОКИДАЙТЕ КАЮТУ! 	['Наш', 'полёт', 'столкнулся', 'с', 'затруднениями', 'НЕ', 'ПОКИДАЙТЕ', 'КАЮТУ']	['We', 'are', 'experiencing', 'difficulties', 'in', 'flight']
+790	- Gus! - Gus! Where could he be? 	- Гас! - Где же он? 	['Гас', 'Где', 'же', 'он']	['Gus', 'Gus', 'Where', 'could', 'he', 'be']
+791	For your own safety, please return to your cabins. 	Ради вашей же безопасности, пожалуйста, вернитесь в каюты! 	['Ради', 'вашей', 'же', 'безопасности', 'пожалуйста', 'вернитесь', 'в', 'каюты']	['For', 'your', 'own', 'safety', 'please', 'return', 'to', 'your', 'cabins']
+792	We are experiencing difficulties in flight. 	Наш полёт столкнулся с затруднениями. 	['Наш', 'полёт', 'столкнулся', 'с', 'затруднениями']	['We', 'are', 'experiencing', 'difficulties', 'in', 'flight']
+793	For your own safety, please return to your cabins. 	Ради вашей же безопасности, пожалуйста, вернитесь в каюты! 	['Ради', 'вашей', 'же', 'безопасности', 'пожалуйста', 'вернитесь', 'в', 'каюты']	['For', 'your', 'own', 'safety', 'please', 'return', 'to', 'your', 'cabins']
+794	Should've took the damn pills. 	Надо было принять эти чёртовы таблетки. 	['Надо', 'было', 'принять', 'эти', 'чёртовы', 'таблетки']	"[""Should've"", 'took', 'the', 'damn', 'pills']"
+795	- I'll go get them. - No. Stay here with me. 	- Я принесу. - Нет, останьтесь со мной. 	['Я', 'принесу', 'Нет', 'останьтесь', 'со', 'мной']	"[""I'll"", 'go', 'get', 'them', 'No', 'Stay', 'here', 'with', 'me']"
+796	Sit down. 	Сядьте. 	['Сядьте']	['Sit', 'down']
+797	You two take care of each other. 	Заботьтесь друг о друге. 	['Заботьтесь', 'друг', 'о', 'друге']	['You', 'two', 'take', 'care', 'of', 'each', 'other']
+798	My ID. 	Мой браслет... 	['Мой', 'браслет']	['My', 'ID']
+799	Get you where you need to go. 	даст доступ во все нужные отсеки. 	['даст', 'доступ', 'во', 'все', 'нужные', 'отсеки']	['Get', 'you', 'where', 'you', 'need', 'to', 'go']
+800	Fix the ship. 	Почините корабль. 	['Почините', 'корабль']	['Fix', 'the', 'ship']
+801	Find out what's wrong with her. 	Выясните, что не так. 	['Выясните', 'что', 'не', 'так']	"['Find', 'out', ""what's"", 'wrong', 'with', 'her']"
+802	How do I look? 	Как я выгляжу? 	['Как', 'я', 'выгляжу']	['How', 'do', 'I', 'look']
+803	You look magnificent. 	Великолепно, Гас. 	['Великолепно', 'Гас']	['You', 'look', 'magnificent']
+804	Ladies love the dress blues. 	Женщинам нравится военная фо… 	['Женщинам', 'нравится', 'военная', 'фо…']	['Ladies', 'love', 'the', 'dress', 'blues']
+805	What do we do now? 	Что нам теперь делать? 	['Что', 'нам', 'теперь', 'делать']	['What', 'do', 'we', 'do', 'now']
+806	This can't be good. 	Это очень плохо! 	['Это', 'очень', 'плохо']	"['This', ""can't"", 'be', 'good']"
+807	I'm going back to Engineering. 	Я в инженерный отсек. 	['Я', 'в', 'инженерный', 'отсек']	"[""I'm"", 'going', 'back', 'to', 'Engineering']"
+808	Can you fix this? 	Ты сможешь починить? 	['Ты', 'сможешь', 'починить']	['Can', 'you', 'fix', 'this']
+809	I need your help. 	Мне нужна твоя помощь. 	['Мне', 'нужна', 'твоя', 'помощь']	['I', 'need', 'your', 'help']
+810	Let's go. 	Пошли! 	['Пошли']	"[""Let's"", 'go']"
+811	Arthur! 	Артур! 	['Артур']	['Arthur']
+812	Let's go. 	Бежим! 	['Бежим']	"[""Let's"", 'go']"
+813	Yeah. 	Да. 	['Да']	['Yeah']
+814	Main Engineering. 	Главный инженерный отсек. 	['Главный', 'инженерный', 'отсек']	['Main', 'Engineering']
+815	Can't we wake up some of the crew? 	Разбудим кого-то из команды? 	['Разбудим', 'кого-то', 'из', 'команды']	"[""Can't"", 'we', 'wake', 'up', 'some', 'of', 'the', 'crew']"
+816	It'll take them too long to recover. We don't have that kind of time. 	Долго будут приходить в себя. Нет времени. 	['Долго', 'будут', 'приходить', 'в', 'себя', 'Нет', 'времени']	"[""It'll"", 'take', 'them', 'too', 'long', 'to', 'recover', 'We', ""don't"", 'have', 'that', 'kind', 'of', 'time']"
+817	What are we even looking for? 	А что мы будем искать? 	['А', 'что', 'мы', 'будем', 'искать']	['What', 'are', 'we', 'even', 'looking', 'for']
+818	Something broken. Something big. 	То, что сломано. Что-то большое. 	['То', 'что', 'сломано', 'Что-то', 'большое']	['Something', 'broken', 'Something', 'big']
+819	Come on. 	Идём! 	['Идём']	['Come', 'on']
+820	Is it broken? It seems okay. What's next? 	- Неисправно? - Вроде нет. Что дальше? 	['Неисправно', 'Вроде', 'нет', 'Что', 'дальше']	"['Is', 'it', 'broken', 'It', 'seems', 'okay', ""What's"", 'next']"
+821	Power plant. This way. 	Генератор. Туда! 	['Генератор', 'Туда']	['Power', 'plant', 'This', 'way']
+822	Come on. 	Давай! 	['Давай']	['Come', 'on']
+823	The whole section's closed off. Something's wrong. We're looking for wrong. 	- Отсек заблокирован - что-то не так. - Мы и ищем, что не так. 	['Отсек', 'заблокирован', 'что-то', 'не', 'так', 'Мы', 'и', 'ищем', 'что', 'не', 'так']	"['The', 'whole', ""section's"", 'closed', 'off', ""Something's"", 'wrong', ""We're"", 'looking', 'for', 'wrong']"
+824	Try to open it. 	Надо взломать. 	['Надо', 'взломать']	['Try', 'to', 'open', 'it']
+825	Warning. Pressure fault. Lockdown initiated. 	Внимание! Падение давления. Запуск блокировки дверей. 	['Внимание', 'Падение', 'давления', 'Запуск', 'блокировки', 'дверей']	['Warning', 'Pressure', 'fault', 'Lockdown', 'initiated']
+826	- Please secure all doors. - Hold on! 	Пожалуйста, заприте все двери. Аврора! 	['Пожалуйста', 'заприте', 'все', 'двери', 'Аврора']	['Please', 'secure', 'all', 'doors', 'Hold', 'on']
+827	Warning. Dangerous oxygen level. 	Внимание! Опасный уровень кислорода. 	['Внимание', 'Опасный', 'уровень', 'кислорода']	['Warning', 'Dangerous', 'oxygen', 'level']
+828	Please secure all doors. 	Пожалуйста, заприте все двери. 	['Пожалуйста', 'заприте', 'все', 'двери']	['Please', 'secure', 'all', 'doors']
+829	Dangerous oxygen level. 	Опасный уровень кислорода. 	['Опасный', 'уровень', 'кислорода']	['Dangerous', 'oxygen', 'level']
+830	Please secure all doors. 	Пожалуйста, заприте все двери. 	['Пожалуйста', 'заприте', 'все', 'двери']	['Please', 'secure', 'all', 'doors']
+831	Grab it! 	Хватай! 	['Хватай']	['Grab', 'it']
+832	Pressurizing cabin unsuccessful. 	Неудачная попытка повышения давления в отсеке. 	['Неудачная', 'попытка', 'повышения', 'давления', 'в', 'отсеке']	['Pressurizing', 'cabin', 'unsuccessful']
+833	Pressure normalized. 	О боже! Давление стабилизировано. 	['О', 'боже', 'Давление', 'стабилизировано']	['Pressure', 'normalized']
+834	Oxygen level restored. 	Уровень кислорода восстановлен. 	['Уровень', 'кислорода', 'восстановлен']	['Oxygen', 'level', 'restored']
+835	- There's a... - End lockdown. A hole in the ship. 	Блокировка прекращена. Там пробоина в корабле. 	['Блокировка', 'прекращена', 'Там', 'пробоина', 'в', 'корабле']	"[""There's"", 'a', 'End', 'lockdown', 'A', 'hole', 'in', 'the', 'ship']"
+836	More than one. 	И не одна. 	['И', 'не', 'одна']	['More', 'than', 'one']
+837	How did that even happen? The ship's supposed to be meteor-proof. 	Должна же быть защита от астероидов. 	['Должна', 'же', 'быть', 'защита', 'от', 'астероидов']	"['How', 'did', 'that', 'even', 'happen', 'The', ""ship's"", 'supposed', 'to', 'be', 'meteor-proof']"
+838	I guess one got through. 	Значит, один пробился. 	['Значит', 'один', 'пробился']	['I', 'guess', 'one', 'got', 'through']
+839	It's hot. 	Горячо! 	['Горячо']	"[""It's"", 'hot']"
+840	I think we found it. 	Вот мы и нашли. 	['Вот', 'мы', 'и', 'нашли']	['I', 'think', 'we', 'found', 'it']
+841	It's the reactor-control computer. 	Это компьютер, управляющий реактором. 	['Это', 'компьютер', 'управляющий', 'реактором']	"[""It's"", 'the', 'reactor-control', 'computer']"
+842	This is what hit us two years ago. 	Вот что было 2 года назад. 	['Вот', 'что', 'было', '2', 'года', 'назад']	['This', 'is', 'what', 'hit', 'us', 'two', 'years', 'ago']
+843	Jim... 	Джим! 	['Джим']	['Jim']
+844	How can we fix this? 	Как мы это починим? 	['Как', 'мы', 'это', 'починим']	['How', 'can', 'we', 'fix', 'this']
+845	We're gonna die. There's replacement pans for everything. 	- Мы умрём. - Здесь для всего есть запчасти. 	['Мы', 'умрём', 'Здесь', 'для', 'всего', 'есть', 'запчасти']	"[""We're"", 'gonna', 'die', ""There's"", 'replacement', 'pans', 'for', 'everything']"
+846	- Light. - Sorry. 	Свет! Прости! 	['Свет', 'Прости']	['Light', 'Sorry']
+847	Soon as I pull this module, the entire computer's gonna shut down. 	Как только выну модуль, компьютер вырубится. 	['Как', 'только', 'выну', 'модуль', 'компьютер', 'вырубится']	"['Soon', 'as', 'I', 'pull', 'this', 'module', 'the', 'entire', ""computer's"", 'gonna', 'shut', 'down']"
+848	Well, what happens then? 	Так, а что дальше? 	['Так', 'а', 'что', 'дальше']	['Well', 'what', 'happens', 'then']
+849	I'll get it back up as quickly as I can. 	Верну его поскорее на место. Готова? 	['Верну', 'его', 'поскорее', 'на', 'место', 'Готова']	"[""I'll"", 'get', 'it', 'back', 'up', 'as', 'quickly', 'as', 'I', 'can']"
+850	Hurry! 	Скорее! 	['Скорее']	['Hurry']
+851	- Jim! - Okay. 	Джим! 	['Джим']	['Jim', 'Okay']
+852	Control computer restored. 	Главный компьютер восстановлен. 	['Главный', 'компьютер', 'восстановлен']	['Control', 'computer', 'restored']
+853	Venting reactor. 	Вентиляция реактора. 	['Вентиляция', 'реактора']	['Venting', 'reactor']
+854	- But we fixed it! - Reactor vent failed. Manual override required. 	Мы же починили его! Отказ вентиляционной системы. Требуется ручное управление. 	['Мы', 'же', 'починили', 'его', 'Отказ', 'вентиляционной', 'системы', 'Требуется', 'ручное', 'управление']	['But', 'we', 'fixed', 'it', 'Reactor', 'vent', 'failed', 'Manual', 'override', 'required']
+855	Vent failure. 	Продувка не произошла. 	['Продувка', 'не', 'произошла']	['Vent', 'failure']
+856	- Come on! - Jim. 	- Давай! - Джим! 	['Давай', 'Джим']	['Come', 'on', 'Jim']
+857	Outer door nonresponsive. 	Затвор шахты не реагирует. 	['Затвор', 'шахты', 'не', 'реагирует']	['Outer', 'door', 'nonresponsive']
+858	What does that mean? 	Почему он не реагирует? 	['Почему', 'он', 'не', 'реагирует']	['What', 'does', 'that', 'mean']
+859	The outer door is jammed. 	Снаружи заклинило. 	['Снаружи', 'заклинило']	['The', 'outer', 'door', 'is', 'jammed']
+860	We've got to open that door and cool the reactor down, or the whole ship is gonna blow. 	Его надо открыть и охладить реактор, иначе взорвёмся. 	['Его', 'надо', 'открыть', 'и', 'охладить', 'реактор', 'иначе', 'взорвёмся']	"[""We've"", 'got', 'to', 'open', 'that', 'door', 'and', 'cool', 'the', 'reactor', 'down', 'or', 'the', 'whole', 'ship', 'is', 'gonna', 'blow']"
+861	- How? - I got to go out there. 	- Как? - Надо выйти. 	['Как', 'Надо', 'выйти']	['How', 'I', 'got', 'to', 'go', 'out', 'there']
+862	Open it from the outside. 	Иначе не получится. 	['Иначе', 'не', 'получится']	['Open', 'it', 'from', 'the', 'outside']
+863	I open the door, I get clear. 	Я открою затвор и отлечу. 	['Я', 'открою', 'затвор', 'и', 'отлечу']	['I', 'open', 'the', 'door', 'I', 'get', 'clear']
+864	- You blow that fire into space. - You get clear? You can talk to me through this. 	А ты выпустишь огонь в космос. - Как это «отлетишь»? - Говорить будешь через это. 	['А', 'ты', 'выпустишь', 'огонь', 'в', 'космос', 'Как', 'это', '«отлетишь»', 'Говорить', 'будешь', 'через', 'это']	['You', 'blow', 'that', 'fire', 'into', 'space', 'You', 'get', 'clear', 'You', 'can', 'talk', 'to', 'me', 'through', 'this']
+865	What happens to you when that door opens? 	Что будет с тобой, когда затвор откроется? 	['Что', 'будет', 'с', 'тобой', 'когда', 'затвор', 'откроется']	['What', 'happens', 'to', 'you', 'when', 'that', 'door', 'opens']
+866	Heat shield. It might help. 	Вот щит. Может, спасёт. 	['Вот', 'щит', 'Может', 'спасёт']	['Heat', 'shield', 'It', 'might', 'help']
+867	You might need this. 	Может, пригодится. 	['Может', 'пригодится']	['You', 'might', 'need', 'this']
+868	It's gonna be okay. 	Всё будет хорошо. 	['Всё', 'будет', 'хорошо']	"[""It's"", 'gonna', 'be', 'okay']"
+869	I better go. 	Всё, я пошёл. 	['Всё', 'я', 'пошёл']	['I', 'better', 'go']
+870	Jim. Jim. 	Джим! Джим! 	['Джим', 'Джим']	['Jim', 'Jim']
+871	Come back to me. 	Вернись ко мне. 	['Вернись', 'ко', 'мне']	['Come', 'back', 'to', 'me']
+872	I can't live on the ship without you. 	Одной мне точно не выжить. 	['Одной', 'мне', 'точно', 'не', 'выжить']	"['I', ""can't"", 'live', 'on', 'the', 'ship', 'without', 'you']"
+873	Warning. - Temperature critical. - Ow! 	Внимание! Критические показатели температуры. 	['Внимание', 'Критические', 'показатели', 'температуры']	['Warning', 'Temperature', 'critical', 'Ow']
+874	What's wrong? 	Что такое? 	['Что', 'такое']	"[""What's"", 'wrong']"
+875	What's the matter? - Are you okay? - Nothing. - Go. - You sure? 	В чём дело? Ты цела? - Ничего. Иди. - Точно? 	['В', 'чём', 'дело', 'Ты', 'цела', 'Ничего', 'Иди', 'Точно']	"[""What's"", 'the', 'matter', 'Are', 'you', 'okay', 'Nothing', 'Go', 'You', 'sure']"
+876	Go. 	Иди. 	['Иди']	['Go']
+877	I'm at the vent tube. 	Я у шахты. 	['Я', 'у', 'шахты']	"[""I'm"", 'at', 'the', 'vent', 'tube']"
+878	New anchor point. Reset tether. 	Новая точка крепления. Переустановите трос. 	['Новая', 'точка', 'крепления', 'Переустановите', 'трос']	['New', 'anchor', 'point', 'Reset', 'tether']
+879	I see the door. 	Вижу затвор. 	['Вижу', 'затвор']	['I', 'see', 'the', 'door']
+880	Temperature level rising. 	Температура повышается. 	['Температура', 'повышается']	['Temperature', 'level', 'rising']
+881	Warning. Temperature critical. 	Внимание! Критические показатели температуры. 	['Внимание', 'Критические', 'показатели', 'температуры']	['Warning', 'Temperature', 'critical']
+882	Containment unstable. 	Угроза целостности защитной оболочки. 	['Угроза', 'целостности', 'защитной', 'оболочки']	['Containment', 'unstable']
+883	- Where are you? - I'm at the door. I'm ready. Just say when. 	Долго ещё? - Я уже у затвора. - Я готова. 	['Долго', 'ещё', 'Я', 'уже', 'у', 'затвора', 'Я', 'готова']	"['Where', 'are', 'you', ""I'm"", 'at', 'the', 'door', ""I'm"", 'ready', 'Just', 'say', 'when']"
+884	Here goes. 	Секунду. 	['Секунду']	['Here', 'goes']
+885	The door won't open. I'll have to bypass it. 	Не открывается. Придётся ставить перемычку. 	['Не', 'открывается', 'Придётся', 'ставить', 'перемычку']	"['The', 'door', ""won't"", 'open', ""I'll"", 'have', 'to', 'bypass', 'it']"
+886	Temperature level rising. 	Температура повышается. 	['Температура', 'повышается']	['Temperature', 'level', 'rising']
+887	Jim, come on! Please hurry! 	Джим, давай! Пожалуйста, скорее! 	['Джим', 'давай', 'Пожалуйста', 'скорее']	['Jim', 'come', 'on', 'Please', 'hurry']
+888	- Okay, I'm trying it again. - Tell me when you're clear. 	- Так, пробую ещё раз. - Скажи, когда отойдёшь. 	['Так', 'пробую', 'ещё', 'раз', 'Скажи', 'когда', 'отойдёшь']	"['Okay', ""I'm"", 'trying', 'it', 'again', 'Tell', 'me', 'when', ""you're"", 'clear']"
+889	- No! - What? 	- Нет! - Что? 	['Нет', 'Что']	['No', 'What']
+890	What's going on? 	Что там такое? 	['Что', 'там', 'такое']	"[""What's"", 'going', 'on']"
+891	Jim? 	Джим! 	['Джим']	['Jim']
+892	Jim! The door won't stay open. 	- Джим! - Затвор не держится. 	['Джим', 'Затвор', 'не', 'держится']	"['Jim', 'The', 'door', ""won't"", 'stay', 'open']"
+893	I think I have to stay here. 	Мне придётся остаться. 	['Мне', 'придётся', 'остаться']	['I', 'think', 'I', 'have', 'to', 'stay', 'here']
+894	Hold the door open. 	Буду держать затвор. 	['Буду', 'держать', 'затвор']	['Hold', 'the', 'door', 'open']
+895	What? 	Что?! 	['Что']	['What']
+896	No! No way! Get out of there! 	Нет, не вздумай! Уходи оттуда! 	['Нет', 'не', 'вздумай', 'Уходи', 'оттуда']	['No', 'No', 'way', 'Get', 'out', 'of', 'there']
+897	I can't. 	Я останусь. 	['Я', 'останусь']	"['I', ""can't""]"
+898	Jim. 	Джим! 	['Джим']	['Jim']
+899	We're out of time. 	Времени нет. 	['Времени', 'нет']	"[""We're"", 'out', 'of', 'time']"
+900	- Containment unstable. - Jim? 	Нарушение защитной оболочки. Джим! 	['Нарушение', 'защитной', 'оболочки', 'Джим']	['Containment', 'unstable', 'Jim']
+901	Vent the reactor. 	Продувай реактор. 	['Продувай', 'реактор']	['Vent', 'the', 'reactor']
+902	No! You don't understand! 	Нет! Ты не понимаешь! 	['Нет', 'Ты', 'не', 'понимаешь']	"['No', 'You', ""don't"", 'understand']"
+903	If I open the door right now, it'll kill you! 	Если я открою затвор, ты погибнешь! 	['Если', 'я', 'открою', 'затвор', 'ты', 'погибнешь']	"['If', 'I', 'open', 'the', 'door', 'right', 'now', ""it'll"", 'kill', 'you']"
+904	I'm hoping not. Come back in. We'll think of something else. 	- Надеюсь, что нет. - Вернись, придумаем что-нибудь! 	['Надеюсь', 'что', 'нет', 'Вернись', 'придумаем', 'что-нибудь']	"[""I'm"", 'hoping', 'not', 'Come', 'back', 'in', ""We'll"", 'think', 'of', 'something', 'else']"
+905	There is nothing else. 	Других вариантов нет. 	['Других', 'вариантов', 'нет']	['There', 'is', 'nothing', 'else']
+906	Jim! 	Джим! 	['Джим']	['Jim']
+907	- It's okay. - No! - It's not okay! - Aurora... 	- Всё нормально. - Нет! Не нормально! Аврора! 	['Всё', 'нормально', 'Нет', 'Не', 'нормально', 'Аврора']	"[""It's"", 'okay', 'No', ""It's"", 'not', 'okay', 'Aurora']"
+908	Warning. Temperature level exceeded. 	Критический уровень превышен. 	['Критический', 'уровень', 'превышен']	['Warning', 'Temperature', 'level', 'exceeded']
+909	This isn't what you said was gonna happen! 	Но ты говорил, что будет по-другому! 	['Но', 'ты', 'говорил', 'что', 'будет', 'по-другому']	"['This', ""isn't"", 'what', 'you', 'said', 'was', 'gonna', 'happen']"
+910	Aurora, this ship is gonna go. I don't care! You die, I die. 	- Нужно спасти корабль. - Плевать! Ты умрёшь - и я тоже! 	['Нужно', 'спасти', 'корабль', 'Плевать', 'Ты', 'умрёшь', 'и', 'я', 'тоже']	"['Aurora', 'this', 'ship', 'is', 'gonna', 'go', 'I', ""don't"", 'care', 'You', 'die', 'I', 'die']"
+911	There are 5,000 other people on this ship, Aurora. 	На этом корабле ещё 5 000 человек. 	['На', 'этом', 'корабле', 'ещё', '5', '000', 'человек']	['There', 'are', '5,000', 'other', 'people', 'on', 'this', 'ship', 'Aurora']
+912	We have to do this. 	Их нужно спасти. 	['Их', 'нужно', 'спасти']	['We', 'have', 'to', 'do', 'this']
+913	Maximum pressure reached. 	Максимальный уровень давления. 	['Максимальный', 'уровень', 'давления']	['Maximum', 'pressure', 'reached']
+914	Do it. Now. 	Открывай! Давай! 	['Открывай', 'Давай']	['Do', 'it', 'Now']
+915	Maximum cabin pressure reached. 	Максимальный уровень давления. 	['Максимальный', 'уровень', 'давления']	['Maximum', 'cabin', 'pressure', 'reached']
+916	Temperature dropping. 	Температура падает. 	['Температура', 'падает']	['Temperature', 'dropping']
+917	Jim. 	Джим. 	['Джим']	['Jim']
+918	- Jim? - Vent successful. Rebooting process initiated. 	Джим! Выброс прошёл успешно. Начинаю перезагрузку. 	['Джим', 'Выброс', 'прошёл', 'успешно', 'Начинаю', 'перезагрузку']	['Jim', 'Vent', 'successful', 'Rebooting', 'process', 'initiated']
+919	Jim, please say something. 	Джим, скажи что-нибудь! 	['Джим', 'скажи', 'что-нибудь']	['Jim', 'please', 'say', 'something']
+920	Suit pressure dropping. Return to ship immediately. 	Давление в скафандре падает. Немедленно вернитесь на корабль. 	['Давление', 'в', 'скафандре', 'падает', 'Немедленно', 'вернитесь', 'на', 'корабль']	['Suit', 'pressure', 'dropping', 'Return', 'to', 'ship', 'immediately']
+921	Aurora? 	Аврора! 	['Аврора']	['Aurora']
+922	It worked! You did it! You can come in! 	Получилось! Скорее, возвращайся! 	['Получилось', 'Скорее', 'возвращайся']	['It', 'worked', 'You', 'did', 'it', 'You', 'can', 'come', 'in']
+923	Uh, yeah, about that. What's the matter? Are you hurt? 	- Да. Есть проблема... - В чём дело? Ты ранен? 	['Да', 'Есть', 'проблема', 'В', 'чём', 'дело', 'Ты', 'ранен']	"['Uh', 'yeah', 'about', 'that', ""What's"", 'the', 'matter', 'Are', 'you', 'hurt']"
+924	I got blown out of the tube. 	Меня выбросило из шахты. 	['Меня', 'выбросило', 'из', 'шахты']	['I', 'got', 'blown', 'out', 'of', 'the', 'tube']
+925	- What? - My tether broke. I can't get back to the ship. 	Что? Трос оборвался. Я не могу вернуться на корабль. 	['Что', 'Трос', 'оборвался', 'Я', 'не', 'могу', 'вернуться', 'на', 'корабль']	"['What', 'My', 'tether', 'broke', 'I', ""can't"", 'get', 'back', 'to', 'the', 'ship']"
+926	I'll come out. I'll come out. I'll pull you in. 	Я сейчас выйду, я затащу тебя! 	['Я', 'сейчас', 'выйду', 'я', 'затащу', 'тебя']	"[""I'll"", 'come', 'out', ""I'll"", 'come', 'out', ""I'll"", 'pull', 'you', 'in']"
+927	Warning. Oxygen level critical. Return to ship immediately. 	Критичный уровень кислорода. Немедленно вернитесь на корабль. 	['Критичный', 'уровень', 'кислорода', 'Немедленно', 'вернитесь', 'на', 'корабль']	['Warning', 'Oxygen', 'level', 'critical', 'Return', 'to', 'ship', 'immediately']
+928	Aurora, I'm sorry. 	Аврора, ты уж прости. 	['Аврора', 'ты', 'уж', 'прости']	"['Aurora', ""I'm"", 'sorry']"
+929	For everything. Shut up. I'm coming. 	- Прости за всё. - Заткнись, я уже иду! 	['Прости', 'за', 'всё', 'Заткнись', 'я', 'уже', 'иду']	"['For', 'everything', 'Shut', 'up', ""I'm"", 'coming']"
+930	I wish we'd have met in 90 years. 	Жаль, что не встретимся через 90 лет. 	['Жаль', 'что', 'не', 'встретимся', 'через', '90', 'лет']	"['I', 'wish', ""we'd"", 'have', 'met', 'in', '90', 'years']"
+931	I'd... I'd have built you a house. 	Я бы... я бы построил тебе дом. 	['Я', 'бы', 'я', 'бы', 'построил', 'тебе', 'дом']	"[""I'd"", ""I'd"", 'have', 'built', 'you', 'a', 'house']"
+932	I'd have read your book. 	Прочёл бы твою книгу. 	['Прочёл', 'бы', 'твою', 'книгу']	"[""I'd"", 'have', 'read', 'your', 'book']"
+933	It's gonna be great. 	Это было бы здорово. 	['Это', 'было', 'бы', 'здорово']	"[""It's"", 'gonna', 'be', 'great']"
+934	Tether attached. 	Трос прикреплён. 	['Трос', 'прикреплён']	['Tether', 'attached']
+935	Locate Jim Preston. 	Найти Джима Престона! 	['Найти', 'Джима', 'Престона']	['Locate', 'Jim', 'Preston']
+936	Jim Preston located. 	Джим Престон обнаружен. 	['Джим', 'Престон', 'обнаружен']	['Jim', 'Preston', 'located']
+937	I'm coming to get you. 	Я иду за тобой! 	['Я', 'иду', 'за', 'тобой']	"[""I'm"", 'coming', 'to', 'get', 'you']"
+938	Jim! I'm sorry. The patient is dead. 	Сожалею. Пациент умер. 	['Сожалею', 'Пациент', 'умер']	"['Jim', ""I'm"", 'sorry', 'The', 'patient', 'is', 'dead']"
+939	Well, resuscitate him! 	Реанимируйте его! 	['Реанимируйте', 'его']	['Well', 'resuscitate', 'him']
+940	Postmortem operations require authorized medical supervision. 	Посмертные операции проводятся под руководством медперсонала. 	['Посмертные', 'операции', 'проводятся', 'под', 'руководством', 'медперсонала']	['Postmortem', 'operations', 'require', 'authorized', 'medical', 'supervision']
+941	No. 	Нет! 	['Нет']	['No']
+942	Jim. 	Джим! 	['Джим']	['Jim']
+943	Override! 	Коррекция! Под мою ответственность! 	['Коррекция', 'Под', 'мою', 'ответственность']	['Override']
+944	Override on my authority! ID 1-7... Two... 	Номер один, семь, три... 	['Номер', 'один', 'семь', 'три']	['Override', 'on', 'my', 'authority', 'ID', '1-7', 'Two']
+945	Two. Two. 2-3-1-7. 	Боже! Два, два, два... 	['Боже', 'Два', 'два', 'два']	['Two', 'Two', '2-3-1-7']
+946	2-3-1-7! ID 2-3-1-7! 	Господи! Два, три, один, семь! Два, три, один, семь! 	['Господи', 'Два', 'три', 'один', 'семь', 'Два', 'три', 'один', 'семь']	['2-3-1-7', 'ID', '2-3-1-7']
+947	Resuscitation. 	РУЧНОЙ РЕЖИМ 	['РУЧНОЙ', 'РЕЖИМ']	['Resuscitation']
+948	Multiple procedures are not recommended. 	РЕАНИМАЦИЯ ДЕФИБРИЛЛЯЦИЯ Множественные процедуры не рекомендуются. 	['РЕАНИМАЦИЯ', 'ДЕФИБРИЛЛЯЦИЯ', 'Множественные', 'процедуры', 'не', 'рекомендуются']	['Multiple', 'procedures', 'are', 'not', 'recommended']
+949	Override! Do it now! 	Неважно! Быстро! Делай! 	['Неважно', 'Быстро', 'Делай']	['Override', 'Do', 'it', 'now']
+950	Executing. 	Выполняю. 	['Выполняю']	['Executing']
+951	Hi! 	Джим! 	['Джим']	['Hi']
+952	Jim! 	Джим! 	['Джим']	['Jim']
+953	Hey, Jim. 	Джим! 	['Джим']	['Hey', 'Jim']
+954	You brought me back. 	Ты меня оживила. 	['Ты', 'меня', 'оживила']	['You', 'brought', 'me', 'back']
+955	Yeah. 	Да! 	['Да']	['Yeah']
+956	- Thank you. - Be still. 	- Спасибо! - Не шевелись. 	['Спасибо', 'Не', 'шевелись']	['Thank', 'you', 'Be', 'still']
+957	Of course. 	Конечно. 	['Конечно']	['Of', 'course']
+958	There's something I have to show you. 	Я должен показать тебе кое-что. 	['Я', 'должен', 'показать', 'тебе', 'кое-что']	"[""There's"", 'something', 'I', 'have', 'to', 'show', 'you']"
+959	In command mode, it turns out the Autodoc has an option called Stabilize and Suspend. 	В командном режиме Автодока нашлась опция под названием «приостановить». 	['В', 'командном', 'режиме', 'Автодока', 'нашлась', 'опция', 'под', 'названием', '«приостановить»']	['In', 'command', 'mode', 'it', 'turns', 'out', 'the', 'Autodoc', 'has', 'an', 'option', 'called', 'Stabilize', 'and', 'Suspend']
+960	It stops all metabolic activity. 	Она останавливает всю метаболическую активность. 	['Она', 'останавливает', 'всю', 'метаболическую', 'активность']	['It', 'stops', 'all', 'metabolic', 'activity']
+961	What are you saying? 	И в чём смысл? 	['И', 'в', 'чём', 'смысл']	['What', 'are', 'you', 'saying']
+962	With Gus's ID, it can be like hibernation inside the Autodoc. 	Браслет Гаса превратит Автодок в капсулу гибернации. 	['Браслет', 'Гаса', 'превратит', 'Автодок', 'в', 'капсулу', 'гибернации']	"['With', ""Gus's"", 'ID', 'it', 'can', 'be', 'like', 'hibernation', 'inside', 'the', 'Autodoc']"
+963	You can go back to sleep. 	Ты сможешь снова заснуть. 	['Ты', 'сможешь', 'снова', 'заснуть']	['You', 'can', 'go', 'back', 'to', 'sleep']
+964	But there's only one Autodoc. 	Но у нас только один Автодок. 	['Но', 'у', 'нас', 'только', 'один', 'Автодок']	"['But', ""there's"", 'only', 'one', 'Autodoc']"
+965	Yeah. 	Да. 	['Да']	['Yeah']
+966	And you're gonna lay down in it and fall asleep. 	И ты в него ляжешь. И продолжишь спать. 	['И', 'ты', 'в', 'него', 'ляжешь', 'И', 'продолжишь', 'спать']	"['And', ""you're"", 'gonna', 'lay', 'down', 'in', 'it', 'and', 'fall', 'asleep']"
+967	And you'll wake up on Homestead II. 	Проснёшься в «Родной обители». 	['Проснёшься', 'в', '«Родной', 'обители»']	"['And', ""you'll"", 'wake', 'up', 'on', 'Homestead', 'II']"
+968	And you'll write your book. 	Напишешь свою книгу. 	['Напишешь', 'свою', 'книгу']	"['And', ""you'll"", 'write', 'your', 'book']"
+969	You'd finish your journey. You'd do what you set out to do. 	Завершишь путешествие. Сделаешь всё, как мечтала. 	['Завершишь', 'путешествие', 'Сделаешь', 'всё', 'как', 'мечтала']	"[""You'd"", 'finish', 'your', 'journey', ""You'd"", 'do', 'what', 'you', 'set', 'out', 'to', 'do']"
+970	You'd be alone. 	А ты будешь один. 	['А', 'ты', 'будешь', 'один']	"[""You'd"", 'be', 'alone']"
+971	I've been alone before. 	Я и раньше был один. 	['Я', 'и', 'раньше', 'был', 'один']	"[""I've"", 'been', 'alone', 'before']"
+972	And I'll be fine. 	Как-нибудь справлюсь. 	['Как-нибудь', 'справлюсь']	"['And', ""I'll"", 'be', 'fine']"
+973	But I would never see you again. 	Но я больше никогда тебя не увижу. 	['Но', 'я', 'больше', 'никогда', 'тебя', 'не', 'увижу']	['But', 'I', 'would', 'never', 'see', 'you', 'again']
+974	I'll come and visit you. 	Я буду приходить. 	['Я', 'буду', 'приходить']	"[""I'll"", 'come', 'and', 'visit', 'you']"
+975	Tuesday is my day with Arthur. 	Вторник - мой день с Артуром! 	['Вторник', 'мой', 'день', 'с', 'Артуром']	['Tuesday', 'is', 'my', 'day', 'with', 'Arthur']
+976	Lovely as ever. 	Очаровательны, как всегда. 	['Очаровательны', 'как', 'всегда']	['Lovely', 'as', 'ever']
+977	Thank you, Arthur. You're looking very well yourself. 	Спасибо! Ты и сам молодцом. 	['Спасибо', 'Ты', 'и', 'сам', 'молодцом']	"['Thank', 'you', 'Arthur', ""You're"", 'looking', 'very', 'well', 'yourself']"
+978	Thanks to you. 	Благодаря вам! 	['Благодаря', 'вам']	['Thanks', 'to', 'you']
+979	What's that? 	Что это? 	['Что', 'это']	"[""What's"", 'that']"
+980	Something I've wanted to give you for a long time. 	То, что я давно хотел тебе подарить. 	['То', 'что', 'я', 'давно', 'хотел', 'тебе', 'подарить']	"['Something', ""I've"", 'wanted', 'to', 'give', 'you', 'for', 'a', 'long', 'time']"
+981	It's beautiful. 	Оно прекрасно. 	['Оно', 'прекрасно']	"[""It's"", 'beautiful']"
+982	Took you long enough to ask. 	Долго же ты с этим тянул. 	['Долго', 'же', 'ты', 'с', 'этим', 'тянул']	['Took', 'you', 'long', 'enough', 'to', 'ask']
+983	Champagne. 	Шампанское! 	['Шампанское']	['Champagne']
+984	I'll wait. 	Подождёт. 	['Подождёт']	"[""I'll"", 'wait']"
+985	Hell of a life. 	Отличная жизнь. 	['Отличная', 'жизнь']	['Hell', 'of', 'a', 'life']
+986	Hell of a life. 	И не говори! 	['И', 'не', 'говори']	['Hell', 'of', 'a', 'life']
+987	Crew wake-up process initiated. 	РОДНАЯ ОБИТЕЛЬ 2 88 лет спустя Запущен процесс пробуждения экипажа. 	['РОДНАЯ', 'ОБИТЕЛЬ', '2', '88', 'лет', 'спустя', 'Запущен', 'процесс', 'пробуждения', 'экипажа']	['Crew', 'wake-up', 'process', 'initiated']
+988	My fellow passengers, 	Дорогие попутчики! 	['Дорогие', 'попутчики']	['My', 'fellow', 'passengers']
+989	if you're reading this, 	Если вы читаете это, значит… 	['Если', 'вы', 'читаете', 'это', 'значит…']	"['if', ""you're"", 'reading', 'this']"
+990	then the Starship Avalon has reached its destination. 	межгалактический корабль «Авалон» прибыл в место назначения. 	['межгалактический', 'корабль', '«Авалон»', 'прибыл', 'в', 'место', 'назначения']	['then', 'the', 'Starship', 'Avalon', 'has', 'reached', 'its', 'destination']
+991	Grand concourse. 	Главный вестибюль. 	['Главный', 'вестибюль']	['Grand', 'concourse']
+992	A lot happened while you slept. 	Пока вы спали, многое произошло. 	['Пока', 'вы', 'спали', 'многое', 'произошло']	['A', 'lot', 'happened', 'while', 'you', 'slept']
+993	"A friend once said, ""You can't get so hung up on where you'd rather be "	Один друг как-то сказал: если зацикли- ваться на том, где ты хотел бы быть... 	['Один', 'друг', 'как-то', 'сказал', 'если', 'зацикли', 'ваться', 'на', 'том', 'где', 'ты', 'хотел', 'бы', 'быть']	"['A', 'friend', 'once', 'said', 'You', ""can't"", 'get', 'so', 'hung', 'up', 'on', 'where', ""you'd"", 'rather', 'be']"
+994	"""that you forget to make the most of where you are."" "	то упустишь возможность жить здесь и сейчас. 	['то', 'упустишь', 'возможность', 'жить', 'здесь', 'и', 'сейчас']	['that', 'you', 'forget', 'to', 'make', 'the', 'most', 'of', 'where', 'you', 'are']
+995	We got lost along the way. 	Мы сбились с пути. 	['Мы', 'сбились', 'с', 'пути']	['We', 'got', 'lost', 'along', 'the', 'way']
+996	But we found each other. 	Но мы нашли друг друга. 	['Но', 'мы', 'нашли', 'друг', 'друга']	['But', 'we', 'found', 'each', 'other']
+997	And we made a life. 	И прожили жизнь. 	['И', 'прожили', 'жизнь']	['And', 'we', 'made', 'a', 'life']
+998	A beautiful life. 	Прекрасную жизнь. 	['Прекрасную', 'жизнь']	['A', 'beautiful', 'life']
+999	Together. 	Вместе. 	['Вместе']	['Together']
+1000	There's so much on my mind I don't know where to start There's that light in your eye Filling up the dark Just levitate, just levitate Just levitate, just levitate I know that we're far From where we need to be But the world wasn't made in just one day Though our journey's long I know our love is strong You're my shooting star We're flying higher, babe Just levitate, just levitate Just levitate, just levitate Just levitate, just levitate Just levitate, just levitate When I'm stuck in the middle of hell and faith And I don't know where to turn To bend my mind as the silver gate You lead me on my way Just levitate, just levitate Just levitate, just levitate Just levitate, just levitate 	«ПАССАЖИРЫ» 	['«ПАССАЖИРЫ»']	"[""There's"", 'so', 'much', 'on', 'my', 'mind', 'I', ""don't"", 'know', 'where', 'to', 'start', ""There's"", 'that', 'light', 'in', 'your', 'eye', 'Filling', 'up', 'the', 'dark', 'Just', 'levitate', 'just', 'levitate', 'Just', 'levitate', 'just', 'levitate', 'I', 'know', 'that', ""we're"", 'far', 'From', 'where', 'we', 'need', 'to', 'be', 'But', 'the', 'world', ""wasn't"", 'made', 'in', 'just', 'one', 'day', 'Though', 'our', ""journey's"", 'long', 'I', 'know', 'our', 'love', 'is', 'strong', ""You're"", 'my', 'shooting', 'star', ""We're"", 'flying', 'higher', 'babe', 'Just', 'levitate', 'just', 'levitate', 'Just', 'levitate', 'just', 'levitate', 'Just', 'levitate', 'just', 'levitate', 'Just', 'levitate', 'just', 'levitate', 'When', ""I'm"", 'stuck', 'in', 'the', 'middle', 'of', 'hell', 'and', 'faith', 'And', 'I', ""don't"", 'know', 'where', 'to', 'turn', 'To', 'bend', 'my', 'mind', 'as', 'the', 'silver', 'gate', 'You', 'lead', 'me', 'on', 'my', 'way', 'Just', 'levitate', 'just', 'levitate', 'Just', 'levitate', 'just', 'levitate', 'Just', 'levitate', 'just', 'levitate']"

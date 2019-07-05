@@ -1,0 +1,679 @@
+	en	ru	ru_tokens	en_tokens
+0	No, I can't concentrate! 	Нет, я не могу сосредоточиться! 	['Нет', 'я', 'не', 'могу', 'сосредоточиться']	"['No', 'I', ""can't"", 'concentrate']"
+1	Maestro, I'm sorry, but I can't carry on like this. 	Маэстро, к сожалению, я не могу продолжать так. 	['Маэстро', 'к', 'сожалению', 'я', 'не', 'могу', 'продолжать', 'так']	"['Maestro', ""I'm"", 'sorry', 'but', 'I', ""can't"", 'carry', 'on', 'like', 'this']"
+2	Let's take itfrom number37. 	С 37 цифры, пожалуйста. 	['С', '37', 'цифры', 'пожалуйста']	"[""Let's"", 'take', 'itfrom', 'number37']"
+3	Oh, my God! No! No! 	О, Боже! Нет! 	['О', 'Боже', 'Нет']	['Oh', 'my', 'God', 'No', 'No']
+4	Maestro, Iet's take it from ''Qui e aItrove''. 	Маэстро, начните  с ''Qui e altrove''. 	"['Маэстро', 'начните', 'с', ""''Qui"", 'e', ""altrove''""]"	"['Maestro', ""Iet's"", 'take', 'it', 'from', ""''Qui"", 'e', ""aItrove''""]"
+5	Stop! Stop! 	Стоп! 	['Стоп']	['Stop', 'Stop']
+6	I can't stand it anymore! 	Я этого больше не вынесу! 	['Я', 'этого', 'больше', 'не', 'вынесу']	"['I', ""can't"", 'stand', 'it', 'anymore']"
+7	- It's ridicuIous. - Poorthing, are you hurt? 	- Это же нелепо. - Бедняжка, тебе больно? 	['Это', 'же', 'нелепо', 'Бедняжка', 'тебе', 'больно']	"[""It's"", 'ridicuIous', 'Poorthing', 'are', 'you', 'hurt']"
+8	It's ridiculous! This is ''Macbeth'' by Giuseppe Verdi. 	"Нелепость! И это ""Макбет"" Джузеппе Верди. "	['Нелепость', 'И', 'это', 'Макбет', 'Джузеппе', 'Верди']	"[""It's"", 'ridiculous', 'This', 'is', ""''Macbeth''"", 'by', 'Giuseppe', 'Verdi']"
+9	l've neverseen such Iousy direction! 	Никогда не видела такой  отвратительной постановки! 	['Никогда', 'не', 'видела', 'такой', 'отвратительной', 'постановки']	"[""l've"", 'neverseen', 'such', 'Iousy', 'direction']"
+10	-We have a probIem? -Yes, you! 	-У нас проблема? -Да, Вы! 	['У', 'нас', 'проблема', 'Да', 'Вы']	['We', 'have', 'a', 'probIem', 'Yes', 'you']
+11	This isn't one of your crud movies! Birds on stage, bad projection! 	Это - не какой-то там Ваш дрянной фильм! Птицы на сцене, лазерные лучи! 	['Это', 'не', 'какой-то', 'там', 'Ваш', 'дрянной', 'фильм', 'Птицы', 'на', 'сцене', 'лазерные', 'лучи']	"['This', ""isn't"", 'one', 'of', 'your', 'crud', 'movies', 'Birds', 'on', 'stage', 'bad', 'projection']"
+12	ls this an opera or an amusement park? 	Это опера или  парк аттракционов? 	['Это', 'опера', 'или', 'парк', 'аттракционов']	['ls', 'this', 'an', 'opera', 'or', 'an', 'amusement', 'park']
+13	How can l sing with a raven on stage that hates me? 	Как я могу петь на сцене с этим вороном, который ненавидит меня? 	['Как', 'я', 'могу', 'петь', 'на', 'сцене', 'с', 'этим', 'вороном', 'который', 'ненавидит', 'меня']	['How', 'can', 'l', 'sing', 'with', 'a', 'raven', 'on', 'stage', 'that', 'hates', 'me']
+14	- I can't imagine why it hates you. - Neither can l. 	- Не могу понять, почему он ненавидит Вас. - А я тем более. 	['Не', 'могу', 'понять', 'почему', 'он', 'ненавидит', 'Вас', 'А', 'я', 'тем', 'более']	"['I', ""can't"", 'imagine', 'why', 'it', 'hates', 'you', 'Neither', 'can', 'l']"
+15	But it nevertakes its beady eyes off me! 	Его глаза, как бусинки, все время смотрят на меня! 	['Его', 'глаза', 'как', 'бусинки', 'все', 'время', 'смотрят', 'на', 'меня']	['But', 'it', 'nevertakes', 'its', 'beady', 'eyes', 'off', 'me']
+16	lt shrieks, whistIes, flaps its wings. 	Он каркает все время и хлопает крыльями. 	['Он', 'каркает', 'все', 'время', 'и', 'хлопает', 'крыльями']	['lt', 'shrieks', 'whistIes', 'flaps', 'its', 'wings']
+17	- lt destroys my performance. - It's just a bird. 	- Он сорвал мое выступление. - Это же просто птица. 	['Он', 'сорвал', 'мое', 'выступление', 'Это', 'же', 'просто', 'птица']	"['lt', 'destroys', 'my', 'performance', ""It's"", 'just', 'a', 'bird']"
+18	It shouId be with the other birds and not in the Opera singing ''Macbeth''! 	"Он должен быть с другими птицами, а не в театре, где идет ""Макбет""! "	['Он', 'должен', 'быть', 'с', 'другими', 'птицами', 'а', 'не', 'в', 'театре', 'где', 'идет', 'Макбет']	"['It', 'shouId', 'be', 'with', 'the', 'other', 'birds', 'and', 'not', 'in', 'the', 'Opera', 'singing', ""''Macbeth''""]"
+19	Where is the manager Baddini? 	Где менеджер Баддини? 	['Где', 'менеджер', 'Баддини']	['Where', 'is', 'the', 'manager', 'Baddini']
+20	- I'm here, Mara. - l'm going back to the hoteI. 	- Я здесь, Мара. - Я возвращаюсь в гостиницу. 	['Я', 'здесь', 'Мара', 'Я', 'возвращаюсь', 'в', 'гостиницу']	"[""I'm"", 'here', 'Mara', ""l'm"", 'going', 'back', 'to', 'the', 'hoteI']"
+21	Come on, Mara! Don't be like that. 	Ну, Maрa! Не будь такой. 	['Ну', 'Maрa', 'Не', 'будь', 'такой']	"['Come', 'on', 'Mara', ""Don't"", 'be', 'like', 'that']"
+22	l shaIl be ready to sing at 8:00. 	Я должна быть готова петь в 8:00. 	['Я', 'должна', 'быть', 'готова', 'петь', 'в', '8:00']	['l', 'shaIl', 'be', 'ready', 'to', 'sing', 'at', '8:00']
+23	Ready to sing without ravens and other nonsense, a real opera! 	Петь без ворон и прочей  ерунды, в настоящей опере! 	['Петь', 'без', 'ворон', 'и', 'прочей', 'ерунды', 'в', 'настоящей', 'опере']	['Ready', 'to', 'sing', 'without', 'ravens', 'and', 'other', 'nonsense', 'a', 'real', 'opera']
+24	-What we do now? -Carry on with the rehearsaI! 	- Что нам теперь делать? - Продолжайте репетицию! 	['Что', 'нам', 'теперь', 'делать', 'Продолжайте', 'репетицию']	['What', 'we', 'do', 'now', 'Carry', 'on', 'with', 'the', 'rehearsaI']
+25	If something like this happens again, I'Il take my ravens and leave. 	Если случиться еще что-нибудь подобное, я заберу своих птиц и уеду. 	['Если', 'случиться', 'еще', 'что-нибудь', 'подобное', 'я', 'заберу', 'своих', 'птиц', 'и', 'уеду']	"['If', 'something', 'like', 'this', 'happens', 'again', ""I'Il"", 'take', 'my', 'ravens', 'and', 'leave']"
+26	Maestro, we'lI take it from where we stopped. 	Маэстро, начните там где остановились. 	['Маэстро', 'начните', 'там', 'где', 'остановились']	"['Maestro', ""we'lI"", 'take', 'it', 'from', 'where', 'we', 'stopped']"
+27	Thanks to you and your so caIIed brilliant and original direction! 	"Спасибо Вам и Вашей так называемой ""блестящей"" постановке! "	['Спасибо', 'Вам', 'и', 'Вашей', 'так', 'называемой', 'блестящей', 'постановке']	['Thanks', 'to', 'you', 'and', 'your', 'so', 'caIIed', 'brilliant', 'and', 'original', 'direction']
+28	The great Mara Cecova has been knocked down by a car! 	Дамы и Господа! Знаменитая Мара Чекова попала под машиной! 	['Дамы', 'и', 'Господа', 'Знаменитая', 'Мара', 'Чекова', 'попала', 'под', 'машиной']	['The', 'great', 'Mara', 'Cecova', 'has', 'been', 'knocked', 'down', 'by', 'a', 'car']
+29	QuickIy, call an ambulance! 	Быстрее, вызовите Скорую! 	['Быстрее', 'вызовите', 'Скорую']	['QuickIy', 'call', 'an', 'ambulance']
+30	Where is Betty? 	Где Бетти? 	['Где', 'Бетти']	['Where', 'is', 'Betty']
+31	Whata disaster! 	Какое несчастье! 	['Какое', 'несчастье']	['Whata', 'disaster']
+32	- Hello? - Is that you, Betty? 	- Алло? - Это ты, Бетти? 	['Алло', 'Это', 'ты', 'Бетти']	['Hello', 'Is', 'that', 'you', 'Betty']
+33	Tonight you make yourdebut as Lady Macbeth. 	Сегодня вечером состоится  твой дебют в роли Леди Макбет. 	['Сегодня', 'вечером', 'состоится', 'твой', 'дебют', 'в', 'роли', 'Леди', 'Макбет']	['Tonight', 'you', 'make', 'yourdebut', 'as', 'Lady', 'Macbeth']
+34	-What? -Are you happy? 	- Что? - Ты рада? 	['Что', 'Ты', 'рада']	['What', 'Are', 'you', 'happy']
+35	Who is speaking? 	Кто говорит? 	['Кто', 'говорит']	['Who', 'is', 'speaking']
+36	ls this a joke? 	Это шутка? 	['Это', 'шутка']	['ls', 'this', 'a', 'joke']
+37	HeIlo? 	Алло? 	['Алло']	['HeIlo']
+38	Come on, Betty! Get ready. 	Ну, Бетти! Готовься. 	['Ну', 'Бетти', 'Готовься']	['Come', 'on', 'Betty', 'Get', 'ready']
+39	ln exactIy one hour you've got to be on stage. 	Ровно через час  ты должна быть на сцене. 	['Ровно', 'через', 'час', 'ты', 'должна', 'быть', 'на', 'сцене']	"['ln', 'exactIy', 'one', 'hour', ""you've"", 'got', 'to', 'be', 'on', 'stage']"
+40	Mara Cecova has had an accident. 	Мара Чекова попала  в аварию. 	['Мара', 'Чекова', 'попала', 'в', 'аварию']	['Mara', 'Cecova', 'has', 'had', 'an', 'accident']
+41	Someone aIready caIled. I thought it was a joke! 	Кто-то уже звонил мне. Я думала, что это шутка! 	['Кто-то', 'уже', 'звонил', 'мне', 'Я', 'думала', 'что', 'это', 'шутка']	['Someone', 'aIready', 'caIled', 'I', 'thought', 'it', 'was', 'a', 'joke']
+42	Are you scared of making your debut? 	Страшно дебютировать? 	['Страшно', 'дебютировать']	['Are', 'you', 'scared', 'of', 'making', 'your', 'debut']
+43	No, but Lady Macbeth! l'm too young, my voice isn't right. 	Нет, но Леди Макбет! Я слишком молода, мой голос не подходит. 	['Нет', 'но', 'Леди', 'Макбет', 'Я', 'слишком', 'молода', 'мой', 'голос', 'не', 'подходит']	"['No', 'but', 'Lady', 'Macbeth', ""l'm"", 'too', 'young', 'my', 'voice', ""isn't"", 'right']"
+44	You'Il be a smash hit! A baby Lady! 	Ты будешь хитом сезона! Маленькая Леди! 	['Ты', 'будешь', 'хитом', 'сезона', 'Маленькая', 'Леди']	"[""You'Il"", 'be', 'a', 'smash', 'hit', 'A', 'baby', 'Lady']"
+45	l won't reach some of the notes. 	Я не вытяну некоторые ноты. 	['Я', 'не', 'вытяну', 'некоторые', 'ноты']	"['l', ""won't"", 'reach', 'some', 'of', 'the', 'notes']"
+46	l'm not onIy youragent, l'm yourfriend. 	Я не просто твой агент, я - твой друг. 	['Я', 'не', 'просто', 'твой', 'агент', 'я', 'твой', 'друг']	"[""l'm"", 'not', 'onIy', 'youragent', ""l'm"", 'yourfriend']"
+47	l know what you're going through, just opening-night nerves. 	Я знаю, что ты чувствуешь, это просто предпремьерная нервозность . 	['Я', 'знаю', 'что', 'ты', 'чувствуешь', 'это', 'просто', 'предпремьерная', 'нервозность']	"['l', 'know', 'what', ""you're"", 'going', 'through', 'just', 'opening-night', 'nerves']"
+48	Don't Iet them show. Now they're alI coming to see you. 	Не показывай им. Вот они идут. 	['Не', 'показывай', 'им', 'Вот', 'они', 'идут']	"[""Don't"", 'Iet', 'them', 'show', 'Now', ""they're"", 'alI', 'coming', 'to', 'see', 'you']"
+49	Don't show them how unconfident you are. 	Спрячь свою неуверенность. 	['Спрячь', 'свою', 'неуверенность']	"[""Don't"", 'show', 'them', 'how', 'unconfident', 'you', 'are']"
+50	Stop! 	Стоп! 	['Стоп']	['Stop']
+51	My dear Betty, are we ready? 	Моя дорогая Бетти, мы готовы? 	['Моя', 'дорогая', 'Бетти', 'мы', 'готовы']	['My', 'dear', 'Betty', 'are', 'we', 'ready']
+52	Mara's unfortunate little accident 	Марин прискорбный инцидент 	['Марин', 'прискорбный', 'инцидент']	"[""Mara's"", 'unfortunate', 'little', 'accident']"
+53	is going to speed you towards your destiny. You'lI be Lady Macbeth. 	ускоряет свершение твоего предназначения. Ты станешь Леди Макбет. 	['ускоряет', 'свершение', 'твоего', 'предназначения', 'Ты', 'станешь', 'Леди', 'Макбет']	"['is', 'going', 'to', 'speed', 'you', 'towards', 'your', 'destiny', ""You'lI"", 'be', 'Lady', 'Macbeth']"
+54	Do l see tears? Tears ofhappiness, l hope. 	Я вижу слезы? Слезы счастья, надеюсь. 	['Я', 'вижу', 'слезы', 'Слезы', 'счастья', 'надеюсь']	['Do', 'l', 'see', 'tears', 'Tears', 'ofhappiness', 'l', 'hope']
+55	Don't telI me you're afraid. Afraid you'Il fail? 	Не говори мне, что ты боишься. Боишься провала? 	['Не', 'говори', 'мне', 'что', 'ты', 'боишься', 'Боишься', 'провала']	"[""Don't"", 'telI', 'me', ""you're"", 'afraid', 'Afraid', ""you'Il"", 'fail']"
+56	I'm too young forthe role. 	Я слишком молода для этой роли. 	['Я', 'слишком', 'молода', 'для', 'этой', 'роли']	"[""I'm"", 'too', 'young', 'forthe', 'role']"
+57	Verdi's first Lady Macbeth was only seventeen! 	У Верди первой Леди Макбет было 17! 	['У', 'Верди', 'первой', 'Леди', 'Макбет', 'было', '17']	"[""Verdi's"", 'first', 'Lady', 'Macbeth', 'was', 'only', 'seventeen']"
+58	You know the opera by heart. 	Ты чувствуешь оперу сердцем. 	['Ты', 'чувствуешь', 'оперу', 'сердцем']	['You', 'know', 'the', 'opera', 'by', 'heart']
+59	I watched you atall rehearsals working so hard preparing yourseIf. 	Я видел, как ты выкладывалась на всех репетициях, 	['Я', 'видел', 'как', 'ты', 'выкладывалась', 'на', 'всех', 'репетициях']	['I', 'watched', 'you', 'atall', 'rehearsals', 'working', 'so', 'hard', 'preparing', 'yourseIf']
+60	As though you were the star and not the understudy. 	будто ты и есть звезда, а не простой дублер. 	['будто', 'ты', 'и', 'есть', 'звезда', 'а', 'не', 'простой', 'дублер']	['As', 'though', 'you', 'were', 'the', 'star', 'and', 'not', 'the', 'understudy']
+61	Don't worry about the orchestra. They only need half an hour's rehearsal. 	За оркестр не волнуйся. Им понадобиться  только получасовая репетиция. 	['За', 'оркестр', 'не', 'волнуйся', 'Им', 'понадобиться', 'только', 'получасовая', 'репетиция']	"[""Don't"", 'worry', 'about', 'the', 'orchestra', 'They', 'only', 'need', 'half', 'an', ""hour's"", 'rehearsal']"
+62	Stop it, this is your big chance. 	Прекрати, это твой шанс. 	['Прекрати', 'это', 'твой', 'шанс']	['Stop', 'it', 'this', 'is', 'your', 'big', 'chance']
+63	- l know. - Think of your mother. 	- Я знаю. - Подумай о матери. 	['Я', 'знаю', 'Подумай', 'о', 'матери']	['l', 'know', 'Think', 'of', 'your', 'mother']
+64	She wouId be proud to see you in a great opera folIowing her career. 	Она бы гордилась тобой, видя  как ты идешь по ее стопам. 	['Она', 'бы', 'гордилась', 'тобой', 'видя', 'как', 'ты', 'идешь', 'по', 'ее', 'стопам']	['She', 'wouId', 'be', 'proud', 'to', 'see', 'you', 'in', 'a', 'great', 'opera', 'folIowing', 'her', 'career']
+65	If peopIe Iike you, you'lI be singing in New York and SaIzburg. 	Если публике понравиться, ты  будешь петь  в Нью-Йорке и Зальцбурге. 	['Если', 'публике', 'понравиться', 'ты', 'будешь', 'петь', 'в', 'Нью-Йорке', 'и', 'Зальцбурге']	"['If', 'peopIe', 'Iike', 'you', ""you'lI"", 'be', 'singing', 'in', 'New', 'York', 'and', 'SaIzburg']"
+66	What happened to Mara? 	Что случилось с Марой? 	['Что', 'случилось', 'с', 'Марой']	['What', 'happened', 'to', 'Mara']
+67	She got hit by a car orso l heard. 	Ее сбила машина. 	['Ее', 'сбила', 'машина']	['She', 'got', 'hit', 'by', 'a', 'car', 'orso', 'l', 'heard']
+68	You're Iistening to Pokrovskij's recording of''Macbeth''! 	"Ты слушаешь ""Макбета""  в исполнении Покровского! "	['Ты', 'слушаешь', 'Макбета', 'в', 'исполнении', 'Покровского']	"[""You're"", 'Iistening', 'to', ""Pokrovskij's"", 'recording', ""of''Macbeth''""]"
+69	Did you know it was a production of ours? 1975! 	Ты не знаешь, что это была наша продукция? 1975! 	['Ты', 'не', 'знаешь', 'что', 'это', 'была', 'наша', 'продукция', '1975']	['Did', 'you', 'know', 'it', 'was', 'a', 'production', 'of', 'ours', '1975']
+70	''Macbeth'' brings bad Iuck! 	"""Макбет"" приносит несчастье! "	['Макбет', 'приносит', 'несчастье']	"[""''Macbeth''"", 'brings', 'bad', 'Iuck']"
+71	-Whatare you talking about? - Everyone says it. 	-О чем ты говоришь? - Все знают. 	['О', 'чем', 'ты', 'говоришь', 'Все', 'знают']	['Whatare', 'you', 'talking', 'about', 'Everyone', 'says', 'it']
+72	''Macbeth'' brings bad Iuck! 	"""Макбет"" приносит беду!! "	['Макбет', 'приносит', 'беду']	"[""''Macbeth''"", 'brings', 'bad', 'Iuck']"
+73	l would much rather make my debut in something else. 	Я бы с радостью дебютировала в чем-нибудь другом. 	['Я', 'бы', 'с', 'радостью', 'дебютировала', 'в', 'чем-нибудь', 'другом']	['l', 'would', 'much', 'rather', 'make', 'my', 'debut', 'in', 'something', 'else']
+74	Don't let Baddini hearyou say that! 	Бадини не должен это слышать! 	['Бадини', 'не', 'должен', 'это', 'слышать']	"[""Don't"", 'let', 'Baddini', 'hearyou', 'say', 'that']"
+75	Shut up! 	Замолчи! 	['Замолчи']	['Shut', 'up']
+76	You think the opera brings bad luck. 	"Вы думаете, что ""Макбет"" приносит несчастье. "	['Вы', 'думаете', 'что', 'Макбет', 'приносит', 'несчастье']	['You', 'think', 'the', 'opera', 'brings', 'bad', 'luck']
+77	- It's whatever everyone says. - I don't say it. 	- Это все говорят. - Я не говорил. 	['Это', 'все', 'говорят', 'Я', 'не', 'говорил']	"[""It's"", 'whatever', 'everyone', 'says', 'I', ""don't"", 'say', 'it']"
+78	You have a wonderfuI voice, you are very beautifuI 	Вы прекрасны, у Вас удивительный голос, 	['Вы', 'прекрасны', 'у', 'Вас', 'удивительный', 'голос']	['You', 'have', 'a', 'wonderfuI', 'voice', 'you', 'are', 'very', 'beautifuI']
+79	and you're making your debut in a great theatre. 	и Вы дебютируете в  великом театре. 	['и', 'Вы', 'дебютируете', 'в', 'великом', 'театре']	"['and', ""you're"", 'making', 'your', 'debut', 'in', 'a', 'great', 'theatre']"
+80	You must make the most of this opportunity. 	Вы должны извлечь все возможное из такого удобного случая. 	['Вы', 'должны', 'извлечь', 'все', 'возможное', 'из', 'такого', 'удобного', 'случая']	['You', 'must', 'make', 'the', 'most', 'of', 'this', 'opportunity']
+81	lt usuaIly only happens in the movies. 	Такое бывает обычно только в кино. 	['Такое', 'бывает', 'обычно', 'только', 'в', 'кино']	['lt', 'usuaIly', 'only', 'happens', 'in', 'the', 'movies']
+82	Don't throw it away! 	Не отказывайтесь! 	['Не', 'отказывайтесь']	"[""Don't"", 'throw', 'it', 'away']"
+83	Five, four, three, two, one. 	Пять, четыре, три, два, один. 	['Пять', 'четыре', 'три', 'два', 'один']	['Five', 'four', 'three', 'two', 'one']
+84	Now! 	Пора! 	['Пора']	['Now']
+85	Let herthrough! 	Пропустите ее! 	['Пропустите', 'ее']	['Let', 'herthrough']
+86	There is too much smoke. 	Слишком много дыма. 	['Слишком', 'много', 'дыма']	['There', 'is', 'too', 'much', 'smoke']
+87	There is too much smoke. Dino, cut the smoke! 	Много дыма. Дино, убери дым! 	['Много', 'дыма', 'Дино', 'убери', 'дым']	['There', 'is', 'too', 'much', 'smoke', 'Dino', 'cut', 'the', 'smoke']
+88	The scar must be on the otherside! 	Шрам должен быть с другой стороны! 	['Шрам', 'должен', 'быть', 'с', 'другой', 'стороны']	['The', 'scar', 'must', 'be', 'on', 'the', 'otherside']
+89	- Betty goes on in another 2 minutes. - Ok, 2 minutes for Betty. 	- Бетти выходит в следующие 2 минуты. - ОК, 2 мин для Бетти. 	['Бетти', 'выходит', 'в', 'следующие', '2', 'минуты', 'ОК', '2', 'мин', 'для', 'Бетти']	['Betty', 'goes', 'on', 'in', 'another', '2', 'minutes', 'Ok', '2', 'minutes', 'for', 'Betty']
+90	- Be careful, she could hurt herseIf. - Two minutes! 	- Осторожно, она может пораниться. - Две минуты! 	['Осторожно', 'она', 'может', 'пораниться', 'Две', 'минуты']	['Be', 'careful', 'she', 'could', 'hurt', 'herseIf', 'Two', 'minutes']
+91	-What are you doing? - Leave it! 	-Что ты делаешь? - Оставь! 	['Что', 'ты', 'делаешь', 'Оставь']	['What', 'are', 'you', 'doing', 'Leave', 'it']
+92	- No! Stop it! - Good Iuck! 	- Нет! Прекрати! - Удачи! 	['Нет', 'Прекрати', 'Удачи']	['No', 'Stop', 'it', 'Good', 'Iuck']
+93	-Gota light? -Yes. 	- Есть зажигалка? - Да. 	['Есть', 'зажигалка', 'Да']	['Gota', 'light', 'Yes']
+94	The chorus. 	Хор. 	['Хор']	['The', 'chorus']
+95	The spotIight! 	Освещение! 	['Освещение']	['The', 'spotIight']
+96	I wanted three of them. 	Я хотел три из них. 	['Я', 'хотел', 'три', 'из', 'них']	['I', 'wanted', 'three', 'of', 'them']
+97	Be careful with the costume! 	Осторожнее с костюмом! 	['Осторожнее', 'с', 'костюмом']	['Be', 'careful', 'with', 'the', 'costume']
+98	You finalIy returned! 	НАКОНЕЦ ТЫ ВЕРНУЛАСЬ! 	['НАКОНЕЦ', 'ТЫ', 'ВЕРНУЛАСЬ']	['You', 'finalIy', 'returned']
+99	What are you doing here? You are not allowed in here. 	Что вы здесь делаете? Вам нельзя здесь находиться. 	['Что', 'вы', 'здесь', 'делаете', 'Вам', 'нельзя', 'здесь', 'находиться']	['What', 'are', 'you', 'doing', 'here', 'You', 'are', 'not', 'allowed', 'in', 'here']
+100	This box is for stage personnel only! Come on, Iet's go! 	Эта ложа только для персонала! Уходите! 	['Эта', 'ложа', 'только', 'для', 'персонала', 'Уходите']	"['This', 'box', 'is', 'for', 'stage', 'personnel', 'only', 'Come', 'on', ""Iet's"", 'go']"
+101	What the helI do you... 	Что за черт... 	['Что', 'за', 'черт']	['What', 'the', 'helI', 'do', 'you']
+102	Keep going! It was an accident! 	Продолжай! Это просто случайность! 	['Продолжай', 'Это', 'просто', 'случайность']	['Keep', 'going', 'It', 'was', 'an', 'accident']
+103	Nothing more! 	Не более! 	['Не', 'более']	['Nothing', 'more']
+104	Okay, Maestro. 	ОК, Маэстро. 	['ОК', 'Маэстро']	['Okay', 'Maestro']
+105	WeIl done, Betty! You're so beautifuI! 	Отлично, Бетти! Ты великолепна! 	['Отлично', 'Бетти', 'Ты', 'великолепна']	"['WeIl', 'done', 'Betty', ""You're"", 'so', 'beautifuI']"
+106	That's enough, Mara! Don't be childish. 	Хватит, Мара! Не будь ребенком. 	['Хватит', 'Мара', 'Не', 'будь', 'ребенком']	"[""That's"", 'enough', 'Mara', ""Don't"", 'be', 'childish']"
+107	-You're a star! -You realIy think so? 	- Ты звезда! - Ты, правда, так думаешь? 	['Ты', 'звезда', 'Ты', 'правда', 'так', 'думаешь']	"[""You're"", 'a', 'star', 'You', 'realIy', 'think', 'so']"
+108	- Didn't you hear the appIause? -You were wonderful! 	- Не слышала аплодисменты? - Ты восхитительна! 	['Не', 'слышала', 'аплодисменты', 'Ты', 'восхитительна']	"[""Didn't"", 'you', 'hear', 'the', 'appIause', 'You', 'were', 'wonderful']"
+109	My sincerestcompIiments! You were sensational! 	Мои искренние комплименты! Ты сенсация! 	['Мои', 'искренние', 'комплименты', 'Ты', 'сенсация']	['My', 'sincerestcompIiments', 'You', 'were', 'sensational']
+110	Thank you. 	Спасибо. 	['Спасибо']	['Thank', 'you']
+111	There'Il be a first night party Iateron. 	У нас будет банкет по  случаю премьеры чуть позже. 	['У', 'нас', 'будет', 'банкет', 'по', 'случаю', 'премьеры', 'чуть', 'позже']	"[""There'Il"", 'be', 'a', 'first', 'night', 'party', 'Iateron']"
+112	-Thank you. -You were magnificent. 	- Благодарю. - Ты была изумительной. 	['Благодарю', 'Ты', 'была', 'изумительной']	['Thank', 'you', 'You', 'were', 'magnificent']
+113	- Thank you, Maestro. -WilI you be at the reception? 	- Спасибо, Маэстро. - Ты будешь на вечеринке? 	['Спасибо', 'Маэстро', 'Ты', 'будешь', 'на', 'вечеринке']	['Thank', 'you', 'Maestro', 'WilI', 'you', 'be', 'at', 'the', 'reception']
+114	- The press wiIl Iove it. -The press are here. 	- Пресса будет рукоплескать. - Пресса уже здесь. 	['Пресса', 'будет', 'рукоплескать', 'Пресса', 'уже', 'здесь']	['The', 'press', 'wiIl', 'Iove', 'it', 'The', 'press', 'are', 'here']
+115	What about the accident with the Iights? The screaming? 	Что произошло с тем прожектором?  Крики? 	['Что', 'произошло', 'с', 'тем', 'прожектором', 'Крики']	['What', 'about', 'the', 'accident', 'with', 'the', 'Iights', 'The', 'screaming']
+116	-What screaming? -You didn't hear it? 	- Какие крики? - Ты не слышала? 	['Какие', 'крики', 'Ты', 'не', 'слышала']	"['What', 'screaming', 'You', ""didn't"", 'hear', 'it']"
+117	lt came from one of the boxes! 	Они раздались в какой-то из лож! 	['Они', 'раздались', 'в', 'какой-то', 'из', 'лож']	['lt', 'came', 'from', 'one', 'of', 'the', 'boxes']
+118	Mark! 	Марк! 	['Марк']	['Mark']
+119	Wasn't she great? 	Она не прекрасна? 	['Она', 'не', 'прекрасна']	"[""Wasn't"", 'she', 'great']"
+120	l know we had some trouble, but it has nothing to do with ''Macbeth''! 	"Я знаю, что у нас были трудности,  но они не смогли помешать ""Макбету""! "	['Я', 'знаю', 'что', 'у', 'нас', 'были', 'трудности', 'но', 'они', 'не', 'смогли', 'помешать', 'Макбету']	"['l', 'know', 'we', 'had', 'some', 'trouble', 'but', 'it', 'has', 'nothing', 'to', 'do', 'with', ""''Macbeth''""]"
+121	The onIy bad Iuck with ''Macbeth'' is about the use of fame. 	"У ""Макбета"" одно несчастье - как распорядиться славой. "	['У', 'Макбета', 'одно', 'несчастье', 'как', 'распорядиться', 'славой']	"['The', 'onIy', 'bad', 'Iuck', 'with', ""''Macbeth''"", 'is', 'about', 'the', 'use', 'of', 'fame']"
+122	l know, my mother was a singer. 	Я знаю, моя мать была певицей. 	['Я', 'знаю', 'моя', 'мать', 'была', 'певицей']	['l', 'know', 'my', 'mother', 'was', 'a', 'singer']
+123	Run along. PeopIe wiIl be waiting foryou. 	Беги. Публика ждет тебя. 	['Беги', 'Публика', 'ждет', 'тебя']	['Run', 'along', 'PeopIe', 'wiIl', 'be', 'waiting', 'foryou']
+124	Fantastic! 	Фантастически! 	['Фантастически']	['Fantastic']
+125	l mean it! You were just fantastic! You were great! 	Я говорю,  что ты была потрясающей! 	['Я', 'говорю', 'что', 'ты', 'была', 'потрясающей']	['l', 'mean', 'it', 'You', 'were', 'just', 'fantastic', 'You', 'were', 'great']
+126	I just love Verdi's music! 	Я так люблю Верди! 	['Я', 'так', 'люблю', 'Верди']	"['I', 'just', 'love', ""Verdi's"", 'music']"
+127	Oh, God! You were just wonderful! 	О, Боже! Восхитительно! 	['О', 'Боже', 'Восхитительно']	['Oh', 'God', 'You', 'were', 'just', 'wonderful']
+128	That damned director! I can't take him anymore. 	Чертов режиссер! Я больше не вынесу. 	['Чертов', 'режиссер', 'Я', 'больше', 'не', 'вынесу']	"['That', 'damned', 'director', 'I', ""can't"", 'take', 'him', 'anymore']"
+129	Do you work here in the theatre? 	Вы работаете в театре? 	['Вы', 'работаете', 'в', 'театре']	['Do', 'you', 'work', 'here', 'in', 'the', 'theatre']
+130	You are a fan of mine! 	Вы мой поклонник! 	['Вы', 'мой', 'поклонник']	['You', 'are', 'a', 'fan', 'of', 'mine']
+131	-The first! - First what? 	- Первый! - Первый что? 	['Первый', 'Первый', 'что']	['The', 'first', 'First', 'what']
+132	- Fan! - Congratulations. 	- Поклонник! - Поздравляю. 	['Поклонник', 'Поздравляю']	['Fan', 'Congratulations']
+133	Thank you. You want an autograph? 	Спасибо. Хотите автограф? 	['Спасибо', 'Хотите', 'автограф']	['Thank', 'you', 'You', 'want', 'an', 'autograph']
+134	Yes! I'd like that. Thank you. 	Да! Я бы... 	['Да', 'Я', 'бы']	"['Yes', ""I'd"", 'like', 'that', 'Thank', 'you']"
+135	-What name shaIl I... -Alan! 	- Какое имя мне... - Алан! 	['Какое', 'имя', 'мне', 'Алан']	['What', 'name', 'shaIl', 'I', 'Alan']
+136	-Thank you. -Are you a foreigner? 	- Благодарю. - Вы иностранец? 	['Благодарю', 'Вы', 'иностранец']	['Thank', 'you', 'Are', 'you', 'a', 'foreigner']
+137	They're aIl waiting for you, lnspector. 	Они Вас ждут, инспектор. 	['Они', 'Вас', 'ждут', 'инспектор']	"[""They're"", 'aIl', 'waiting', 'for', 'you', 'lnspector']"
+138	-You're a poIiceman, not a fan. - Can'ta policeman be a fan? 	- Вы полицейский, а не поклонник. - Полицейский не может быть поклонником? 	['Вы', 'полицейский', 'а', 'не', 'поклонник', 'Полицейский', 'не', 'может', 'быть', 'поклонником']	"[""You're"", 'a', 'poIiceman', 'not', 'a', 'fan', ""Can'ta"", 'policeman', 'be', 'a', 'fan']"
+139	l'm notan expert on opera, but yourvoice... 	Я не разбираюсь в опере, но Ваш голос... 	['Я', 'не', 'разбираюсь', 'в', 'опере', 'но', 'Ваш', 'голос']	"[""l'm"", 'notan', 'expert', 'on', 'opera', 'but', 'yourvoice']"
+140	Thank you forthat autograph. 	Спасибо за автограф. 	['Спасибо', 'за', 'автограф']	['Thank', 'you', 'forthat', 'autograph']
+141	-What'd the cop want? -My autograph. 	- Что нужно полицейскому? - Автограф. 	['Что', 'нужно', 'полицейскому', 'Автограф']	"[""What'd"", 'the', 'cop', 'want', 'My', 'autograph']"
+142	Why is he here? 	Почему он здесь? 	['Почему', 'он', 'здесь']	['Why', 'is', 'he', 'here']
+143	Maybe because of the accident with the lights. 	Возможно из-за того прожектора. 	['Возможно', 'из-за', 'того', 'прожектора']	['Maybe', 'because', 'of', 'the', 'accident', 'with', 'the', 'lights']
+144	One of the stagehands died. Pretty weird! 	Погиб рабочий сцены. Очень странно! 	['Погиб', 'рабочий', 'сцены', 'Очень', 'странно']	['One', 'of', 'the', 'stagehands', 'died', 'Pretty', 'weird']
+145	Leave your costume there. Mark says it needs a few aIterations. 	Оставь костюм. Марк считает, его надо немного переделать. 	['Оставь', 'костюм', 'Марк', 'считает', 'его', 'надо', 'немного', 'переделать']	['Leave', 'your', 'costume', 'there', 'Mark', 'says', 'it', 'needs', 'a', 'few', 'aIterations']
+146	l don't want to go to the party alone. WouId you like to take me? 	Я не хочу идти на эту вечеринку одна. Ты не хотел бы составить компанию? 	['Я', 'не', 'хочу', 'идти', 'на', 'эту', 'вечеринку', 'одна', 'Ты', 'не', 'хотел', 'бы', 'составить', 'компанию']	"['l', ""don't"", 'want', 'to', 'go', 'to', 'the', 'party', 'alone', 'WouId', 'you', 'like', 'to', 'take', 'me']"
+147	Sure, l'd Iove to. You were great tonight. 	Конечно, ты  была восхитительна сегодня. 	['Конечно', 'ты', 'была', 'восхитительна', 'сегодня']	"['Sure', ""l'd"", 'Iove', 'to', 'You', 'were', 'great', 'tonight']"
+148	Seems l'm the last one to congratuIate you. 	Кажется я последний, кто тебе это сказал. 	['Кажется', 'я', 'последний', 'кто', 'тебе', 'это', 'сказал']	"['Seems', ""l'm"", 'the', 'last', 'one', 'to', 'congratuIate', 'you']"
+149	Think I might have a kiss? 	Могу ли я тебя поцеловать? 	['Могу', 'ли', 'я', 'тебя', 'поцеловать']	['Think', 'I', 'might', 'have', 'a', 'kiss']
+150	Even if I'm only the stage manager? 	Даже если я простой  помощник режиссера? 	['Даже', 'если', 'я', 'простой', 'помощник', 'режиссера']	"['Even', 'if', ""I'm"", 'only', 'the', 'stage', 'manager']"
+151	Did you reaIly like me? 	Я тебе действительно понравилась? 	['Я', 'тебе', 'действительно', 'понравилась']	['Did', 'you', 'reaIly', 'like', 'me']
+152	l Ioved you! 	Я влюбился в тебя! 	['Я', 'влюбился', 'в', 'тебя']	['l', 'Ioved', 'you']
+153	From the great Mara Cecova. 	От Великой Мары Чековой. 	['От', 'Великой', 'Мары', 'Чековой']	['From', 'the', 'great', 'Mara', 'Cecova']
+154	-With her bestwishes. -Thank you. 	- С наилучшими пожеланиями. - Спасибо. 	['С', 'наилучшими', 'пожеланиями', 'Спасибо']	['With', 'her', 'bestwishes', 'Thank', 'you']
+155	The great Mara Cecova can say she was struck by the curse of''Macbeth''! 	"Можно сказать, ее сразило проклятие ""Макбета""! "	['Можно', 'сказать', 'ее', 'сразило', 'проклятие', 'Макбета']	"['The', 'great', 'Mara', 'Cecova', 'can', 'say', 'she', 'was', 'struck', 'by', 'the', 'curse', ""of''Macbeth''""]"
+156	''Good Iuck, IittIe snake.'' 	''Удачи, змейка.'' 	"[""''Удачи"", ""змейка.''""]"	"[""''Good"", 'Iuck', 'IittIe', ""snake.''""]"
+157	You can certainly feel her sting there. 	Почувствуй ее укус. 	['Почувствуй', 'ее', 'укус']	['You', 'can', 'certainly', 'feel', 'her', 'sting', 'there']
+158	Looks expensive. 	Выглядит дорогостоящим. 	['Выглядит', 'дорогостоящим']	['Looks', 'expensive']
+159	-What do you think it is? -Who knows? 	- Как ты думаешь, что там? - Кто знает? 	['Как', 'ты', 'думаешь', 'что', 'там', 'Кто', 'знает']	['What', 'do', 'you', 'think', 'it', 'is', 'Who', 'knows']
+160	Frog's lime? Acid? 	Лягушачья слизь? Кислота? 	['Лягушачья', 'слизь', 'Кислота']	"[""Frog's"", 'lime', 'Acid']"
+161	Poison? 	Яд? 	['Яд']	['Poison']
+162	What's wrong? 	Что такое? 	['Что', 'такое']	"[""What's"", 'wrong']"
+163	Idiot! 	Идиот! 	['Идиот']	['Idiot']
+164	Cecova would bathe in that stuff! 	Чекова этим моется! 	['Чекова', 'этим', 'моется']	['Cecova', 'would', 'bathe', 'in', 'that', 'stuff']
+165	Damned birds! 	Проклятые птицы! 	['Проклятые', 'птицы']	['Damned', 'birds']
+166	l'm sorry, I can't. lt's not yourfauIt. 	Извини, я не могу. Ты не виноват. 	['Извини', 'я', 'не', 'могу', 'Ты', 'не', 'виноват']	"[""l'm"", 'sorry', 'I', ""can't"", ""lt's"", 'not', 'yourfauIt']"
+167	l'm a disaster in bed. l don't know why. l'm sorry. 	Я ужасна в постели. Не знаю почему. Прости. 	['Я', 'ужасна', 'в', 'постели', 'Не', 'знаю', 'почему', 'Прости']	"[""l'm"", 'a', 'disaster', 'in', 'bed', 'l', ""don't"", 'know', 'why', ""l'm"", 'sorry']"
+168	According to the legend, opera singers are incredibIy horny! 	Если верить легенде, оперные певцы ненасытны! 	['Если', 'верить', 'легенде', 'оперные', 'певцы', 'ненасытны']	['According', 'to', 'the', 'legend', 'opera', 'singers', 'are', 'incredibIy', 'horny']
+169	They say they make Iove before they go out on stage. 	Они занимаются любовью перед выходом на сцену. 	['Они', 'занимаются', 'любовью', 'перед', 'выходом', 'на', 'сцену']	['They', 'say', 'they', 'make', 'Iove', 'before', 'they', 'go', 'out', 'on', 'stage']
+170	That sortof relaxes their voices. 	Так они расслабляют голос. 	['Так', 'они', 'расслабляют', 'голос']	['That', 'sortof', 'relaxes', 'their', 'voices']
+171	Either l'm a Iousy opera singer or... 	Или я вшивая оперная певица или... 	['Или', 'я', 'вшивая', 'оперная', 'певица', 'или']	"['Either', ""l'm"", 'a', 'Iousy', 'opera', 'singer', 'or']"
+172	Have I offended you? 	Я огорчила тебя? 	['Я', 'огорчила', 'тебя']	['Have', 'I', 'offended', 'you']
+173	Now that you're famous, things are a bit different between us. 	Теперь ты знаменита, все между нами может пойти по-другому. 	['Теперь', 'ты', 'знаменита', 'все', 'между', 'нами', 'может', 'пойти', 'по-другому']	"['Now', 'that', ""you're"", 'famous', 'things', 'are', 'a', 'bit', 'different', 'between', 'us']"
+174	Don't say that, it's not true. 	Не говори так, это не правда. 	['Не', 'говори', 'так', 'это', 'не', 'правда']	"[""Don't"", 'say', 'that', ""it's"", 'not', 'true']"
+175	What a pIace! Looks like a museum. 	Какое место! Похоже на музей. 	['Какое', 'место', 'Похоже', 'на', 'музей']	['What', 'a', 'pIace', 'Looks', 'like', 'a', 'museum']
+176	It sort of is. I've got a rich uncle. 	Отчасти. Мой дядя богач. 	['Отчасти', 'Мой', 'дядя', 'богач']	"['It', 'sort', 'of', 'is', ""I've"", 'got', 'a', 'rich', 'uncle']"
+177	lt's his place. He Iets me use it whenever I need it. 	Это принадлежит ему. Он разрешил мне им пользоваться. 	['Это', 'принадлежит', 'ему', 'Он', 'разрешил', 'мне', 'им', 'пользоваться']	"[""lt's"", 'his', 'place', 'He', 'Iets', 'me', 'use', 'it', 'whenever', 'I', 'need', 'it']"
+178	- Do you want some tea? -Yes, please. 	- Хочешь чай? - Да. 	['Хочешь', 'чай', 'Да']	['Do', 'you', 'want', 'some', 'tea', 'Yes', 'please']
+179	I've got rose, 	У меня есть розовый, 	['У', 'меня', 'есть', 'розовый']	"[""I've"", 'got', 'rose']"
+180	jasmine or mint. 	жасминовый и мятный. 	['жасминовый', 'и', 'мятный']	['jasmine', 'or', 'mint']
+181	-Jasmine. - OK. 	- Жасмин. - OK. 	['Жасмин', 'OK']	['Jasmine', 'OK']
+182	No! Mint! 	Нет! Мятный! 	['Нет', 'Мятный']	['No', 'Mint']
+183	Take a good look! If you try to close youreyes 	Смотри, не моргай! Если ты их попробуешь их 	['Смотри', 'не', 'моргай', 'Если', 'ты', 'их', 'попробуешь', 'их']	['Take', 'a', 'good', 'look', 'If', 'you', 'try', 'to', 'close', 'youreyes']
+184	you'lI tear them apart! 	закрыть, то ты их выколешь! 	['закрыть', 'то', 'ты', 'их', 'выколешь']	"[""you'lI"", 'tear', 'them', 'apart']"
+185	You'Il have to watch everything. 	Ты должны увидеть все. 	['Ты', 'должны', 'увидеть', 'все']	"[""You'Il"", 'have', 'to', 'watch', 'everything']"
+186	Why'd you Iock it? 	Зачем ты закрыла? 	['Зачем', 'ты', 'закрыла']	"[""Why'd"", 'you', 'Iock', 'it']"
+187	Are you feeIing okay? 	Ты хорошо себя чувствуешь? 	['Ты', 'хорошо', 'себя', 'чувствуешь']	['Are', 'you', 'feeIing', 'okay']
+188	What the heIl is going on? 	Что, черт возьми, здесь происходит? 	['Что', 'черт', 'возьми', 'здесь', 'происходит']	['What', 'the', 'heIl', 'is', 'going', 'on']
+189	It's not true you're frigid. 	Не правда, что ты фригидна. 	['Не', 'правда', 'что', 'ты', 'фригидна']	"[""It's"", 'not', 'true', ""you're"", 'frigid']"
+190	You're a bitch on heat. 	Ты сучка на взводе. 	['Ты', 'сучка', 'на', 'взводе']	"[""You're"", 'a', 'bitch', 'on', 'heat']"
+191	- Hello? - There's been a murder 	- Алло? - Произошло убийство 	['Алло', 'Произошло', 'убийство']	"['Hello', ""There's"", 'been', 'a', 'murder']"
+192	at 6666 ViaIe Pegaso. 	на Виале Пегасо 6666. 	['на', 'Виале', 'Пегасо', '6666']	['at', '6666', 'ViaIe', 'Pegaso']
+193	Who's speaking? 	Кто говорит? 	['Кто', 'говорит']	"[""Who's"", 'speaking']"
+194	My God! Look what success has done to you! 	Боже! Что успех сделал с тобой! 	['Боже', 'Что', 'успех', 'сделал', 'с', 'тобой']	['My', 'God', 'Look', 'what', 'success', 'has', 'done', 'to', 'you']
+195	Come on! l wantto get the papers. I want to read the reviews. 	Я хочу почитать газеты. 	['Я', 'хочу', 'почитать', 'газеты']	['Come', 'on', 'l', 'wantto', 'get', 'the', 'papers', 'I', 'want', 'to', 'read', 'the', 'reviews']
+196	Something's wrong with your eyes? Stage Iights? 	Что-то случилось с глазами? Свет рампы? 	['Что-то', 'случилось', 'с', 'глазами', 'Свет', 'рампы']	"[""Something's"", 'wrong', 'with', 'your', 'eyes', 'Stage', 'Iights']"
+197	Yes, the lights. 	Да, свет. 	['Да', 'свет']	['Yes', 'the', 'lights']
+198	-What Iights? - It wasn't the Iights. 	- Какой свет? - Нет, это был не свет. 	['Какой', 'свет', 'Нет', 'это', 'был', 'не', 'свет']	"['What', 'Iights', 'It', ""wasn't"", 'the', 'Iights']"
+199	How do you turn on the heating? 	Как включить обогреватель? 	['Как', 'включить', 'обогреватель']	['How', 'do', 'you', 'turn', 'on', 'the', 'heating']
+200	- That bad, was it? - I can't teIl you. 	- Что-то стряслось, да? - Я не могу рассказать. 	['Что-то', 'стряслось', 'да', 'Я', 'не', 'могу', 'рассказать']	"['That', 'bad', 'was', 'it', 'I', ""can't"", 'teIl', 'you']"
+201	lt was so... l can't teIl you! 	Это было так... Не могу! 	['Это', 'было', 'так', 'Не', 'могу']	"['lt', 'was', 'so', 'l', ""can't"", 'teIl', 'you']"
+202	-Trouble in love? - Love? 	- Неудача в любви? - Любви? 	['Неудача', 'в', 'любви', 'Любви']	['Trouble', 'in', 'love', 'Love']
+203	What love? Whenever a woman has a problem, 	Какая любовь? Как только  у женщины возникает проблема, 	['Какая', 'любовь', 'Как', 'только', 'у', 'женщины', 'возникает', 'проблема']	['What', 'love', 'Whenever', 'a', 'woman', 'has', 'a', 'problem']
+204	men always presume it's Iove! 	мужчины сразу решают, что это любовь! 	['мужчины', 'сразу', 'решают', 'что', 'это', 'любовь']	"['men', 'always', 'presume', ""it's"", 'Iove']"
+205	You sopranos are famous for... 	Твое сопрано столь знаменито... 	['Твое', 'сопрано', 'столь', 'знаменито']	['You', 'sopranos', 'are', 'famous', 'for']
+206	- ...whoring around? - Now wait a minute. 	- ...привлекает всяких подонков? - Нет, подождите. 	['привлекает', 'всяких', 'подонков', 'Нет', 'подождите']	['whoring', 'around', 'Now', 'wait', 'a', 'minute']
+207	Look, I've aIready heard that story tonight. 	Я уже слышала эту историю сегодня. 	['Я', 'уже', 'слышала', 'эту', 'историю', 'сегодня']	"['Look', ""I've"", 'aIready', 'heard', 'that', 'story', 'tonight']"
+208	Some peopIe think we make love before going on stage to improve the voice. 	Некоторые думают, что мы занимаемся любовью, перед выходом на сцену, чтобы 	['Некоторые', 'думают', 'что', 'мы', 'занимаемся', 'любовью', 'перед', 'выходом', 'на', 'сцену', 'чтобы']	['Some', 'peopIe', 'think', 'we', 'make', 'love', 'before', 'going', 'on', 'stage', 'to', 'improve', 'the', 'voice']
+209	As faras I am concerned they are totaIly wrong. 	настроить голос. Насколько я могу  судить, это полная чепуха. 	['настроить', 'голос', 'Насколько', 'я', 'могу', 'судить', 'это', 'полная', 'чепуха']	['As', 'faras', 'I', 'am', 'concerned', 'they', 'are', 'totaIly', 'wrong']
+210	You've never made love? 	Ты никогда не занималась этим? 	['Ты', 'никогда', 'не', 'занималась', 'этим']	"[""You've"", 'never', 'made', 'love']"
+211	Of course l have. 	Конечно, занималась. 	['Конечно', 'занималась']	['Of', 'course', 'l', 'have']
+212	It's just... lt's neverworked. 	Это просто... 	['Это', 'просто']	"[""It's"", 'just', ""lt's"", 'neverworked']"
+213	Anyway, you aIso work in movies. And you movie people are Iegendary when itcomes to... 	Это никогда не помогает. Так или иначе, Вы работаете в кино. А все киношники знамениты тем, что... 	['Это', 'никогда', 'не', 'помогает', 'Так', 'или', 'иначе', 'Вы', 'работаете', 'в', 'кино', 'А', 'все', 'киношники', 'знамениты', 'тем', 'что']	['Anyway', 'you', 'aIso', 'work', 'in', 'movies', 'And', 'you', 'movie', 'people', 'are', 'Iegendary', 'when', 'itcomes', 'to']
+214	That's true. I aIways jerk off before I shoot a scene. 	Это правда. Я всегда  дрочу перед съемкой. 	['Это', 'правда', 'Я', 'всегда', 'дрочу', 'перед', 'съемкой']	"[""That's"", 'true', 'I', 'aIways', 'jerk', 'off', 'before', 'I', 'shoot', 'a', 'scene']"
+215	You'II have to taIk about it soon or later. 	Мы обязательно обсудим  это как-нибудь. 	['Мы', 'обязательно', 'обсудим', 'это', 'как-нибудь']	"[""You'II"", 'have', 'to', 'taIk', 'about', 'it', 'soon', 'or', 'later']"
+216	And then I ran away and l found you. 	И тогда я убежала и встретила Вас. 	['И', 'тогда', 'я', 'убежала', 'и', 'встретила', 'Вас']	['And', 'then', 'I', 'ran', 'away', 'and', 'l', 'found', 'you']
+217	The strangest thing about what happened tonight, 	Самое странное в том, что случилось этой ночью, 	['Самое', 'странное', 'в', 'том', 'что', 'случилось', 'этой', 'ночью']	['The', 'strangest', 'thing', 'about', 'what', 'happened', 'tonight']
+218	alI the terrible things l saw, 	во всем этом ужасе, что я видела, 	['во', 'всем', 'этом', 'ужасе', 'что', 'я', 'видела']	['alI', 'the', 'terrible', 'things', 'l', 'saw']
+219	are from a nightmare l used to have as a child. 	было из того ночного кошмара, который мне часто видела в детстве. 	['было', 'из', 'того', 'ночного', 'кошмара', 'который', 'мне', 'часто', 'видела', 'в', 'детстве']	['are', 'from', 'a', 'nightmare', 'l', 'used', 'to', 'have', 'as', 'a', 'child']
+220	l used to dream of a man wearing a black hood. 	Мне снился человек в черном капюшоне. 	['Мне', 'снился', 'человек', 'в', 'черном', 'капюшоне']	['l', 'used', 'to', 'dream', 'of', 'a', 'man', 'wearing', 'a', 'black', 'hood']
+221	- Tonight l saw that same hood. -You said you caIled the police. 	- Сегодня я видела этот капюшон. - Ты сказала, что вызвала полицию. 	['Сегодня', 'я', 'видела', 'этот', 'капюшон', 'Ты', 'сказала', 'что', 'вызвала', 'полицию']	['Tonight', 'l', 'saw', 'that', 'same', 'hood', 'You', 'said', 'you', 'caIled', 'the', 'police']
+222	- Did you give your name? - No. 	- Ты назвала ими свое имя? - Нет. 	['Ты', 'назвала', 'ими', 'свое', 'имя', 'Нет']	['Did', 'you', 'give', 'your', 'name', 'No']
+223	ToId Mira then? 	Рассказала Мире? 	['Рассказала', 'Мире']	['ToId', 'Mira', 'then']
+224	About what happened tonight? Yes. 	О том, что произошло? Да. 	['О', 'том', 'что', 'произошло', 'Да']	['About', 'what', 'happened', 'tonight', 'Yes']
+225	Why, there's more, right? 	А есть что-то еще? 	['А', 'есть', 'что-то', 'еще']	"['Why', ""there's"", 'more', 'right']"
+226	I'Il check the other rooms. 	Я проверю комнаты. 	['Я', 'проверю', 'комнаты']	"[""I'Il"", 'check', 'the', 'other', 'rooms']"
+227	Have you got a boyfriend? 	У тебя есть парень? 	['У', 'тебя', 'есть', 'парень']	['Have', 'you', 'got', 'a', 'boyfriend']
+228	-Someone who might get jeaIous? - Not that I know of. Why? 	- Который мог приревновать? - Нет, я не знаю такого. А что? 	['Который', 'мог', 'приревновать', 'Нет', 'я', 'не', 'знаю', 'такого', 'А', 'что']	['Someone', 'who', 'might', 'get', 'jeaIous', 'Not', 'that', 'I', 'know', 'of', 'Why']
+229	Someone is watching the windows with binoculars. 	Кто-то с биноклем таращиться на твое окно. 	['Кто-то', 'с', 'биноклем', 'таращиться', 'на', 'твое', 'окно']	['Someone', 'is', 'watching', 'the', 'windows', 'with', 'binoculars']
+230	-Where? -Come and see. 	- Где? - Взгляни! 	['Где', 'Взгляни']	['Where', 'Come', 'and', 'see']
+231	He's gone. He was there underthe street lamp. 	Ушел. Он стоял под фонарем. 	['Ушел', 'Он', 'стоял', 'под', 'фонарем']	"[""He's"", 'gone', 'He', 'was', 'there', 'underthe', 'street', 'lamp']"
+232	l could stay if you want me to. 	Если хочешь, я могу остаться. 	['Если', 'хочешь', 'я', 'могу', 'остаться']	['l', 'could', 'stay', 'if', 'you', 'want', 'me', 'to']
+233	Don't you have someone waiting for you? 	Вас никто не ждет? 	['Вас', 'никто', 'не', 'ждет']	"[""Don't"", 'you', 'have', 'someone', 'waiting', 'for', 'you']"
+234	She's probably having a fit because you're not home yet. 	У нее наверно уже истерика от того, что Вас нет дома. 	['У', 'нее', 'наверно', 'уже', 'истерика', 'от', 'того', 'что', 'Вас', 'нет', 'дома']	"[""She's"", 'probably', 'having', 'a', 'fit', 'because', ""you're"", 'not', 'home', 'yet']"
+235	I'Il lock myseIfin. Don't worry. 	Я запрусь. Не волнуйтесь. 	['Я', 'запрусь', 'Не', 'волнуйтесь']	"[""I'Il"", 'lock', 'myseIfin', ""Don't"", 'worry']"
+236	Make sure you lock alI the windows. 	Убедись, что все окна заперты. 	['Убедись', 'что', 'все', 'окна', 'заперты']	['Make', 'sure', 'you', 'lock', 'alI', 'the', 'windows']
+237	l'lI look around in the street. lf I see anything suspicious 	Я посмотрю на улице. Если замечу, что-либо подозрительное, 	['Я', 'посмотрю', 'на', 'улице', 'Если', 'замечу', 'что-либо', 'подозрительное']	"[""l'lI"", 'look', 'around', 'in', 'the', 'street', 'lf', 'I', 'see', 'anything', 'suspicious']"
+238	l'lI phone you. If not, see you tomorrow. 	позвоню. Если нет, тогда до завтра. 	['позвоню', 'Если', 'нет', 'тогда', 'до', 'завтра']	"[""l'lI"", 'phone', 'you', 'If', 'not', 'see', 'you', 'tomorrow']"
+239	What is it? 	Что такое? 	['Что', 'такое']	['What', 'is', 'it']
+240	There is someone out there! 	Там кто-то есть! 	['Там', 'кто-то', 'есть']	['There', 'is', 'someone', 'out', 'there']
+241	Awoman. 	Женщина. 	['Женщина']	['Awoman']
+242	Who is there? Who are you? 	Кто там? 	['Кто', 'там']	['Who', 'is', 'there', 'Who', 'are', 'you']
+243	I live here. 	Я живу здесь. 	['Я', 'живу', 'здесь']	['I', 'live', 'here']
+244	- I'm one of your neighbours. -Was that man Iooking for me? 	- Я одна из Ваших соседей. - Тот мужчина искал меня? 	['Я', 'одна', 'из', 'Ваших', 'соседей', 'Тот', 'мужчина', 'искал', 'меня']	"[""I'm"", 'one', 'of', 'your', 'neighbours', 'Was', 'that', 'man', 'Iooking', 'for', 'me']"
+245	No. It's nothing. 	Нет. Ничуть. 	['Нет', 'Ничуть']	"['No', ""It's"", 'nothing']"
+246	l've told you, nothing! 	Я же сказала, нет! 	['Я', 'же', 'сказала', 'нет']	"[""l've"", 'told', 'you', 'nothing']"
+247	-Who do you think she is? -A neighbour, like she said. 	- Кто она? - Соседка, как она сказала. 	['Кто', 'она', 'Соседка', 'как', 'она', 'сказала']	['Who', 'do', 'you', 'think', 'she', 'is', 'A', 'neighbour', 'like', 'she', 'said']
+248	Put the chain on. 	Закрой на цепочку. 	['Закрой', 'на', 'цепочку']	['Put', 'the', 'chain', 'on']
+249	I don'twant to lose anotherstar. 	Не хочу потерять еще одну звезду. 	['Не', 'хочу', 'потерять', 'еще', 'одну', 'звезду']	"['I', ""don'twant"", 'to', 'lose', 'anotherstar']"
+250	Who is it? 	Кто это? 	['Кто', 'это']	['Who', 'is', 'it']
+251	Who's there? 	 	[]	"[""Who's"", 'there']"
+252	Who's there? 	Кто это? 	['Кто', 'это']	"[""Who's"", 'there']"
+253	HeIlo? 	Алло? 	['Алло']	['HeIlo']
+254	ls that you, Mark? 	Это Марк? 	['Это', 'Марк']	['ls', 'that', 'you', 'Mark']
+255	Mark, is that you? 	Марк, это Вы? 	['Марк', 'это', 'Вы']	['Mark', 'is', 'that', 'you']
+256	Oh, my God! Why did l sing that roIe? 	Господи! Ну, зачем я спела эту роль? 	['Господи', 'Ну', 'зачем', 'я', 'спела', 'эту', 'роль']	['Oh', 'my', 'God', 'Why', 'did', 'l', 'sing', 'that', 'roIe']
+257	I shouldn't have! 	Не надо было 	['Не', 'надо', 'было']	"['I', ""shouldn't"", 'have']"
+258	lt was myfauIt. 	Это было моей ошибкой. 	['Это', 'было', 'моей', 'ошибкой']	['lt', 'was', 'myfauIt']
+259	Why did l do it? 	Ну почему я это сделала? 	['Ну', 'почему', 'я', 'это', 'сделала']	['Why', 'did', 'l', 'do', 'it']
+260	Don'tcry, Betty. Don't cry! 	Не плачь, Бетти! 	['Не', 'плачь', 'Бетти']	"[""Don'tcry"", 'Betty', ""Don't"", 'cry']"
+261	Stormy reception from ''Macbeth''. 	"Бурная реакция на ""Макбет""'. "	"['Бурная', 'реакция', 'на', 'Макбет""\'']"	"['Stormy', 'reception', 'from', ""''Macbeth''""]"
+262	''BriIIiant debut by young singer 	"""Блестящий дебют молодой певицы, "	['Блестящий', 'дебют', 'молодой', 'певицы']	"[""''BriIIiant"", 'debut', 'by', 'young', 'singer']"
+263	who at the Iast moment substituted Mara Cecova.'' 	"заменившей в последний момент Мару Чекову."" "	['заменившей', 'в', 'последний', 'момент', 'Мару', 'Чекову']	"['who', 'at', 'the', 'Iast', 'moment', 'substituted', 'Mara', ""Cecova.''""]"
+264	''RevoIutionary, butcrazy set. Doubts regarding the direction.'' 	''Революционно, но бредово поставленно. Сомнения относительно режиссуры''. 	"[""''Революционно"", 'но', 'бредово', 'поставленно', 'Сомнения', 'относительно', ""режиссуры''""]"	"[""''RevoIutionary"", 'butcrazy', 'set', 'Doubts', 'regarding', 'the', ""direction.''""]"
+265	''Advice to the director: go back to horrorfilms.'' 	''Совет режиссеру: возвращайтесь к фильмам ужасов''. 	"[""''Совет"", 'режиссеру', 'возвращайтесь', 'к', 'фильмам', ""ужасов''""]"	"[""''Advice"", 'to', 'the', 'director', 'go', 'back', 'to', ""horrorfilms.''""]"
+266	''Forget opera!'' 	''Бросьте оперу!'' 	"[""''Бросьте"", ""оперу!''""]"	"[""''Forget"", ""opera!''""]"
+267	They're pulIing you to pieces. 	Они разнесли тебя в пух и прах. 	['Они', 'разнесли', 'тебя', 'в', 'пух', 'и', 'прах']	"[""They're"", 'pulIing', 'you', 'to', 'pieces']"
+268	-At least it's onIy on paper. -And she, a totaIly unknown, 	- Это всего лишь газеты. - А она, неизвестная никому, 	['Это', 'всего', 'лишь', 'газеты', 'А', 'она', 'неизвестная', 'никому']	"['At', 'least', ""it's"", 'onIy', 'on', 'paper', 'And', 'she', 'a', 'totaIly', 'unknown']"
+269	gets nothing but praise. - She was very good. 	получает столько похвал. - Она была очень хороша. 	['получает', 'столько', 'похвал', 'Она', 'была', 'очень', 'хороша']	['gets', 'nothing', 'but', 'praise', 'She', 'was', 'very', 'good']
+270	When they Iauded CeciIia Gasdia and blasted your direction of''RigoIetto'' 	"Когда они возносили Сесилию Газду обливали грязью твою режиссуру ""Риголетто"" "	['Когда', 'они', 'возносили', 'Сесилию', 'Газду', 'обливали', 'грязью', 'твою', 'режиссуру', 'Риголетто']	"['When', 'they', 'Iauded', 'CeciIia', 'Gasdia', 'and', 'blasted', 'your', 'direction', ""of''RigoIetto''""]"
+271	you were very pissed off, but not this time. 	тогда ты был очень огорчен, но не сейчас. 	['тогда', 'ты', 'был', 'очень', 'огорчен', 'но', 'не', 'сейчас']	['you', 'were', 'very', 'pissed', 'off', 'but', 'not', 'this', 'time']
+272	How come? 	Отчего? 	['Отчего']	['How', 'come']
+273	You want to take the girl to bed, don't you? 	Ты хочешь с ней переспать? 	['Ты', 'хочешь', 'с', 'ней', 'переспать']	"['You', 'want', 'to', 'take', 'the', 'girl', 'to', 'bed', ""don't"", 'you']"
+274	To be here with you this evening, l took two flights 	Чтобы быть здесь с тобой сегодня, я взяла два билета 	['Чтобы', 'быть', 'здесь', 'с', 'тобой', 'сегодня', 'я', 'взяла', 'два', 'билета']	['To', 'be', 'here', 'with', 'you', 'this', 'evening', 'l', 'took', 'two', 'flights']
+275	and turned down a fashion show. 	и отменила показ. 	['и', 'отменила', 'показ']	['and', 'turned', 'down', 'a', 'fashion', 'show']
+276	Fragments of the same feathers mixed with traces ofblood 	Фрагменты этих же перьев, смешанных с кровью 	['Фрагменты', 'этих', 'же', 'перьев', 'смешанных', 'с', 'кровью']	['Fragments', 'of', 'the', 'same', 'feathers', 'mixed', 'with', 'traces', 'ofblood']
+277	were found on a carpet in Stefano Brini's apartment. 	найдены на ковре в квартире Стефано Брини. 	['найдены', 'на', 'ковре', 'в', 'квартире', 'Стефано', 'Брини']	"['were', 'found', 'on', 'a', 'carpet', 'in', 'Stefano', ""Brini's"", 'apartment']"
+278	-What was he? Your... -Stage manager. 	- Кем он работал?  - Помощником режиссера. 	['Кем', 'он', 'работал', 'Помощником', 'режиссера']	['What', 'was', 'he', 'Your', 'Stage', 'manager']
+279	Ah, yes, stage manager. 	А, да, помощник режиссера. 	['А', 'да', 'помощник', 'режиссера']	['Ah', 'yes', 'stage', 'manager']
+280	Killed, or rather, butchered, 	Убит, или даже, изрублен, 	['Убит', 'или', 'даже', 'изрублен']	['Killed', 'or', 'rather', 'butchered']
+281	last night between 1:00 and 2:00 o'cIock. 	прошлой ночью между 1:00 и 2:00 часами. 	['прошлой', 'ночью', 'между', '1:00', 'и', '2:00', 'часами']	"['last', 'night', 'between', '1:00', 'and', '2:00', ""o'cIock""]"
+282	Who saw him Iast? 	Кто видел его последним? 	['Кто', 'видел', 'его', 'последним']	['Who', 'saw', 'him', 'Iast']
+283	There was a first-night party. 	Вчера был банкет по случаю премьеры. 	['Вчера', 'был', 'банкет', 'по', 'случаю', 'премьеры']	['There', 'was', 'a', 'first-night', 'party']
+284	- Did he leave alone? - l don't know. l wasn't there. 	- Он ушел один? - Я не знаю. Меня там не было. 	['Он', 'ушел', 'один', 'Я', 'не', 'знаю', 'Меня', 'там', 'не', 'было']	"['Did', 'he', 'leave', 'alone', 'l', ""don't"", 'know', 'l', ""wasn't"", 'there']"
+285	I see. Who did go to this party? 	Кто был вчера на банкете? 	['Кто', 'был', 'вчера', 'на', 'банкете']	['I', 'see', 'Who', 'did', 'go', 'to', 'this', 'party']
+286	- Did you? -Yes, I did. 	- Вы? - Да, я была. 	['Вы', 'Да', 'я', 'была']	['Did', 'you', 'Yes', 'I', 'did']
+287	What time did he leave? 	В котором часу он ушел? 	['В', 'котором', 'часу', 'он', 'ушел']	['What', 'time', 'did', 'he', 'leave']
+288	I think he left with Betty, our singer. 	Кажется, они ушли вместе с Бетти, нашей певицей. 	['Кажется', 'они', 'ушли', 'вместе', 'с', 'Бетти', 'нашей', 'певицей']	['I', 'think', 'he', 'left', 'with', 'Betty', 'our', 'singer']
+289	- ls Betty here? - No, butshe wiII be soon. 	- Бетти здесь? - Нет, но она скоро будет. 	['Бетти', 'здесь', 'Нет', 'но', 'она', 'скоро', 'будет']	['ls', 'Betty', 'here', 'No', 'butshe', 'wiII', 'be', 'soon']
+290	-We have to rehearse. - I'm not finished yet. 	- Нам надо репетировать. - Я еще не закончил. 	['Нам', 'надо', 'репетировать', 'Я', 'еще', 'не', 'закончил']	"['We', 'have', 'to', 'rehearse', ""I'm"", 'not', 'finished', 'yet']"
+291	You are Maurizio, right? The one responsibIe forthe ravens. 	Вы Маурицио? Вы отвечаете за птиц. 	['Вы', 'Маурицио', 'Вы', 'отвечаете', 'за', 'птиц']	['You', 'are', 'Maurizio', 'right', 'The', 'one', 'responsibIe', 'forthe', 'ravens']
+292	- How many were kilIed? - Three. 	- Сколько птиц убито? - Три. 	['Сколько', 'птиц', 'убито', 'Три']	['How', 'many', 'were', 'kilIed', 'Three']
+293	lnspector, l know who kiIled the ravens. 	Инспектор, я знаю кто убил воронов. 	['Инспектор', 'я', 'знаю', 'кто', 'убил', 'воронов']	['lnspector', 'l', 'know', 'who', 'kiIled', 'the', 'ravens']
+294	-Who? - Mara Cecova hated them. 	- Кто? - Мара Чекова, она их ненавидит. 	['Кто', 'Мара', 'Чекова', 'она', 'их', 'ненавидит']	['Who', 'Mara', 'Cecova', 'hated', 'them']
+295	What are you taIking about? Don't be ridicuIous. 	Что Вы несете? Не смешите меня. 	['Что', 'Вы', 'несете', 'Не', 'смешите', 'меня']	"['What', 'are', 'you', 'taIking', 'about', ""Don't"", 'be', 'ridicuIous']"
+296	Ravens are very vindictive. They don't forget. 	Ворон - птица мстительная. Они все запомнят. 	['Ворон', 'птица', 'мстительная', 'Они', 'все', 'запомнят']	"['Ravens', 'are', 'very', 'vindictive', 'They', ""don't"", 'forget']"
+297	They rememberforyears and at the right moment...Zap! 	Будут помнить до тех пор, пока в подходящий момент...Цап! 	['Будут', 'помнить', 'до', 'тех', 'пор', 'пока', 'в', 'подходящий', 'момент...Цап']	['They', 'rememberforyears', 'and', 'at', 'the', 'right', 'moment...Zap']
+298	This ''Macbeth'' has been hit by so much bad luck 	"Этому "" Макбету"" досталось столько несчастий "	['Этому', 'Макбету', 'досталось', 'столько', 'несчастий']	"['This', ""''Macbeth''"", 'has', 'been', 'hit', 'by', 'so', 'much', 'bad', 'luck']"
+299	and so many coincidences. 	и совпадений. 	['и', 'совпадений']	['and', 'so', 'many', 'coincidences']
+300	- It staggers the imagination. - I don't want you to think... 	- Потрясает воображение. - Не хочу, чтобы Вы считали... 	['Потрясает', 'воображение', 'Не', 'хочу', 'чтобы', 'Вы', 'считали']	"['It', 'staggers', 'the', 'imagination', 'I', ""don't"", 'want', 'you', 'to', 'think']"
+301	I'm a superstition type, but it's ''Macbeth'' that brings bad Iuck. 	"меня суеверным, но ""Макбет''...  он приносит несчастье. "	"['меня', 'суеверным', 'но', ""Макбет''"", 'он', 'приносит', 'несчастье']"	"[""I'm"", 'a', 'superstition', 'type', 'but', ""it's"", ""''Macbeth''"", 'that', 'brings', 'bad', 'Iuck']"
+302	Everyone knows that. 	Это каждый знает. 	['Это', 'каждый', 'знает']	['Everyone', 'knows', 'that']
+303	l couId teII you about dozens of strange incidents. 	Я могу привести Вам дюжину странных инцидентов. 	['Я', 'могу', 'привести', 'Вам', 'дюжину', 'странных', 'инцидентов']	['l', 'couId', 'teII', 'you', 'about', 'dozens', 'of', 'strange', 'incidents']
+304	A lot of peopIe believe the opera to be cursed. 	Многие верят, что на этой опере лежит проклятье. 	['Многие', 'верят', 'что', 'на', 'этой', 'опере', 'лежит', 'проклятье']	['A', 'lot', 'of', 'peopIe', 'believe', 'the', 'opera', 'to', 'be', 'cursed']
+305	I've seen a Iot of your movies. You are an expert in this field. 	Я видел много Ваших фильмов. Вы эксперт в своем деле. 	['Я', 'видел', 'много', 'Ваших', 'фильмов', 'Вы', 'эксперт', 'в', 'своем', 'деле']	"[""I've"", 'seen', 'a', 'Iot', 'of', 'your', 'movies', 'You', 'are', 'an', 'expert', 'in', 'this', 'field']"
+306	l'd be very interested to know your opinion. 	Мне было бы любопытно знать Ваше мнение. 	['Мне', 'было', 'бы', 'любопытно', 'знать', 'Ваше', 'мнение']	"[""l'd"", 'be', 'very', 'interested', 'to', 'know', 'your', 'opinion']"
+307	lt's unwise to use movies as guides for reaIity, isn't it, lnspector? 	Разумно ли руководствоваться фильмами в реальности, инспектор? 	['Разумно', 'ли', 'руководствоваться', 'фильмами', 'в', 'реальности', 'инспектор']	"[""lt's"", 'unwise', 'to', 'use', 'movies', 'as', 'guides', 'for', 'reaIity', ""isn't"", 'it', 'lnspector']"
+308	It depends what you mean by reality. 	Смотря, что Вы называете реальностью. 	['Смотря', 'что', 'Вы', 'называете', 'реальностью']	['It', 'depends', 'what', 'you', 'mean', 'by', 'reality']
+309	l've gotto fix this dress before the next performance 	Я должны починить костюм к выступлению послезавтра, 	['Я', 'должны', 'починить', 'костюм', 'к', 'выступлению', 'послезавтра']	"[""l've"", 'gotto', 'fix', 'this', 'dress', 'before', 'the', 'next', 'performance']"
+310	and l've got onIy two hands! 	но у меня только две руки! 	['но', 'у', 'меня', 'только', 'две', 'руки']	"['and', ""l've"", 'got', 'onIy', 'two', 'hands']"
+311	With ten hands, the costumes wouId stiIl be a pile of shit! 	И с 10 руками костюмы были бы кучей дерьма! 	['И', 'с', '10', 'руками', 'костюмы', 'были', 'бы', 'кучей', 'дерьма']	['With', 'ten', 'hands', 'the', 'costumes', 'wouId', 'stiIl', 'be', 'a', 'pile', 'of', 'shit']
+312	What? 	Что? 	['Что']	['What']
+313	AIright, Mister Genius Director! 	Хорошо, мистер Гениальный Режиссер! 	['Хорошо', 'мистер', 'Гениальный', 'Режиссер']	['AIright', 'Mister', 'Genius', 'Director']
+314	l put most ofthe blame on ourfancy pants director here 	Но виноват в этом наш  любимый голубенький режиссерик, 	['Но', 'виноват', 'в', 'этом', 'наш', 'любимый', 'голубенький', 'режиссерик']	['l', 'put', 'most', 'ofthe', 'blame', 'on', 'ourfancy', 'pants', 'director', 'here']
+315	who thinks Verdi was a twit and Shakespeare an asshole! 	который считает Верди придурком, а Шекспира - жопой с ручками! 	['который', 'считает', 'Верди', 'придурком', 'а', 'Шекспира', 'жопой', 'с', 'ручками']	['who', 'thinks', 'Verdi', 'was', 'a', 'twit', 'and', 'Shakespeare', 'an', 'asshole']
+316	l'II fix the dress, but not foryou, for Giuseppe Verdi! 	Я починю костюм, но не для Вас, а для Джезеппе Верди! 	['Я', 'починю', 'костюм', 'но', 'не', 'для', 'Вас', 'а', 'для', 'Джезеппе', 'Верди']	"[""l'II"", 'fix', 'the', 'dress', 'but', 'not', 'foryou', 'for', 'Giuseppe', 'Verdi']"
+317	Let's get out ofhere. 	Убирайтесь. 	['Убирайтесь']	"[""Let's"", 'get', 'out', 'ofhere']"
+318	-AlI this turns you on, doesn't it? -Whatare you talking about? 	- Все это заводит тебя? - О чем ты говоришь? 	['Все', 'это', 'заводит', 'тебя', 'О', 'чем', 'ты', 'говоришь']	"['AlI', 'this', 'turns', 'you', 'on', ""doesn't"", 'it', 'Whatare', 'you', 'talking', 'about']"
+319	-You're a sadist! - RealIy? 	- Ты садист! - Правда? 	['Ты', 'садист', 'Правда']	"[""You're"", 'a', 'sadist', 'RealIy']"
+320	Everyone who knows you says the same thing. 	Каждый, кто тебя знает, говорит это. 	['Каждый', 'кто', 'тебя', 'знает', 'говорит', 'это']	['Everyone', 'who', 'knows', 'you', 'says', 'the', 'same', 'thing']
+321	That must be boring forthem. 	Должно быть им это скучно. 	['Должно', 'быть', 'им', 'это', 'скучно']	['That', 'must', 'be', 'boring', 'forthem']
+322	-Just the person l wanted to see! -What's happened to my costume? 	- Вот кого я хотела видеть! - Что случилось с моим костюмом? 	['Вот', 'кого', 'я', 'хотела', 'видеть', 'Что', 'случилось', 'с', 'моим', 'костюмом']	"['Just', 'the', 'person', 'l', 'wanted', 'to', 'see', ""What's"", 'happened', 'to', 'my', 'costume']"
+323	Look at this mess. Someone tore it apart. 	Посмотри на эти куски. Кто-то разодрал его в клочья. 	['Посмотри', 'на', 'эти', 'куски', 'Кто-то', 'разодрал', 'его', 'в', 'клочья']	['Look', 'at', 'this', 'mess', 'Someone', 'tore', 'it', 'apart']
+324	Someone who doesn't Iike the opera orthatasshoIe Mark's version of it. 	Кто не любит оперу или эту дерьмовую постановку . 	['Кто', 'не', 'любит', 'оперу', 'или', 'эту', 'дерьмовую', 'постановку']	"['Someone', 'who', ""doesn't"", 'Iike', 'the', 'opera', 'orthatasshoIe', ""Mark's"", 'version', 'of', 'it']"
+325	This time he O.D.ed on weird. 	На этот раз режиссер  переборщил с причудами. 	['На', 'этот', 'раз', 'режиссер', 'переборщил', 'с', 'причудами']	['This', 'time', 'he', 'O.D.ed', 'on', 'weird']
+326	It's not like movies, where you're congratulated on originaI ideas. 	Здесь не кино, где можно вылезти со своими идейками и все станут вас боготворить. 	['Здесь', 'не', 'кино', 'где', 'можно', 'вылезти', 'со', 'своими', 'идейками', 'и', 'все', 'станут', 'вас', 'боготворить']	"[""It's"", 'not', 'like', 'movies', 'where', ""you're"", 'congratulated', 'on', 'originaI', 'ideas']"
+327	Oh, God! 	О, Боже! 	['О', 'Боже']	['Oh', 'God']
+328	Whata mess! 	Вот неприятность! 	['Вот', 'неприятность']	['Whata', 'mess']
+329	lt's got to be mended and without a dressmaker, it's up to me. 	это должно быть перешито и без портнихи, решайте. 	['это', 'должно', 'быть', 'перешито', 'и', 'без', 'портнихи', 'решайте']	"[""lt's"", 'got', 'to', 'be', 'mended', 'and', 'without', 'a', 'dressmaker', ""it's"", 'up', 'to', 'me']"
+330	You'lI have to try iton again once I've finished. 	Тебе придется примерить его, когда я закончу. 	['Тебе', 'придется', 'примерить', 'его', 'когда', 'я', 'закончу']	"[""You'lI"", 'have', 'to', 'try', 'iton', 'again', 'once', ""I've"", 'finished']"
+331	We're Iucky though, most of this junk jewellery'sintact. 	Хорошо еще, что все  эти побрякушки уцелели. 	['Хорошо', 'еще', 'что', 'все', 'эти', 'побрякушки', 'уцелели']	"[""We're"", 'Iucky', 'though', 'most', 'of', 'this', 'junk', ""jewellery'sintact""]"
+332	I'Il be back in a minute. 	Я скоро вернусь. 	['Я', 'скоро', 'вернусь']	"[""I'Il"", 'be', 'back', 'in', 'a', 'minute']"
+333	- Mira, l must see you. l'm frantic. - Me too. 	- Мира, нам надо встретиться. Я сойду с ума. - Я тоже. 	['Мира', 'нам', 'надо', 'встретиться', 'Я', 'сойду', 'с', 'ума', 'Я', 'тоже']	"['Mira', 'l', 'must', 'see', 'you', ""l'm"", 'frantic', 'Me', 'too']"
+334	My phone keeps ringing. Everybody wants you. 	Телефон не умолкает. Все хотят тебя. 	['Телефон', 'не', 'умолкает', 'Все', 'хотят', 'тебя']	['My', 'phone', 'keeps', 'ringing', 'Everybody', 'wants', 'you']
+335	Rome, Vienna, Paris! 	Рим, Вена, Париж! 	['Рим', 'Вена', 'Париж']	['Rome', 'Vienna', 'Paris']
+336	l have to taIk to you about something eIse. Something really serious. 	Я должна поговорить с тобой совсем о другом. Это серьезно. 	['Я', 'должна', 'поговорить', 'с', 'тобой', 'совсем', 'о', 'другом', 'Это', 'серьезно']	['l', 'have', 'to', 'taIk', 'to', 'you', 'about', 'something', 'eIse', 'Something', 'really', 'serious']
+337	A maniac is after me. l need youradvice on what to do. 	Меня преследует маньяк. Мне нужен твой совет. 	['Меня', 'преследует', 'маньяк', 'Мне', 'нужен', 'твой', 'совет']	['A', 'maniac', 'is', 'after', 'me', 'l', 'need', 'youradvice', 'on', 'what', 'to', 'do']
+338	l'lI give itto you now. 	Я дам тебе его прямо сейчас. 	['Я', 'дам', 'тебе', 'его', 'прямо', 'сейчас']	"[""l'lI"", 'give', 'itto', 'you', 'now']"
+339	- Go to the police. - l can't. 	- Ступай в полицию. - Не могу. 	['Ступай', 'в', 'полицию', 'Не', 'могу']	"['Go', 'to', 'the', 'police', 'l', ""can't""]"
+340	I'm in terribIe trouble. 	У меня громадная проблема. 	['У', 'меня', 'громадная', 'проблема']	"[""I'm"", 'in', 'terribIe', 'trouble']"
+341	Mira, l must see you. 	Мира, я должна тебя увидеть. 	['Мира', 'я', 'должна', 'тебя', 'увидеть']	['Mira', 'l', 'must', 'see', 'you']
+342	Alright, I'll come by this evening. 	Ладно, я зайду вечером. 	['Ладно', 'я', 'зайду', 'вечером']	"['Alright', ""I'll"", 'come', 'by', 'this', 'evening']"
+343	What have you done? 	Что ты сделала? 	['Что', 'ты', 'сделала']	['What', 'have', 'you', 'done']
+344	Is that you? 	Это ты? 	['Это', 'ты']	['Is', 'that', 'you']
+345	Who's there? 	Кто там? 	['Кто', 'там']	"[""Who's"", 'there']"
+346	lt's you! Look! 	Это ты! Взгляни 	['Это', 'ты', 'Взгляни']	"[""lt's"", 'you', 'Look']"
+347	Come! 	сюда! 	['сюда']	['Come']
+348	- Look what l've found. -What about it? 	- Что я нашла. - Что это? 	['Что', 'я', 'нашла', 'Что', 'это']	"['Look', 'what', ""l've"", 'found', 'What', 'about', 'it']"
+349	It's gold! I neversewed any reaI goId on this. lt's yours. 	Это золото! Никогда не видела здесь настоящего золота. Твое? 	['Это', 'золото', 'Никогда', 'не', 'видела', 'здесь', 'настоящего', 'золота', 'Твое']	"[""It's"", 'gold', 'I', 'neversewed', 'any', 'reaI', 'goId', 'on', 'this', ""lt's"", 'yours']"
+350	l never saw it before. 	Первый раз вижу. 	['Первый', 'раз', 'вижу']	['l', 'never', 'saw', 'it', 'before']
+351	- How did it get on my costume? - Don't know. 	- Откуда оно здесь? - Не знаю. 	['Откуда', 'оно', 'здесь', 'Не', 'знаю']	"['How', 'did', 'it', 'get', 'on', 'my', 'costume', ""Don't"", 'know']"
+352	Maybe whoever ripped up the dress, dropped it. 	Может это уронил тот,  кто изрезал костюм. 	['Может', 'это', 'уронил', 'тот', 'кто', 'изрезал', 'костюм']	['Maybe', 'whoever', 'ripped', 'up', 'the', 'dress', 'dropped', 'it']
+353	Give me that! 	Дай мне! 	['Дай', 'мне']	['Give', 'me', 'that']
+354	lt Iooks like there's a date and an inscription. 	Кажется, здесь есть дата и какая-то надпись. 	['Кажется', 'здесь', 'есть', 'дата', 'и', 'какая-то', 'надпись']	"['lt', 'Iooks', 'like', ""there's"", 'a', 'date', 'and', 'an', 'inscription']"
+355	- Let me see. - The letters are faded away. 	- Дай посмотреть. - Буквы стерлись. 	['Дай', 'посмотреть', 'Буквы', 'стерлись']	['Let', 'me', 'see', 'The', 'letters', 'are', 'faded', 'away']
+356	I've got a magnifying gIass somewhere. 	У меня есть увеличительное стекло. 	['У', 'меня', 'есть', 'увеличительное', 'стекло']	"[""I've"", 'got', 'a', 'magnifying', 'gIass', 'somewhere']"
+357	l'm sure I have. 	Должно быть. 	['Должно', 'быть']	"[""l'm"", 'sure', 'I', 'have']"
+358	lt should be in... 	где-то здесь... 	['где-то', 'здесь']	['lt', 'should', 'be', 'in']
+359	Damn! 	Черт! 	['Черт']	['Damn']
+360	It shouId be here. 	Здесь. 	['Здесь']	['It', 'shouId', 'be', 'here']
+361	Darn it! 	 	[]	['Darn', 'it']
+362	-Any luck? - No! 	- Ну, как? - Нет! 	['Ну', 'как', 'Нет']	['Any', 'luck', 'No']
+363	l'm positive I saw it! 	Уверенна, я видела его! 	['Уверенна', 'я', 'видела', 'его']	"[""l'm"", 'positive', 'I', 'saw', 'it']"
+364	Wait! It is in here. 	Погоди! Здесь. 	['Погоди', 'Здесь']	['Wait', 'It', 'is', 'in', 'here']
+365	Where is it? 	Где же? 	['Где', 'же']	['Where', 'is', 'it']
+366	-What happened? Betty? - l'm alright. Don't worry. 	- Что случилось? Бетти? - Все нормально. Не волнуйся. 	['Что', 'случилось', 'Бетти', 'Все', 'нормально', 'Не', 'волнуйся']	"['What', 'happened', 'Betty', ""l'm"", 'alright', ""Don't"", 'worry']"
+367	It's gotto be here. l saw it in a drawer. 	Оно должно быть здесь. Я видела его в ящике. 	['Оно', 'должно', 'быть', 'здесь', 'Я', 'видела', 'его', 'в', 'ящике']	"[""It's"", 'gotto', 'be', 'here', 'l', 'saw', 'it', 'in', 'a', 'drawer']"
+368	You keep on Iooking here. l'lI check the ironing room. 	Ты ищи здесь. Я посмотрю в гладильной. 	['Ты', 'ищи', 'здесь', 'Я', 'посмотрю', 'в', 'гладильной']	"['You', 'keep', 'on', 'Iooking', 'here', ""l'lI"", 'check', 'the', 'ironing', 'room']"
+369	l found it! 	Нашла! 	['Нашла']	['l', 'found', 'it']
+370	l found it. You enjoyed last night, whore! 	Нашел. Тебе понравилось вчера вечером, шлюха! 	['Нашел', 'Тебе', 'понравилось', 'вчера', 'вечером', 'шлюха']	['l', 'found', 'it', 'You', 'enjoyed', 'last', 'night', 'whore']
+371	You opera singers are aIl whores! 	Все оперные певицы шлюхи! 	['Все', 'оперные', 'певицы', 'шлюхи']	['You', 'opera', 'singers', 'are', 'aIl', 'whores']
+372	There's a date! 	Здесь дата! 	['Здесь', 'дата']	"[""There's"", 'a', 'date']"
+373	lt's an anniversary, l guess. 	Годовщина, наверное. 	['Годовщина', 'наверное']	"[""lt's"", 'an', 'anniversary', 'l', 'guess']"
+374	Where have you gone? 	Куда ты делась? 	['Куда', 'ты', 'делась']	['Where', 'have', 'you', 'gone']
+375	Oh, my God! 	О, Господи! 	['О', 'Господи']	['Oh', 'my', 'God']
+376	ls this what you want? 	Тебе это нужно? 	['Тебе', 'это', 'нужно']	['ls', 'this', 'what', 'you', 'want']
+377	ls this what you want? 	Это? 	['Это']	['ls', 'this', 'what', 'you', 'want']
+378	Here! 	Вот! 	['Вот']	['Here']
+379	Have it! 	Получи! 	['Получи']	['Have', 'it']
+380	Bastard! 	Ублюдок! 	['Ублюдок']	['Bastard']
+381	It's... 	Это... 	['Это']	"[""It's""]"
+382	I'Il take you whenever 	Я доберусь до тебя когда угодно 	['Я', 'доберусь', 'до', 'тебя', 'когда', 'угодно']	"[""I'Il"", 'take', 'you', 'whenever']"
+383	and wherever l want. 	и где угодно. 	['и', 'где', 'угодно']	['and', 'wherever', 'l', 'want']
+384	HeIlo! 	Привет! 	['Привет']	['HeIlo']
+385	Let go of me! 	Пустите! 	['Пустите']	['Let', 'go', 'of', 'me']
+386	Leave me alone! 	Оставьте меня! 	['Оставьте', 'меня']	['Leave', 'me', 'alone']
+387	These marks. Who did this to you? 	Отметины. Кто это сделал? 	['Отметины', 'Кто', 'это', 'сделал']	['These', 'marks', 'Who', 'did', 'this', 'to', 'you']
+388	Is this another manifestation of the curse of''Macbeth''? 	"Это что еще одно проявление проклятия ""Макбета""? "	['Это', 'что', 'еще', 'одно', 'проявление', 'проклятия', 'Макбета']	"['Is', 'this', 'another', 'manifestation', 'of', 'the', 'curse', ""of''Macbeth''""]"
+389	Or did it happen Iast night? 	Это случилось вчера ночью? 	['Это', 'случилось', 'вчера', 'ночью']	['Or', 'did', 'it', 'happen', 'Iast', 'night']
+390	So it did happen last night. 	Это случилось вчера. 	['Это', 'случилось', 'вчера']	['So', 'it', 'did', 'happen', 'last', 'night']
+391	Why didn't you telI me? 	Почему Вы не рассказали мне? 	['Почему', 'Вы', 'не', 'рассказали', 'мне']	"['Why', ""didn't"", 'you', 'telI', 'me']"
+392	Because 	Потому 	['Потому']	['Because']
+393	it was worse than anything I could ever have imagined. 	что это было хуже, чем я когда-либо могла представить. 	['что', 'это', 'было', 'хуже', 'чем', 'я', 'когда-либо', 'могла', 'представить']	['it', 'was', 'worse', 'than', 'anything', 'I', 'could', 'ever', 'have', 'imagined']
+394	ljust wanted to cancel it from my mind. 	Я просто хотела стереть это из памяти. 	['Я', 'просто', 'хотела', 'стереть', 'это', 'из', 'памяти']	['ljust', 'wanted', 'to', 'cancel', 'it', 'from', 'my', 'mind']
+395	Not see anything, not feel anything... 	Не видеть, не чувствовать... 	['Не', 'видеть', 'не', 'чувствовать']	['Not', 'see', 'anything', 'not', 'feel', 'anything']
+396	Not think anything, just getaway! 	не думать ничего, удрать! 	['не', 'думать', 'ничего', 'удрать']	['Not', 'think', 'anything', 'just', 'getaway']
+397	l understand what you're saying. 	Я Вас понимаю. 	['Я', 'Вас', 'понимаю']	"['l', 'understand', 'what', ""you're"", 'saying']"
+398	I'm here to help you, not to persecute you. 	Я здесь чтобы помочь, а не преследовать Вас. 	['Я', 'здесь', 'чтобы', 'помочь', 'а', 'не', 'преследовать', 'Вас']	"[""I'm"", 'here', 'to', 'help', 'you', 'not', 'to', 'persecute', 'you']"
+399	And I promise we'Il do our best to catch this man. 	Я обещаю, мы сделаем все, чтобы поймать его. 	['Я', 'обещаю', 'мы', 'сделаем', 'все', 'чтобы', 'поймать', 'его']	"['And', 'I', 'promise', ""we'Il"", 'do', 'our', 'best', 'to', 'catch', 'this', 'man']"
+400	But I need your colIaboration. 	Но мне необходимо Ваше участие. 	['Но', 'мне', 'необходимо', 'Ваше', 'участие']	['But', 'I', 'need', 'your', 'colIaboration']
+401	I don't know what he looks Iike. 	Я не знаю, как он выглядит. 	['Я', 'не', 'знаю', 'как', 'он', 'выглядит']	"['I', ""don't"", 'know', 'what', 'he', 'looks', 'Iike']"
+402	He ties me up. 	Он связывает меня. 	['Он', 'связывает', 'меня']	['He', 'ties', 'me', 'up']
+403	Touches me. 	Трогает. 	['Трогает']	['Touches', 'me']
+404	Makes me watch, but he never Iets me see his face. 	Заставляет смотреть, но никогда не показывает свое лицо. 	['Заставляет', 'смотреть', 'но', 'никогда', 'не', 'показывает', 'свое', 'лицо']	['Makes', 'me', 'watch', 'but', 'he', 'never', 'Iets', 'me', 'see', 'his', 'face']
+405	This afternoon 	Сегодня 	['Сегодня']	['This', 'afternoon']
+406	at the theatre he killed Julia, the wardrobe mistress. 	в театре он убил Джулию, заведующую костюмерной. 	['в', 'театре', 'он', 'убил', 'Джулию', 'заведующую', 'костюмерной']	['at', 'the', 'theatre', 'he', 'killed', 'Julia', 'the', 'wardrobe', 'mistress']
+407	-Christ! l'd betterget over there! - No, please! 	- Господи! Я лучше поеду туда! - Нет, пожалуйста! 	['Господи', 'Я', 'лучше', 'поеду', 'туда', 'Нет', 'пожалуйста']	"['Christ', ""l'd"", 'betterget', 'over', 'there', 'No', 'please']"
+408	Don't worry. We'lI get to the bottom of this. l'II be back. 	Не волнуйтесь. Вы докопаемся до истины. Я вернусь. 	['Не', 'волнуйтесь', 'Вы', 'докопаемся', 'до', 'истины', 'Я', 'вернусь']	"[""Don't"", 'worry', ""We'lI"", 'get', 'to', 'the', 'bottom', 'of', 'this', ""l'II"", 'be', 'back']"
+409	Don't Ieave me alone! l'm afraid. 	Не оставляйте меня одну! Мне страшно. 	['Не', 'оставляйте', 'меня', 'одну', 'Мне', 'страшно']	"[""Don't"", 'Ieave', 'me', 'alone', ""l'm"", 'afraid']"
+410	AIright. Listen. 	Ладно. Успокойтесь. 	['Ладно', 'Успокойтесь']	['AIright', 'Listen']
+411	You go upstairs and Iock yourself in. 	Вы поднимитесь к себе и запрете дверь. 	['Вы', 'поднимитесь', 'к', 'себе', 'и', 'запрете', 'дверь']	['You', 'go', 'upstairs', 'and', 'Iock', 'yourself', 'in']
+412	l'lI send you my assistant, Daniele Soave. 	Я пришлю к Вам своего ассистента, Даниеле Соаве. 	['Я', 'пришлю', 'к', 'Вам', 'своего', 'ассистента', 'Даниеле', 'Соаве']	"[""l'lI"", 'send', 'you', 'my', 'assistant', 'Daniele', 'Soave']"
+413	Alright. 	Ладно. 	['Ладно']	['Alright']
+414	Daniele Soave, he'lI know whatto do in case of trouble. 	Даниеле Соаве, запомните. 	['Даниеле', 'Соаве', 'запомните']	"['Daniele', 'Soave', ""he'lI"", 'know', 'whatto', 'do', 'in', 'case', 'of', 'trouble']"
+415	-Who is it? - DanieIe Soave. 	- Кто там? - Даниеле Соаве. 	['Кто', 'там', 'Даниеле', 'Соаве']	['Who', 'is', 'it', 'DanieIe', 'Soave']
+416	Did the inspectortell you I'd be coming? 	Инспектор не говорил Вам? 	['Инспектор', 'не', 'говорил', 'Вам']	"['Did', 'the', 'inspectortell', 'you', ""I'd"", 'be', 'coming']"
+417	Yes, he did. 	Говорил. 	['Говорил']	['Yes', 'he', 'did']
+418	Good evening. May I come in? 	Добрый вечер. Можно войти? 	['Добрый', 'вечер', 'Можно', 'войти']	['Good', 'evening', 'May', 'I', 'come', 'in']
+419	Yes, of course. 	Да, конечно. 	['Да', 'конечно']	['Yes', 'of', 'course']
+420	My eyes hurt, so l put some drops in them. 	У меня болят глаза, я закапала капли. 	['У', 'меня', 'болят', 'глаза', 'я', 'закапала', 'капли']	['My', 'eyes', 'hurt', 'so', 'l', 'put', 'some', 'drops', 'in', 'them']
+421	May l take a look around? 	Можно я тут посмотрю? 	['Можно', 'я', 'тут', 'посмотрю']	['May', 'l', 'take', 'a', 'look', 'around']
+422	Go ahead. 	Начинайте. 	['Начинайте']	['Go', 'ahead']
+423	In a minute l'lI be right with you. 	Я приду через минуту. 	['Я', 'приду', 'через', 'минуту']	"['In', 'a', 'minute', ""l'lI"", 'be', 'right', 'with', 'you']"
+424	-Are you nervous? -A IittIe. No, a lot! 	- Вы нервничаете? - Чуть-чуть. Нет, очень! 	['Вы', 'нервничаете', 'Чуть-чуть', 'Нет', 'очень']	['Are', 'you', 'nervous', 'A', 'IittIe', 'No', 'a', 'lot']
+425	- I'm here, so you can reIax. - l wiIl, thank you. 	- Я здесь, так что можете расслабиться. - Спасибо, я так и сделаю. 	['Я', 'здесь', 'так', 'что', 'можете', 'расслабиться', 'Спасибо', 'я', 'так', 'и', 'сделаю']	"[""I'm"", 'here', 'so', 'you', 'can', 'reIax', 'l', 'wiIl', 'thank', 'you']"
+426	I have a great system for reIaxing. 	У меня есть большая система для этого. 	['У', 'меня', 'есть', 'большая', 'система', 'для', 'этого']	['I', 'have', 'a', 'great', 'system', 'for', 'reIaxing']
+427	''You are feeIing very calm.'' 	''Вы спокойны''. 	"[""''Вы"", ""спокойны''""]"	"[""''You"", 'are', 'feeIing', 'very', ""calm.''""]"
+428	''CaIm and reIax.'' 	"""Спокойны и расслабленны''. "	"['Спокойны', 'и', ""расслабленны''""]"	"[""''CaIm"", 'and', ""reIax.''""]"
+429	''Concentrate...'' Only on the music. 	''Сконцентрируйтесь...'' Только на музыке. 	"[""''Сконцентрируйтесь...''"", 'Только', 'на', 'музыке']"	"[""''Concentrate...''"", 'Only', 'on', 'the', 'music']"
+430	''Breathe deepIy.'' 	''Дышите глубже''. 	"[""''Дышите"", ""глубже''""]"	"[""''Breathe"", ""deepIy.''""]"
+431	''One!'' 	''Раз!'' 	"[""''Раз!''""]"	"[""''One!''""]"
+432	''Two!'' 	''Два!'' 	"[""''Два!''""]"	"[""''Two!''""]"
+433	''Three!'' 	''Три!'' 	"[""''Три!''""]"	"[""''Three!''""]"
+434	''Four!'' 	''Четыре!'' 	"[""''Четыре!''""]"	"[""''Four!''""]"
+435	- Did you calI, Miss? - No, l'm listening to a tape. 	- Вы звали? - Нет, я слушаю кассету. 	['Вы', 'звали', 'Нет', 'я', 'слушаю', 'кассету']	"['Did', 'you', 'calI', 'Miss', 'No', ""l'm"", 'listening', 'to', 'a', 'tape']"
+436	lf you need me... 	Если я понадоблюсь... 	['Если', 'я', 'понадоблюсь']	['lf', 'you', 'need', 'me']
+437	l'lI get it. 	Я подойду. 	['Я', 'подойду']	"[""l'lI"", 'get', 'it']"
+438	-Are you expecting someone? -Yes, a friend. 	- Вы кого-то ждете? - Да, подругу. 	['Вы', 'кого-то', 'ждете', 'Да', 'подругу']	['Are', 'you', 'expecting', 'someone', 'Yes', 'a', 'friend']
+439	-Check who it is before opening. - I know it's her. 	- Проверьте кто там, прежде чем откроете. - Я знаю, что это она. 	['Проверьте', 'кто', 'там', 'прежде', 'чем', 'откроете', 'Я', 'знаю', 'что', 'это', 'она']	"['Check', 'who', 'it', 'is', 'before', 'opening', 'I', 'know', ""it's"", 'her']"
+440	ls that you, Mira? 	Это ты, Мира? 	['Это', 'ты', 'Мира']	['ls', 'that', 'you', 'Mira']
+441	It's her! 	Она! 	['Она']	"[""It's"", 'her']"
+442	I read the papers. How terribIe! 	Я прочла в газетах. Какой ужас! 	['Я', 'прочла', 'в', 'газетах', 'Какой', 'ужас']	['I', 'read', 'the', 'papers', 'How', 'terribIe']
+443	- l'm getting worse. - ls someone here? 	- Мне становиться совсем плохо. - Здесь кто-то есть? 	['Мне', 'становиться', 'совсем', 'плохо', 'Здесь', 'кто-то', 'есть']	"[""l'm"", 'getting', 'worse', 'ls', 'someone', 'here']"
+444	Yes, Vienna and Paris! 	Да, Вена и Париж! 	['Да', 'Вена', 'и', 'Париж']	['Yes', 'Vienna', 'and', 'Paris']
+445	The kiIler kilIed again. Julia. l was there! 	Убийца убил Джулию. Я была там! 	['Убийца', 'убил', 'Джулию', 'Я', 'была', 'там']	['The', 'kiIler', 'kilIed', 'again', 'Julia', 'l', 'was', 'there']
+446	Now l understand why the poIice are watching you. 	Теперь я понимаю, почему полиция стережет тебя. 	['Теперь', 'я', 'понимаю', 'почему', 'полиция', 'стережет', 'тебя']	['Now', 'l', 'understand', 'why', 'the', 'poIice', 'are', 'watching', 'you']
+447	Who told you that the police are watching me? 	Кто тебе сказал? 	['Кто', 'тебе', 'сказал']	['Who', 'told', 'you', 'that', 'the', 'police', 'are', 'watching', 'me']
+448	The officerdownstairs in the halI. 	Офицер в холле внизу. 	['Офицер', 'в', 'холле', 'внизу']	['The', 'officerdownstairs', 'in', 'the', 'halI']
+449	He asked me who I was and where I was going. His name is Soave. 	Он спросил меня кто я  и куда иду. Его зовут Соаве. 	['Он', 'спросил', 'меня', 'кто', 'я', 'и', 'куда', 'иду', 'Его', 'зовут', 'Соаве']	['He', 'asked', 'me', 'who', 'I', 'was', 'and', 'where', 'I', 'was', 'going', 'His', 'name', 'is', 'Soave']
+450	Yes, that's right. 	Да, правильно. 	['Да', 'правильно']	"['Yes', ""that's"", 'right']"
+451	- But he's in the Iiving room. -Who's in the living room? 	- Но он в гостиной. - Кто в гостиной? 	['Но', 'он', 'в', 'гостиной', 'Кто', 'в', 'гостиной']	"['But', ""he's"", 'in', 'the', 'Iiving', 'room', ""Who's"", 'in', 'the', 'living', 'room']"
+452	-You're not making sense! -Come! 	Ты не поняла! - Идем! 	['Ты', 'не', 'поняла', 'Идем']	"[""You're"", 'not', 'making', 'sense', 'Come']"
+453	-Who is he, Betty? - I don't know. 	- Кто он, Бетти? - Не знаю. 	['Кто', 'он', 'Бетти', 'Не', 'знаю']	"['Who', 'is', 'he', 'Betty', 'I', ""don't"", 'know']"
+454	- He could be the maniac. - He's gone. He was in there. 	- Это мог быть маньяк. - Исчез. Он был здесь. 	['Это', 'мог', 'быть', 'маньяк', 'Исчез', 'Он', 'был', 'здесь']	"['He', 'could', 'be', 'the', 'maniac', ""He's"", 'gone', 'He', 'was', 'in', 'there']"
+455	Call the poIice! 	Звони в полицию! 	['Звони', 'в', 'полицию']	['Call', 'the', 'poIice']
+456	The phone's overthere! I'm too scared to go in. 	Но телефон там! Я боюсь заходить. 	['Но', 'телефон', 'там', 'Я', 'боюсь', 'заходить']	"['The', ""phone's"", 'overthere', ""I'm"", 'too', 'scared', 'to', 'go', 'in']"
+457	He may be hiding, waiting. 	Он, наверное, прячется. 	['Он', 'наверное', 'прячется']	['He', 'may', 'be', 'hiding', 'waiting']
+458	Let's get out ofhere. 	Бежим отсюда. 	['Бежим', 'отсюда']	"[""Let's"", 'get', 'out', 'ofhere']"
+459	Wait! 	Стой! 	['Стой']	['Wait']
+460	What if this one is real and the one downstairs is the maniac? 	А если маньяк это тот, кто сидит внизу? 	['А', 'если', 'маньяк', 'это', 'тот', 'кто', 'сидит', 'внизу']	['What', 'if', 'this', 'one', 'is', 'real', 'and', 'the', 'one', 'downstairs', 'is', 'the', 'maniac']
+461	What if it's the otherway round? 	А если нет? 	['А', 'если', 'нет']	"['What', 'if', ""it's"", 'the', 'otherway', 'round']"
+462	l've no desire to find out eitherway. 	У меня не желания проверять. 	['У', 'меня', 'не', 'желания', 'проверять']	"[""l've"", 'no', 'desire', 'to', 'find', 'out', 'eitherway']"
+463	You're right. l didn't even get a good Iook at him. 	Ты права. Я даже не видела его лица. 	['Ты', 'права', 'Я', 'даже', 'не', 'видела', 'его', 'лица']	"[""You're"", 'right', 'l', ""didn't"", 'even', 'get', 'a', 'good', 'Iook', 'at', 'him']"
+464	The kitchen! 	Кухня! 	['Кухня']	['The', 'kitchen']
+465	It's a heavy door! 	Здесь крепкая дверь! 	['Здесь', 'крепкая', 'дверь']	"[""It's"", 'a', 'heavy', 'door']"
+466	Knives, we can defend ourseIves. 	Ножи, мы можем защищаться. 	['Ножи', 'мы', 'можем', 'защищаться']	['Knives', 'we', 'can', 'defend', 'ourseIves']
+467	l'd Iike to see him get in here now. 	Пусть теперь он войдет. 	['Пусть', 'теперь', 'он', 'войдет']	"[""l'd"", 'Iike', 'to', 'see', 'him', 'get', 'in', 'here', 'now']"
+468	We can aIways scream. You are a singer. You can scream. 	Мы можем закричать. Ты же певица. Ты можешь прокричать. 	['Мы', 'можем', 'закричать', 'Ты', 'же', 'певица', 'Ты', 'можешь', 'прокричать']	['We', 'can', 'aIways', 'scream', 'You', 'are', 'a', 'singer', 'You', 'can', 'scream']
+469	This buiIding is ancient. The walIs are 3 feet thick. No one would hear. 	Это древнее здание. Стены тройной толщины. Никто нас не услышит. 	['Это', 'древнее', 'здание', 'Стены', 'тройной', 'толщины', 'Никто', 'нас', 'не', 'услышит']	['This', 'buiIding', 'is', 'ancient', 'The', 'walIs', 'are', '3', 'feet', 'thick', 'No', 'one', 'would', 'hear']
+470	Yes. 	Да. 	['Да']	['Yes']
+471	Alright. 	Хорошо. 	['Хорошо']	['Alright']
+472	Right away. 	Сейчас. 	['Сейчас']	['Right', 'away']
+473	- Open the door. lt's Daniele Soave. - He's out there. 	- Откройте. Это Даниеле Соаве. - Он за дверью. 	['Откройте', 'Это', 'Даниеле', 'Соаве', 'Он', 'за', 'дверью']	"['Open', 'the', 'door', ""lt's"", 'Daniele', 'Soave', ""He's"", 'out', 'there']"
+474	The maniac's in the apartment. 	Маньяк у Вас в квартире. 	['Маньяк', 'у', 'Вас', 'в', 'квартире']	"['The', ""maniac's"", 'in', 'the', 'apartment']"
+475	You could be the maniac. 	Может это Вы маньяк. 	['Может', 'это', 'Вы', 'маньяк']	['You', 'could', 'be', 'the', 'maniac']
+476	l'm a cop. I'Il show you my identification. 	Я полицейский. Вот мое удостоверение. 	['Я', 'полицейский', 'Вот', 'мое', 'удостоверение']	"[""l'm"", 'a', 'cop', ""I'Il"", 'show', 'you', 'my', 'identification']"
+477	- Can you see it? - No! l can't. 	- Вам видно? - Нет! 	['Вам', 'видно', 'Нет']	"['Can', 'you', 'see', 'it', 'No', 'l', ""can't""]"
+478	Waita second. Now you can see it. 	Секунду. Теперь видно. 	['Секунду', 'Теперь', 'видно']	['Waita', 'second', 'Now', 'you', 'can', 'see', 'it']
+479	Anyone can get one. lt's a fake! 	Кто угодно может... Оно фальшивое! 	['Кто', 'угодно', 'может', 'Оно', 'фальшивое']	"['Anyone', 'can', 'get', 'one', ""lt's"", 'a', 'fake']"
+480	No, come on. Let me in. 	Нет. Впустите. 	['Нет', 'Впустите']	['No', 'come', 'on', 'Let', 'me', 'in']
+481	You're fooIing me. Go away! 	Вы лжете. Уходите! 	['Вы', 'лжете', 'Уходите']	"[""You're"", 'fooIing', 'me', 'Go', 'away']"
+482	Look, my gun. Police issue. 	Смотрите, вот пистолет. Штамп полиции. 	['Смотрите', 'вот', 'пистолет', 'Штамп', 'полиции']	['Look', 'my', 'gun', 'Police', 'issue']
+483	I saw you before. I know you! 	Я Вас видела раньше.  Я Вас знаю! 	['Я', 'Вас', 'видела', 'раньше', 'Я', 'Вас', 'знаю']	['I', 'saw', 'you', 'before', 'I', 'know', 'you']
+484	I want to see yourface again! 	Я хочу посмотреть на Ваше лицо! 	['Я', 'хочу', 'посмотреть', 'на', 'Ваше', 'лицо']	['I', 'want', 'to', 'see', 'yourface', 'again']
+485	You may as weIl open the door now! 	Давай, Бетти! Открой же! 	['Давай', 'Бетти', 'Открой', 'же']	['You', 'may', 'as', 'weIl', 'open', 'the', 'door', 'now']
+486	One way or another, I'm coming in. 	Так или иначе, я захожу. 	['Так', 'или', 'иначе', 'я', 'захожу']	"['One', 'way', 'or', 'another', ""I'm"", 'coming', 'in']"
+487	You bastard! 	Ублюдок! 	['Ублюдок']	['You', 'bastard']
+488	Son of a bitch! 	Сукин сын! 	['Сукин', 'сын']	['Son', 'of', 'a', 'bitch']
+489	You're not going to get me! 	Тебе до меня не добраться! 	['Тебе', 'до', 'меня', 'не', 'добраться']	"[""You're"", 'not', 'going', 'to', 'get', 'me']"
+490	I'Il kiIl you! 	Я убью тебя! 	['Я', 'убью', 'тебя']	"[""I'Il"", 'kiIl', 'you']"
+491	''You are feeIing very calm.'' 	''Вы спокойны''. 	"[""''Вы"", ""спокойны''""]"	"[""''You"", 'are', 'feeIing', 'very', ""calm.''""]"
+492	''CaIm and reIax.'' 	''Спокойны и расслабленны''. 	"[""''Спокойны"", 'и', ""расслабленны''""]"	"[""''CaIm"", 'and', ""reIax.''""]"
+493	''Concentrate only on the music.'' 	''Сконцентрируйтесь на музыке''. 	"[""''Сконцентрируйтесь"", 'на', ""музыке''""]"	"[""''Concentrate"", 'only', 'on', 'the', ""music.''""]"
+494	''Breathe deepIy.'' 	''Дышите глубже!'' 	"[""''Дышите"", ""глубже!''""]"	"[""''Breathe"", ""deepIy.''""]"
+495	''One!'' 	 	[]	"[""''One!''""]"
+496	''Two!'' 	 	[]	"[""''Two!''""]"
+497	''Three!'' 	 	[]	"[""''Three!''""]"
+498	''Four!'' 	 	[]	"[""''Four!''""]"
+499	So he was the poIiceman. 	Так это был полицейский. 	['Так', 'это', 'был', 'полицейский']	['So', 'he', 'was', 'the', 'poIiceman']
+500	Betty! 	Бетти! 	['Бетти']	['Betty']
+501	Come on! 	Сюда! 	['Сюда']	['Come', 'on']
+502	Quickly! CIimb up here. 	Быстрее! Забирайся. 	['Быстрее', 'Забирайся']	['Quickly', 'CIimb', 'up', 'here']
+503	Quickly! Come on! 	Быстро! 	['Быстро']	['Quickly', 'Come', 'on']
+504	-Where does this lead to? -To my apartment. 	- Куда ведет этот ход? - Ко мне в квартиру. 	['Куда', 'ведет', 'этот', 'ход', 'Ко', 'мне', 'в', 'квартиру']	['Where', 'does', 'this', 'lead', 'to', 'To', 'my', 'apartment']
+505	-What were you doing in here? - l discovered it. 	- Что ты здесь делаешь? - Я открыла его. 	['Что', 'ты', 'здесь', 'делаешь', 'Я', 'открыла', 'его']	['What', 'were', 'you', 'doing', 'in', 'here', 'l', 'discovered', 'it']
+506	It's the oId air conditioning system. 	Это старая система вентиляции. 	['Это', 'старая', 'система', 'вентиляции']	"[""It's"", 'the', 'oId', 'air', 'conditioning', 'system']"
+507	l can get to any apartment l want. Are you hungry? 	Я могу добраться до любой квартиры. Ты не голодна? 	['Я', 'могу', 'добраться', 'до', 'любой', 'квартиры', 'Ты', 'не', 'голодна']	['l', 'can', 'get', 'to', 'any', 'apartment', 'l', 'want', 'Are', 'you', 'hungry']
+508	No, of course not. 	Нет, конечно, нет. 	['Нет', 'конечно', 'нет']	['No', 'of', 'course', 'not']
+509	This apartment is empty. l watch you aIl the time. 	В этой никто не живет. Я наблюдала за тобой. 	['В', 'этой', 'никто', 'не', 'живет', 'Я', 'наблюдала', 'за', 'тобой']	['This', 'apartment', 'is', 'empty', 'l', 'watch', 'you', 'aIl', 'the', 'time']
+510	- RealIy? - I like it when you sing. 	- Неужели? - Особенно, когда ты пела. 	['Неужели', 'Особенно', 'когда', 'ты', 'пела']	['RealIy', 'I', 'like', 'it', 'when', 'you', 'sing']
+511	-You have a beautifuI voice. -Thank you. 	- У тебя прекрасный голос. - Спасибо. 	['У', 'тебя', 'прекрасный', 'голос', 'Спасибо']	['You', 'have', 'a', 'beautifuI', 'voice', 'Thank', 'you']
+512	I watched that person trying to kiIl you tonight. 	Я видела, как кто-то  пытался тебя убить сегодня. 	['Я', 'видела', 'как', 'кто-то', 'пытался', 'тебя', 'убить', 'сегодня']	['I', 'watched', 'that', 'person', 'trying', 'to', 'kiIl', 'you', 'tonight']
+513	Why do you come up here? 	Зачем ты залезла сюда? 	['Зачем', 'ты', 'залезла', 'сюда']	['Why', 'do', 'you', 'come', 'up', 'here']
+514	- To get away when my parents fight. -So they hit each other. 	- Я прячусь здесь, когда родители ссорятся. - Так они бьют друг друга. 	['Я', 'прячусь', 'здесь', 'когда', 'родители', 'ссорятся', 'Так', 'они', 'бьют', 'друг', 'друга']	['To', 'get', 'away', 'when', 'my', 'parents', 'fight', 'So', 'they', 'hit', 'each', 'other']
+515	Here we are. 	Вот мы и здесь. 	['Вот', 'мы', 'и', 'здесь']	['Here', 'we', 'are']
+516	He's gone! You were very clever! 	Ушел! Ты очень хитра! 	['Ушел', 'Ты', 'очень', 'хитра']	"[""He's"", 'gone', 'You', 'were', 'very', 'clever']"
+517	You're the cIeverone! You saved my life. 	Самой хитрой была ты. Ты спасла мне жизнь 	['Самой', 'хитрой', 'была', 'ты', 'Ты', 'спасла', 'мне', 'жизнь']	"[""You're"", 'the', 'cIeverone', 'You', 'saved', 'my', 'life']"
+518	Alma! 	Альма! 	['Альма']	['Alma']
+519	lt's my mother. 	Это моя мать. 	['Это', 'моя', 'мать']	"[""lt's"", 'my', 'mother']"
+520	Who are you? What are you doing here? 	Кто Вы? И что тут делаете? 	['Кто', 'Вы', 'И', 'что', 'тут', 'делаете']	['Who', 'are', 'you', 'What', 'are', 'you', 'doing', 'here']
+521	- lt's you! - Mom, this is Betty. 	- Это Вы! - Мам, это Бетти. 	['Это', 'Вы', 'Мам', 'это', 'Бетти']	"[""lt's"", 'you', 'Mom', 'this', 'is', 'Betty']"
+522	- Do you remember me? - No, I don't. 	- Помните меня? - Нет. 	['Помните', 'меня', 'Нет']	"['Do', 'you', 'remember', 'me', 'No', 'I', ""don't""]"
+523	Last night you were outside my apartment. You didn't see me. 	Вчера вечером Вы были на площадке, рядом с моей квартирой. Вы не видели меня. 	['Вчера', 'вечером', 'Вы', 'были', 'на', 'площадке', 'рядом', 'с', 'моей', 'квартирой', 'Вы', 'не', 'видели', 'меня']	"['Last', 'night', 'you', 'were', 'outside', 'my', 'apartment', 'You', ""didn't"", 'see', 'me']"
+524	Something terrible has happened. 	Случилось нечто ужасное. 	['Случилось', 'нечто', 'ужасное']	['Something', 'terrible', 'has', 'happened']
+525	Yeah, you coming in here. Did you Iet her in, AIma? 	Вы вошли сюда. Ты впустила ее, Альма? 	['Вы', 'вошли', 'сюда', 'Ты', 'впустила', 'ее', 'Альма']	['Yeah', 'you', 'coming', 'in', 'here', 'Did', 'you', 'Iet', 'her', 'in', 'AIma']
+526	-Yes, she did. - She's my friend. 	- Да, она. - Она моя подруга. 	['Да', 'она', 'Она', 'моя', 'подруга']	"['Yes', 'she', 'did', ""She's"", 'my', 'friend']"
+527	- l have to caIl the police! - Get out ofhere. 	- Мне необходимо позвонить в полицию! - Убирайтесь. 	['Мне', 'необходимо', 'позвонить', 'в', 'полицию', 'Убирайтесь']	['l', 'have', 'to', 'caIl', 'the', 'police', 'Get', 'out', 'ofhere']
+528	- She's my friend! - Shut up! 	- Это моя подруга! - Замолкни! 	['Это', 'моя', 'подруга', 'Замолкни']	"[""She's"", 'my', 'friend', 'Shut', 'up']"
+529	Where's the phone? 	Где телефон? 	['Где', 'телефон']	"[""Where's"", 'the', 'phone']"
+530	Get out! 	Прочь! 	['Прочь']	['Get', 'out']
+531	Alright, I'm going, but you calI the police. 	Ладно, я ухожу, только позвоните в полицию. 	['Ладно', 'я', 'ухожу', 'только', 'позвоните', 'в', 'полицию']	"['Alright', ""I'm"", 'going', 'but', 'you', 'calI', 'the', 'police']"
+532	You're so filthy! Disgusting! 	Ты вся перепачкалась! Противно! 	['Ты', 'вся', 'перепачкалась', 'Противно']	"[""You're"", 'so', 'filthy', 'Disgusting']"
+533	You're disgusting! You're aIways naked! 	Это ты отвратительна! Вечно ходишь раздетая! 	['Это', 'ты', 'отвратительна', 'Вечно', 'ходишь', 'раздетая']	"[""You're"", 'disgusting', ""You're"", 'aIways', 'naked']"
+534	That's enough! Go to your room! 	С меня хватит! Иди в свою комнату! 	['С', 'меня', 'хватит', 'Иди', 'в', 'свою', 'комнату']	"[""That's"", 'enough', 'Go', 'to', 'your', 'room']"
+535	What are you doing here? 	Что ты тут делаешь? 	['Что', 'ты', 'тут', 'делаешь']	['What', 'are', 'you', 'doing', 'here']
+536	Mark! Did you hear what happened? 	Марк! Знаете, что произошло? 	['Марк', 'Знаете', 'что', 'произошло']	['Mark', 'Did', 'you', 'hear', 'what', 'happened']
+537	l phoned yourapartment and spoke to a poIiceman. 	Я звонил тебе домой и говорил с полицейским. 	['Я', 'звонил', 'тебе', 'домой', 'и', 'говорил', 'с', 'полицейским']	['l', 'phoned', 'yourapartment', 'and', 'spoke', 'to', 'a', 'poIiceman']
+538	- l didn't think you'd come here. - ljust wanted to run. 	- Я не думал, что ты придешь сюда. - Я хотела убежать. 	['Я', 'не', 'думал', 'что', 'ты', 'придешь', 'сюда', 'Я', 'хотела', 'убежать']	"['l', ""didn't"", 'think', ""you'd"", 'come', 'here', 'ljust', 'wanted', 'to', 'run']"
+539	Hide! Everywhere scares me 	Спрятаться! Мне страшно повсюду. 	['Спрятаться', 'Мне', 'страшно', 'повсюду']	['Hide', 'Everywhere', 'scares', 'me']
+540	except here! l feel safe here. 	Но не здесь! Тут я чувствую себя в безопасности. 	['Но', 'не', 'здесь', 'Тут', 'я', 'чувствую', 'себя', 'в', 'безопасности']	['except', 'here', 'l', 'feel', 'safe', 'here']
+541	- l'lI sIeep in my dressing room. - Betty? 	- Я лягу у себя гримерной. - Бетти? 	['Я', 'лягу', 'у', 'себя', 'гримерной', 'Бетти']	"[""l'lI"", 'sIeep', 'in', 'my', 'dressing', 'room', 'Betty']"
+542	There'll be a Iot of noise. The stagehands are working. 	Рабочие сцены работают всю ночь, будет много шума. 	['Рабочие', 'сцены', 'работают', 'всю', 'ночь', 'будет', 'много', 'шума']	"[""There'll"", 'be', 'a', 'Iot', 'of', 'noise', 'The', 'stagehands', 'are', 'working']"
+543	- l've made a change in the show. -What change? 	- Я изменил представление. - Как изменил? 	['Я', 'изменил', 'представление', 'Как', 'изменил']	"[""l've"", 'made', 'a', 'change', 'in', 'the', 'show', 'What', 'change']"
+544	Don't worry about it, but I thought of a way to identify the killer. 	Не волнуйся! Я просто думал, как можно установить убийцу. 	['Не', 'волнуйся', 'Я', 'просто', 'думал', 'как', 'можно', 'установить', 'убийцу']	"[""Don't"", 'worry', 'about', 'it', 'but', 'I', 'thought', 'of', 'a', 'way', 'to', 'identify', 'the', 'killer']"
+545	l don't know why I didn't think ofit before. 	Не знаю, почему мне не пришло это в голову раньше. 	['Не', 'знаю', 'почему', 'мне', 'не', 'пришло', 'это', 'в', 'голову', 'раньше']	"['l', ""don't"", 'know', 'why', 'I', ""didn't"", 'think', 'ofit', 'before']"
+546	We have an eye witness. 	У нас есть глаз-свидетель. 	['У', 'нас', 'есть', 'глаз-свидетель']	['We', 'have', 'an', 'eye', 'witness']
+547	If the maniac is in the audience tomorrow night, 	Если маньяк будет в зале завтра вечером, 	['Если', 'маньяк', 'будет', 'в', 'зале', 'завтра', 'вечером']	['If', 'the', 'maniac', 'is', 'in', 'the', 'audience', 'tomorrow', 'night']
+548	I've got him! 	он будет мой! 	['он', 'будет', 'мой']	"[""I've"", 'got', 'him']"
+549	-What ifhe doesn't come? - He'Il come. 	- А если он не придет? - Он придет. 	['А', 'если', 'он', 'не', 'придет', 'Он', 'придет']	"['What', 'ifhe', ""doesn't"", 'come', ""He'Il"", 'come']"
+550	l'm so tired, ljust wantto sleep. 	Я очень устала и хочу спать. 	['Я', 'очень', 'устала', 'и', 'хочу', 'спать']	"[""l'm"", 'so', 'tired', 'ljust', 'wantto', 'sleep']"
+551	To sIeep? 	Спать? 	['Спать']	['To', 'sIeep']
+552	Achance to dream, huh? 	Уснуть и видеть сны, быть может? 	['Уснуть', 'и', 'видеть', 'сны', 'быть', 'может']	['Achance', 'to', 'dream', 'huh']
+553	Ay, there's the rub, for in that sleep of death 	Вот в чем трудность; какие сны приснятся 	['Вот', 'в', 'чем', 'трудность', 'какие', 'сны', 'приснятся']	"['Ay', ""there's"", 'the', 'rub', 'for', 'in', 'that', 'sleep', 'of', 'death']"
+554	what dreams may come, when we have shuffIed off this mortaI coil, 	в смертном сне,  когда  мы сбросим этот бренный шум, 	['в', 'смертном', 'сне', 'когда', 'мы', 'сбросим', 'этот', 'бренный', 'шум']	['what', 'dreams', 'may', 'come', 'when', 'we', 'have', 'shuffIed', 'off', 'this', 'mortaI', 'coil']
+555	must give us pause. 	вот что сбивает нас. 	['вот', 'что', 'сбивает', 'нас']	['must', 'give', 'us', 'pause']
+556	ls thatyou, mommy? 	Это ты, мама? 	['Это', 'ты', 'мама']	['ls', 'thatyou', 'mommy']
+557	I just had the same nightmare that l used to have when I was a chiId. 	Мне приснился тот же кошмар, что часто снился в детстве. 	['Мне', 'приснился', 'тот', 'же', 'кошмар', 'что', 'часто', 'снился', 'в', 'детстве']	['I', 'just', 'had', 'the', 'same', 'nightmare', 'that', 'l', 'used', 'to', 'have', 'when', 'I', 'was', 'a', 'chiId']
+558	But I can't decide whether it'sjust a dream 	Никак не могу понять, был ли это сон 	['Никак', 'не', 'могу', 'понять', 'был', 'ли', 'это', 'сон']	"['But', 'I', ""can't"", 'decide', 'whether', ""it'sjust"", 'a', 'dream']"
+559	orthe memory of something that realIy happened. 	или воспоминание о чем-то, что произошло в действительности. 	['или', 'воспоминание', 'о', 'чем-то', 'что', 'произошло', 'в', 'действительности']	['orthe', 'memory', 'of', 'something', 'that', 'realIy', 'happened']
+560	What do you think ofit? 	Что ты думаешь об этом? 	['Что', 'ты', 'думаешь', 'об', 'этом']	['What', 'do', 'you', 'think', 'ofit']
+561	Relax! Everything is fine. 	Расслабься! Все идет хорошо. 	['Расслабься', 'Все', 'идет', 'хорошо']	['Relax', 'Everything', 'is', 'fine']
+562	We'll get him. 	Мы поймаем его. 	['Мы', 'поймаем', 'его']	"[""We'll"", 'get', 'him']"
+563	- But when? -Any time now. 	- Но когда? - В любой момент. 	['Но', 'когда', 'В', 'любой', 'момент']	['But', 'when', 'Any', 'time', 'now']
+564	Any time now. 	В любой момент. 	['В', 'любой', 'момент']	['Any', 'time', 'now']
+565	Go! 	Иди! 	['Иди']	['Go']
+566	Now! 	Теперь! 	['Теперь']	['Now']
+567	Is this supposed to happen? 	Так было задумано? 	['Так', 'было', 'задумано']	['Is', 'this', 'supposed', 'to', 'happen']
+568	Betty! 	Бетти! 	['Бетти']	['Betty']
+569	-ToId you we'd get him tonight! -You're a genius! 	- Я же говорил, что мы его обнаружим! - Вы гений! 	['Я', 'же', 'говорил', 'что', 'мы', 'его', 'обнаружим', 'Вы', 'гений']	"['ToId', 'you', ""we'd"", 'get', 'him', 'tonight', ""You're"", 'a', 'genius']"
+570	lt's the policeman! 	Это был инспектор! 	['Это', 'был', 'инспектор']	"[""lt's"", 'the', 'policeman']"
+571	Extraordinary! 	Невероятно! 	['Невероятно']	['Extraordinary']
+572	Why on earth wouId he do it? 	Какого черта он это сделал? 	['Какого', 'черта', 'он', 'это', 'сделал']	['Why', 'on', 'earth', 'wouId', 'he', 'do', 'it']
+573	Not a sound! 	Ни звука! 	['Ни', 'звука']	['Not', 'a', 'sound']
+574	Come! 	Пошли! 	['Пошли']	['Come']
+575	Just like your mother. 	Как твоя мать. 	['Как', 'твоя', 'мать']	['Just', 'like', 'your', 'mother']
+576	Your voice's the same as hers. 	Твой голос такой же как у нее. 	['Твой', 'голос', 'такой', 'же', 'как', 'у', 'нее']	"['Your', ""voice's"", 'the', 'same', 'as', 'hers']"
+577	Your body! 	Твое тело! 	['Твое', 'тело']	['Your', 'body']
+578	Even yourskin. Oh, God, how much l... 	Даже эта кожа. О, Боже, как я любил... 	['Даже', 'эта', 'кожа', 'О', 'Боже', 'как', 'я', 'любил']	['Even', 'yourskin', 'Oh', 'God', 'how', 'much', 'l']
+579	I don't want to kiIl you. 	Я не хочу тебя убивать. 	['Я', 'не', 'хочу', 'тебя', 'убивать']	"['I', ""don't"", 'want', 'to', 'kiIl', 'you']"
+580	She taught me that little game, 	Она втянула меня  в эту жестокую игру, 	['Она', 'втянула', 'меня', 'в', 'эту', 'жестокую', 'игру']	['She', 'taught', 'me', 'that', 'little', 'game']
+581	kilIing, torturing and then I wouId have her. 	пытки, убийства, чтобы получить ее. 	['пытки', 'убийства', 'чтобы', 'получить', 'ее']	['kilIing', 'torturing', 'and', 'then', 'I', 'wouId', 'have', 'her']
+582	l was her slave! Come... 	Я был ее рабом! 	['Я', 'был', 'ее', 'рабом']	['l', 'was', 'her', 'slave', 'Come']
+583	Sit down. 	Сядь. 	['Сядь']	['Sit', 'down']
+584	CaIm! 	Остынь! 	['Остынь']	['CaIm']
+585	I saw you Iast night. 	Я увидел тебя тем вечером. 	['Я', 'увидел', 'тебя', 'тем', 'вечером']	['I', 'saw', 'you', 'Iast', 'night']
+586	l thought it was a miracle. 	и подумал, что это чудо. 	['и', 'подумал', 'что', 'это', 'чудо']	['l', 'thought', 'it', 'was', 'a', 'miracle']
+587	Be stilI! 	Сиди тихо! 	['Сиди', 'тихо']	['Be', 'stilI']
+588	There is something inside. 	Но есть что-то. 	['Но', 'есть', 'что-то']	['There', 'is', 'something', 'inside']
+589	You aren't a star Iike she was. 	Ты не такая звезда как была она. 	['Ты', 'не', 'такая', 'звезда', 'как', 'была', 'она']	"['You', ""aren't"", 'a', 'star', 'Iike', 'she', 'was']"
+590	Betty? l wantyou to stay alive. 	Бетти? Я хочу, чтобы  ты осталась жить. 	['Бетти', 'Я', 'хочу', 'чтобы', 'ты', 'осталась', 'жить']	['Betty', 'l', 'wantyou', 'to', 'stay', 'alive']
+591	The people don't understand. 	Они не понимают. 	['Они', 'не', 'понимают']	"['The', 'people', ""don't"", 'understand']"
+592	Now it's alI over. 	Но теперь все кончено. 	['Но', 'теперь', 'все', 'кончено']	"['Now', ""it's"", 'alI', 'over']"
+593	How can you love me Iike this, a monster? 	Как же ты полюбишь меня, такого монстра? 	['Как', 'же', 'ты', 'полюбишь', 'меня', 'такого', 'монстра']	['How', 'can', 'you', 'love', 'me', 'Iike', 'this', 'a', 'monster']
+594	l don't want you to watch me anymore. 	Я не хочу, чтобы ты на меня смотрела. 	['Я', 'не', 'хочу', 'чтобы', 'ты', 'на', 'меня', 'смотрела']	"['l', ""don't"", 'want', 'you', 'to', 'watch', 'me', 'anymore']"
+595	lt's better I die. 	Лучше я умру. 	['Лучше', 'я', 'умру']	"[""lt's"", 'better', 'I', 'die']"
+596	I want to burn. No one must ever find me. 	Сожгу себя. Никто никогда не найдет меня. 	['Сожгу', 'себя', 'Никто', 'никогда', 'не', 'найдет', 'меня']	['I', 'want', 'to', 'burn', 'No', 'one', 'must', 'ever', 'find', 'me']
+597	No one must ever find me. 	 	[]	['No', 'one', 'must', 'ever', 'find', 'me']
+598	l want to disappear. 	Я хочу исчезнуть. 	['Я', 'хочу', 'исчезнуть']	['l', 'want', 'to', 'disappear']
+599	Ready! 	Чувствуешь запах! 	['Чувствуешь', 'запах']	['Ready']
+600	GasoIine! 	Бензин! 	['Бензин']	['GasoIine']
+601	l want to disappear. 	 	[]	['l', 'want', 'to', 'disappear']
+602	Are you afraid? l am. 	Боишься? Я боюсь. 	['Боишься', 'Я', 'боюсь']	['Are', 'you', 'afraid', 'l', 'am']
+603	I'm afraid of pain. 	Боюсь боли. 	['Боюсь', 'боли']	"[""I'm"", 'afraid', 'of', 'pain']"
+604	WiII you help me? Here! 	Ты мне поможешь? Вот! 	['Ты', 'мне', 'поможешь', 'Вот']	['WiII', 'you', 'help', 'me', 'Here']
+605	Take this. 	Возьми! 	['Возьми']	['Take', 'this']
+606	That's right. 	Держи так! 	['Держи', 'так']	"[""That's"", 'right']"
+607	Here! Higher! 	Выше! 	['Выше']	['Here', 'Higher']
+608	Yes, now down a little, to your Ieft. 	Немного левее. 	['Немного', 'левее']	['Yes', 'now', 'down', 'a', 'little', 'to', 'your', 'Ieft']
+609	Now to your right. 	слишком далеко. 	['слишком', 'далеко']	['Now', 'to', 'your', 'right']
+610	A little higher. Now shoot! 	Теперь стреляй! 	['Теперь', 'стреляй']	['A', 'little', 'higher', 'Now', 'shoot']
+611	Shoot! lsn't what l've done to you enough? 	Стреляй! Чего ты ждешь? 	['Стреляй', 'Чего', 'ты', 'ждешь']	"['Shoot', ""lsn't"", 'what', ""l've"", 'done', 'to', 'you', 'enough']"
+612	You need more? Alright. 	Разве этого не достаточно? 	['Разве', 'этого', 'не', 'достаточно']	['You', 'need', 'more', 'Alright']
+613	I'Il give you more. 	Ты хочешь еще. 	['Ты', 'хочешь', 'еще']	"[""I'Il"", 'give', 'you', 'more']"
+614	l strangIed your mother. She was too greedy, she wanted more crueIty. 	Я задушил твою мать. Она была слишком жадной, хотела больше жестокости. 	['Я', 'задушил', 'твою', 'мать', 'Она', 'была', 'слишком', 'жадной', 'хотела', 'больше', 'жестокости']	['l', 'strangIed', 'your', 'mother', 'She', 'was', 'too', 'greedy', 'she', 'wanted', 'more', 'crueIty']
+615	She wouIdn't let me touch her! That fiIthy whore! 	Не дозволяла прикасаться к себе! Грязная шлюха! 	['Не', 'дозволяла', 'прикасаться', 'к', 'себе', 'Грязная', 'шлюха']	"['She', ""wouIdn't"", 'let', 'me', 'touch', 'her', 'That', 'fiIthy', 'whore']"
+616	And you know what? 	И знаешь что? 	['И', 'знаешь', 'что']	['And', 'you', 'know', 'what']
+617	Help! 	На помощь! 	['На', 'помощь']	['Help']
+618	l can't get out! 	Не могу выйти! 	['Не', 'могу', 'выйти']	"['l', ""can't"", 'get', 'out']"
+619	l can't get out! 	Дверь заперта! 	['Дверь', 'заперта']	"['l', ""can't"", 'get', 'out']"
+620	l can't get out! 	 	[]	"['l', ""can't"", 'get', 'out']"
+621	Mark! 	Марк! 	['Марк']	['Mark']
+622	Quick! 	Быстрее! 	['Быстрее']	['Quick']
+623	He's dead! 	Он мертв! 	['Он', 'мертв']	"[""He's"", 'dead']"
+624	Paris means a Iot to me. 	Париж многое для меня значит. 	['Париж', 'многое', 'для', 'меня', 'значит']	['Paris', 'means', 'a', 'Iot', 'to', 'me']
+625	We'lI make this ''Traviata'' unbelievable! 	"Мы поставим эту ""Травиату"", как никто раньше не ставил! "	['Мы', 'поставим', 'эту', 'Травиату', 'как', 'никто', 'раньше', 'не', 'ставил']	"[""We'lI"", 'make', 'this', ""''Traviata''"", 'unbelievable']"
+626	How do you want to pIay her? 	Как ты хочешь играть ее? 	['Как', 'ты', 'хочешь', 'играть', 'ее']	['How', 'do', 'you', 'want', 'to', 'pIay', 'her']
+627	Tender? Timid? Sensual? 	Нежно? Застенчиво? Чувственно? 	['Нежно', 'Застенчиво', 'Чувственно']	['Tender', 'Timid', 'Sensual']
+628	Good morning. 	Здравствуйте. 	['Здравствуйте']	['Good', 'morning']
+629	WeIl? 	Ну? 	['Ну']	['WeIl']
+630	I don't think the problem exists any Ionger. 	Не думаю, что это проблема. 	['Не', 'думаю', 'что', 'это', 'проблема']	"['I', ""don't"", 'think', 'the', 'problem', 'exists', 'any', 'Ionger']"
+631	I knew it! 	Я так и думала! 	['Я', 'так', 'и', 'думала']	['I', 'knew', 'it']
+632	There is a surprising deveIopment in the caseof the crime at the Opera. 	Удивительное открытие в деле о преступлении в опере. 	['Удивительное', 'открытие', 'в', 'деле', 'о', 'преступлении', 'в', 'опере']	['There', 'is', 'a', 'surprising', 'deveIopment', 'in', 'the', 'caseof', 'the', 'crime', 'at', 'the', 'Opera']
+633	You may remember the report that the maniac inspector, Alan Santini, 	Возможно, вы помните, что маньяк-инспектор, Алан Сантини, 	['Возможно', 'вы', 'помните', 'что', 'маньяк-инспектор', 'Алан', 'Сантини']	['You', 'may', 'remember', 'the', 'report', 'that', 'the', 'maniac', 'inspector', 'Alan', 'Santini']
+634	died in the fire that destroyed one wing of the theatre. 	погиб в огне, который  уничтожил одно крыло в театре. 	['погиб', 'в', 'огне', 'который', 'уничтожил', 'одно', 'крыло', 'в', 'театре']	['died', 'in', 'the', 'fire', 'that', 'destroyed', 'one', 'wing', 'of', 'the', 'theatre']
+635	The police now inform us that the remains of the body 	Полиция сообщает, что останки, считавшиеся 	['Полиция', 'сообщает', 'что', 'останки', 'считавшиеся']	['The', 'police', 'now', 'inform', 'us', 'that', 'the', 'remains', 'of', 'the', 'body']
+636	they had presumed was Santini's, are not in fact human atall. 	телом Сантини, вообще, не  принадлежат человеку, 	['телом', 'Сантини', 'вообще', 'не', 'принадлежат', 'человеку']	"['they', 'had', 'presumed', 'was', ""Santini's"", 'are', 'not', 'in', 'fact', 'human', 'atall']"
+637	-Oh, my God! -But those of a theatricaI mannequin. 	- О, Господи! - а являются театральным манекеном. 	['О', 'Господи', 'а', 'являются', 'театральным', 'манекеном']	['Oh', 'my', 'God', 'But', 'those', 'of', 'a', 'theatricaI', 'mannequin']
+638	The authorities realize 	Власти считают, 	['Власти', 'считают']	['The', 'authorities', 'realize']
+639	that Santini pIanned this dramatic coup de theatre 	что Сантини спланировал эту драматическую развязку 	['что', 'Сантини', 'спланировал', 'эту', 'драматическую', 'развязку']	['that', 'Santini', 'pIanned', 'this', 'dramatic', 'coup', 'de', 'theatre']
+640	to give himseIf time to escape. 	чтобы скрыться незамеченным. 	['чтобы', 'скрыться', 'незамеченным']	['to', 'give', 'himseIf', 'time', 'to', 'escape']
+641	A nationwide hunt is underway for Santini 	Объявлен национальный розыск 	['Объявлен', 'национальный', 'розыск']	['A', 'nationwide', 'hunt', 'is', 'underway', 'for', 'Santini']
+642	who is considered to be extremeIy dangerous. 	Сантини, который назван крайне опасным. 	['Сантини', 'который', 'назван', 'крайне', 'опасным']	['who', 'is', 'considered', 'to', 'be', 'extremeIy', 'dangerous']
+643	The police forces and InterpoI are giving theirfulIest cooperation. 	Полиция и Интерпол приведены в полное взаимодействие. 	['Полиция', 'и', 'Интерпол', 'приведены', 'в', 'полное', 'взаимодействие']	['The', 'police', 'forces', 'and', 'InterpoI', 'are', 'giving', 'theirfulIest', 'cooperation']
+644	Betty, he's not dead! He's aIive! 	Бетти, он не погиб! Он жив! 	['Бетти', 'он', 'не', 'погиб', 'Он', 'жив']	"['Betty', ""he's"", 'not', 'dead', ""He's"", 'aIive']"
+645	He's here! Run! For God's sake, run! 	Он здесь! Беги! Ради бога, беги! 	['Он', 'здесь', 'Беги', 'Ради', 'бога', 'беги']	"[""He's"", 'here', 'Run', 'For', ""God's"", 'sake', 'run']"
+646	Run! 	 	[]	['Run']
+647	l am Iike my mother. l realize it now. 	Я как моя мать. Теперь я понимаю это. 	['Я', 'как', 'моя', 'мать', 'Теперь', 'я', 'понимаю', 'это']	['l', 'am', 'Iike', 'my', 'mother', 'l', 'realize', 'it', 'now']
+648	I wanted you to win, to kiIl him. 	Я хотела, чтобы ты убил его. 	['Я', 'хотела', 'чтобы', 'ты', 'убил', 'его']	['I', 'wanted', 'you', 'to', 'win', 'to', 'kiIl', 'him']
+649	l'm exactly like her! 	Я точно такая же как она! 	['Я', 'точно', 'такая', 'же', 'как', 'она']	"[""l'm"", 'exactly', 'like', 'her']"
+650	Come, we must get away. 	Давай, мы должны бежать. 	['Давай', 'мы', 'должны', 'бежать']	['Come', 'we', 'must', 'get', 'away']
+651	Come! 	 	[]	['Come']
+652	Before someone finds the body! 	пока они не нашли тело! 	['пока', 'они', 'не', 'нашли', 'тело']	['Before', 'someone', 'finds', 'the', 'body']
+653	Come, Iet us go! 	Идем! 	['Идем']	['Come', 'Iet', 'us', 'go']
+654	- There he is! HoId yourfire! - Grab him! 	- Вот он! Вынимаете оружие! - Хватайте его! 	['Вот', 'он', 'Вынимаете', 'оружие', 'Хватайте', 'его']	['There', 'he', 'is', 'HoId', 'yourfire', 'Grab', 'him']
+655	It's not true! I'm not like my mother! 	Это неправда! Я не такая, как мать! 	['Это', 'неправда', 'Я', 'не', 'такая', 'как', 'мать']	"[""It's"", 'not', 'true', ""I'm"", 'not', 'like', 'my', 'mother']"
+656	Nothing Iike her! Nothing ataIl! 	Совсем не такая! 	['Совсем', 'не', 'такая']	['Nothing', 'Iike', 'her', 'Nothing', 'ataIl']
+657	I didn't commit any crime! 	Я не убивал их! 	['Я', 'не', 'убивал', 'их']	"['I', ""didn't"", 'commit', 'any', 'crime']"
+658	I justwanted to set theirsouIs free! 	Я хотел освободить  их души! 	['Я', 'хотел', 'освободить', 'их', 'души']	['I', 'justwanted', 'to', 'set', 'theirsouIs', 'free']
+659	Let me kilI him! 	Пустите, я убью его! 	['Пустите', 'я', 'убью', 'его']	['Let', 'me', 'kilI', 'him']
+660	l want to kiIl him! 	 	[]	['l', 'want', 'to', 'kiIl', 'him']
+661	He wanted to kilI you, huh? 	Он хотел убить Вас? 	['Он', 'хотел', 'убить', 'Вас']	['He', 'wanted', 'to', 'kilI', 'you', 'huh']
+662	- Did you know we were coming? -Yes, I did. 	- Вы видели, что мы уже рядом? - Да. 	['Вы', 'видели', 'что', 'мы', 'уже', 'рядом', 'Да']	['Did', 'you', 'know', 'we', 'were', 'coming', 'Yes', 'I', 'did']
+663	I saw yourdogs running through the trees. 	Я видела ваших собак за деревьями. 	['Я', 'видела', 'ваших', 'собак', 'за', 'деревьями']	['I', 'saw', 'yourdogs', 'running', 'through', 'the', 'trees']
+664	-We've been on his trail for2 days. - l saw you taIking to him. 	- Мы шли за ним по пятам уже 2 дня. - Вы говорили с ним. 	['Мы', 'шли', 'за', 'ним', 'по', 'пятам', 'уже', '2', 'дня', 'Вы', 'говорили', 'с', 'ним']	"[""We've"", 'been', 'on', 'his', 'trail', 'for2', 'days', 'l', 'saw', 'you', 'taIking', 'to', 'him']"
+665	What did you telI him to stop him from kilIing you? 	Что Вы ему сказали, что он не убил Вас? 	['Что', 'Вы', 'ему', 'сказали', 'что', 'он', 'не', 'убил', 'Вас']	['What', 'did', 'you', 'telI', 'him', 'to', 'stop', 'him', 'from', 'kilIing', 'you']
+666	Nothing. A Iot of nonsense! Lies! 	Ничего. Всякую чепуху! Ложь! 	['Ничего', 'Всякую', 'чепуху', 'Ложь']	['Nothing', 'A', 'Iot', 'of', 'nonsense', 'Lies']
+667	He's a madman, totalIy crazy. 	Он сумасшедший, полностью свихнувшийся. 	['Он', 'сумасшедший', 'полностью', 'свихнувшийся']	"[""He's"", 'a', 'madman', 'totalIy', 'crazy']"
+668	I no Iongerwanted to see anybody. 	Я не хотела никого видеть. 	['Я', 'не', 'хотела', 'никого', 'видеть']	['I', 'no', 'Iongerwanted', 'to', 'see', 'anybody']
+669	I wanted to escape altogether because l'm different. 	Я хотела скрыться от них, потому что я изменилась. 	['Я', 'хотела', 'скрыться', 'от', 'них', 'потому', 'что', 'я', 'изменилась']	"['I', 'wanted', 'to', 'escape', 'altogether', 'because', ""l'm"", 'different']"
+670	I don't even vagueIy resemble others, any of them. 	Я не похожу на них, ни на кого. 	['Я', 'не', 'похожу', 'на', 'них', 'ни', 'на', 'кого']	"['I', ""don't"", 'even', 'vagueIy', 'resemble', 'others', 'any', 'of', 'them']"
+671	l Iike the wind. ButterfIies! 	Я люблю ветер. Бабочек! 	['Я', 'люблю', 'ветер', 'Бабочек']	['l', 'Iike', 'the', 'wind', 'ButterfIies']
+672	Flowers! Leaves! 	Цветы! Листья! 	['Цветы', 'Листья']	['Flowers', 'Leaves']
+673	Insects! The rain! 	Насекомых! Дождь! 	['Насекомых', 'Дождь']	['Insects', 'The', 'rain']
+674	CIouds! 	Облака! 	['Облака']	['CIouds']
+675	There, my beauty. 	Моя красавица. 	['Моя', 'красавица']	['There', 'my', 'beauty']
+676	Go free! 	Живи на свободе! 	['Живи', 'на', 'свободе']	['Go', 'free']
+677	Best watched using Open Subtitles MKV Player 	Best watched using Open Subtitles MKV Player 	['Best', 'watched', 'using', 'Open', 'Subtitles', 'MKV', 'Player']	['Best', 'watched', 'using', 'Open', 'Subtitles', 'MKV', 'Player']

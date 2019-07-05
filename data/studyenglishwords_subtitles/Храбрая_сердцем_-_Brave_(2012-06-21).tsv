@@ -1,0 +1,877 @@
+	en	ru	ru_tokens	en_tokens
+0	Where are you? Come out! 	Где ты? Выходи! 	['Где', 'ты', 'Выходи']	['Where', 'are', 'you', 'Come', 'out']
+1	Come out! 	Выходи! 	['Выходи']	['Come', 'out']
+2	Come on out. 	Выходи же! 	['Выходи', 'же']	['Come', 'on', 'out']
+3	I'm coming to get you. 	Я тебя найду. 	['Я', 'тебя', 'найду']	"[""I'm"", 'coming', 'to', 'get', 'you']"
+4	Where are you, you little rascal? I'm coming to get you. 	Где ты, баловница? Я поймаю тебя! 	['Где', 'ты', 'баловница', 'Я', 'поймаю', 'тебя']	"['Where', 'are', 'you', 'you', 'little', 'rascal', ""I'm"", 'coming', 'to', 'get', 'you']"
+5	Where is my little birthday girl? 	Где же моя именинница? 	['Где', 'же', 'моя', 'именинница']	['Where', 'is', 'my', 'little', 'birthday', 'girl']
+6	I'm going to gobble her up when I find her. 	Я проглочу её, как только поймаю. 	['Я', 'проглочу', 'её', 'как', 'только', 'поймаю']	"[""I'm"", 'going', 'to', 'gobble', 'her', 'up', 'when', 'I', 'find', 'her']"
+7	I'm going to eat you. I am. 	Я съем тебя. Съем! 	['Я', 'съем', 'тебя', 'Съем']	"[""I'm"", 'going', 'to', 'eat', 'you', 'I', 'am']"
+8	Fergus, no weapons on the table. 	Фергус, не клади оружие на стол. 	['Фергус', 'не', 'клади', 'оружие', 'на', 'стол']	['Fergus', 'no', 'weapons', 'on', 'the', 'table']
+9	Can I shoot an arrow? Can I? Can I? Can I? Can I? 	Можно мне выстрелить разок? Пожалуйста, пожалуйста! 	['Можно', 'мне', 'выстрелить', 'разок', 'Пожалуйста', 'пожалуйста']	['Can', 'I', 'shoot', 'an', 'arrow', 'Can', 'I', 'Can', 'I', 'Can', 'I', 'Can', 'I']
+10	Please? Can I? 	Ну пожалуйста! 	['Ну', 'пожалуйста']	['Please', 'Can', 'I']
+11	Not with that. Why not 	Но не из этого лука. Ты лучше 	['Но', 'не', 'из', 'этого', 'лука', 'Ты', 'лучше']	['Not', 'with', 'that', 'Why', 'not']
+12	use your very own? 	выстрели из своего. 	['выстрели', 'из', 'своего']	['use', 'your', 'very', 'own']
+13	Happy birthday, my wee darling! 	С днём рождения, моя малышка! 	['С', 'днём', 'рождения', 'моя', 'малышка']	['Happy', 'birthday', 'my', 'wee', 'darling']
+14	Now, there's a good girl. 	Вот так, умница. 	['Вот', 'так', 'умница']	"['Now', ""there's"", 'a', 'good', 'girl']"
+15	Draw all the way back now to your cheek. That's right. 	Натягивай тетиву, пока рука не окажется у щеки. Правильно. 	['Натягивай', 'тетиву', 'пока', 'рука', 'не', 'окажется', 'у', 'щеки', 'Правильно']	"['Draw', 'all', 'the', 'way', 'back', 'now', 'to', 'your', 'cheek', ""That's"", 'right']"
+16	Keep both eyes open. 	Глаза открыты. 	['Глаза', 'открыты']	['Keep', 'both', 'eyes', 'open']
+17	And, loose! 	Отпускай! 	['Отпускай']	['And', 'loose']
+18	- I missed. - Go and fetch it, then. 	– Мимо. – Тогда беги и найди стрелу. 	['–', 'Мимо', '–', 'Тогда', 'беги', 'и', 'найди', 'стрелу']	['I', 'missed', 'Go', 'and', 'fetch', 'it', 'then']
+19	A bow, Fergus? She's a lady. 	Ты подарил ей лук? Она же леди. 	['Ты', 'подарил', 'ей', 'лук', 'Она', 'же', 'леди']	"['A', 'bow', 'Fergus', ""She's"", 'a', 'lady']"
+20	You! 	Ой! 	['Ой']	['You']
+21	A will-o'-the-wisp. 	Блуждающий огонёк. 	['Блуждающий', 'огонёк']	"['A', ""will-o'-the-wisp""]"
+22	They are real. 	Значит, они существуют. 	['Значит', 'они', 'существуют']	['They', 'are', 'real']
+23	Merida, come along, sweetheart. 	Мерида, иди сюда, милая! 	['Мерида', 'иди', 'сюда', 'милая']	['Merida', 'come', 'along', 'sweetheart']
+24	- We're leaving now. - I saw a wisp. 	– Мы уезжаем. – Я видела огонёк. 	['–', 'Мы', 'уезжаем', '–', 'Я', 'видела', 'огонёк']	"[""We're"", 'leaving', 'now', 'I', 'saw', 'a', 'wisp']"
+25	- I saw a wisp. - A wisp? 	– Огонёк. – Огонёк? 	['–', 'Огонёк', '–', 'Огонёк']	['I', 'saw', 'a', 'wisp', 'A', 'wisp']
+26	You know, some say that will-o'-the-wisps lead you to your fate. 	Говорят, что блуждающие огоньки ведут тебя к твоей судьбе. 	['Говорят', 'что', 'блуждающие', 'огоньки', 'ведут', 'тебя', 'к', 'твоей', 'судьбе']	"['You', 'know', 'some', 'say', 'that', ""will-o'-the-wisps"", 'lead', 'you', 'to', 'your', 'fate']"
+27	Aye. Or an arrow. 	Да. Или к стреле. 	['Да', 'Или', 'к', 'стреле']	['Aye', 'Or', 'an', 'arrow']
+28	Come on, let's be off before we see a dancing Tatty Bogle. 	Поехали, пока не увидели танцующего домового 	['Поехали', 'пока', 'не', 'увидели', 'танцующего', 'домового']	"['Come', 'on', ""let's"", 'be', 'off', 'before', 'we', 'see', 'a', 'dancing', 'Tatty', 'Bogle']"
+29	Or a giant having a jigger in the bluebells. 	или великана, решившего промочить горло. 	['или', 'великана', 'решившего', 'промочить', 'горло']	['Or', 'a', 'giant', 'having', 'a', 'jigger', 'in', 'the', 'bluebells']
+30	Your father doesn't believe in magic. 	Твой отец не верит в волшебство. 	['Твой', 'отец', 'не', 'верит', 'в', 'волшебство']	"['Your', 'father', ""doesn't"", 'believe', 'in', 'magic']"
+31	Well, he should. Because it's true. 	А зря. Ведь оно существует. 	['А', 'зря', 'Ведь', 'оно', 'существует']	"['Well', 'he', 'should', 'Because', ""it's"", 'true']"
+32	Mor'du! Elinor, run! 	Морду! Элинор, беги! 	['Морду', 'Элинор', 'беги']	"[""Mor'du"", 'Elinor', 'run']"
+33	Sire! 	Сир! 	['Сир']	['Sire']
+34	Come on, you! 	Ну давай! ХРАБРАЯ СЕРДЦЕМ 	['Ну', 'давай', 'ХРАБРАЯ', 'СЕРДЦЕМ']	['Come', 'on', 'you']
+35	Some say our destiny is tied to the land 	Одни говорят, что наша судьба связана с землёй, 	['Одни', 'говорят', 'что', 'наша', 'судьба', 'связана', 'с', 'землёй']	['Some', 'say', 'our', 'destiny', 'is', 'tied', 'to', 'the', 'land']
+36	as much a part of us as we are of it. 	и она зависит от нас так же, как мы – от неё. 	['и', 'она', 'зависит', 'от', 'нас', 'так', 'же', 'как', 'мы', '–', 'от', 'неё']	['as', 'much', 'a', 'part', 'of', 'us', 'as', 'we', 'are', 'of', 'it']
+37	Others say fate is woven together like a cloth. 	Кто-то считает, что судьба подобна сотканному полотну. 	['Кто-то', 'считает', 'что', 'судьба', 'подобна', 'сотканному', 'полотну']	['Others', 'say', 'fate', 'is', 'woven', 'together', 'like', 'a', 'cloth']
+38	So that one's destiny intertwines with many others. 	Судьба одного человека переплетается с судьбами других. 	['Судьба', 'одного', 'человека', 'переплетается', 'с', 'судьбами', 'других']	"['So', 'that', ""one's"", 'destiny', 'intertwines', 'with', 'many', 'others']"
+39	It's the one thing we search for or fight to change. 	Мы ищем свою судьбу или хотим изменить её. 	['Мы', 'ищем', 'свою', 'судьбу', 'или', 'хотим', 'изменить', 'её']	"[""It's"", 'the', 'one', 'thing', 'we', 'search', 'for', 'or', 'fight', 'to', 'change']"
+40	Some never find it. 	Кому-то не суждено её найти. 	['Кому-то', 'не', 'суждено', 'её', 'найти']	['Some', 'never', 'find', 'it']
+41	But there are some who are led. 	Но некоторых ведут к ней. 	['Но', 'некоторых', 'ведут', 'к', 'ней']	['But', 'there', 'are', 'some', 'who', 'are', 'led']
+42	The story of how my father lost his leg 	История о том, как мой отец потерял ногу 	['История', 'о', 'том', 'как', 'мой', 'отец', 'потерял', 'ногу']	['The', 'story', 'of', 'how', 'my', 'father', 'lost', 'his', 'leg']
+43	to the demon bear Mor'du became legend. 	в схватке с медведем Морду, стала легендой. 	['в', 'схватке', 'с', 'медведем', 'Морду', 'стала', 'легендой']	"['to', 'the', 'demon', 'bear', ""Mor'du"", 'became', 'legend']"
+44	I became a sister to three new brothers. 	У меня родилось три брата – 	['У', 'меня', 'родилось', 'три', 'брата', '–']	['I', 'became', 'a', 'sister', 'to', 'three', 'new', 'brothers']
+45	The princes. Hamish, Hubert and Harris. 	принцы Хэмиш, Хьюберт и Харрис. 	['принцы', 'Хэмиш', 'Хьюберт', 'и', 'Харрис']	['The', 'princes', 'Hamish', 'Hubert', 'and', 'Harris']
+46	Wee devils, more like. 	Настоящие чертенята. 	['Настоящие', 'чертенята']	['Wee', 'devils', 'more', 'like']
+47	They get away with murder. 	Им всё сходит с рук. 	['Им', 'всё', 'сходит', 'с', 'рук']	['They', 'get', 'away', 'with', 'murder']
+48	I can never get away with anything. 	А мне – ничего. 	['А', 'мне', '–', 'ничего']	['I', 'can', 'never', 'get', 'away', 'with', 'anything']
+49	I'm the princess. 	Я принцесса. 	['Я', 'принцесса']	"[""I'm"", 'the', 'princess']"
+50	I'm the example. 	Я всем пример. 	['Я', 'всем', 'пример']	"[""I'm"", 'the', 'example']"
+51	I've got duties, responsibilities, expectations. 	У меня есть долг, обязанности, перспективы. 	['У', 'меня', 'есть', 'долг', 'обязанности', 'перспективы']	"[""I've"", 'got', 'duties', 'responsibilities', 'expectations']"
+52	My whole life is planned out, 	Вся моя жизнь распланирована. 	['Вся', 'моя', 'жизнь', 'распланирована']	['My', 'whole', 'life', 'is', 'planned', 'out']
+53	preparing for the day I become... 	Я готовлюсь к тому дню, когда стану… 	['Я', 'готовлюсь', 'к', 'тому', 'дню', 'когда', 'стану…']	['preparing', 'for', 'the', 'day', 'I', 'become']
+54	Well, my mother. 	Как моя мама. 	['Как', 'моя', 'мама']	['Well', 'my', 'mother']
+55	She's in charge of every single day of my life. 	Она руководит каждым днём моей жизни. 	['Она', 'руководит', 'каждым', 'днём', 'моей', 'жизни']	"[""She's"", 'in', 'charge', 'of', 'every', 'single', 'day', 'of', 'my', 'life']"
+56	"""Aye, Robin, Jolly Robin, and thou shalt know of mine."" "	«Да, Робин, весёлый Робин, узнаешь ты обо мне». 	['«Да', 'Робин', 'весёлый', 'Робин', 'узнаешь', 'ты', 'обо', 'мне»']	['Aye', 'Robin', 'Jolly', 'Robin', 'and', 'thou', 'shalt', 'know', 'of', 'mine']
+57	Project! 	Больше чувства! 	['Больше', 'чувства']	['Project']
+58	"""And thou shalt know of mine!"" "	«Узнаешь ты обо мне!» 	['«Узнаешь', 'ты', 'обо', 'мне!»']	['And', 'thou', 'shalt', 'know', 'of', 'mine']
+59	Enunciate. You must be understood from anywhere in the room, 	Отчётливее. Тебя должно быть слышно во всех уголках, 	['Отчётливее', 'Тебя', 'должно', 'быть', 'слышно', 'во', 'всех', 'уголках']	['Enunciate', 'You', 'must', 'be', 'understood', 'from', 'anywhere', 'in', 'the', 'room']
+60	or it's all for naught. 	или всё это напрасно. 	['или', 'всё', 'это', 'напрасно']	"['or', ""it's"", 'all', 'for', 'naught']"
+61	- This is all for naught. - I heard that! 	– Всё это напрасно. – Я тебя слышу. 	['–', 'Всё', 'это', 'напрасно', '–', 'Я', 'тебя', 'слышу']	['This', 'is', 'all', 'for', 'naught', 'I', 'heard', 'that']
+62	From the top. 	Всё сначала. 	['Всё', 'сначала']	['From', 'the', 'top']
+63	A princess must be knowledgeable about her kingdom. 	Принцесса должна знать своё королевство. 	['Принцесса', 'должна', 'знать', 'своё', 'королевство']	['A', 'princess', 'must', 'be', 'knowledgeable', 'about', 'her', 'kingdom']
+64	She does not doodle. 	А не рисовать каракули. 	['А', 'не', 'рисовать', 'каракули']	['She', 'does', 'not', 'doodle']
+65	That's a C, dear. 	Это нота «до». 	['Это', 'нота', '«до»']	"[""That's"", 'a', 'C', 'dear']"
+66	A princess does not chortle. 	Принцесса не фыркает. 	['Принцесса', 'не', 'фыркает']	['A', 'princess', 'does', 'not', 'chortle']
+67	Does not stuff her gob! 	Не набивает рот едой. 	['Не', 'набивает', 'рот', 'едой']	['Does', 'not', 'stuff', 'her', 'gob']
+68	Rises early. 	Просыпается рано. 	['Просыпается', 'рано']	['Rises', 'early']
+69	...is compassionate... 	… проявляет сострадание… 	['…', 'проявляет', 'сострадание…']	['is', 'compassionate']
+70	...patient, cautious, 	… она терпеливая, осторожная… 	['…', 'она', 'терпеливая', 'осторожная…']	['patient', 'cautious']
+71	clean. 	Чистая. 	['Чистая']	['clean']
+72	And above all, a princess strives for... Well, perfection. 	А самое главное – принцесса стремится к совершенству. 	['А', 'самое', 'главное', '–', 'принцесса', 'стремится', 'к', 'совершенству']	['And', 'above', 'all', 'a', 'princess', 'strives', 'for', 'Well', 'perfection']
+73	But every once in a while, 	Но время от времени 	['Но', 'время', 'от', 'времени']	['But', 'every', 'once', 'in', 'a', 'while']
+74	there's a day when I don't have to be a princess. 	бывают деньки, когда я не обязана быть принцессой. 	['бывают', 'деньки', 'когда', 'я', 'не', 'обязана', 'быть', 'принцессой']	"[""there's"", 'a', 'day', 'when', 'I', ""don't"", 'have', 'to', 'be', 'a', 'princess']"
+75	No lessons, no expectations. 	Никаких уроков, никаких требований. 	['Никаких', 'уроков', 'никаких', 'требований']	['No', 'lessons', 'no', 'expectations']
+76	A day where anything can happen. 	В такой день возможно всё. 	['В', 'такой', 'день', 'возможно', 'всё']	['A', 'day', 'where', 'anything', 'can', 'happen']
+77	A day I can change my fate. 	В такой день я могу изменить свою судьбу. 	['В', 'такой', 'день', 'я', 'могу', 'изменить', 'свою', 'судьбу']	['A', 'day', 'I', 'can', 'change', 'my', 'fate']
+78	I'm starving. You hungry too, Angus? 	Умираю с голода. Ты тоже, Ангус? 	['Умираю', 'с', 'голода', 'Ты', 'тоже', 'Ангус']	"[""I'm"", 'starving', 'You', 'hungry', 'too', 'Angus']"
+79	Oats it is, then. 	Значит, овёс. 	['Значит', 'овёс']	['Oats', 'it', 'is', 'then']
+80	Good day, Princess. 	Добрый день, принцесса. 	['Добрый', 'день', 'принцесса']	['Good', 'day', 'Princess']
+81	I cannot find the salt. Where did you put it? 	Не вижу соли. Куда её дели? 	['Не', 'вижу', 'соли', 'Куда', 'её', 'дели']	['I', 'cannot', 'find', 'the', 'salt', 'Where', 'did', 'you', 'put', 'it']
+82	It was over there a minute ago, the last time I looked at it. 	Я только что видела солонку на месте. 	['Я', 'только', 'что', 'видела', 'солонку', 'на', 'месте']	['It', 'was', 'over', 'there', 'a', 'minute', 'ago', 'the', 'last', 'time', 'I', 'looked', 'at', 'it']
+83	And then, out of nowhere, the biggest bear you've ever seen! 	И откуда ни возьмись появляется огромный медведь! 	['И', 'откуда', 'ни', 'возьмись', 'появляется', 'огромный', 'медведь']	"['And', 'then', 'out', 'of', 'nowhere', 'the', 'biggest', 'bear', ""you've"", 'ever', 'seen']"
+84	His hide littered with the weapons of fallen warriors. 	С его шкуры свисает оружие погибших воинов. 	['С', 'его', 'шкуры', 'свисает', 'оружие', 'погибших', 'воинов']	['His', 'hide', 'littered', 'with', 'the', 'weapons', 'of', 'fallen', 'warriors']
+85	His face scarred with one dead eye. 	На морде шрам, и нет одного глаза. 	['На', 'морде', 'шрам', 'и', 'нет', 'одного', 'глаза']	['His', 'face', 'scarred', 'with', 'one', 'dead', 'eye']
+86	I drew my sword and... 	Я вытащил меч и… 	['Я', 'вытащил', 'меч', 'и…']	['I', 'drew', 'my', 'sword', 'and']
+87	One swipe, his sword shattered. 	Один взмах – и меч сломался. 	['Один', 'взмах', '–', 'и', 'меч', 'сломался']	['One', 'swipe', 'his', 'sword', 'shattered']
+88	"Then ""chomp""! Dad's leg was clean off. "	Один укус – и ноги как ни бывало. 	['Один', 'укус', '–', 'и', 'ноги', 'как', 'ни', 'бывало']	"['Then', 'chomp', ""Dad's"", 'leg', 'was', 'clean', 'off']"
+89	Down the monster's throat it went. 	Её сожрало это чудовище. 	['Её', 'сожрало', 'это', 'чудовище']	"['Down', 'the', ""monster's"", 'throat', 'it', 'went']"
+90	That's my favorite part. 	Это мой любимый момент. 	['Это', 'мой', 'любимый', 'момент']	"[""That's"", 'my', 'favorite', 'part']"
+91	Mor'du has never been seen since, 	С тех пор Морду никто не видел, 	['С', 'тех', 'пор', 'Морду', 'никто', 'не', 'видел']	"[""Mor'du"", 'has', 'never', 'been', 'seen', 'since']"
+92	and is roaming the wilds waiting his chance of revenge. 	и теперь он рыщет по лесу, выжидая, чтобы отомстить. 	['и', 'теперь', 'он', 'рыщет', 'по', 'лесу', 'выжидая', 'чтобы', 'отомстить']	['and', 'is', 'roaming', 'the', 'wilds', 'waiting', 'his', 'chance', 'of', 'revenge']
+93	Let him return. 	Пусть приходит. 	['Пусть', 'приходит']	['Let', 'him', 'return']
+94	I'll finish what I guddled in the first place. 	Я закончу то, что начал тогда. 	['Я', 'закончу', 'то', 'что', 'начал', 'тогда']	"[""I'll"", 'finish', 'what', 'I', 'guddled', 'in', 'the', 'first', 'place']"
+95	Merida, a princess does not place her weapons on the table. 	Мерида, принцессы не кладут оружие на стол. 	['Мерида', 'принцессы', 'не', 'кладут', 'оружие', 'на', 'стол']	['Merida', 'a', 'princess', 'does', 'not', 'place', 'her', 'weapons', 'on', 'the', 'table']
+96	Mum! It's just my bow. 	Мама, но это всего лишь лук. 	['Мама', 'но', 'это', 'всего', 'лишь', 'лук']	"['Mum', ""It's"", 'just', 'my', 'bow']"
+97	A princess should not have weapons in my opinion. 	Я считаю, что принцессам оружие ни к чему. 	['Я', 'считаю', 'что', 'принцессам', 'оружие', 'ни', 'к', 'чему']	['A', 'princess', 'should', 'not', 'have', 'weapons', 'in', 'my', 'opinion']
+98	Leave her be. 	Оставь её в покое. 	['Оставь', 'её', 'в', 'покое']	['Leave', 'her', 'be']
+99	Princess or not, learning to fight is essential. 	Умение драться необходимо даже принцессе. 	['Умение', 'драться', 'необходимо', 'даже', 'принцессе']	['Princess', 'or', 'not', 'learning', 'to', 'fight', 'is', 'essential']
+100	Mum? You'll never guess what I did today. 	Мама, ты не поверишь, что я сегодня сделала. 	['Мама', 'ты', 'не', 'поверишь', 'что', 'я', 'сегодня', 'сделала']	"['Mum', ""You'll"", 'never', 'guess', 'what', 'I', 'did', 'today']"
+101	I climbed the Crone's Tooth, 	Я залезла на Зуб Старой Карги 	['Я', 'залезла', 'на', 'Зуб', 'Старой', 'Карги']	"['I', 'climbed', 'the', ""Crone's"", 'Tooth']"
+102	and drank from the Fire Falls. 	и пила из Огнепада. 	['и', 'пила', 'из', 'Огнепада']	['and', 'drank', 'from', 'the', 'Fire', 'Falls']
+103	Fire Falls? 	Огнепада? 	['Огнепада']	['Fire', 'Falls']
+104	They say only the ancient kings were brave enough to drink the fire. 	Говорят, только древние короли осмеливались пить огонь. 	['Говорят', 'только', 'древние', 'короли', 'осмеливались', 'пить', 'огонь']	['They', 'say', 'only', 'the', 'ancient', 'kings', 'were', 'brave', 'enough', 'to', 'drink', 'the', 'fire']
+105	- What did you do, dear? - Nothing, Mum. 	– Так что ты сделала? – Ничего. 	['–', 'Так', 'что', 'ты', 'сделала', '–', 'Ничего']	['What', 'did', 'you', 'do', 'dear', 'Nothing', 'Mum']
+106	Hungry, aren't we? 	Проголодалась? 	['Проголодалась']	"['Hungry', ""aren't"", 'we']"
+107	- Mum! - You'll get dreadful collywobbles. 	– Мама! – У тебя заболит живет. 	['–', 'Мама', '–', 'У', 'тебя', 'заболит', 'живет']	"['Mum', ""You'll"", 'get', 'dreadful', 'collywobbles']"
+108	Oh, Fergus, will you look at your daughter's plate? 	Фергус, посмотри на тарелку своей дочери. 	['Фергус', 'посмотри', 'на', 'тарелку', 'своей', 'дочери']	"['Oh', 'Fergus', 'will', 'you', 'look', 'at', 'your', ""daughter's"", 'plate']"
+109	So what? 	Ну и что? 	['Ну', 'и', 'что']	['So', 'what']
+110	- You great... - Don't let them lick... 	– Ну ты… – Не давай им лизать… 	['–', 'Ну', 'ты…', '–', 'Не', 'давай', 'им', 'лизать…']	"['You', 'great', ""Don't"", 'let', 'them', 'lick']"
+111	Boys, you're naughty. 	Мальчики, не балуйтесь. 	['Мальчики', 'не', 'балуйтесь']	"['Boys', ""you're"", 'naughty']"
+112	Don't just play with your haggis. 	Хватит играть с едой! 	['Хватит', 'играть', 'с', 'едой']	"[""Don't"", 'just', 'play', 'with', 'your', 'haggis']"
+113	How do you know you don't like it, 	Откуда вы знаете, что это невкусно, 	['Откуда', 'вы', 'знаете', 'что', 'это', 'невкусно']	"['How', 'do', 'you', 'know', 'you', ""don't"", 'like', 'it']"
+114	if you won't try it? 	если даже не попробовали? 	['если', 'даже', 'не', 'попробовали']	"['if', 'you', ""won't"", 'try', 'it']"
+115	That's just a wee sheep's stomach. 	Это просто овечий желудок. 	['Это', 'просто', 'овечий', 'желудок']	"[""That's"", 'just', 'a', 'wee', ""sheep's"", 'stomach']"
+116	It's delicious. 	Очень вкусно. 	['Очень', 'вкусно']	"[""It's"", 'delicious']"
+117	- My lady. - Thank you, Maudie. 	– Госпожа. – Спасибо, Моди. 	['–', 'Госпожа', '–', 'Спасибо', 'Моди']	['My', 'lady', 'Thank', 'you', 'Maudie']
+118	You're getting too big, the two of you. 	Да вы просто огромные. 	['Да', 'вы', 'просто', 'огромные']	"[""You're"", 'getting', 'too', 'big', 'the', 'two', 'of', 'you']"
+119	From the Lords Macintosh, MacGuffin and Dingwall. 	От лордов Макинтоша, Макгаффина и Дингваля. 	['От', 'лордов', 'Макинтоша', 'Макгаффина', 'и', 'Дингваля']	['From', 'the', 'Lords', 'Macintosh', 'MacGuffin', 'and', 'Dingwall']
+120	Their responses, no doubt. 	Это наверняка их ответы. 	['Это', 'наверняка', 'их', 'ответы']	['Their', 'responses', 'no', 'doubt']
+121	Aye, aye! 	Да, да! 	['Да', 'да']	['Aye', 'aye']
+122	Hey, hey! 	Ну же! 	['Ну', 'же']	['Hey', 'hey']
+123	Stay out of my food, you greedy mongrels. 	Не трогайте мою еду, жадные дворняги! 	['Не', 'трогайте', 'мою', 'еду', 'жадные', 'дворняги']	['Stay', 'out', 'of', 'my', 'food', 'you', 'greedy', 'mongrels']
+124	Chew on that, you manky dogs! 	Жрите кости, грязные псины! 	['Жрите', 'кости', 'грязные', 'псины']	['Chew', 'on', 'that', 'you', 'manky', 'dogs']
+125	Fergus? 	Фергус! 	['Фергус']	['Fergus']
+126	They've all accepted. 	Они все согласились. 	['Они', 'все', 'согласились']	"[""They've"", 'all', 'accepted']"
+127	Who's accepted what, Mother? 	Кто согласился на что? 	['Кто', 'согласился', 'на', 'что']	"[""Who's"", 'accepted', 'what', 'Mother']"
+128	Boys, you are excused. 	Мальчики, вы свободны. 	['Мальчики', 'вы', 'свободны']	['Boys', 'you', 'are', 'excused']
+129	Hey! 	Эй! 	['Эй']	['Hey']
+130	What did I do now? 	А что я теперь натворила? 	['А', 'что', 'я', 'теперь', 'натворила']	['What', 'did', 'I', 'do', 'now']
+131	Your father has something to discuss with you. 	Твой отец должен кое-что с тобой обсудить. 	['Твой', 'отец', 'должен', 'кое-что', 'с', 'тобой', 'обсудить']	['Your', 'father', 'has', 'something', 'to', 'discuss', 'with', 'you']
+132	Fergus? 	Фергус. 	['Фергус']	['Fergus']
+133	Merida. 	Мерида. 	['Мерида']	['Merida']
+134	The lords are presenting their sons as suitors for your betrothal. 	Лорды привезут своих сыновей – претендентов на твою руку. 	['Лорды', 'привезут', 'своих', 'сыновей', '–', 'претендентов', 'на', 'твою', 'руку']	['The', 'lords', 'are', 'presenting', 'their', 'sons', 'as', 'suitors', 'for', 'your', 'betrothal']
+135	- What? - The clans have accepted. 	– Что? – Все кланы дали согласие. 	['–', 'Что', '–', 'Все', 'кланы', 'дали', 'согласие']	['What', 'The', 'clans', 'have', 'accepted']
+136	- Dad! - What? I... 	– Папа! – Что? Я… 	['–', 'Папа', '–', 'Что', 'Я…']	['Dad', 'What', 'I']
+137	You... She... Elinor? 	Ты… Она… Элинор. 	['Ты…', 'Она…', 'Элинор']	['You', 'She', 'Elinor']
+138	Honestly, Merida, I don't know why you're reacting this way. 	Мерида, я не понимаю, почему ты так реагируешь. 	['Мерида', 'я', 'не', 'понимаю', 'почему', 'ты', 'так', 'реагируешь']	"['Honestly', 'Merida', 'I', ""don't"", 'know', 'why', ""you're"", 'reacting', 'this', 'way']"
+139	This year, each clan will present a suitor 	В этом году каждый клан выдвинет претендента. 	['В', 'этом', 'году', 'каждый', 'клан', 'выдвинет', 'претендента']	['This', 'year', 'each', 'clan', 'will', 'present', 'a', 'suitor']
+140	to compete in the games for your hand. 	Они будут добиваться твоей руки на турнире. 	['Они', 'будут', 'добиваться', 'твоей', 'руки', 'на', 'турнире']	['to', 'compete', 'in', 'the', 'games', 'for', 'your', 'hand']
+141	I suppose a princess just does what she's told? 	Я полагаю, принцесса просто делает то, что ей говорят? 	['Я', 'полагаю', 'принцесса', 'просто', 'делает', 'то', 'что', 'ей', 'говорят']	"['I', 'suppose', 'a', 'princess', 'just', 'does', 'what', ""she's"", 'told']"
+142	A princess does not raise her voice. 	Принцесса не повышает голос. 	['Принцесса', 'не', 'повышает', 'голос']	['A', 'princess', 'does', 'not', 'raise', 'her', 'voice']
+143	Merida, this is what you've been preparing for your whole life. 	Мерида, ты готовилась к этому с самого рождения. 	['Мерида', 'ты', 'готовилась', 'к', 'этому', 'с', 'самого', 'рождения']	"['Merida', 'this', 'is', 'what', ""you've"", 'been', 'preparing', 'for', 'your', 'whole', 'life']"
+144	No, it's what you've been preparing me for my whole life. 	Нет. Ты готовила меня к этому с самого рождения. 	['Нет', 'Ты', 'готовила', 'меня', 'к', 'этому', 'с', 'самого', 'рождения']	"['No', ""it's"", 'what', ""you've"", 'been', 'preparing', 'me', 'for', 'my', 'whole', 'life']"
+145	I won't go through with it. You can't make me. 	Я не согласна. Ты меня не заставишь. 	['Я', 'не', 'согласна', 'Ты', 'меня', 'не', 'заставишь']	"['I', ""won't"", 'go', 'through', 'with', 'it', 'You', ""can't"", 'make', 'me']"
+146	Merida! 	Мерида! Мерида! 	['Мерида', 'Мерида']	['Merida']
+147	Boys! 	Мальчики! 	['Мальчики']	['Boys']
+148	Mother. Suitors? Marriage? 	Мама! Претенденты? Брак? 	['Мама', 'Претенденты', 'Брак']	['Mother', 'Suitors', 'Marriage']
+149	Once there was an ancient kingdom... 	Было одно древнее королевство… 	['Было', 'одно', 'древнее', 'королевство…']	['Once', 'there', 'was', 'an', 'ancient', 'kingdom']
+150	Mum! 	Мама! 	['Мама']	['Mum']
+151	Ancient kingdom. 	Древнее королевство. 	['Древнее', 'королевство']	['Ancient', 'kingdom']
+152	Its name long forgotten, 	Его название давно забыли. 	['Его', 'название', 'давно', 'забыли']	['Its', 'name', 'long', 'forgotten']
+153	ruled by a wise and fair king who was much beloved. 	Все любили его мудрого и справедливого короля. 	['Все', 'любили', 'его', 'мудрого', 'и', 'справедливого', 'короля']	['ruled', 'by', 'a', 'wise', 'and', 'fair', 'king', 'who', 'was', 'much', 'beloved']
+154	And when he grew old he divided the kingdom among his four sons, 	В старости он разделил королевство между четырьмя сыновьями. 	['В', 'старости', 'он', 'разделил', 'королевство', 'между', 'четырьмя', 'сыновьями']	['And', 'when', 'he', 'grew', 'old', 'he', 'divided', 'the', 'kingdom', 'among', 'his', 'four', 'sons']
+155	that they should be the pillars on which the peace of the land rested. 	Они должны были стать оплотом мира в его королевстве. 	['Они', 'должны', 'были', 'стать', 'оплотом', 'мира', 'в', 'его', 'королевстве']	['that', 'they', 'should', 'be', 'the', 'pillars', 'on', 'which', 'the', 'peace', 'of', 'the', 'land', 'rested']
+156	But the oldest prince wanted to rule the land for himself. 	Но старший принц хотел править всем государством. 	['Но', 'старший', 'принц', 'хотел', 'править', 'всем', 'государством']	['But', 'the', 'oldest', 'prince', 'wanted', 'to', 'rule', 'the', 'land', 'for', 'himself']
+157	He followed his own path and the kingdom fell 	Он пошёл своей дорогой и поверг королевство 	['Он', 'пошёл', 'своей', 'дорогой', 'и', 'поверг', 'королевство']	['He', 'followed', 'his', 'own', 'path', 'and', 'the', 'kingdom', 'fell']
+158	to war, and chaos and ruin. 	в войну, хаос и разорение. 	['в', 'войну', 'хаос', 'и', 'разорение']	['to', 'war', 'and', 'chaos', 'and', 'ruin']
+159	That's a nice story. 	Отличная история. 	['Отличная', 'история']	"[""That's"", 'a', 'nice', 'story']"
+160	It's not just a story, Merida. 	Это не просто история. 	['Это', 'не', 'просто', 'история']	"[""It's"", 'not', 'just', 'a', 'story', 'Merida']"
+161	Legends are lessons. They ring with truths. 	Легенды – это уроки для нас. В них есть истина. 	['Легенды', '–', 'это', 'уроки', 'для', 'нас', 'В', 'них', 'есть', 'истина']	['Legends', 'are', 'lessons', 'They', 'ring', 'with', 'truths']
+162	Mum. 	Мама. 	['Мама']	['Mum']
+163	I would advise you to make your peace with this. 	Советую тебе смириться с этим. 	['Советую', 'тебе', 'смириться', 'с', 'этим']	['I', 'would', 'advise', 'you', 'to', 'make', 'your', 'peace', 'with', 'this']
+164	The clans are coming to present their suitors. 	Кланы представят своих претендентов. 	['Кланы', 'представят', 'своих', 'претендентов']	['The', 'clans', 'are', 'coming', 'to', 'present', 'their', 'suitors']
+165	- It's not fair. - Merida. 	– Это несправедливо. – Мерида. 	['–', 'Это', 'несправедливо', '–', 'Мерида']	"[""It's"", 'not', 'fair', 'Merida']"
+166	It's marriage. It's not the end of the world. 	Это всего лишь брак, а не конец света. 	['Это', 'всего', 'лишь', 'брак', 'а', 'не', 'конец', 'света']	"[""It's"", 'marriage', ""It's"", 'not', 'the', 'end', 'of', 'the', 'world']"
+167	- You're muttering. - I don't mutter. 	– Ты бормочешь. – Я не бормочу. 	['–', 'Ты', 'бормочешь', '–', 'Я', 'не', 'бормочу']	"[""You're"", 'muttering', 'I', ""don't"", 'mutter']"
+168	Aye, you do. You mutter, lass, when something's troubling you. 	Бормочешь. Ты делаешь это, когда что-то не даёт тебе покоя. 	['Бормочешь', 'Ты', 'делаешь', 'это', 'когда', 'что-то', 'не', 'даёт', 'тебе', 'покоя']	"['Aye', 'you', 'do', 'You', 'mutter', 'lass', 'when', ""something's"", 'troubling', 'you']"
+169	I blame you. Stubbornness. 	Это твоя вина. Упрямство. 	['Это', 'твоя', 'вина', 'Упрямство']	['I', 'blame', 'you', 'Stubbornness']
+170	It's entirely from your side of the family. 	Это всё твоя наследственность. 	['Это', 'всё', 'твоя', 'наследственность']	"[""It's"", 'entirely', 'from', 'your', 'side', 'of', 'the', 'family']"
+171	I take it the talk didn't go too well, then? 	Значит, переговоры не увенчались успехом? 	['Значит', 'переговоры', 'не', 'увенчались', 'успехом']	"['I', 'take', 'it', 'the', 'talk', ""didn't"", 'go', 'too', 'well', 'then']"
+172	I don't know what to do. 	Не знаю, что делать. 	['Не', 'знаю', 'что', 'делать']	"['I', ""don't"", 'know', 'what', 'to', 'do']"
+173	- Speak to her, dear. - I do speak to her. 	– Поговори с ней. – Я говорю с ней. 	['–', 'Поговори', 'с', 'ней', '–', 'Я', 'говорю', 'с', 'ней']	['Speak', 'to', 'her', 'dear', 'I', 'do', 'speak', 'to', 'her']
+174	- She just doesn't listen. - Come on, now. 	– Но она не слушает. – Не надо так. 	['–', 'Но', 'она', 'не', 'слушает', '–', 'Не', 'надо', 'так']	"['She', 'just', ""doesn't"", 'listen', 'Come', 'on', 'now']"
+175	Pretend I'm Merida. Speak to me. 	Представь, что я Мерида. Говори со мной. 	['Представь', 'что', 'я', 'Мерида', 'Говори', 'со', 'мной']	"['Pretend', ""I'm"", 'Merida', 'Speak', 'to', 'me']"
+176	What would you say? 	Что бы ты сказала? 	['Что', 'бы', 'ты', 'сказала']	['What', 'would', 'you', 'say']
+177	I can't do this. 	Я так не могу. 	['Я', 'так', 'не', 'могу']	"['I', ""can't"", 'do', 'this']"
+178	Sure you can. 	Ещё как можешь. 	['Ещё', 'как', 'можешь']	['Sure', 'you', 'can']
+179	There, there. That's my queen. 	Вот, вот. Моя королева. 	['Вот', 'вот', 'Моя', 'королева']	"['There', 'there', ""That's"", 'my', 'queen']"
+180	Right, here we go. 	Отлично, начинай. 	['Отлично', 'начинай']	['Right', 'here', 'we', 'go']
+181	"""I don't want to get married. "	«Я не хочу замуж. 	['«Я', 'не', 'хочу', 'замуж']	"['I', ""don't"", 'want', 'to', 'get', 'married']"
+182	"""I want to stay single and let my hair flow in the wind "	Хочу быть свободной, чтобы мои волосы развевались на ветру, 	['Хочу', 'быть', 'свободной', 'чтобы', 'мои', 'волосы', 'развевались', 'на', 'ветру']	['I', 'want', 'to', 'stay', 'single', 'and', 'let', 'my', 'hair', 'flow', 'in', 'the', 'wind']
+183	"""as I ride through the glen firing arrows into the sunset."" "	когда я скачу по долине и стреляю из лука в закат». 	['когда', 'я', 'скачу', 'по', 'долине', 'и', 'стреляю', 'из', 'лука', 'в', 'закат»']	['as', 'I', 'ride', 'through', 'the', 'glen', 'firing', 'arrows', 'into', 'the', 'sunset']
+184	Merida, all this work, all the time spent preparing you, 	Мерида, на твою подготовку ушло столько труда и времени. 	['Мерида', 'на', 'твою', 'подготовку', 'ушло', 'столько', 'труда', 'и', 'времени']	['Merida', 'all', 'this', 'work', 'all', 'the', 'time', 'spent', 'preparing', 'you']
+185	schooling you, giving you everything we never had. 	Мы учили тебя, давали тебе всё то, чего не было у нас. 	['Мы', 'учили', 'тебя', 'давали', 'тебе', 'всё', 'то', 'чего', 'не', 'было', 'у', 'нас']	['schooling', 'you', 'giving', 'you', 'everything', 'we', 'never', 'had']
+186	I ask you, what do you expect us to do? 	Скажи мне, что нам делать? 	['Скажи', 'мне', 'что', 'нам', 'делать']	['I', 'ask', 'you', 'what', 'do', 'you', 'expect', 'us', 'to', 'do']
+187	Call off the gathering. Would that kill them? 	Отменить собрание. Они что, умрут? 	['Отменить', 'собрание', 'Они', 'что', 'умрут']	['Call', 'off', 'the', 'gathering', 'Would', 'that', 'kill', 'them']
+188	You're the queen. 	Ты королева. 	['Ты', 'королева']	"[""You're"", 'the', 'queen']"
+189	You can just tell the lords the princess is not ready for this. 	Просто скажи лордам, что принцесса не готова. 	['Просто', 'скажи', 'лордам', 'что', 'принцесса', 'не', 'готова']	['You', 'can', 'just', 'tell', 'the', 'lords', 'the', 'princess', 'is', 'not', 'ready', 'for', 'this']
+190	In fact, she might not ever be ready for this, so that's that. 	А может, вообще никогда не будет готова. Вот и всё. 	['А', 'может', 'вообще', 'никогда', 'не', 'будет', 'готова', 'Вот', 'и', 'всё']	"['In', 'fact', 'she', 'might', 'not', 'ever', 'be', 'ready', 'for', 'this', 'so', ""that's"", 'that']"
+191	Good day to you. We'll expect your declarations of war in the morning. 	Хорошего дня. Утром ожидаем от вас объявления войны. 	['Хорошего', 'дня', 'Утром', 'ожидаем', 'от', 'вас', 'объявления', 'войны']	"['Good', 'day', 'to', 'you', ""We'll"", 'expect', 'your', 'declarations', 'of', 'war', 'in', 'the', 'morning']"
+192	I understand this must all seem unfair. 	Я понимаю, что это кажется несправедливостью. 	['Я', 'понимаю', 'что', 'это', 'кажется', 'несправедливостью']	['I', 'understand', 'this', 'must', 'all', 'seem', 'unfair']
+193	Even I had reservations when I faced betrothal. 	Даже у меня были сомнения перед помолвкой. 	['Даже', 'у', 'меня', 'были', 'сомнения', 'перед', 'помолвкой']	['Even', 'I', 'had', 'reservations', 'when', 'I', 'faced', 'betrothal']
+194	But we can't just run away from who we are. 	Но мы не можем убежать от своей судьбы. 	['Но', 'мы', 'не', 'можем', 'убежать', 'от', 'своей', 'судьбы']	"['But', 'we', ""can't"", 'just', 'run', 'away', 'from', 'who', 'we', 'are']"
+195	I don't want my life to be over. 	Не хочу, чтобы моя жизнь вот так закончилась. 	['Не', 'хочу', 'чтобы', 'моя', 'жизнь', 'вот', 'так', 'закончилась']	"['I', ""don't"", 'want', 'my', 'life', 'to', 'be', 'over']"
+196	I want my freedom! 	Я люблю свободу! 	['Я', 'люблю', 'свободу']	['I', 'want', 'my', 'freedom']
+197	But are you willing to pay the price your freedom will cost? 	Но готова ли ты платить за эту свободу? 	['Но', 'готова', 'ли', 'ты', 'платить', 'за', 'эту', 'свободу']	['But', 'are', 'you', 'willing', 'to', 'pay', 'the', 'price', 'your', 'freedom', 'will', 'cost']
+198	I'm not doing any of this to hurt you. 	У меня нет цели обидеть тебя. 	['У', 'меня', 'нет', 'цели', 'обидеть', 'тебя']	"[""I'm"", 'not', 'doing', 'any', 'of', 'this', 'to', 'hurt', 'you']"
+199	If you could just try to see what I do, I do out of love. 	Попробуй понять, что я делаю всё это, потому что люблю тебя. 	['Попробуй', 'понять', 'что', 'я', 'делаю', 'всё', 'это', 'потому', 'что', 'люблю', 'тебя']	['If', 'you', 'could', 'just', 'try', 'to', 'see', 'what', 'I', 'do', 'I', 'do', 'out', 'of', 'love']
+200	But it's my life, it's... 	Но это моя жизнь… 	['Но', 'это', 'моя', 'жизнь…']	"['But', ""it's"", 'my', 'life', ""it's""]"
+201	I'm just not ready. 	Я просто не готова. 	['Я', 'просто', 'не', 'готова']	"[""I'm"", 'just', 'not', 'ready']"
+202	I think you'd see, if you could just... 	Ты поймёшь, если только… 	['Ты', 'поймёшь', 'если', 'только…']	"['I', 'think', ""you'd"", 'see', 'if', 'you', 'could', 'just']"
+203	I think I could make you understand if you would just... 	Думаю, ты поймёшь меня, если просто… 	['Думаю', 'ты', 'поймёшь', 'меня', 'если', 'просто…']	['I', 'think', 'I', 'could', 'make', 'you', 'understand', 'if', 'you', 'would', 'just']
+204	...listen. ...listen. 	– … послушаешь. – … послушаешь. 	['–', '…', 'послушаешь', '–', '…', 'послушаешь']	['listen', 'listen']
+205	I swear, Angus, this isn't going to happen. 	Клянусь, Ангус, этому не бывать. 	['Клянусь', 'Ангус', 'этому', 'не', 'бывать']	"['I', 'swear', 'Angus', 'this', ""isn't"", 'going', 'to', 'happen']"
+206	Not if I have any say in it. 	Если только у меня есть выбор. 	['Если', 'только', 'у', 'меня', 'есть', 'выбор']	['Not', 'if', 'I', 'have', 'any', 'say', 'in', 'it']
+207	MacGuffin! 	Макгаффин! Макгаффин! 	['Макгаффин', 'Макгаффин']	['MacGuffin']
+208	- Dingwall! - Dingwall! 	– Дингваль! – Дингваль! 	['–', 'Дингваль', '–', 'Дингваль']	['Dingwall', 'Dingwall']
+209	- Macintosh! - Macintosh! 	– Макинтош! – Макинтош! 	['–', 'Макинтош', '–', 'Макинтош']	['Macintosh', 'Macintosh']
+210	You look absolutely beautiful. 	Ты настоящая красавица. 	['Ты', 'настоящая', 'красавица']	['You', 'look', 'absolutely', 'beautiful']
+211	I can't breathe. 	Я не могу дышать. 	['Я', 'не', 'могу', 'дышать']	"['I', ""can't"", 'breathe']"
+212	Shush! Give us a turn. 	Тихо! Повернись. 	['Тихо', 'Повернись']	['Shush', 'Give', 'us', 'a', 'turn']
+213	I can't move. 	Я не могу двигаться. 	['Я', 'не', 'могу', 'двигаться']	"['I', ""can't"", 'move']"
+214	It's too tight. 	Слишком туго. 	['Слишком', 'туго']	"[""It's"", 'too', 'tight']"
+215	It's perfect. 	Просто идеально. 	['Просто', 'идеально']	"[""It's"", 'perfect']"
+216	- Merida? - Mum? 	– Мерида. – Мама? 	['–', 'Мерида', '–', 'Мама']	['Merida', 'Mum']
+217	Just... 	Просто… 	['Просто…']	['Just']
+218	Remember to smile. 	Не забывай улыбаться. 	['Не', 'забывай', 'улыбаться']	['Remember', 'to', 'smile']
+219	Aye, they're coming. 	Они прибыли. 	['Они', 'прибыли']	"['Aye', ""they're"", 'coming']"
+220	Places, everyone. Places. 	Всем занять места. 	['Всем', 'занять', 'места']	['Places', 'everyone', 'Places']
+221	I look fine, woman! Leave me be! 	Я и так хорош! Оставь меня в покое. 	['Я', 'и', 'так', 'хорош', 'Оставь', 'меня', 'в', 'покое']	['I', 'look', 'fine', 'woman', 'Leave', 'me', 'be']
+222	My Lord! 	Мой господин! 	['Мой', 'господин']	['My', 'Lord']
+223	I want to announce the arrival of the lords... 	Хочу объявить о прибытии лордов… 	['Хочу', 'объявить', 'о', 'прибытии', 'лордов…']	['I', 'want', 'to', 'announce', 'the', 'arrival', 'of', 'the', 'lords']
+224	Who goes there? Who goes there? 	Кто тут? Кто тут? 	['Кто', 'тут', 'Кто', 'тут']	['Who', 'goes', 'there', 'Who', 'goes', 'there']
+225	Boy! 	Слуга! 	['Слуга']	['Boy']
+226	So, here we are, 	Итак, все здесь. 	['Итак', 'все', 'здесь']	['So', 'here', 'we', 'are']
+227	- the four clans. - Aye. 	– Четыре клана. – Да. 	['–', 'Четыре', 'клана', '–', 'Да']	['the', 'four', 'clans', 'Aye']
+228	Gathering... 	Вы собрались, 	['Вы', 'собрались']	['Gathering']
+229	...for... 	чтобы… 	['чтобы…']	['for']
+230	...the presentation of the suitors. ...the presentation of the suitors. 	– … представить претендентов. – … представить претендентов. 	['–', '…', 'представить', 'претендентов', '–', '…', 'представить', 'претендентов']	['the', 'presentation', 'of', 'the', 'suitors', 'the', 'presentation', 'of', 'the', 'suitors']
+231	Clan Macintosh. 	Клан Макинтош. 	['Клан', 'Макинтош']	['Clan', 'Macintosh']
+232	Macintosh! 	Макинтош! 	['Макинтош']	['Macintosh']
+233	Your Majesty, I present my heir and scion, 	Ваше величество, это мой сын и наследник, 	['Ваше', 'величество', 'это', 'мой', 'сын', 'и', 'наследник']	['Your', 'Majesty', 'I', 'present', 'my', 'heir', 'and', 'scion']
+234	who defended our land from the northern invaders, 	который защитил нашу землю от северных захватчиков 	['который', 'защитил', 'нашу', 'землю', 'от', 'северных', 'захватчиков']	['who', 'defended', 'our', 'land', 'from', 'the', 'northern', 'invaders']
+235	and with his own sword, Stab Blooder, 	и своим мечом Кровопийцей 	['и', 'своим', 'мечом', 'Кровопийцей']	['and', 'with', 'his', 'own', 'sword', 'Stab', 'Blooder']
+236	vanquished 1,000 foes. 	уничтожил 1000 врагов. 	['уничтожил', '1000', 'врагов']	['vanquished', '1,000', 'foes']
+237	Macintosh! 	Макинтош! 	['Макинтош']	['Macintosh']
+238	Clan MacGuffin! 	Клан Макгаффин! 	['Клан', 'Макгаффин']	['Clan', 'MacGuffin']
+239	MacGuffin! 	Макгаффин! 	['Макгаффин']	['MacGuffin']
+240	Good Majesty, I present my eldest son, 	Ваше величество, это мой старший сын, 	['Ваше', 'величество', 'это', 'мой', 'старший', 'сын']	['Good', 'Majesty', 'I', 'present', 'my', 'eldest', 'son']
+241	who scuttled the Viking longships 	затопивший ладьи викингов 	['затопивший', 'ладьи', 'викингов']	['who', 'scuttled', 'the', 'Viking', 'longships']
+242	and with his bare hands vanquished 2,000 foes. 	и уничтоживший 2000 врагов голыми руками. 	['и', 'уничтоживший', '2000', 'врагов', 'голыми', 'руками']	['and', 'with', 'his', 'bare', 'hands', 'vanquished', '2,000', 'foes']
+243	MacGuffin! 	Макгаффин! 	['Макгаффин']	['MacGuffin']
+244	Clan Dingwall. 	Клан Дингваль! 	['Клан', 'Дингваль']	['Clan', 'Dingwall']
+245	Dingwall! 	Дингваль! 	['Дингваль']	['Dingwall']
+246	I present my only son 	Это мой единственный сын, 	['Это', 'мой', 'единственный', 'сын']	['I', 'present', 'my', 'only', 'son']
+247	who was besieged by 10,000 Romans 	которого окружило 10000 римлян, 	['которого', 'окружило', '10000', 'римлян']	['who', 'was', 'besieged', 'by', '10,000', 'Romans']
+248	and he took out a whole armada singlehandedly. 	но он в одиночку уничтожил всю их флотилию. 	['но', 'он', 'в', 'одиночку', 'уничтожил', 'всю', 'их', 'флотилию']	['and', 'he', 'took', 'out', 'a', 'whole', 'armada', 'singlehandedly']
+249	With one arm, he was... 	Одной рукой он… 	['Одной', 'рукой', 'он…']	['With', 'one', 'arm', 'he', 'was']
+250	With one arm he was steering the ship 	Одной рукой он крутил штурвал, 	['Одной', 'рукой', 'он', 'крутил', 'штурвал']	['With', 'one', 'arm', 'he', 'was', 'steering', 'the', 'ship']
+251	and with the other he held his mighty sword 	а другой держал свой могучий меч 	['а', 'другой', 'держал', 'свой', 'могучий', 'меч']	['and', 'with', 'the', 'other', 'he', 'held', 'his', 'mighty', 'sword']
+252	and struck down a whole attacking fleet. 	и потопил весь флот противника. 	['и', 'потопил', 'весь', 'флот', 'противника']	['and', 'struck', 'down', 'a', 'whole', 'attacking', 'fleet']
+253	- Lies! - What? I heard that. 	– Ложь! – Что? Я это слышал. 	['–', 'Ложь', '–', 'Что', 'Я', 'это', 'слышал']	['Lies', 'What', 'I', 'heard', 'that']
+254	Go on. Say it to my face. 	Ну же. Скажите это мне в лицо. 	['Ну', 'же', 'Скажите', 'это', 'мне', 'в', 'лицо']	['Go', 'on', 'Say', 'it', 'to', 'my', 'face']
+255	Or are ye scared, simpering jackanapes, 	Или ты боишься, жеманный выскочка? 	['Или', 'ты', 'боишься', 'жеманный', 'выскочка']	['Or', 'are', 'ye', 'scared', 'simpering', 'jackanapes']
+256	afraid to muss your pretty hair? 	Опасаешься за свои локоны? 	['Опасаешься', 'за', 'свои', 'локоны']	['afraid', 'to', 'muss', 'your', 'pretty', 'hair']
+257	- At least we have hair. - And all our teeth. 	– У нас хотя бы есть волосы. – И зубы целы. 	['–', 'У', 'нас', 'хотя', 'бы', 'есть', 'волосы', '–', 'И', 'зубы', 'целы']	['At', 'least', 'we', 'have', 'hair', 'And', 'all', 'our', 'teeth']
+258	If he was a wee bit closer... 	Если только он подойдёт… 	['Если', 'только', 'он', 'подойдёт…']	['If', 'he', 'was', 'a', 'wee', 'bit', 'closer']
+259	And we don't hide under bridges, you grumpy old troll. 	И мы не прячемся под мостами, старый ворчливый тролль. 	['И', 'мы', 'не', 'прячемся', 'под', 'мостами', 'старый', 'ворчливый', 'тролль']	"['And', 'we', ""don't"", 'hide', 'under', 'bridges', 'you', 'grumpy', 'old', 'troll']"
+260	You want to laugh, huh? 	Хочешь посмеяться? 	['Хочешь', 'посмеяться']	['You', 'want', 'to', 'laugh', 'huh']
+261	Wee Dingwall! 	Дингваль! 	['Дингваль']	['Wee', 'Dingwall']
+262	Get off me! 	Слезь с меня! 	['Слезь', 'с', 'меня']	['Get', 'off', 'me']
+263	Nut 'em! Nut 'em! That's the way to... 	Давай! Давай! Вот так надо… 	['Давай', 'Давай', 'Вот', 'так', 'надо…']	"['Nut', ""'em"", 'Nut', ""'em"", ""That's"", 'the', 'way', 'to']"
+264	All right. 	Ладно. 	['Ладно']	['All', 'right']
+265	Shut it! 	Тихо! 	['Тихо']	['Shut', 'it']
+266	Now, that's all done. You've had your go at each other. 	Так, с этим покончили. Вы немного поспорили. 	['Так', 'с', 'этим', 'покончили', 'Вы', 'немного', 'поспорили']	"['Now', ""that's"", 'all', 'done', ""You've"", 'had', 'your', 'go', 'at', 'each', 'other']"
+267	Show a little decorum. 	Теперь покажите свои манеры. 	['Теперь', 'покажите', 'свои', 'манеры']	['Show', 'a', 'little', 'decorum']
+268	And no more fighting. 	И больше не деритесь. 	['И', 'больше', 'не', 'деритесь']	['And', 'no', 'more', 'fighting']
+269	You want a fresh one? 	Хочешь ещё? 	['Хочешь', 'ещё']	['You', 'want', 'a', 'fresh', 'one']
+270	Crivens, you're fierce. 	Проклятье. 	['Проклятье']	"['Crivens', ""you're"", 'fierce']"
+271	I didn't start it. It was... 	Это не я начал. 	['Это', 'не', 'я', 'начал']	"['I', ""didn't"", 'start', 'it', 'It', 'was']"
+272	My lady Queen, I feel terrible. My humblest apologies. 	Королева, мне так стыдно. Нижайше прошу прощения. 	['Королева', 'мне', 'так', 'стыдно', 'Нижайше', 'прошу', 'прощения']	['My', 'lady', 'Queen', 'I', 'feel', 'terrible', 'My', 'humblest', 'apologies']
+273	- We mean no disrespect. - I'm sorry, love, I didn't... But... 	– Мы не хотели обидеть вас. – Прости, дорогая, я не… 	['–', 'Мы', 'не', 'хотели', 'обидеть', 'вас', '–', 'Прости', 'дорогая', 'я', 'не…']	"['We', 'mean', 'no', 'disrespect', ""I'm"", 'sorry', 'love', 'I', ""didn't"", 'But']"
+274	Yes, dear. 	Хорошо. 	['Хорошо']	['Yes', 'dear']
+275	Now, where were we? 	На чём мы остановились? 	['На', 'чём', 'мы', 'остановились']	['Now', 'where', 'were', 'we']
+276	Yes. In accordance with our laws, 	Да. В соответствии с нашими законами 	['Да', 'В', 'соответствии', 'с', 'нашими', 'законами']	['Yes', 'In', 'accordance', 'with', 'our', 'laws']
+277	by the rights of our heritage, 	и старыми традициями, 	['и', 'старыми', 'традициями']	['by', 'the', 'rights', 'of', 'our', 'heritage']
+278	only the firstborn of each of the great leaders 	только первенцы великих лордов 	['только', 'первенцы', 'великих', 'лордов']	['only', 'the', 'firstborn', 'of', 'each', 'of', 'the', 'great', 'leaders']
+279	- may be presented as champion. - Firstborn? 	– могут быть претендентами. – Первенцы? 	['–', 'могут', 'быть', 'претендентами', '–', 'Первенцы']	['may', 'be', 'presented', 'as', 'champion', 'Firstborn']
+280	And thus compete for the hand of the Princess of Dun Broch. 	И соревноваться за руку принцессы Дунброха. 	['И', 'соревноваться', 'за', 'руку', 'принцессы', 'Дунброха']	['And', 'thus', 'compete', 'for', 'the', 'hand', 'of', 'the', 'Princess', 'of', 'Dun', 'Broch']
+281	To win the fair maiden they must prove their worth 	Чтобы завоевать прекрасную деву, они должны проявить себя, 	['Чтобы', 'завоевать', 'прекрасную', 'деву', 'они', 'должны', 'проявить', 'себя']	['To', 'win', 'the', 'fair', 'maiden', 'they', 'must', 'prove', 'their', 'worth']
+282	by feats of strength or arms in the games. 	показав свою силу или умение владеть оружием. 	['показав', 'свою', 'силу', 'или', 'умение', 'владеть', 'оружием']	['by', 'feats', 'of', 'strength', 'or', 'arms', 'in', 'the', 'games']
+283	It is customary that the challenge be determined by the princess herself. 	По традиции, принцесса сама выбирает состязание. 	['По', 'традиции', 'принцесса', 'сама', 'выбирает', 'состязание']	['It', 'is', 'customary', 'that', 'the', 'challenge', 'be', 'determined', 'by', 'the', 'princess', 'herself']
+284	Archery! Archery. 	Стрельба из лука! 	['Стрельба', 'из', 'лука']	['Archery', 'Archery']
+285	I choose archery. 	Стрельба из лука. 	['Стрельба', 'из', 'лука']	['I', 'choose', 'archery']
+286	Let the games begin! 	Объявляю турнир открытым! 	['Объявляю', 'турнир', 'открытым']	['Let', 'the', 'games', 'begin']
+287	Pull! 	Тяни! Тяни! 	['Тяни', 'Тяни']	['Pull']
+288	I'll just take one. 	Я возьму один. 	['Я', 'возьму', 'один']	"[""I'll"", 'just', 'take', 'one']"
+289	Now, I have told you, you're not allowed... 	Я уже говорила, что вам нельзя… 	['Я', 'уже', 'говорила', 'что', 'вам', 'нельзя…']	"['Now', 'I', 'have', 'told', 'you', ""you're"", 'not', 'allowed']"
+290	It's time! 	Пришло время! 	['Пришло', 'время']	"[""It's"", 'time']"
+291	- Archers, to your marks! - Aye, archers to your marks. 	– Лучники, по местам! – Да, по местам. 	['–', 'Лучники', 'по', 'местам', '–', 'Да', 'по', 'местам']	['Archers', 'to', 'your', 'marks', 'Aye', 'archers', 'to', 'your', 'marks']
+292	And may the lucky arrow find its target. 	И пусть вам сопутствует удача. 	['И', 'пусть', 'вам', 'сопутствует', 'удача']	['And', 'may', 'the', 'lucky', 'arrow', 'find', 'its', 'target']
+293	Oi! Get on with it. 	Эй, начинайте! 	['Эй', 'начинайте']	['Oi', 'Get', 'on', 'with', 'it']
+294	I bet he wishes he was tossing cabers. 	Он предпочёл бы метать брёвна. 	['Он', 'предпочёл', 'бы', 'метать', 'брёвна']	['I', 'bet', 'he', 'wishes', 'he', 'was', 'tossing', 'cabers']
+295	Or holding up bridges. 	Или удерживать мост. 	['Или', 'удерживать', 'мост']	['Or', 'holding', 'up', 'bridges']
+296	At least you hit the target, son. 	Ты хотя бы попал в цель, сын. 	['Ты', 'хотя', 'бы', 'попал', 'в', 'цель', 'сын']	['At', 'least', 'you', 'hit', 'the', 'target', 'son']
+297	That's attractive. 	Артистично. 	['Артистично']	"[""That's"", 'attractive']"
+298	- I got it! - Good arm. 	– Поймал! – Твёрдая рука. 	['–', 'Поймал', '–', 'Твёрдая', 'рука']	['I', 'got', 'it', 'Good', 'arm']
+299	And such lovely flowing locks. 	И такие прелестные локоны. 	['И', 'такие', 'прелестные', 'локоны']	['And', 'such', 'lovely', 'flowing', 'locks']
+300	- Fergus. - What? 	– Фергус. – Что? 	['–', 'Фергус', '–', 'Что']	['Fergus', 'What']
+301	Wee lamb. 	Бедный ягнёнок. 	['Бедный', 'ягнёнок']	['Wee', 'lamb']
+302	Come on! Shoot, boy! 	Ну же! Стреляй! 	['Ну', 'же', 'Стреляй']	['Come', 'on', 'Shoot', 'boy']
+303	Well done, lad! Well done. 	Отлично, парень. Отлично. 	['Отлично', 'парень', 'Отлично']	['Well', 'done', 'lad', 'Well', 'done']
+304	Feast your eyes! 	Пиршество для глаз! 	['Пиршество', 'для', 'глаз']	['Feast', 'your', 'eyes']
+305	That's my boy. 	Мой мальчик. 	['Мой', 'мальчик']	"[""That's"", 'my', 'boy']"
+306	Well, that's just grand now, isn't it? 	Это просто замечательно. 	['Это', 'просто', 'замечательно']	"['Well', ""that's"", 'just', 'grand', 'now', ""isn't"", 'it']"
+307	- Guess who's coming to dinner? - Fergus. 	– Отгадай, кто придёт на обед? – Фергус. 	['–', 'Отгадай', 'кто', 'придёт', 'на', 'обед', '–', 'Фергус']	"['Guess', ""who's"", 'coming', 'to', 'dinner', 'Fergus']"
+308	By the way, hope you don't mind being called Lady... 	Кстати, надеюсь, ты не против того, чтобы тебя звали леди… 	['Кстати', 'надеюсь', 'ты', 'не', 'против', 'того', 'чтобы', 'тебя', 'звали', 'леди…']	"['By', 'the', 'way', 'hope', 'you', ""don't"", 'mind', 'being', 'called', 'Lady']"
+309	I am Merida. 	Я – Мерида. 	['Я', '–', 'Мерида']	['I', 'am', 'Merida']
+310	Firstborn descendant of Clan Dun Broch. 	Старший отпрыск клана Дунброха. 	['Старший', 'отпрыск', 'клана', 'Дунброха']	['Firstborn', 'descendant', 'of', 'Clan', 'Dun', 'Broch']
+311	And I'll be shooting for my own hand. 	Я буду стрелять, чтобы добиться своей руки. 	['Я', 'буду', 'стрелять', 'чтобы', 'добиться', 'своей', 'руки']	"['And', ""I'll"", 'be', 'shooting', 'for', 'my', 'own', 'hand']"
+312	What are you doing? 	Что ты делаешь? 	['Что', 'ты', 'делаешь']	['What', 'are', 'you', 'doing']
+313	Merida! 	Мерида! 	['Мерида']	['Merida']
+314	Curse this dress! 	Проклятое платье! 	['Проклятое', 'платье']	['Curse', 'this', 'dress']
+315	Merida, stop this! 	Мерида, хватит! 	['Мерида', 'хватит']	['Merida', 'stop', 'this']
+316	Don't you dare loose another arrow. 	Не вздумай выпустить ещё одну стрелу. 	['Не', 'вздумай', 'выпустить', 'ещё', 'одну', 'стрелу']	"[""Don't"", 'you', 'dare', 'loose', 'another', 'arrow']"
+317	Merida, I forbid it. 	Мерида, я запрещаю. 	['Мерида', 'я', 'запрещаю']	['Merida', 'I', 'forbid', 'it']
+318	Michty me! I've just about had enough of you, lass! 	Проклятье! Я сыта тобой по горло! 	['Проклятье', 'Я', 'сыта', 'тобой', 'по', 'горло']	"['Michty', 'me', ""I've"", 'just', 'about', 'had', 'enough', 'of', 'you', 'lass']"
+319	- You're the one that wants me to... - You embarrassed them. 	– Это ты хочешь… – Ты опозорила их. 	['–', 'Это', 'ты', 'хочешь…', '–', 'Ты', 'опозорила', 'их']	"[""You're"", 'the', 'one', 'that', 'wants', 'me', 'to', 'You', 'embarrassed', 'them']"
+320	- You embarrassed me. - I followed the rules. 	– Ты опозорила меня. – Я всё делала по правилам. 	['–', 'Ты', 'опозорила', 'меня', '–', 'Я', 'всё', 'делала', 'по', 'правилам']	['You', 'embarrassed', 'me', 'I', 'followed', 'the', 'rules']
+321	You don't know what you've done! 	Ты не знаешь, что ты сделала. 	['Ты', 'не', 'знаешь', 'что', 'ты', 'сделала']	"['You', ""don't"", 'know', 'what', ""you've"", 'done']"
+322	- Just don't care how I... - It'll be fire and sword if it's not set right. 	– Неважно… – Если это не исправить, будет война. 	['–', 'Неважно…', '–', 'Если', 'это', 'не', 'исправить', 'будет', 'война']	"['Just', ""don't"", 'care', 'how', 'I', ""It'll"", 'be', 'fire', 'and', 'sword', 'if', ""it's"", 'not', 'set', 'right']"
+323	- Just listen! - I am the Queen! 	– Послушай! – Я королева. 	['–', 'Послушай', '–', 'Я', 'королева']	['Just', 'listen', 'I', 'am', 'the', 'Queen']
+324	You listen to me! 	Послушай меня! 	['Послушай', 'меня']	['You', 'listen', 'to', 'me']
+325	This is so unfair! 	Это несправедливо! 	['Это', 'несправедливо']	['This', 'is', 'so', 'unfair']
+326	Unfair? 	Несправедливо? 	['Несправедливо']	['Unfair']
+327	You're never there for me. 	Ты никогда не слушаешь меня. 	['Ты', 'никогда', 'не', 'слушаешь', 'меня']	"[""You're"", 'never', 'there', 'for', 'me']"
+328	This whole marriage is what you want. 	Этот брак нужен только тебе. 	['Этот', 'брак', 'нужен', 'только', 'тебе']	['This', 'whole', 'marriage', 'is', 'what', 'you', 'want']
+329	Do you ever bother to ask what I want? No. 	Ты когда-нибудь спрашиваешь, чего я хочу? Нет. 	['Ты', 'когда-нибудь', 'спрашиваешь', 'чего', 'я', 'хочу', 'Нет']	['Do', 'you', 'ever', 'bother', 'to', 'ask', 'what', 'I', 'want', 'No']
+330	You walk around telling me what to do, what not to do, 	Ты указываешь мне, что делать, чего не делать, 	['Ты', 'указываешь', 'мне', 'что', 'делать', 'чего', 'не', 'делать']	['You', 'walk', 'around', 'telling', 'me', 'what', 'to', 'do', 'what', 'not', 'to', 'do']
+331	trying to make me be like you. 	пытаешься превратить меня в себя. 	['пытаешься', 'превратить', 'меня', 'в', 'себя']	['trying', 'to', 'make', 'me', 'be', 'like', 'you']
+332	Well, I'm not going to be like you. 	Но я не буду такой как ты. 	['Но', 'я', 'не', 'буду', 'такой', 'как', 'ты']	"['Well', ""I'm"", 'not', 'going', 'to', 'be', 'like', 'you']"
+333	You're acting like a child. 	Ты ведёшь себя как ребёнок. 	['Ты', 'ведёшь', 'себя', 'как', 'ребёнок']	"[""You're"", 'acting', 'like', 'a', 'child']"
+334	And you're a beast. 	А ты чудовище. 	['А', 'ты', 'чудовище']	"['And', ""you're"", 'a', 'beast']"
+335	- That's what you are! - Merida. 	– Вот ты кто! – Мерида. 	['–', 'Вот', 'ты', 'кто', '–', 'Мерида']	"[""That's"", 'what', 'you', 'are', 'Merida']"
+336	- I'll never be like you. - No, stop that! 	– Я не буду такой, как ты. – Нет, хватит! 	['–', 'Я', 'не', 'буду', 'такой', 'как', 'ты', '–', 'Нет', 'хватит']	"[""I'll"", 'never', 'be', 'like', 'you', 'No', 'stop', 'that']"
+337	I'd rather die than be like you! 	Я лучше умру, чем буду такой! 	['Я', 'лучше', 'умру', 'чем', 'буду', 'такой']	"[""I'd"", 'rather', 'die', 'than', 'be', 'like', 'you']"
+338	Merida, you are a princess, 	Мерида, ты принцесса 	['Мерида', 'ты', 'принцесса']	['Merida', 'you', 'are', 'a', 'princess']
+339	- and I expect you to act like one. - Mum! 	– и должна вести себя как положено. – Мама! 	['–', 'и', 'должна', 'вести', 'себя', 'как', 'положено', '–', 'Мама']	['and', 'I', 'expect', 'you', 'to', 'act', 'like', 'one', 'Mum']
+340	Merida! 	Мерида! Мерида! 	['Мерида', 'Мерида']	['Merida']
+341	Oh, dear. 	О боже. 	['О', 'боже']	['Oh', 'dear']
+342	Oh, no. What have I done? 	О нет. Что я наделала? 	['О', 'нет', 'Что', 'я', 'наделала']	['Oh', 'no', 'What', 'have', 'I', 'done']
+343	Angus! 	Ангус! 	['Ангус']	['Angus']
+344	Come on, Angus. 	Иди сюда, Ангус. 	['Иди', 'сюда', 'Ангус']	['Come', 'on', 'Angus']
+345	Angus! 	Ангус! 	['Ангус']	['Angus']
+346	Why would the wisps lead me here? 	Почему огоньки привели меня сюда? 	['Почему', 'огоньки', 'привели', 'меня', 'сюда']	['Why', 'would', 'the', 'wisps', 'lead', 'me', 'here']
+347	Look around. 	Осмотрись. 	['Осмотрись']	['Look', 'around']
+348	You holler if you see anything you like. 	Дай знать, если что-то понравится. 	['Дай', 'знать', 'если', 'что-то', 'понравится']	['You', 'holler', 'if', 'you', 'see', 'anything', 'you', 'like']
+349	Everything is half off. 	Всё за полцены. 	['Всё', 'за', 'полцены']	['Everything', 'is', 'half', 'off']
+350	- Who are you? - Just a humble woodcarver. 	– А вы кто? – Я просто резчица по дереву. 	['–', 'А', 'вы', 'кто', '–', 'Я', 'просто', 'резчица', 'по', 'дереву']	['Who', 'are', 'you', 'Just', 'a', 'humble', 'woodcarver']
+351	I don't understand... 	Я не понимаю… 	['Я', 'не', 'понимаю…']	"['I', ""don't"", 'understand']"
+352	See anything you like? 	Что-нибудь понравилось? 	['Что-нибудь', 'понравилось']	['See', 'anything', 'you', 'like']
+353	Perhaps a touch of whimsy to brighten any dank chamber? 	Безделушка, которая придаст изюминку промозглой комнате? 	['Безделушка', 'которая', 'придаст', 'изюминку', 'промозглой', 'комнате']	['Perhaps', 'a', 'touch', 'of', 'whimsy', 'to', 'brighten', 'any', 'dank', 'chamber']
+354	But the will-o'-the-wisps, they... 	А блуждающие огоньки… 	['А', 'блуждающие', 'огоньки…']	"['But', 'the', ""will-o'-the-wisps"", 'they']"
+355	This is one of a kind! 	Это уникальная вещь! 	['Это', 'уникальная', 'вещь']	['This', 'is', 'one', 'of', 'a', 'kind']
+356	I'll make you a deal for this rare prize. 	Я сделаю тебе скидку на эту редкую вещь. 	['Я', 'сделаю', 'тебе', 'скидку', 'на', 'эту', 'редкую', 'вещь']	"[""I'll"", 'make', 'you', 'a', 'deal', 'for', 'this', 'rare', 'prize']"
+357	Your broom! 	Ваша метла! 	['Ваша', 'метла']	['Your', 'broom']
+358	- It was sweeping by itself. - That's ridiculous. 	– Она сама подметала. – Чепуха. 	['–', 'Она', 'сама', 'подметала', '–', 'Чепуха']	"['It', 'was', 'sweeping', 'by', 'itself', ""That's"", 'ridiculous']"
+359	Wood cannot be imbued with magical properties. 	Дерево невозможно наделить волшебными свойствами. 	['Дерево', 'невозможно', 'наделить', 'волшебными', 'свойствами']	['Wood', 'cannot', 'be', 'imbued', 'with', 'magical', 'properties']
+360	I should know. I'm a... Whittler. 	Я точно знаю. Я же ведь… Я ведь вырезаю 	['Я', 'точно', 'знаю', 'Я', 'же', 'ведь…', 'Я', 'ведь', 'вырезаю']	"['I', 'should', 'know', ""I'm"", 'a', 'Whittler']"
+361	Of wood. 	по дереву. 	['по', 'дереву']	['Of', 'wood']
+362	How about this conversation starter? It's made of yew wood. 	А как тебе нравится это? Сделано из тиса. 	['А', 'как', 'тебе', 'нравится', 'это', 'Сделано', 'из', 'тиса']	"['How', 'about', 'this', 'conversation', 'starter', ""It's"", 'made', 'of', 'yew', 'wood']"
+363	Tough as stone. 	Твёрдое как камень. 	['Твёрдое', 'как', 'камень']	['Tough', 'as', 'stone']
+364	That's stuffed. 	Это чучело. 	['Это', 'чучело']	"[""That's"", 'stuffed']"
+365	- Staring is rude. - The crow's talking! 	– Пялиться некрасиво! – Говорящий ворон! 	['–', 'Пялиться', 'некрасиво', '–', 'Говорящий', 'ворон']	"['Staring', 'is', 'rude', 'The', ""crow's"", 'talking']"
+366	That's not all I can do. 	Я не только это умею. 	['Я', 'не', 'только', 'это', 'умею']	"[""That's"", 'not', 'all', 'I', 'can', 'do']"
+367	- You're a witch! - Woodcarver. 	– Вы ведьма! – Резчик по дереву. 	['–', 'Вы', 'ведьма', '–', 'Резчик', 'по', 'дереву']	"[""You're"", 'a', 'witch', 'Woodcarver']"
+368	That's why the wisps led me here. 	Вот почему огоньки привели меня сюда. 	['Вот', 'почему', 'огоньки', 'привели', 'меня', 'сюда']	"[""That's"", 'why', 'the', 'wisps', 'led', 'me', 'here']"
+369	- Woodcarver! - You'll change my fate! 	– Резчик по дереву! – Вы измените мою судьбу! 	['–', 'Резчик', 'по', 'дереву', '–', 'Вы', 'измените', 'мою', 'судьбу']	"['Woodcarver', ""You'll"", 'change', 'my', 'fate']"
+370	- Woodcarver! - You see, it's my mother. 	– Резчик по дереву! – Это всё моя мама. 	['–', 'Резчик', 'по', 'дереву', '–', 'Это', 'всё', 'моя', 'мама']	"['Woodcarver', 'You', 'see', ""it's"", 'my', 'mother']"
+371	I'm not a witch! Too many unsatisfied customers. 	Я не ведьма! Слишком много недовольных клиентов. 	['Я', 'не', 'ведьма', 'Слишком', 'много', 'недовольных', 'клиентов']	"[""I'm"", 'not', 'a', 'witch', 'Too', 'many', 'unsatisfied', 'customers']"
+372	If you're not going to buy anything, get out. 	Если ничего не покупаешь, уходи! 	['Если', 'ничего', 'не', 'покупаешь', 'уходи']	"['If', ""you're"", 'not', 'going', 'to', 'buy', 'anything', 'get', 'out']"
+373	- No! The wisps led me here! - I don't care! 	– Нет! Меня привели огоньки! – Плевать! 	['–', 'Нет', 'Меня', 'привели', 'огоньки', '–', 'Плевать']	"['No', 'The', 'wisps', 'led', 'me', 'here', 'I', ""don't"", 'care']"
+374	- Get out! Shoo! Get! Be gone with you! - I'll buy it all. 	– Уходи! Вон! Убирайся! – Я всё это куплю. 	['–', 'Уходи', 'Вон', 'Убирайся', '–', 'Я', 'всё', 'это', 'куплю']	"['Get', 'out', 'Shoo', 'Get', 'Be', 'gone', 'with', 'you', ""I'll"", 'buy', 'it', 'all']"
+375	- What? What was that? - Every carving. 	– Что ты сказала? – Все изделия. 	['–', 'Что', 'ты', 'сказала', '–', 'Все', 'изделия']	['What', 'What', 'was', 'that', 'Every', 'carving']
+376	Well... 	Что ж… 	['Что', 'ж…']	['Well']
+377	And how are you going to pay for that, sweetie? 	А чем ты за это заплатишь, милочка? 	['А', 'чем', 'ты', 'за', 'это', 'заплатишь', 'милочка']	['And', 'how', 'are', 'you', 'going', 'to', 'pay', 'for', 'that', 'sweetie']
+378	With this. 	Вот этим. 	['Вот', 'этим']	['With', 'this']
+379	Oh, my, that's lovely, that is. 	Какая прекрасная вещь. 	['Какая', 'прекрасная', 'вещь']	"['Oh', 'my', ""that's"", 'lovely', 'that', 'is']"
+380	That would set us up for months. 	Этого хватит на несколько месяцев. 	['Этого', 'хватит', 'на', 'несколько', 'месяцев']	['That', 'would', 'set', 'us', 'up', 'for', 'months']
+381	Every carving and one spell. 	Все изделия и одно заклинание. 	['Все', 'изделия', 'и', 'одно', 'заклинание']	['Every', 'carving', 'and', 'one', 'spell']
+382	Are you sure you know what you're doing? 	Ты уверена в том, что ты делаешь? 	['Ты', 'уверена', 'в', 'том', 'что', 'ты', 'делаешь']	"['Are', 'you', 'sure', 'you', 'know', 'what', ""you're"", 'doing']"
+383	I want a spell to change my mum. 	Заклинание, чтобы изменить мою маму. 	['Заклинание', 'чтобы', 'изменить', 'мою', 'маму']	['I', 'want', 'a', 'spell', 'to', 'change', 'my', 'mum']
+384	That'll change my fate. 	Это изменит мою судьбу. 	['Это', 'изменит', 'мою', 'судьбу']	"[""That'll"", 'change', 'my', 'fate']"
+385	Done! 	Идёт! 	['Идёт']	['Done']
+386	Where are you going? 	Куда вы? 	['Куда', 'вы']	['Where', 'are', 'you', 'going']
+387	There. 	Вот. 	['Вот']	['There']
+388	What are you doing? 	Что вы делаете? 	['Что', 'вы', 'делаете']	['What', 'are', 'you', 'doing']
+389	You never conjure where you carve. 	Не колдуй там, где вырезаешь. 	['Не', 'колдуй', 'там', 'где', 'вырезаешь']	['You', 'never', 'conjure', 'where', 'you', 'carve']
+390	Very important. 	Это очень важно. 	['Это', 'очень', 'важно']	['Very', 'important']
+391	The last time I did this was for a prince. 	В прошлый раз я сделала это для одного принца. 	['В', 'прошлый', 'раз', 'я', 'сделала', 'это', 'для', 'одного', 'принца']	['The', 'last', 'time', 'I', 'did', 'this', 'was', 'for', 'a', 'prince']
+392	Easy on the eyes. Tight pants. 	Симпатичного. В обтягивающих штанах. 	['Симпатичного', 'В', 'обтягивающих', 'штанах']	['Easy', 'on', 'the', 'eyes', 'Tight', 'pants']
+393	He demanded I give him the strength of ten men. 	Он потребовал наделить его силой десяти мужчин. 	['Он', 'потребовал', 'наделить', 'его', 'силой', 'десяти', 'мужчин']	['He', 'demanded', 'I', 'give', 'him', 'the', 'strength', 'of', 'ten', 'men']
+394	And he gave me this for a spell. 	И он дал мне вот это. 	['И', 'он', 'дал', 'мне', 'вот', 'это']	['And', 'he', 'gave', 'me', 'this', 'for', 'a', 'spell']
+395	A spell that would change his fate. 	За заклинание, которое изменило его судьбу. 	['За', 'заклинание', 'которое', 'изменило', 'его', 'судьбу']	['A', 'spell', 'that', 'would', 'change', 'his', 'fate']
+396	And did he get what he was after? 	И он добился того, чего хотел? 	['И', 'он', 'добился', 'того', 'чего', 'хотел']	['And', 'did', 'he', 'get', 'what', 'he', 'was', 'after']
+397	Yes. And made off with an especially attractive mahogany cheese board. 	Да. И прихватил с собой чудесную доску для сыра из красного дерева. 	['Да', 'И', 'прихватил', 'с', 'собой', 'чудесную', 'доску', 'для', 'сыра', 'из', 'красного', 'дерева']	['Yes', 'And', 'made', 'off', 'with', 'an', 'especially', 'attractive', 'mahogany', 'cheese', 'board']
+398	Now, what do I need? 	Так, что мне надо? 	['Так', 'что', 'мне', 'надо']	['Now', 'what', 'do', 'I', 'need']
+399	Just a little bit of this. 	Немного вот этого. 	['Немного', 'вот', 'этого']	['Just', 'a', 'little', 'bit', 'of', 'this']
+400	That'll do. 	Это сойдёт. 	['Это', 'сойдёт']	"[""That'll"", 'do']"
+401	And now let's see. What have we here? 	Сейчас посмотрим. Что тут у нас? 	['Сейчас', 'посмотрим', 'Что', 'тут', 'у', 'нас']	"['And', 'now', ""let's"", 'see', 'What', 'have', 'we', 'here']"
+402	Hey! 	Брысь! 	['Брысь']	['Hey']
+403	A cake? 	Торт? 	['Торт']	['A', 'cake']
+404	- You don't want it? - Yes! I want it. 	– Уже не хочешь? – Да, хочу. 	['–', 'Уже', 'не', 'хочешь', '–', 'Да', 'хочу']	"['You', ""don't"", 'want', 'it', 'Yes', 'I', 'want', 'it']"
+405	You're sure if I give this to my mum, 	Вы уверены, что если моя мама съест это, 	['Вы', 'уверены', 'что', 'если', 'моя', 'мама', 'съест', 'это']	"[""You're"", 'sure', 'if', 'I', 'give', 'this', 'to', 'my', 'mum']"
+406	it will change my fate? 	это изменит мою судьбу? 	['это', 'изменит', 'мою', 'судьбу']	['it', 'will', 'change', 'my', 'fate']
+407	Trust me. It'll do the trick, dearie. 	Уж поверь, это сработает. 	['Уж', 'поверь', 'это', 'сработает']	"['Trust', 'me', ""It'll"", 'do', 'the', 'trick', 'dearie']"
+408	Expect delivery of your purchase within a fortnight. 	Твою покупку доставят в течение двух недель. 	['Твою', 'покупку', 'доставят', 'в', 'течение', 'двух', 'недель']	['Expect', 'delivery', 'of', 'your', 'purchase', 'within', 'a', 'fortnight']
+409	What was that thing about the spell? 	Что я забыла сказать о заклинании? 	['Что', 'я', 'забыла', 'сказать', 'о', 'заклинании']	['What', 'was', 'that', 'thing', 'about', 'the', 'spell']
+410	Did you say something about 	Вы что-то сказали 	['Вы', 'что-то', 'сказали']	['Did', 'you', 'say', 'something', 'about']
+411	the spell? 	о заклинании? 	['о', 'заклинании']	['the', 'spell']
+412	Mor'du, Mor'du, now the time has come for all of us to slaughter you 	Морду, Морду, все мы вместе ищем тебя 	['Морду', 'Морду', 'все', 'мы', 'вместе', 'ищем', 'тебя']	"[""Mor'du"", ""Mor'du"", 'now', 'the', 'time', 'has', 'come', 'for', 'all', 'of', 'us', 'to', 'slaughter', 'you']"
+413	Hooray! 	Ура! 	['Ура']	['Hooray']
+414	Mor'du, Mor'du... 	Морду, Морду… 	['Морду', 'Морду…']	"[""Mor'du"", ""Mor'du""]"
+415	- Merida. - Mum! 	– Мерида. – Мама! 	['–', 'Мерида', '–', 'Мама']	['Merida', 'Mum']
+416	- I've been worried sick. - You... You were? 	– Я так беспокоилась. – Ты… Правда? 	['–', 'Я', 'так', 'беспокоилась', '–', 'Ты…', 'Правда']	"[""I've"", 'been', 'worried', 'sick', 'You', 'You', 'were']"
+417	I didn't know where you'd gone or when you'd come back. 	Я не знала, куда ты делась и когда вернешься. 	['Я', 'не', 'знала', 'куда', 'ты', 'делась', 'и', 'когда', 'вернешься']	"['I', ""didn't"", 'know', 'where', ""you'd"", 'gone', 'or', 'when', ""you'd"", 'come', 'back']"
+418	I didn't know what to think. Look at your dress. 	Не знала, что и думать. Посмотри на своё платье. 	['Не', 'знала', 'что', 'и', 'думать', 'Посмотри', 'на', 'своё', 'платье']	"['I', ""didn't"", 'know', 'what', 'to', 'think', 'Look', 'at', 'your', 'dress']"
+419	Angus threw me. But I'm not hurt. 	Меня сбросил Ангус. Но я цела. 	['Меня', 'сбросил', 'Ангус', 'Но', 'я', 'цела']	"['Angus', 'threw', 'me', 'But', ""I'm"", 'not', 'hurt']"
+420	Well, you're home now, so that's the end of it. 	Но теперь ты дома, и всё закончилось. 	['Но', 'теперь', 'ты', 'дома', 'и', 'всё', 'закончилось']	"['Well', ""you're"", 'home', 'now', 'so', ""that's"", 'the', 'end', 'of', 'it']"
+421	- Honestly? - I've pacified the lords for now. 	– Честно? – Я успокоила лордов на время. 	['–', 'Честно', '–', 'Я', 'успокоила', 'лордов', 'на', 'время']	"['Honestly', ""I've"", 'pacified', 'the', 'lords', 'for', 'now']"
+422	"Your father's out there ""entertaining"" them. "	Твой отец сейчас «развлекает» их. 	['Твой', 'отец', 'сейчас', '«развлекает»', 'их']	"['Your', ""father's"", 'out', 'there', 'entertaining', 'them']"
+423	Come taste my blade, you manky bear 	Твои поджарим потроха 	['Твои', 'поджарим', 'потроха']	['Come', 'taste', 'my', 'blade', 'you', 'manky', 'bear']
+424	For gobbling up my leg 	На части тебя порвём 	['На', 'части', 'тебя', 'порвём']	['For', 'gobbling', 'up', 'my', 'leg']
+425	I'll hunt you, then I'll skin you, hang your noggin on a peg... 	В твоих глазах увидим страх, когда тебя найдём 	['В', 'твоих', 'глазах', 'увидим', 'страх', 'когда', 'тебя', 'найдём']	"[""I'll"", 'hunt', 'you', 'then', ""I'll"", 'skin', 'you', 'hang', 'your', 'noggin', 'on', 'a', 'peg']"
+426	Of course, we both know a decision still has to be made. 	Но мы обе знаем, что решение всё-таки нужно принять. 	['Но', 'мы', 'обе', 'знаем', 'что', 'решение', 'всё-таки', 'нужно', 'принять']	['Of', 'course', 'we', 'both', 'know', 'a', 'decision', 'still', 'has', 'to', 'be', 'made']
+427	- What's this? - It's a peace offering. 	– Что это? – Предложение мира. 	['–', 'Что', 'это', '–', 'Предложение', 'мира']	"[""What's"", 'this', ""It's"", 'a', 'peace', 'offering']"
+428	I made it. For you. Special. 	Я испекла его. Для тебя. Специально. 	['Я', 'испекла', 'его', 'Для', 'тебя', 'Специально']	['I', 'made', 'it', 'For', 'you', 'Special']
+429	You made this for me? 	Ты испекла его для меня? 	['Ты', 'испекла', 'его', 'для', 'меня']	['You', 'made', 'this', 'for', 'me']
+430	Interesting flavor. 	Интересный вкус. 	['Интересный', 'вкус']	['Interesting', 'flavor']
+431	How do you feel? 	Как ощущения? 	['Как', 'ощущения']	['How', 'do', 'you', 'feel']
+432	- What... What is that? - Different? 	– Что это? – Необычные? 	['–', 'Что', 'это', '–', 'Необычные']	['What', 'What', 'is', 'that', 'Different']
+433	Tart and gamy. 	Он кислый и с душком. 	['Он', 'кислый', 'и', 'с', 'душком']	['Tart', 'and', 'gamy']
+434	Have you changed your mind at all about the marriage and all that? 	Ты ещё не передумала насчёт свадьбы? 	['Ты', 'ещё', 'не', 'передумала', 'насчёт', 'свадьбы']	['Have', 'you', 'changed', 'your', 'mind', 'at', 'all', 'about', 'the', 'marriage', 'and', 'all', 'that']
+435	That's better. 	Так лучше. 	['Так', 'лучше']	"[""That's"", 'better']"
+436	Now, why don't we go upstairs to the lords 	Давай поднимемся к лордам 	['Давай', 'поднимемся', 'к', 'лордам']	"['Now', 'why', ""don't"", 'we', 'go', 'upstairs', 'to', 'the', 'lords']"
+437	and put this whole kerfuffle to rest? 	и оставим все разногласия в прошлом. 	['и', 'оставим', 'все', 'разногласия', 'в', 'прошлом']	['and', 'put', 'this', 'whole', 'kerfuffle', 'to', 'rest']
+438	- Mother? - I'm woozy suddenly. 	– Мама? – Я чувствую слабость. 	['–', 'Мама', '–', 'Я', 'чувствую', 'слабость']	"['Mother', ""I'm"", 'woozy', 'suddenly']"
+439	My head's spinning like a top. 	Голова ужасно кружится. 	['Голова', 'ужасно', 'кружится']	"['My', ""head's"", 'spinning', 'like', 'a', 'top']"
+440	- Mum! - Suddenly I'm not so well. 	– Мама! – Что-то мне нехорошо. 	['–', 'Мама', '–', 'Что-то', 'мне', 'нехорошо']	"['Mum', 'Suddenly', ""I'm"", 'not', 'so', 'well']"
+441	How do you feel about the marriage now? 	А что ты думаешь насчёт свадьбы? 	['А', 'что', 'ты', 'думаешь', 'насчёт', 'свадьбы']	['How', 'do', 'you', 'feel', 'about', 'the', 'marriage', 'now']
+442	Merida! Just take me to my room. 	Мерида! Просто отведи меня в мою комнату. 	['Мерида', 'Просто', 'отведи', 'меня', 'в', 'мою', 'комнату']	['Merida', 'Just', 'take', 'me', 'to', 'my', 'room']
+443	All right, that's fine. That's just fine. 	Отлично, прекрасно. 	['Отлично', 'прекрасно']	"['All', 'right', ""that's"", 'fine', ""That's"", 'just', 'fine']"
+444	A little to the left. That's good. A wee bit to the left. That's good. 	Немного влево. Хорошо. Ещё немного влево. 	['Немного', 'влево', 'Хорошо', 'Ещё', 'немного', 'влево']	"['A', 'little', 'to', 'the', 'left', ""That's"", 'good', 'A', 'wee', 'bit', 'to', 'the', 'left', ""That's"", 'good']"
+445	It's good enough. 	Прекрасно. 	['Прекрасно']	"[""It's"", 'good', 'enough']"
+446	Now, clear out of there, boys. I don't want you to spoil my shot. 	Уйдите оттуда, парни. Не хочу, чтобы вы помешали. 	['Уйдите', 'оттуда', 'парни', 'Не', 'хочу', 'чтобы', 'вы', 'помешали']	"['Now', 'clear', 'out', 'of', 'there', 'boys', 'I', ""don't"", 'want', 'you', 'to', 'spoil', 'my', 'shot']"
+447	- What? - My lady Queen. 	– Что? – Королева. 	['–', 'Что', '–', 'Королева']	['What', 'My', 'lady', 'Queen']
+448	We've been waiting patiently. 	Мы терпеливо вас ждали. 	['Мы', 'терпеливо', 'вас', 'ждали']	"[""We've"", 'been', 'waiting', 'patiently']"
+449	Milords, I am out of sorts at the moment. 	Милорды, сейчас мне нездоровится. 	['Милорды', 'сейчас', 'мне', 'нездоровится']	['Milords', 'I', 'am', 'out', 'of', 'sorts', 'at', 'the', 'moment']
+450	But you shall have your answer. 	Но вы получите ответ. 	['Но', 'вы', 'получите', 'ответ']	['But', 'you', 'shall', 'have', 'your', 'answer']
+451	Presently. 	Скоро. 	['Скоро']	['Presently']
+452	Now, if you'll excuse us. 	А теперь мы удалимся. 	['А', 'теперь', 'мы', 'удалимся']	"['Now', 'if', ""you'll"", 'excuse', 'us']"
+453	Elinor, look! 	Элинор, смотри! 	['Элинор', 'смотри']	['Elinor', 'look']
+454	It's Mor'du! 	Это Морду. 	['Это', 'Морду']	"[""It's"", ""Mor'du""]"
+455	Elinor? Are you all right, dear? 	Элинор, ты в порядке? 	['Элинор', 'ты', 'в', 'порядке']	['Elinor', 'Are', 'you', 'all', 'right', 'dear']
+456	Fine. I'm fine. 	Я в полном порядке. 	['Я', 'в', 'полном', 'порядке']	"['Fine', ""I'm"", 'fine']"
+457	Go about avenging your leg. 	А ты расскажи, как отомстишь за ногу. 	['А', 'ты', 'расскажи', 'как', 'отомстишь', 'за', 'ногу']	['Go', 'about', 'avenging', 'your', 'leg']
+458	Aye. You heard her, lads. 	Да. Вы её слышали. 	['Да', 'Вы', 'её', 'слышали']	['Aye', 'You', 'heard', 'her', 'lads']
+459	I dream about the perfect way to make this devil die. 	Я мечтаю об изощрённом способе убить этого демона. 	['Я', 'мечтаю', 'об', 'изощрённом', 'способе', 'убить', 'этого', 'демона']	['I', 'dream', 'about', 'the', 'perfect', 'way', 'to', 'make', 'this', 'devil', 'die']
+460	Just take all the time you need to getting yourself right, Mum. 	Ты должна полностью прийти в себя, мама. 	['Ты', 'должна', 'полностью', 'прийти', 'в', 'себя', 'мама']	['Just', 'take', 'all', 'the', 'time', 'you', 'need', 'to', 'getting', 'yourself', 'right', 'Mum']
+461	Then maybe in a bit you might have something new to say on the marriage. 	Возможно, скоро у тебя появятся новые мысли насчёт свадьбы. 	['Возможно', 'скоро', 'у', 'тебя', 'появятся', 'новые', 'мысли', 'насчёт', 'свадьбы']	['Then', 'maybe', 'in', 'a', 'bit', 'you', 'might', 'have', 'something', 'new', 'to', 'say', 'on', 'the', 'marriage']
+462	What was in that cake? 	Что было в этом пироге? 	['Что', 'было', 'в', 'этом', 'пироге']	['What', 'was', 'in', 'that', 'cake']
+463	Cake. 	Пирог. 	['Пирог']	['Cake']
+464	Mum? 	Мама? 	['Мама']	['Mum']
+465	So I'll just tell them the wedding's off, then? 	Тогда я скажу им, что свадьба отменяется? 	['Тогда', 'я', 'скажу', 'им', 'что', 'свадьба', 'отменяется']	"['So', ""I'll"", 'just', 'tell', 'them', 'the', ""wedding's"", 'off', 'then']"
+466	Mum? 	Мама! 	['Мама']	['Mum']
+467	Bear! 	Медведь! 	['Медведь']	['Bear']
+468	Mum? 	Мама? 	['Мама']	['Mum']
+469	You're... You're a bear! 	Ты медведь! 	['Ты', 'медведь']	"[""You're"", ""You're"", 'a', 'bear']"
+470	Why a bear? 	Почему медведь? 	['Почему', 'медведь']	['Why', 'a', 'bear']
+471	That scaffy witch gave me a gammy spell. 	Эта мерзкая ведьма подсунула мне негодное заклинание. 	['Эта', 'мерзкая', 'ведьма', 'подсунула', 'мне', 'негодное', 'заклинание']	['That', 'scaffy', 'witch', 'gave', 'me', 'a', 'gammy', 'spell']
+472	It's not my fault. 	Я не виновата. 	['Я', 'не', 'виновата']	"[""It's"", 'not', 'my', 'fault']"
+473	I didn't ask her to change you into a bear. 	Я не просила её превращать тебя в медведя. 	['Я', 'не', 'просила', 'её', 'превращать', 'тебя', 'в', 'медведя']	"['I', ""didn't"", 'ask', 'her', 'to', 'change', 'you', 'into', 'a', 'bear']"
+474	I just wanted her to change you. 	Я попросила её изменить тебя. 	['Я', 'попросила', 'её', 'изменить', 'тебя']	['I', 'just', 'wanted', 'her', 'to', 'change', 'you']
+475	Did you hear that? 	Вы это слышали? 	['Вы', 'это', 'слышали']	['Did', 'you', 'hear', 'that']
+476	Something's not right. 	Что-то не так. 	['Что-то', 'не', 'так']	"[""Something's"", 'not', 'right']"
+477	There's no point in having a go at me. The witch is to blame. 	Нет смысла злиться на меня. Ведьма виновата. 	['Нет', 'смысла', 'злиться', 'на', 'меня', 'Ведьма', 'виновата']	"[""There's"", 'no', 'point', 'in', 'having', 'a', 'go', 'at', 'me', 'The', 'witch', 'is', 'to', 'blame']"
+478	Goggly old hag. 	Пучеглазая карга. 	['Пучеглазая', 'карга']	['Goggly', 'old', 'hag']
+479	Eyes all over the place. 	Шары вылупила. 	['Шары', 'вылупила']	['Eyes', 'all', 'over', 'the', 'place']
+480	Unbelievable. 	Невероятно. 	['Невероятно']	['Unbelievable']
+481	I'll get her to fix this. 	Я заставлю её всё исправить. 	['Я', 'заставлю', 'её', 'всё', 'исправить']	"[""I'll"", 'get', 'her', 'to', 'fix', 'this']"
+482	Why do I always get blamed for everything? It's just not fair. 	Почему я всегда хожу в виноватых? Это несправедливо. 	['Почему', 'я', 'всегда', 'хожу', 'в', 'виноватых', 'Это', 'несправедливо']	"['Why', 'do', 'I', 'always', 'get', 'blamed', 'for', 'everything', ""It's"", 'just', 'not', 'fair']"
+483	Everybody, follow me. 	Все за мной. 	['Все', 'за', 'мной']	['Everybody', 'follow', 'me']
+484	And keep a sharp eye. 	И будьте внимательны. 	['И', 'будьте', 'внимательны']	['And', 'keep', 'a', 'sharp', 'eye']
+485	Here we go. Another hunt through the castle. 	Ну вот. Очередная охота по всему замку. 	['Ну', 'вот', 'Очередная', 'охота', 'по', 'всему', 'замку']	['Here', 'we', 'go', 'Another', 'hunt', 'through', 'the', 'castle']
+486	But we haven't had dessert yet. 	Мы ещё не ели десерт. 	['Мы', 'ещё', 'не', 'ели', 'десерт']	"['But', 'we', ""haven't"", 'had', 'dessert', 'yet']"
+487	I have no idea. 	Понятия не имею. 	['Понятия', 'не', 'имею']	['I', 'have', 'no', 'idea']
+488	Mum, you can't go out there. 	Мама, тебе нельзя туда. 	['Мама', 'тебе', 'нельзя', 'туда']	"['Mum', 'you', ""can't"", 'go', 'out', 'there']"
+489	Mum! Wait! 	Мама, стой. 	['Мама', 'стой']	['Mum', 'Wait']
+490	What are you doing? Dad. The Bear King? 	Что ты делаешь? Там папа. Повелитель медведей. 	['Что', 'ты', 'делаешь', 'Там', 'папа', 'Повелитель', 'медведей']	['What', 'are', 'you', 'doing', 'Dad', 'The', 'Bear', 'King']
+491	If he so much as sees you, you're dead. 	Если он увидит тебя, тебе конец. 	['Если', 'он', 'увидит', 'тебя', 'тебе', 'конец']	"['If', 'he', 'so', 'much', 'as', 'sees', 'you', ""you're"", 'dead']"
+492	Another one of your entertainments to bore us to death! 	Твоя очередная забава, которая никого не смешит. 	['Твоя', 'очередная', 'забава', 'которая', 'никого', 'не', 'смешит']	['Another', 'one', 'of', 'your', 'entertainments', 'to', 'bore', 'us', 'to', 'death']
+493	And what exactly are we after... 	И кого же мы, интересно, ищем… 	['И', 'кого', 'же', 'мы', 'интересно', 'ищем…']	['And', 'what', 'exactly', 'are', 'we', 'after']
+494	Mum! 	Мама! 	['Мама']	['Mum']
+495	...my liege? 	… мой лорд? 	['…', 'мой', 'лорд']	['my', 'liege']
+496	Best to humor him. He is, after all, the King. 	Не зли его. Он всё-таки король. 	['Не', 'зли', 'его', 'Он', 'всё-таки', 'король']	['Best', 'to', 'humor', 'him', 'He', 'is', 'after', 'all', 'the', 'King']
+497	He's like a hound with that nose of his. 	У него нюх как у гончей. 	['У', 'него', 'нюх', 'как', 'у', 'гончей']	"[""He's"", 'like', 'a', 'hound', 'with', 'that', 'nose', 'of', 'his']"
+498	Mum, wait. 	Мама, подожди. 	['Мама', 'подожди']	['Mum', 'wait']
+499	We have to... 	Нам нужно… 	['Нам', 'нужно…']	['We', 'have', 'to']
+500	Follow me. 	За мной. 	['За', 'мной']	['Follow', 'me']
+501	Stop. 	Стой. 	['Стой']	['Stop']
+502	Stop! 	Стой! 	['Стой']	['Stop']
+503	You're covered with fur. 	Ты покрыта шерстью! 	['Ты', 'покрыта', 'шерстью']	"[""You're"", 'covered', 'with', 'fur']"
+504	You're not naked. 	Ты не голая. 	['Ты', 'не', 'голая']	"[""You're"", 'not', 'naked']"
+505	It's not like anyone's gonna see you. 	Никто тебя не увидит. 	['Никто', 'тебя', 'не', 'увидит']	"[""It's"", 'not', 'like', ""anyone's"", 'gonna', 'see', 'you']"
+506	Now you've done it. 	Ты сама напросилась. 	['Ты', 'сама', 'напросилась']	"['Now', ""you've"", 'done', 'it']"
+507	Maudie! 	Моди! 	['Моди']	['Maudie']
+508	Just calm down, lass. What is it? 	Успокойся. Что случилось? 	['Успокойся', 'Что', 'случилось']	['Just', 'calm', 'down', 'lass', 'What', 'is', 'it']
+509	Spit it out, Maudie! 	Говори! 	['Говори']	['Spit', 'it', 'out', 'Maudie']
+510	A bear! 	Медведь! 	['Медведь']	['A', 'bear']
+511	I knew it! 	Я так и знал! 	['Я', 'так', 'и', 'знал']	['I', 'knew', 'it']
+512	Would you just listen to me? 	Ты можешь послушать меня? 	['Ты', 'можешь', 'послушать', 'меня']	['Would', 'you', 'just', 'listen', 'to', 'me']
+513	We can't go this way. You'll be seen. 	Нам туда нельзя. Тебя увидят. 	['Нам', 'туда', 'нельзя', 'Тебя', 'увидят']	"['We', ""can't"", 'go', 'this', 'way', ""You'll"", 'be', 'seen']"
+514	Quick! This way! 	Быстро, сюда! 	['Быстро', 'сюда']	['Quick', 'This', 'way']
+515	Mum? 	Мама? Мама. 	['Мама', 'Мама']	['Mum']
+516	A witch turned Mum into a bear. It's not my fault. 	Ведьма превратила маму в медведя. Я не виновата. 	['Ведьма', 'превратила', 'маму', 'в', 'медведя', 'Я', 'не', 'виновата']	"['A', 'witch', 'turned', 'Mum', 'into', 'a', 'bear', ""It's"", 'not', 'my', 'fault']"
+517	We've got to get out of the castle. I need your help. 	Нам нужно выбраться из замка. Вы должны помочь мне. 	['Нам', 'нужно', 'выбраться', 'из', 'замка', 'Вы', 'должны', 'помочь', 'мне']	"[""We've"", 'got', 'to', 'get', 'out', 'of', 'the', 'castle', 'I', 'need', 'your', 'help']"
+518	All right. 	Ну ладно. 	['Ну', 'ладно']	['All', 'right']
+519	You can have my desserts for two... Three weeks. 	Я буду отдавать вам свой десерт две… Три недели. 	['Я', 'буду', 'отдавать', 'вам', 'свой', 'десерт', 'две…', 'Три', 'недели']	['You', 'can', 'have', 'my', 'desserts', 'for', 'two', 'Three', 'weeks']
+520	Okay. Fine. A year. 	Ладно. Целый год. 	['Ладно', 'Целый', 'год']	['Okay', 'Fine', 'A', 'year']
+521	Did you hear that? 	Вы слышали это? 	['Вы', 'слышали', 'это']	['Did', 'you', 'hear', 'that']
+522	There it goes! 	Он там! 	['Он', 'там']	['There', 'it', 'goes']
+523	Come on, lads! 	Быстрее, парни! 	['Быстрее', 'парни']	['Come', 'on', 'lads']
+524	There it goes! 	Он тут! 	['Он', 'тут']	['There', 'it', 'goes']
+525	Come on, Mum. 	Быстрее, мама. 	['Быстрее', 'мама']	['Come', 'on', 'Mum']
+526	Think we should lay a trap? 	Может, установить капкан? 	['Может', 'установить', 'капкан']	['Think', 'we', 'should', 'lay', 'a', 'trap']
+527	Try shutting yours! 	Захлопни свой! 	['Захлопни', 'свой']	['Try', 'shutting', 'yours']
+528	There he is! 	Вот он! 	['Вот', 'он']	['There', 'he', 'is']
+529	I'm sure it went this way. 	Он точно пошёл туда. 	['Он', 'точно', 'пошёл', 'туда']	"[""I'm"", 'sure', 'it', 'went', 'this', 'way']"
+530	You can see my house from here. 	Отсюда виден мой дом. 	['Отсюда', 'виден', 'мой', 'дом']	['You', 'can', 'see', 'my', 'house', 'from', 'here']
+531	It must have sprouted wings. 	Видимо, у него выросли крылья. 	['Видимо', 'у', 'него', 'выросли', 'крылья']	['It', 'must', 'have', 'sprouted', 'wings']
+532	Was carried away by a giant birdy. 	Его унесла огромная птица. 	['Его', 'унесла', 'огромная', 'птица']	['Was', 'carried', 'away', 'by', 'a', 'giant', 'birdy']
+533	- A dragon, perhaps. - Bear in the castle! 	– Или дракон. – Медведь в замке! 	['–', 'Или', 'дракон', '–', 'Медведь', 'в', 'замке']	['A', 'dragon', 'perhaps', 'Bear', 'in', 'the', 'castle']
+534	Doesn't make sense. It cannot open doors. 	Это невозможно. Он не смог бы открыть ворота. 	['Это', 'невозможно', 'Он', 'не', 'смог', 'бы', 'открыть', 'ворота']	"[""Doesn't"", 'make', 'sense', 'It', 'cannot', 'open', 'doors']"
+535	He's got big giant paws! 	У него огромные лапы. 	['У', 'него', 'огромные', 'лапы']	"[""He's"", 'got', 'big', 'giant', 'paws']"
+536	Let's just get inside. 	Вернёмся внутрь. 	['Вернёмся', 'внутрь']	"[""Let's"", 'just', 'get', 'inside']"
+537	- It's locked. - Dingwall was the last up. 	– Закрыто. – Последний поднимался Дингваль. 	['–', 'Закрыто', '–', 'Последний', 'поднимался', 'Дингваль']	"[""It's"", 'locked', 'Dingwall', 'was', 'the', 'last', 'up']"
+538	I propped it open with a stick. 	Я вставил палочку, чтобы не закрылось. 	['Я', 'вставил', 'палочку', 'чтобы', 'не', 'закрылось']	['I', 'propped', 'it', 'open', 'with', 'a', 'stick']
+539	What did you see, Maudie? Just spit it out, Maudie. 	Что ты видела, Моди? Говори же. 	['Что', 'ты', 'видела', 'Моди', 'Говори', 'же']	['What', 'did', 'you', 'see', 'Maudie', 'Just', 'spit', 'it', 'out', 'Maudie']
+540	For goodness' sakes, Maudie, would you get a grip? 	Боже правый. Моди, соберись. 	['Боже', 'правый', 'Моди', 'соберись']	"['For', ""goodness'"", 'sakes', 'Maudie', 'would', 'you', 'get', 'a', 'grip']"
+541	Maudie, honey, come here! It's all right! 	Моди, иди сюда! Всё хорошо. 	['Моди', 'иди', 'сюда', 'Всё', 'хорошо']	"['Maudie', 'honey', 'come', 'here', ""It's"", 'all', 'right']"
+542	Come on, Mum. Quick. 	Давай, мама, быстрее. 	['Давай', 'мама', 'быстрее']	['Come', 'on', 'Mum', 'Quick']
+543	They'll be fine. Won't you, boys? 	У них всё будет отлично. Правда, мальчики? 	['У', 'них', 'всё', 'будет', 'отлично', 'Правда', 'мальчики']	"[""They'll"", 'be', 'fine', ""Won't"", 'you', 'boys']"
+544	Mum, we've got to hurry. 	Мама, нужно торопиться. 	['Мама', 'нужно', 'торопиться']	"['Mum', ""we've"", 'got', 'to', 'hurry']"
+545	Now, I'll be back soon. 	Я скоро вернусь. 	['Я', 'скоро', 'вернусь']	"['Now', ""I'll"", 'be', 'back', 'soon']"
+546	Go on and help yourself to anything you want, as a reward. 	Идите и съешьте что хотите. Это награда. 	['Идите', 'и', 'съешьте', 'что', 'хотите', 'Это', 'награда']	['Go', 'on', 'and', 'help', 'yourself', 'to', 'anything', 'you', 'want', 'as', 'a', 'reward']
+547	Right! 	Ладно! 	['Ладно']	['Right']
+548	Where are these wisps? 	Где блуждающие огоньки? 	['Где', 'блуждающие', 'огоньки']	['Where', 'are', 'these', 'wisps']
+549	Come out, wisps. Come on out. 	Эй, огоньки. Выходите. 	['Эй', 'огоньки', 'Выходите']	['Come', 'out', 'wisps', 'Come', 'on', 'out']
+550	Lead me to the witch's cottage. 	Приведите меня к домику ведьмы. 	['Приведите', 'меня', 'к', 'домику', 'ведьмы']	"['Lead', 'me', 'to', 'the', ""witch's"", 'cottage']"
+551	I'm here! 	Я здесь! 	['Я', 'здесь']	"[""I'm"", 'here']"
+552	Fine. Don't come out now that my mum's watching. 	Чудесно. Когда моя мама тут, они не выходят. 	['Чудесно', 'Когда', 'моя', 'мама', 'тут', 'они', 'не', 'выходят']	"['Fine', ""Don't"", 'come', 'out', 'now', 'that', 'my', ""mum's"", 'watching']"
+553	I was standing right here and the wisp appeared right there. 	Я стояла здесь, а огонёк появился тут. 	['Я', 'стояла', 'здесь', 'а', 'огонёк', 'появился', 'тут']	['I', 'was', 'standing', 'right', 'here', 'and', 'the', 'wisp', 'appeared', 'right', 'there']
+554	Then a whole trail of them led me off into the forest. 	А потом они образовали дорожку, ведущую в лес. 	['А', 'потом', 'они', 'образовали', 'дорожку', 'ведущую', 'в', 'лес']	['Then', 'a', 'whole', 'trail', 'of', 'them', 'led', 'me', 'off', 'into', 'the', 'forest']
+555	Does she think we're just going to happen upon the witch's cottage? 	Она думает, что мы просто так найдём домик ведьмы? 	['Она', 'думает', 'что', 'мы', 'просто', 'так', 'найдём', 'домик', 'ведьмы']	"['Does', 'she', 'think', ""we're"", 'just', 'going', 'to', 'happen', 'upon', 'the', ""witch's"", 'cottage']"
+556	Mum, I know this place. 	Мама, я знаю это место. 	['Мама', 'я', 'знаю', 'это', 'место']	['Mum', 'I', 'know', 'this', 'place']
+557	The witch's cottage... 	Домик ведьмы… 	['Домик', 'ведьмы…']	"['The', ""witch's"", 'cottage']"
+558	It's this way! Come on! Hurry! 	Там! Идём быстрее. 	['Там', 'Идём', 'быстрее']	"[""It's"", 'this', 'way', 'Come', 'on', 'Hurry']"
+559	I can't believe it. I found it. 	Даже не верится. Нашла. 	['Даже', 'не', 'верится', 'Нашла']	"['I', ""can't"", 'believe', 'it', 'I', 'found', 'it']"
+560	No. She was here. 	Нет! Она была тут. 	['Нет', 'Она', 'была', 'тут']	['No', 'She', 'was', 'here']
+561	No, really, she was just here. 	Правда, она была здесь. 	['Правда', 'она', 'была', 'здесь']	['No', 'really', 'she', 'was', 'just', 'here']
+562	Wait. 	Подожди. 	['Подожди']	['Wait']
+563	No. 	Нет. 	['Нет']	['No']
+564	No, no. No! No! 	Нет, нет! 	['Нет', 'нет']	['No', 'no', 'No', 'No']
+565	Welcome to the Crafty Carver, 	Добро пожаловать в магазин «Резное дерево». 	['Добро', 'пожаловать', 'в', 'магазин', '«Резное', 'дерево»']	['Welcome', 'to', 'the', 'Crafty', 'Carver']
+566	home of bear-themed carvings and novelties. 	Мы вырезаем фигурки медведей из дерева. 	['Мы', 'вырезаем', 'фигурки', 'медведей', 'из', 'дерева']	['home', 'of', 'bear-themed', 'carvings', 'and', 'novelties']
+567	I am completely out of stock at this time. 	В данный момент все товары отсутствуют. 	['В', 'данный', 'момент', 'все', 'товары', 'отсутствуют']	['I', 'am', 'completely', 'out', 'of', 'stock', 'at', 'this', 'time']
+568	But if you'd like to enquire about portraits or wedding cake toppers, 	Но если вас интересуют портреты или украшения для тортов, 	['Но', 'если', 'вас', 'интересуют', 'портреты', 'или', 'украшения', 'для', 'тортов']	"['But', 'if', ""you'd"", 'like', 'to', 'enquire', 'about', 'portraits', 'or', 'wedding', 'cake', 'toppers']"
+569	pour vial one into the cauldron. 	вылейте содержимое первого пузырька в котёл. 	['вылейте', 'содержимое', 'первого', 'пузырька', 'в', 'котёл']	['pour', 'vial', 'one', 'into', 'the', 'cauldron']
+570	If you'd like the menu in Gaelic, vial two. 	Для перехода на гэльский язык вылейте второй пузырёк. 	['Для', 'перехода', 'на', 'гэльский', 'язык', 'вылейте', 'второй', 'пузырёк']	"['If', ""you'd"", 'like', 'the', 'menu', 'in', 'Gaelic', 'vial', 'two']"
+571	If you're that red-haired lass, vial three. 	Если это та рыжая девчонка, вылей третий пузырёк. 	['Если', 'это', 'та', 'рыжая', 'девчонка', 'вылей', 'третий', 'пузырёк']	"['If', ""you're"", 'that', 'red-haired', 'lass', 'vial', 'three']"
+572	To speak with a live homunculus... 	Чтобы поговорить с живым гомункулом… 	['Чтобы', 'поговорить', 'с', 'живым', 'гомункулом…']	['To', 'speak', 'with', 'a', 'live', 'homunculus']
+573	Princess, I'm off to the Wickerman Festival in Stornoway 	Принцесса, я уехала на фестиваль Викерман в Сторноуэй 	['Принцесса', 'я', 'уехала', 'на', 'фестиваль', 'Викерман', 'в', 'Сторноуэй']	"['Princess', ""I'm"", 'off', 'to', 'the', 'Wickerman', 'Festival', 'in', 'Stornoway']"
+574	and won't be back till spring. 	и вернусь только весной. 	['и', 'вернусь', 'только', 'весной']	"['and', ""won't"", 'be', 'back', 'till', 'spring']"
+575	There's one bit I forgot to tell you about the spell. 	Я забыла сказать тебе кое-что насчёт заклинания. 	['Я', 'забыла', 'сказать', 'тебе', 'кое-что', 'насчёт', 'заклинания']	"[""There's"", 'one', 'bit', 'I', 'forgot', 'to', 'tell', 'you', 'about', 'the', 'spell']"
+576	By the second sunrise, your spell will be permanent, 	Ко второму восходу солнца заклинание станет вечным, 	['Ко', 'второму', 'восходу', 'солнца', 'заклинание', 'станет', 'вечным']	['By', 'the', 'second', 'sunrise', 'your', 'spell', 'will', 'be', 'permanent']
+577	unless you remember these words. 	если ты не запомнишь эти слова. 	['если', 'ты', 'не', 'запомнишь', 'эти', 'слова']	['unless', 'you', 'remember', 'these', 'words']
+578	Fate be changed, 	Судьбу измени, 	['Судьбу', 'измени']	['Fate', 'be', 'changed']
+579	look inside, 	в себя загляни, 	['в', 'себя', 'загляни']	['look', 'inside']
+580	mend the bond 	гордыню смири, 	['гордыню', 'смири']	['mend', 'the', 'bond']
+581	torn by pride. 	полотно почини. 	['полотно', 'почини']	['torn', 'by', 'pride']
+582	"""Fate be changed... Mend the bond."" What does that mean? "	«Судьбу измени… Полотно почини». Что это значит? 	['«Судьбу', 'измени…', 'Полотно', 'почини»', 'Что', 'это', 'значит']	['Fate', 'be', 'changed', 'Mend', 'the', 'bond', 'What', 'does', 'that', 'mean']
+583	One more time. 	Повторяю. 	['Повторяю']	['One', 'more', 'time']
+584	Fate be changed, 	Судьбу измени, 	['Судьбу', 'измени']	['Fate', 'be', 'changed']
+585	look inside, 	в себя загляни, 	['в', 'себя', 'загляни']	['look', 'inside']
+586	mend the bond 	гордыню смири, 	['гордыню', 'смири']	['mend', 'the', 'bond']
+587	torn by pride. 	полотно почини. 	['полотно', 'почини']	['torn', 'by', 'pride']
+588	That's it. Ta-ta. 	Вот и всё. Пока! 	['Вот', 'и', 'всё', 'Пока']	"[""That's"", 'it', 'Ta-ta']"
+589	And thank you for shopping at the Crafty Carver. 	Благодарим за покупки в «Резном дереве». 	['Благодарим', 'за', 'покупки', 'в', '«Резном', 'дереве»']	['And', 'thank', 'you', 'for', 'shopping', 'at', 'the', 'Crafty', 'Carver']
+590	No. No! Where'd you go? 	Нет! Куда ты исчезла? 	['Нет', 'Куда', 'ты', 'исчезла']	"['No', 'No', ""Where'd"", 'you', 'go']"
+591	- Welcome to the Crafty Carver... - What? 	– Добро пожаловать в… – Что? 	['–', 'Добро', 'пожаловать', 'в…', '–', 'Что']	['Welcome', 'to', 'the', 'Crafty', 'Carver', 'What']
+592	...for all your... 	… за все ваши… 	['…', 'за', 'все', 'ваши…']	['for', 'all', 'your']
+593	Maybe there's a book of spells. Look around. We'll need more vials. 	Может, есть книга заклинаний. Посмотри, может, есть пузырьки? 	['Может', 'есть', 'книга', 'заклинаний', 'Посмотри', 'может', 'есть', 'пузырьки']	"['Maybe', ""there's"", 'a', 'book', 'of', 'spells', 'Look', 'around', ""We'll"", 'need', 'more', 'vials']"
+594	I'm off to the Wickerman Festival in Stornoway... 	Я уехала на фестиваль в Сторноуэй… 	['Я', 'уехала', 'на', 'фестиваль', 'в', 'Сторноуэй…']	"[""I'm"", 'off', 'to', 'the', 'Wickerman', 'Festival', 'in', 'Stornoway']"
+595	Thank you for visiting. Have a lovely day. 	Спасибо за посещение. Хорошего вам дня. 	['Спасибо', 'за', 'посещение', 'Хорошего', 'вам', 'дня']	['Thank', 'you', 'for', 'visiting', 'Have', 'a', 'lovely', 'day']
+596	We'll sort it out tomorrow. 	Мы разберёмся с этим завтра. 	['Мы', 'разберёмся', 'с', 'этим', 'завтра']	"[""We'll"", 'sort', 'it', 'out', 'tomorrow']"
+597	My brave wee lassie, I'm here. 	Моя храбрая девочка, я тут. 	['Моя', 'храбрая', 'девочка', 'я', 'тут']	"['My', 'brave', 'wee', 'lassie', ""I'm"", 'here']"
+598	I'll always be right here. 	Я всегда буду здесь. 	['Я', 'всегда', 'буду', 'здесь']	"[""I'll"", 'always', 'be', 'right', 'here']"
+599	Good morning. 	Доброе утро. 	['Доброе', 'утро']	['Good', 'morning']
+600	So... 	Значит… 	['Значит…']	['So']
+601	What's all this supposed to be? 	Что это всё значит? 	['Что', 'это', 'всё', 'значит']	"[""What's"", 'all', 'this', 'supposed', 'to', 'be']"
+602	What? 	Что? 	['Что']	['What']
+603	Sorry. I don't speak bear. 	Прости. Я не говорю по-медвежьи. 	['Прости', 'Я', 'не', 'говорю', 'по-медвежьи']	"['Sorry', 'I', ""don't"", 'speak', 'bear']"
+604	Find those by the creek, did you? 	Ты нашла их у ручья? 	['Ты', 'нашла', 'их', 'у', 'ручья']	['Find', 'those', 'by', 'the', 'creek', 'did', 'you']
+605	They're nightshade berries. 	Это волчьи ягоды. 	['Это', 'волчьи', 'ягоды']	"[""They're"", 'nightshade', 'berries']"
+606	They're poisonous. 	Они ядовитые. 	['Они', 'ядовитые']	"[""They're"", 'poisonous']"
+607	Where did you get this water? It has worms. 	Где ты набрала эту воду? В ней черви. 	['Где', 'ты', 'набрала', 'эту', 'воду', 'В', 'ней', 'черви']	['Where', 'did', 'you', 'get', 'this', 'water', 'It', 'has', 'worms']
+608	Come on. 	Пойдём. 	['Пойдём']	['Come', 'on']
+609	Breakfast. 	Завтрак. 	['Завтрак']	['Breakfast']
+610	Wait. A princess should not have weapons, in your opinion. 	Стой. Ты говорила, что у принцессы не должно быть оружия. 	['Стой', 'Ты', 'говорила', 'что', 'у', 'принцессы', 'не', 'должно', 'быть', 'оружия']	['Wait', 'A', 'princess', 'should', 'not', 'have', 'weapons', 'in', 'your', 'opinion']
+611	There you go. 	Вот, держи. 	['Вот', 'держи']	['There', 'you', 'go']
+612	Go on. 	Бери. 	['Бери']	['Go', 'on']
+613	How do you know you don't like it if you won't try it? 	Откуда ты знаешь, что это невкусно, если не пробовала? 	['Откуда', 'ты', 'знаешь', 'что', 'это', 'невкусно', 'если', 'не', 'пробовала']	"['How', 'do', 'you', 'know', 'you', ""don't"", 'like', 'it', 'if', 'you', ""won't"", 'try', 'it']"
+614	Hey! 	Эй! 	['Эй']	['Hey']
+615	Where are you going? 	Куда ты идёшь? 	['Куда', 'ты', 'идёшь']	['Where', 'are', 'you', 'going']
+616	Mum, come back. 	Мама, вернись. 	['Мама', 'вернись']	['Mum', 'come', 'back']
+617	Mum, is that you? 	Мама, это ты? 	['Мама', 'это', 'ты']	['Mum', 'is', 'that', 'you']
+618	Mum? 	Мама? 	['Мама']	['Mum']
+619	You changed. 	Ты изменилась. 	['Ты', 'изменилась']	['You', 'changed']
+620	Like you were a... 	Как будто… 	['Как', 'будто…']	['Like', 'you', 'were', 'a']
+621	I mean, like you were a bear on the inside. 	Как будто ты на самом деле стала медведем. 	['Как', 'будто', 'ты', 'на', 'самом', 'деле', 'стала', 'медведем']	['I', 'mean', 'like', 'you', 'were', 'a', 'bear', 'on', 'the', 'inside']
+622	A wisp. 	Огонёк. 	['Огонёк']	['A', 'wisp']
+623	Mum! 	Мама! 	['Мама']	['Mum']
+624	Stop it! 	Хватит! 	['Хватит']	['Stop', 'it']
+625	Mum, no! 	Мама, нет! 	['Мама', 'нет']	['Mum', 'no']
+626	Mum... 	Мама… 	['Мама…']	['Mum']
+627	Jings, crivens, help ma boab. 	Это просто невыносимо. 	['Это', 'просто', 'невыносимо']	['Jings', 'crivens', 'help', 'ma', 'boab']
+628	Mum, I know you're scared, 	Я знаю, что тебе страшно, 	['Я', 'знаю', 'что', 'тебе', 'страшно']	"['Mum', 'I', 'know', ""you're"", 'scared']"
+629	you're tired, you don't understand, 	что ты устала и ничего не понимаешь, 	['что', 'ты', 'устала', 'и', 'ничего', 'не', 'понимаешь']	"[""you're"", 'tired', 'you', ""don't"", 'understand']"
+630	but we've got to keep our heads. 	но нужно сохранять ясный рассудок. 	['но', 'нужно', 'сохранять', 'ясный', 'рассудок']	"['but', ""we've"", 'got', 'to', 'keep', 'our', 'heads']"
+631	Just calm down. 	Успокойся. 	['Успокойся']	['Just', 'calm', 'down']
+632	Listen. 	Послушай. 	['Послушай']	['Listen']
+633	They'll show us the way. 	Они покажут нам дорогу. 	['Они', 'покажут', 'нам', 'дорогу']	"[""They'll"", 'show', 'us', 'the', 'way']"
+634	Mum, look. 	Мама, смотри. 	['Мама', 'смотри']	['Mum', 'look']
+635	Why did the wisps bring us here? 	Почему огоньки привели нас сюда? 	['Почему', 'огоньки', 'привели', 'нас', 'сюда']	['Why', 'did', 'the', 'wisps', 'bring', 'us', 'here']
+636	Whoever they were, they've been gone for a long, long time. 	Те, кто тут жил, исчезли давным-давно. 	['Те', 'кто', 'тут', 'жил', 'исчезли', 'давным-давно']	"['Whoever', 'they', 'were', ""they've"", 'been', 'gone', 'for', 'a', 'long', 'long', 'time']"
+637	I'm fine, Mum. Just fine. 	Всё хорошо, мама, я цела. 	['Всё', 'хорошо', 'мама', 'я', 'цела']	"[""I'm"", 'fine', 'Mum', 'Just', 'fine']"
+638	It's 	Это 	['Это']	"[""It's""]"
+639	a throne room. 	тронный зал. 	['тронный', 'зал']	['a', 'throne', 'room']
+640	You suppose this could've been the kingdom 	Думаешь, это королевство 	['Думаешь', 'это', 'королевство']	"['You', 'suppose', 'this', ""could've"", 'been', 'the', 'kingdom']"
+641	in that story you were telling me? 	из той легенды? 	['из', 'той', 'легенды']	['in', 'that', 'story', 'you', 'were', 'telling', 'me']
+642	The one with the princes. 	Про принцев. 	['Про', 'принцев']	['The', 'one', 'with', 'the', 'princes']
+643	One, 	Один, 	['Один']	['One']
+644	two, 	два, 	['два']	['two']
+645	three, 	три, 	['три']	['three']
+646	four. 	четыре. 	['четыре']	['four']
+647	The oldest. 	Старший. 	['Старший']	['The', 'oldest']
+648	Split, like the tapestry. 	Разрезано, как наш гобелен. 	['Разрезано', 'как', 'наш', 'гобелен']	['Split', 'like', 'the', 'tapestry']
+649	The spell. It's happened before. 	Заклятие. Такое уже происходило. 	['Заклятие', 'Такое', 'уже', 'происходило']	"['The', 'spell', ""It's"", 'happened', 'before']"
+650	"""Strength of ten men."" "	«Силу десяти мужчин». 	['«Силу', 'десяти', 'мужчин»']	['Strength', 'of', 'ten', 'men']
+651	"""Fate be changed."" "	«Измени судьбу». 	['«Измени', 'судьбу»']	['Fate', 'be', 'changed']
+652	"""Changed his fate."" "	«Он изменил судьбу». 	['«Он', 'изменил', 'судьбу»']	['Changed', 'his', 'fate']
+653	Oh, no. 	О нет. 	['О', 'нет']	['Oh', 'no']
+654	The prince became... 	Принц стал… 	['Принц', 'стал…']	['The', 'prince', 'became']
+655	Mor'du. 	Морду. 	['Морду']	"[""Mor'du""]"
+656	Mum, we need to get back to the castle. 	Мама, мы должны вернуться во дворец. 	['Мама', 'мы', 'должны', 'вернуться', 'во', 'дворец']	['Mum', 'we', 'need', 'to', 'get', 'back', 'to', 'the', 'castle']
+657	If we don't hurry, you'll become like Mor'du. 	Если мы опоздаем, ты станешь как Морду. 	['Если', 'мы', 'опоздаем', 'ты', 'станешь', 'как', 'Морду']	"['If', 'we', ""don't"", 'hurry', ""you'll"", 'become', 'like', ""Mor'du""]"
+658	A bear! 	Медведем! 	['Медведем']	['A', 'bear']
+659	A real bear. Forever! 	Настоящим медведем. Навсегда! 	['Настоящим', 'медведем', 'Навсегда']	['A', 'real', 'bear', 'Forever']
+660	"""Mend the bond torn by pride."" "	«Гордыню смири, полотно почини». 	['«Гордыню', 'смири', 'полотно', 'почини»']	['Mend', 'the', 'bond', 'torn', 'by', 'pride']
+661	The witch gave us the answer. The tapestry. 	Ведьма дала нам ответ. Гобелен! 	['Ведьма', 'дала', 'нам', 'ответ', 'Гобелен']	['The', 'witch', 'gave', 'us', 'the', 'answer', 'The', 'tapestry']
+662	Mum, do you have a better idea? 	Мама, ничего лучше придумать не могла? 	['Мама', 'ничего', 'лучше', 'придумать', 'не', 'могла']	['Mum', 'do', 'you', 'have', 'a', 'better', 'idea']
+663	That'll do. 	Годится. 	['Годится']	"[""That'll"", 'do']"
+664	No more talk. 	Хватит болтовни. 	['Хватит', 'болтовни']	['No', 'more', 'talk']
+665	No more traditions. We settle this now! 	Хватит споров. Решим этот вопрос сейчас. 	['Хватит', 'споров', 'Решим', 'этот', 'вопрос', 'сейчас']	['No', 'more', 'traditions', 'We', 'settle', 'this', 'now']
+666	You're the King. 	Ты король! 	['Ты', 'король']	"[""You're"", 'the', 'King']"
+667	You decide which one of our sons your daughter will marry. 	Тебе решать, за кого из наших сыновей выйдет твоя дочь. 	['Тебе', 'решать', 'за', 'кого', 'из', 'наших', 'сыновей', 'выйдет', 'твоя', 'дочь']	['You', 'decide', 'which', 'one', 'of', 'our', 'sons', 'your', 'daughter', 'will', 'marry']
+668	None of your sons are fit to marry my daughter. 	Ваши сыновья не подходят моей дочери. 	['Ваши', 'сыновья', 'не', 'подходят', 'моей', 'дочери']	['None', 'of', 'your', 'sons', 'are', 'fit', 'to', 'marry', 'my', 'daughter']
+669	Then our alliance is over! This means war! 	Тогда нашему союзу конец! Значит, будет война. 	['Тогда', 'нашему', 'союзу', 'конец', 'Значит', 'будет', 'война']	['Then', 'our', 'alliance', 'is', 'over', 'This', 'means', 'war']
+670	They're gonna murder each other. 	Они поубивают друг друга. 	['Они', 'поубивают', 'друг', 'друга']	"[""They're"", 'gonna', 'murder', 'each', 'other']"
+671	You've got to stop them before it's too late. 	Нужно остановить их, пока не поздно. 	['Нужно', 'остановить', 'их', 'пока', 'не', 'поздно']	"[""You've"", 'got', 'to', 'stop', 'them', 'before', ""it's"", 'too', 'late']"
+672	I know, I know! 	Знаю, знаю! 	['Знаю', 'знаю']	['I', 'know', 'I', 'know']
+673	But how do we get you through there and up to the tapestry 	Но как нам пробраться к гобелену? 	['Но', 'как', 'нам', 'пробраться', 'к', 'гобелену']	['But', 'how', 'do', 'we', 'get', 'you', 'through', 'there', 'and', 'up', 'to', 'the', 'tapestry']
+674	with the lot of them boiling over like that? 	Они просто кипят от злости. 	['Они', 'просто', 'кипят', 'от', 'злости']	['with', 'the', 'lot', 'of', 'them', 'boiling', 'over', 'like', 'that']
+675	- What are you doing, lass? - It's all right, Dad. 	– Что ты делаешь, милая? – Не волнуйся, папа. 	['–', 'Что', 'ты', 'делаешь', 'милая', '–', 'Не', 'волнуйся', 'папа']	"['What', 'are', 'you', 'doing', 'lass', ""It's"", 'all', 'right', 'Dad']"
+676	I... 	Я… 	['Я…']	['I']
+677	I have... 	У меня… 	['У', 'меня…']	['I', 'have']
+678	Well, you see, I... 	Понимаете… 	['Понимаете…']	['Well', 'you', 'see', 'I']
+679	I have been in conference with the Queen. 	Я была на встрече с королевой. 	['Я', 'была', 'на', 'встрече', 'с', 'королевой']	['I', 'have', 'been', 'in', 'conference', 'with', 'the', 'Queen']
+680	- Is that so? - Aye, it is. 	– Это правда? – Да. 	['–', 'Это', 'правда', '–', 'Да']	['Is', 'that', 'so', 'Aye', 'it', 'is']
+681	- Well, where is she, then? - She... 	– А где же она? – Она… 	['–', 'А', 'где', 'же', 'она', '–', 'Она…']	['Well', 'where', 'is', 'she', 'then', 'She']
+682	How do we know that this isn't some trick? 	Откуда нам знать, что это не уловка? 	['Откуда', 'нам', 'знать', 'что', 'это', 'не', 'уловка']	"['How', 'do', 'we', 'know', 'that', 'this', ""isn't"", 'some', 'trick']"
+683	- I'd never... - This is highly irregular. 	– Я бы ни за что… – Это очень странно. 	['–', 'Я', 'бы', 'ни', 'за', 'что…', '–', 'Это', 'очень', 'странно']	"[""I'd"", 'never', 'This', 'is', 'highly', 'irregular']"
+684	- What are you playing at? - Where is the Queen? 	– Что ты задумала? – Где королева? 	['–', 'Что', 'ты', 'задумала', '–', 'Где', 'королева']	['What', 'are', 'you', 'playing', 'at', 'Where', 'is', 'the', 'Queen']
+685	We will not stand for any more of this jiggery-pokery. 	С нас довольно этих глупостей. 	['С', 'нас', 'довольно', 'этих', 'глупостей']	['We', 'will', 'not', 'stand', 'for', 'any', 'more', 'of', 'this', 'jiggery-pokery']
+686	- That's right. Let's see her. - Shut it! 	– Правильно. Где она? – Тихо! 	['–', 'Правильно', 'Где', 'она', '–', 'Тихо']	"[""That's"", 'right', ""Let's"", 'see', 'her', 'Shut', 'it']"
+687	Well, I... 	Что ж, я… 	['Что', 'ж', 'я…']	['Well', 'I']
+688	Once there was an ancient kingdom. 	Было одно древнее королевство… 	['Было', 'одно', 'древнее', 'королевство…']	['Once', 'there', 'was', 'an', 'ancient', 'kingdom']
+689	What is this? 	Ты о чём? 	['Ты', 'о', 'чём']	['What', 'is', 'this']
+690	That kingdom fell into war 	Это королевство было ввергнуто в войну, 	['Это', 'королевство', 'было', 'ввергнуто', 'в', 'войну']	['That', 'kingdom', 'fell', 'into', 'war']
+691	and chaos and ruin... 	хаос и разорение… 	['хаос', 'и', 'разорение…']	['and', 'chaos', 'and', 'ruin']
+692	We've all heard that tale. Lost kingdom. 	Мы знаем эту сказку про потерянное королевство. 	['Мы', 'знаем', 'эту', 'сказку', 'про', 'потерянное', 'королевство']	"[""We've"", 'all', 'heard', 'that', 'tale', 'Lost', 'kingdom']"
+693	Aye, but it's true. 	Но это правда. 	['Но', 'это', 'правда']	"['Aye', 'but', ""it's"", 'true']"
+694	I know now how one selfish act can turn the fate of a kingdom. 	И я знаю, как эгоистичный поступок может изменить судьбу королевства. 	['И', 'я', 'знаю', 'как', 'эгоистичный', 'поступок', 'может', 'изменить', 'судьбу', 'королевства']	['I', 'know', 'now', 'how', 'one', 'selfish', 'act', 'can', 'turn', 'the', 'fate', 'of', 'a', 'kingdom']
+695	It's just a legend. 	Это просто легенда. 	['Это', 'просто', 'легенда']	"[""It's"", 'just', 'a', 'legend']"
+696	Legends are lessons. 	Легенды – это уроки. 	['Легенды', '–', 'это', 'уроки']	['Legends', 'are', 'lessons']
+697	They ring with truths. 	В них есть истина. 	['В', 'них', 'есть', 'истина']	['They', 'ring', 'with', 'truths']
+698	Our kingdom is young. 	Наше королевство молодое. 	['Наше', 'королевство', 'молодое']	['Our', 'kingdom', 'is', 'young']
+699	Our stories are not yet legend. 	Наша история ещё не стала легендой. 	['Наша', 'история', 'ещё', 'не', 'стала', 'легендой']	['Our', 'stories', 'are', 'not', 'yet', 'legend']
+700	But in them, our bond was struck. 	Но она скрепила нашу связь. 	['Но', 'она', 'скрепила', 'нашу', 'связь']	['But', 'in', 'them', 'our', 'bond', 'was', 'struck']
+701	Our clans were once enemies. 	Когда-то наши кланы враждовали. 	['Когда-то', 'наши', 'кланы', 'враждовали']	['Our', 'clans', 'were', 'once', 'enemies']
+702	But when invaders threatened us from the sea, 	Но когда нам угрожало вторжение с моря, 	['Но', 'когда', 'нам', 'угрожало', 'вторжение', 'с', 'моря']	['But', 'when', 'invaders', 'threatened', 'us', 'from', 'the', 'sea']
+703	you joined together to defend our lands. 	вы объединили усилия для защиты нашей земли. 	['вы', 'объединили', 'усилия', 'для', 'защиты', 'нашей', 'земли']	['you', 'joined', 'together', 'to', 'defend', 'our', 'lands']
+704	You fought for each other. 	Вы сражались друг за друга. 	['Вы', 'сражались', 'друг', 'за', 'друга']	['You', 'fought', 'for', 'each', 'other']
+705	You risked everything for each other. 	Вы рисковали жизнями ради друг друга. 	['Вы', 'рисковали', 'жизнями', 'ради', 'друг', 'друга']	['You', 'risked', 'everything', 'for', 'each', 'other']
+706	Lord MacGuffin, my dad saved your life, 	Лорд Макгаффин, мой отец спас вам жизнь, 	['Лорд', 'Макгаффин', 'мой', 'отец', 'спас', 'вам', 'жизнь']	['Lord', 'MacGuffin', 'my', 'dad', 'saved', 'your', 'life']
+707	stopping an arrow as you ran to Dingwall's aid. 	остановив стрелу, когда вы спешили на помощь Дингвалю. 	['остановив', 'стрелу', 'когда', 'вы', 'спешили', 'на', 'помощь', 'Дингвалю']	"['stopping', 'an', 'arrow', 'as', 'you', 'ran', 'to', ""Dingwall's"", 'aid']"
+708	Aye, and I'll never forget it. 	Да, и я этого не забуду. 	['Да', 'и', 'я', 'этого', 'не', 'забуду']	"['Aye', 'and', ""I'll"", 'never', 'forget', 'it']"
+709	And, Lord Macintosh, 	Лорд Макинтош, 	['Лорд', 'Макинтош']	['And', 'Lord', 'Macintosh']
+710	you saved my dad when you charged in on heavy horse 	вы спасли моего отца, когда ворвались на своём коне 	['вы', 'спасли', 'моего', 'отца', 'когда', 'ворвались', 'на', 'своём', 'коне']	['you', 'saved', 'my', 'dad', 'when', 'you', 'charged', 'in', 'on', 'heavy', 'horse']
+711	and held off the advance. 	и сдержали вражескую атаку. 	['и', 'сдержали', 'вражескую', 'атаку']	['and', 'held', 'off', 'the', 'advance']
+712	And we all know how Lord Dingwall broke the enemy line. 	Всем известно, как лорд Дингваль прорвал вражеский строй. 	['Всем', 'известно', 'как', 'лорд', 'Дингваль', 'прорвал', 'вражеский', 'строй']	['And', 'we', 'all', 'know', 'how', 'Lord', 'Dingwall', 'broke', 'the', 'enemy', 'line']
+713	With a mighty throw of his spear! 	Могучим броском копья! 	['Могучим', 'броском', 'копья']	['With', 'a', 'mighty', 'throw', 'of', 'his', 'spear']
+714	I was aiming at you, you big tumshie. 	Я метил в тебя, болван. 	['Я', 'метил', 'в', 'тебя', 'болван']	['I', 'was', 'aiming', 'at', 'you', 'you', 'big', 'tumshie']
+715	The story of this kingdom is a powerful one. 	У нас яркая история. 	['У', 'нас', 'яркая', 'история']	['The', 'story', 'of', 'this', 'kingdom', 'is', 'a', 'powerful', 'one']
+716	My dad rallied your forces 	Мой отец объединил ваши силы, 	['Мой', 'отец', 'объединил', 'ваши', 'силы']	['My', 'dad', 'rallied', 'your', 'forces']
+717	and you made him your king. 	и вы избрали его королём. 	['и', 'вы', 'избрали', 'его', 'королём']	['and', 'you', 'made', 'him', 'your', 'king']
+718	It was an alliance forged in bravery and friendship 	Этот союз родился на основе отваги и дружбы, 	['Этот', 'союз', 'родился', 'на', 'основе', 'отваги', 'и', 'дружбы']	['It', 'was', 'an', 'alliance', 'forged', 'in', 'bravery', 'and', 'friendship']
+719	and it lives to this day. 	и он живёт до сих пор. 	['и', 'он', 'живёт', 'до', 'сих', 'пор']	['and', 'it', 'lives', 'to', 'this', 'day']
+720	But I've been selfish. 	Но я вела себя эгоистично. 	['Но', 'я', 'вела', 'себя', 'эгоистично']	"['But', ""I've"", 'been', 'selfish']"
+721	I tore a great rift in our kingdom. 	Из-за меня в королевстве возникла размолвка. 	['Из-за', 'меня', 'в', 'королевстве', 'возникла', 'размолвка']	['I', 'tore', 'a', 'great', 'rift', 'in', 'our', 'kingdom']
+722	There's no one to blame but me. 	Во всём виновата лишь я. 	['Во', 'всём', 'виновата', 'лишь', 'я']	"[""There's"", 'no', 'one', 'to', 'blame', 'but', 'me']"
+723	And I know now that I need to amend my mistake 	Теперь я знаю, что должна исправить свою ошибку 	['Теперь', 'я', 'знаю', 'что', 'должна', 'исправить', 'свою', 'ошибку']	['And', 'I', 'know', 'now', 'that', 'I', 'need', 'to', 'amend', 'my', 'mistake']
+724	and mend our bond. 	и укрепить нашу связь. 	['и', 'укрепить', 'нашу', 'связь']	['and', 'mend', 'our', 'bond']
+725	And so, there is the matter of my betrothal. 	Существует вопрос о моей помолвке. 	['Существует', 'вопрос', 'о', 'моей', 'помолвке']	['And', 'so', 'there', 'is', 'the', 'matter', 'of', 'my', 'betrothal']
+726	I've decided to do what's right 	Я решила поступить правильно 	['Я', 'решила', 'поступить', 'правильно']	"[""I've"", 'decided', 'to', 'do', ""what's"", 'right']"
+727	and... 	и… 	['и…']	['and']
+728	...and... 	И… И… 	['И…', 'И…']	['and']
+729	...break tradition. 	… нарушить традицию. 	['…', 'нарушить', 'традицию']	['break', 'tradition']
+730	My mother, 	Моя мать, 	['Моя', 'мать']	['My', 'mother']
+731	the Queen, feels... 	королева, чувствует 	['королева', 'чувствует']	['the', 'Queen', 'feels']
+732	in her heart 	глубоко в сердце, 	['глубоко', 'в', 'сердце']	['in', 'her', 'heart']
+733	that I... 	что я… 	['что', 'я…']	['that', 'I']
+734	...that we be free to... 	Что все мы имеем право 	['Что', 'все', 'мы', 'имеем', 'право']	['that', 'we', 'be', 'free', 'to']
+735	...write our own story... 	писать нашу собственную историю, 	['писать', 'нашу', 'собственную', 'историю']	['write', 'our', 'own', 'story']
+736	...follow our hearts 	идти по зову сердца 	['идти', 'по', 'зову', 'сердца']	['follow', 'our', 'hearts']
+737	and find love in our own time. 	и встретить любовь, когда придёт время. 	['и', 'встретить', 'любовь', 'когда', 'придёт', 'время']	['and', 'find', 'love', 'in', 'our', 'own', 'time']
+738	That's beautiful. 	Красивые слова. 	['Красивые', 'слова']	"[""That's"", 'beautiful']"
+739	The Queen and I put the decision to you, my lords. 	Мы с королевой оставляем выбор за вами, лорды. 	['Мы', 'с', 'королевой', 'оставляем', 'выбор', 'за', 'вами', 'лорды']	['The', 'Queen', 'and', 'I', 'put', 'the', 'decision', 'to', 'you', 'my', 'lords']
+740	Might our young people decide for themselves who they will love? 	Могут ли отроки сами решать, кого им любить? 	['Могут', 'ли', 'отроки', 'сами', 'решать', 'кого', 'им', 'любить']	['Might', 'our', 'young', 'people', 'decide', 'for', 'themselves', 'who', 'they', 'will', 'love']
+741	Well, since you've obviously made up your minds about this, 	Поскольку вы уже всё решили на этот счёт, 	['Поскольку', 'вы', 'уже', 'всё', 'решили', 'на', 'этот', 'счёт']	"['Well', 'since', ""you've"", 'obviously', 'made', 'up', 'your', 'minds', 'about', 'this']"
+742	I have one thing to say. 	я хочу кое-что сказать. 	['я', 'хочу', 'кое-что', 'сказать']	['I', 'have', 'one', 'thing', 'to', 'say']
+743	- This is... - A grand idea! 	– Это… – Отличная мысль! 	['–', 'Это…', '–', 'Отличная', 'мысль']	['This', 'is', 'A', 'grand', 'idea']
+744	Give us our own say in choosing our fate. 	Предоставьте нам право самим выбирать свою судьбу. 	['Предоставьте', 'нам', 'право', 'самим', 'выбирать', 'свою', 'судьбу']	['Give', 'us', 'our', 'own', 'say', 'in', 'choosing', 'our', 'fate']
+745	- What? - Aye. Why shouldn't we choose? 	– Что? – Да. Почему мы не можем решать? 	['–', 'Что', '–', 'Да', 'Почему', 'мы', 'не', 'можем', 'решать']	"['What', 'Aye', 'Why', ""shouldn't"", 'we', 'choose']"
+746	But she's the princess. 	Но она принцесса. 	['Но', 'она', 'принцесса']	"['But', ""she's"", 'the', 'princess']"
+747	I did not pick her out. It was your idea. 	Я её не выбирал. Это ты хотел. 	['Я', 'её', 'не', 'выбирал', 'Это', 'ты', 'хотел']	['I', 'did', 'not', 'pick', 'her', 'out', 'It', 'was', 'your', 'idea']
+748	And you... You feel the same way? 	А ты… Ты согласен? 	['А', 'ты…', 'Ты', 'согласен']	['And', 'you', 'You', 'feel', 'the', 'same', 'way']
+749	Good? 	Хорошо? 	['Хорошо']	['Good']
+750	Well, that settles it. 	Так и порешим. 	['Так', 'и', 'порешим']	['Well', 'that', 'settles', 'it']
+751	Let these lads try and win her heart before they win her hand. 	Пусть они попробуют сперва завоевать её сердце, а не руку. 	['Пусть', 'они', 'попробуют', 'сперва', 'завоевать', 'её', 'сердце', 'а', 'не', 'руку']	['Let', 'these', 'lads', 'try', 'and', 'win', 'her', 'heart', 'before', 'they', 'win', 'her', 'hand']
+752	If they can. 	Если смогут. 	['Если', 'смогут']	['If', 'they', 'can']
+753	I say, the wee Dingwall has a fighting chance. 	Думаю, у Дингваля есть хорошие шансы. 	['Думаю', 'у', 'Дингваля', 'есть', 'хорошие', 'шансы']	['I', 'say', 'the', 'wee', 'Dingwall', 'has', 'a', 'fighting', 'chance']
+754	Fine, then. Seems for once we agree. 	Прекрасно. Наконец-то все согласны. 	['Прекрасно', 'Наконец-то', 'все', 'согласны']	['Fine', 'then', 'Seems', 'for', 'once', 'we', 'agree']
+755	It was my idea in the first place. 	Но это была моя идея. 	['Но', 'это', 'была', 'моя', 'идея']	['It', 'was', 'my', 'idea', 'in', 'the', 'first', 'place']
+756	Just like your mum. 	Ты вылитая мать. 	['Ты', 'вылитая', 'мать']	['Just', 'like', 'your', 'mum']
+757	You devil. 	Плутовка. 	['Плутовка']	['You', 'devil']
+758	Everyone to the cellar! 	А теперь – в винные погреба! 	['А', 'теперь', '–', 'в', 'винные', 'погреба']	['Everyone', 'to', 'the', 'cellar']
+759	Let's crack open the King's private reserve to celebrate! 	Откроем личные запасы короля и отпразднуем! 	['Откроем', 'личные', 'запасы', 'короля', 'и', 'отпразднуем']	"[""Let's"", 'crack', 'open', 'the', ""King's"", 'private', 'reserve', 'to', 'celebrate']"
+760	Whoa, whoa, whoa. 	Стоп, стоп! 	['Стоп', 'стоп']	['Whoa', 'whoa', 'whoa']
+761	Bring the tiny glasses. 	Принеси маленькие бокалы. 	['Принеси', 'маленькие', 'бокалы']	['Bring', 'the', 'tiny', 'glasses']
+762	Oh, the tapestry! 	Гобелен! 	['Гобелен']	['Oh', 'the', 'tapestry']
+763	Mend the bond... 	Полотно почини… 	['Полотно', 'почини…']	['Mend', 'the', 'bond']
+764	Mend the bond. 	Полотно почини. 	['Полотно', 'почини']	['Mend', 'the', 'bond']
+765	Stitch it up. This'll change you back. 	Надо его зашить. Тогда ты изменишься. 	['Надо', 'его', 'зашить', 'Тогда', 'ты', 'изменишься']	"['Stitch', 'it', 'up', ""This'll"", 'change', 'you', 'back']"
+766	We just need needle and thread. 	Нужна иголка и нитка. 	['Нужна', 'иголка', 'и', 'нитка']	['We', 'just', 'need', 'needle', 'and', 'thread']
+767	Mum? 	Мама! 	['Мама']	['Mum']
+768	Mum? Not now. 	Мама! Не сейчас. 	['Мама', 'Не', 'сейчас']	['Mum', 'Not', 'now']
+769	No. Please, not now. 	Прошу, не сейчас. 	['Прошу', 'не', 'сейчас']	['No', 'Please', 'not', 'now']
+770	Mum... 	Мама… 	['Мама…']	['Mum']
+771	Elinor, dear, you'll never guess who just solved our little suitor problem. 	Дорогая, отгадай, кто решил проблему с претендентами. 	['Дорогая', 'отгадай', 'кто', 'решил', 'проблему', 'с', 'претендентами']	"['Elinor', 'dear', ""you'll"", 'never', 'guess', 'who', 'just', 'solved', 'our', 'little', 'suitor', 'problem']"
+772	Elinor! 	Элинор! 	['Элинор']	['Elinor']
+773	It can't be true! Elinor, answer me, lass! 	Этого не может быть! Элинор, где ты? 	['Этого', 'не', 'может', 'быть', 'Элинор', 'где', 'ты']	"['It', ""can't"", 'be', 'true', 'Elinor', 'answer', 'me', 'lass']"
+774	Elinor! 	Элинор! 	['Элинор']	['Elinor']
+775	Merida. 	Мерида. 	['Мерида']	['Merida']
+776	- What? - Dad, no! It's not what you think. 	– Что? – Нет! Это не то, что ты думаешь. 	['–', 'Что', '–', 'Нет', 'Это', 'не', 'то', 'что', 'ты', 'думаешь']	"['What', 'Dad', 'no', ""It's"", 'not', 'what', 'you', 'think']"
+777	- Merida, get back! - No! 	– Назад! – Нет! 	['–', 'Назад', '–', 'Нет']	['Merida', 'get', 'back', 'No']
+778	No, Dad! Don't hurt her! 	Нет! Не трогай её! 	['Нет', 'Не', 'трогай', 'её']	"['No', 'Dad', ""Don't"", 'hurt', 'her']"
+779	Get out of here! 	Отойди! 	['Отойди']	['Get', 'out', 'of', 'here']
+780	Merida! No! 	Мерида! Нет! 	['Мерида', 'Нет']	['Merida', 'No']
+781	No! 	Нет! 	['Нет']	['No']
+782	Mum. 	Мама. 	['Мама']	['Mum']
+783	It's all right. I'm all right. It's nothing. It's just a little scratch. Mum! 	Всё хорошо. Я в порядке. Это просто царапина. Мама! 	['Всё', 'хорошо', 'Я', 'в', 'порядке', 'Это', 'просто', 'царапина', 'Мама']	"[""It's"", 'all', 'right', ""I'm"", 'all', 'right', ""It's"", 'nothing', ""It's"", 'just', 'a', 'little', 'scratch', 'Mum']"
+784	My liege! 	Мой господин! 	['Мой', 'господин']	['My', 'liege']
+785	Fergus. 	Фергус! 	['Фергус']	['Fergus']
+786	Bear! 	Медведь! 	['Медведь']	['Bear']
+787	Dad! 	Папа! 	['Папа']	['Dad']
+788	Count your stars, lass. It almost had you. Are you hurt? 	Тебе повезло, детка. Он чуть не убил тебя. Как ты? 	['Тебе', 'повезло', 'детка', 'Он', 'чуть', 'не', 'убил', 'тебя', 'Как', 'ты']	['Count', 'your', 'stars', 'lass', 'It', 'almost', 'had', 'you', 'Are', 'you', 'hurt']
+789	It's your wife, Elinor. 	Это твоя жена Элинор. 	['Это', 'твоя', 'жена', 'Элинор']	"[""It's"", 'your', 'wife', 'Elinor']"
+790	Close the gate! 	Закрыть ворота! 	['Закрыть', 'ворота']	['Close', 'the', 'gate']
+791	- You're talking nonsense! - It's the truth! 	– Что за чушь? – Это правда! 	['–', 'Что', 'за', 'чушь', '–', 'Это', 'правда']	"[""You're"", 'talking', 'nonsense', ""It's"", 'the', 'truth']"
+792	There was a witch and she gave me a spell. It's not Mor'du. 	Я попросила ведьму заколдовать её. Это не Морду. 	['Я', 'попросила', 'ведьму', 'заколдовать', 'её', 'Это', 'не', 'Морду']	"['There', 'was', 'a', 'witch', 'and', 'she', 'gave', 'me', 'a', 'spell', ""It's"", 'not', ""Mor'du""]"
+793	Mor'du or not, I'll avenge your mother! 	Плевать, как его зовут. Я отомщу за твою мать. 	['Плевать', 'как', 'его', 'зовут', 'Я', 'отомщу', 'за', 'твою', 'мать']	"[""Mor'du"", 'or', 'not', ""I'll"", 'avenge', 'your', 'mother']"
+794	- I'll not risk losing you, too. - No, Dad! Just listen to me. 	– Не хочу подвергать тебя опасности. – Нет, послушай меня. 	['–', 'Не', 'хочу', 'подвергать', 'тебя', 'опасности', '–', 'Нет', 'послушай', 'меня']	"[""I'll"", 'not', 'risk', 'losing', 'you', 'too', 'No', 'Dad', 'Just', 'listen', 'to', 'me']"
+795	Listen! You can't! 	Послушай! Нет! 	['Послушай', 'Нет']	"['Listen', 'You', ""can't""]"
+796	- It's your wife Elinor! - Maudie, keep this and don't let her out. 	– Это твоя жена Элинор! – Держи ключи и не выпускай её. 	['–', 'Это', 'твоя', 'жена', 'Элинор', '–', 'Держи', 'ключи', 'и', 'не', 'выпускай', 'её']	"[""It's"", 'your', 'wife', 'Elinor', 'Maudie', 'keep', 'this', 'and', ""don't"", 'let', 'her', 'out']"
+797	- What about the bear? - Just stay put. 	– А что с медведем? – Никуда не уходи. 	['–', 'А', 'что', 'с', 'медведем', '–', 'Никуда', 'не', 'уходи']	['What', 'about', 'the', 'bear', 'Just', 'stay', 'put']
+798	Come on, you sorry bunch of galoots! 	Вперёд, нерасторопные увальни! 	['Вперёд', 'нерасторопные', 'увальни']	['Come', 'on', 'you', 'sorry', 'bunch', 'of', 'galoots']
+799	Mum! 	Мама! 	['Мама']	['Mum']
+800	No. 	Нет. 	['Нет']	['No']
+801	No. Mum. 	Нет. 	['Нет']	['No', 'Mum']
+802	Maudie. Maudie! 	Моди. Моди! 	['Моди', 'Моди']	['Maudie', 'Maudie']
+803	I need you! 	Ты мне нужна! 	['Ты', 'мне', 'нужна']	['I', 'need', 'you']
+804	Now! 	Сейчас! 	['Сейчас']	['Now']
+805	Oh, no. 	О нет! 	['О', 'нет']	['Oh', 'no']
+806	Maudie. 	Моди. 	['Моди']	['Maudie']
+807	Get the key. 	Добудьте ключ. 	['Добудьте', 'ключ']	['Get', 'the', 'key']
+808	Maudie! 	Моди! 	['Моди']	['Maudie']
+809	Needle and thread. Needle and thread. Needle and thread. 	Иголка и нитка! Иголка и нитка! 	['Иголка', 'и', 'нитка', 'Иголка', 'и', 'нитка']	['Needle', 'and', 'thread', 'Needle', 'and', 'thread', 'Needle', 'and', 'thread']
+810	There he goes! 	Вот он! 	['Вот', 'он']	['There', 'he', 'goes']
+811	Needle and thread. Needle and thread. Needle and thread. 	Иголка и нитка! Иголка и нитка! 	['Иголка', 'и', 'нитка', 'Иголка', 'и', 'нитка']	['Needle', 'and', 'thread', 'Needle', 'and', 'thread', 'Needle', 'and', 'thread']
+812	You beauty! 	Прекрасно! 	['Прекрасно']	['You', 'beauty']
+813	One, two... 	Один, два… 	['Один', 'два…']	['One', 'two']
+814	Steady, Hamish. 	Держись, Хэмиш! 	['Держись', 'Хэмиш']	['Steady', 'Hamish']
+815	There he goes. 	Вот он! 	['Вот', 'он']	['There', 'he', 'goes']
+816	We've got his track! 	Мы взяли его след! 	['Мы', 'взяли', 'его', 'след']	"[""We've"", 'got', 'his', 'track']"
+817	- Back, back, back! - Get him! 	– Назад, назад! – Держи его! 	['–', 'Назад', 'назад', '–', 'Держи', 'его']	['Back', 'back', 'back', 'Get', 'him']
+818	Angus! Easy, laddie. 	Ангус, полегче! 	['Ангус', 'полегче']	['Angus', 'Easy', 'laddie']
+819	Hubert, Harris, help Hamish. 	Хьюберт, Харрис, помогите Хэмишу! 	['Хьюберт', 'Харрис', 'помогите', 'Хэмишу']	['Hubert', 'Harris', 'help', 'Hamish']
+820	Watch your blade! You're going to take somebody's arm off! 	Осторожнее с мечом! Ты отрубишь кому-нибудь руку! 	['Осторожнее', 'с', 'мечом', 'Ты', 'отрубишь', 'кому-нибудь', 'руку']	"['Watch', 'your', 'blade', ""You're"", 'going', 'to', 'take', ""somebody's"", 'arm', 'off']"
+821	Aye, we've got you now! 	Ты попался! 	['Ты', 'попался']	"['Aye', ""we've"", 'got', 'you', 'now']"
+822	- Give me a hand over here! - Put your back into it, Dingwall! 	– Помогите мне! – Дингваль, помогай! 	['–', 'Помогите', 'мне', '–', 'Дингваль', 'помогай']	['Give', 'me', 'a', 'hand', 'over', 'here', 'Put', 'your', 'back', 'into', 'it', 'Dingwall']
+823	I'm doing all the pulling here. 	Я тут один тащу! 	['Я', 'тут', 'один', 'тащу']	"[""I'm"", 'doing', 'all', 'the', 'pulling', 'here']"
+824	Down you go, you scoundrel. 	На землю, негодяй! 	['На', 'землю', 'негодяй']	['Down', 'you', 'go', 'you', 'scoundrel']
+825	Done! 	Стой! 	['Стой']	['Done']
+826	- Get back. That's my mother. - Are you out of your mind, lass? 	– Назад! Это моя мама. – Дочка, ты сошла с ума? 	['–', 'Назад', 'Это', 'моя', 'мама', '–', 'Дочка', 'ты', 'сошла', 'с', 'ума']	"['Get', 'back', ""That's"", 'my', 'mother', 'Are', 'you', 'out', 'of', 'your', 'mind', 'lass']"
+827	Mum, are you hurt? 	Мама, ты ранена? 	['Мама', 'ты', 'ранена']	['Mum', 'are', 'you', 'hurt']
+828	Merida! 	Мерида! 	['Мерида']	['Merida']
+829	I'll not let you kill my mother. 	Я не дам тебе убить маму. 	['Я', 'не', 'дам', 'тебе', 'убить', 'маму']	"[""I'll"", 'not', 'let', 'you', 'kill', 'my', 'mother']"
+830	Boys! 	Мальчики. 	['Мальчики']	['Boys']
+831	Boys? 	Мальчики? 	['Мальчики']	['Boys']
+832	- Mor'du! - Kill it! 	– Морду! – Убить его! 	['–', 'Морду', '–', 'Убить', 'его']	"[""Mor'du"", 'Kill', 'it']"
+833	You scoundrel! 	Мерзавец! 	['Мерзавец']	['You', 'scoundrel']
+834	Come on! I'll take you with my bare hands! 	Давай! Я убью тебя голыми руками! 	['Давай', 'Я', 'убью', 'тебя', 'голыми', 'руками']	"['Come', 'on', ""I'll"", 'take', 'you', 'with', 'my', 'bare', 'hands']"
+835	Mum! 	Мама! 	['Мама']	['Mum']
+836	The second sunrise. 	Второй рассвет! 	['Второй', 'рассвет']	['The', 'second', 'sunrise']
+837	No... 	Нет… 	['Нет…']	['No']
+838	I don't understand. I... 	Я не понимаю. 	['Я', 'не', 'понимаю']	"['I', ""don't"", 'understand', 'I']"
+839	Oh, Mum, I'm sorry. 	Мама, прости меня. 	['Мама', 'прости', 'меня']	"['Oh', 'Mum', ""I'm"", 'sorry']"
+840	This is all my fault. 	Это я во всём виновата. 	['Это', 'я', 'во', 'всём', 'виновата']	['This', 'is', 'all', 'my', 'fault']
+841	I did this to you. 	Это я сделала с тобой. 	['Это', 'я', 'сделала', 'с', 'тобой']	['I', 'did', 'this', 'to', 'you']
+842	To us. 	С нами. 	['С', 'нами']	['To', 'us']
+843	You've always been there for me. 	Ты всегда защищала меня. 	['Ты', 'всегда', 'защищала', 'меня']	"[""You've"", 'always', 'been', 'there', 'for', 'me']"
+844	You've never given up on me. 	Ты не теряла веру в меня. 	['Ты', 'не', 'теряла', 'веру', 'в', 'меня']	"[""You've"", 'never', 'given', 'up', 'on', 'me']"
+845	I just want you back. 	Я хочу, чтобы ты вернулась. 	['Я', 'хочу', 'чтобы', 'ты', 'вернулась']	['I', 'just', 'want', 'you', 'back']
+846	I want you back, Mummy. 	Вернись, мамочка. 	['Вернись', 'мамочка']	['I', 'want', 'you', 'back', 'Mummy']
+847	I love you. 	Я люблю тебя. 	['Я', 'люблю', 'тебя']	['I', 'love', 'you']
+848	Mum! You're back! 	Мама, ты вернулась! 	['Мама', 'ты', 'вернулась']	"['Mum', ""You're"", 'back']"
+849	You changed! 	Ты изменилась. 	['Ты', 'изменилась']	['You', 'changed']
+850	Oh, darling, 	Дорогая моя, 	['Дорогая', 'моя']	['Oh', 'darling']
+851	we both have. 	мы обе изменились. 	['мы', 'обе', 'изменились']	['we', 'both', 'have']
+852	Elinor! 	Элинор! Элинор! 	['Элинор', 'Элинор']	['Elinor']
+853	Oh, dear. 	О боже. 	['О', 'боже']	['Oh', 'dear']
+854	You're back. She came back to us. 	Вы вернулись. Королева вернулась. 	['Вы', 'вернулись', 'Королева', 'вернулась']	"[""You're"", 'back', 'She', 'came', 'back', 'to', 'us']"
+855	It's a great day for this kingdom. The curse is broke. 	Какой замечательный день. Заклятие снято. 	['Какой', 'замечательный', 'день', 'Заклятие', 'снято']	"[""It's"", 'a', 'great', 'day', 'for', 'this', 'kingdom', 'The', 'curse', 'is', 'broke']"
+856	Mum. 	Мама. 	['Мама']	['Mum']
+857	Dear? 	Дорогой. 	['Дорогой']	['Dear']
+858	I'm naked. 	Я голая. 	['Я', 'голая']	"[""I'm"", 'naked']"
+859	Naked as a wee babby. 	Как младенец. 	['Как', 'младенец']	['Naked', 'as', 'a', 'wee', 'babby']
+860	Don't just stare at me. Do something! 	Не смотри на меня. Сделай что-нибудь. 	['Не', 'смотри', 'на', 'меня', 'Сделай', 'что-нибудь']	"[""Don't"", 'just', 'stare', 'at', 'me', 'Do', 'something']"
+861	What the... Avert your eyes, lads! 	Какого дьявола! Отвернитесь! 	['Какого', 'дьявола', 'Отвернитесь']	['What', 'the', 'Avert', 'your', 'eyes', 'lads']
+862	Show some respect! 	Проявите уважение! 	['Проявите', 'уважение']	['Show', 'some', 'respect']
+863	Now that's what I call a wee naked babby! 	А вот настоящие голые детки! 	['А', 'вот', 'настоящие', 'голые', 'детки']	"['Now', ""that's"", 'what', 'I', 'call', 'a', 'wee', 'naked', 'babby']"
+864	Merida, Elinor, hurry up. They're leaving. 	Мерида, Элинор, быстрее. Они уезжают. 	['Мерида', 'Элинор', 'быстрее', 'Они', 'уезжают']	"['Merida', 'Elinor', 'hurry', 'up', ""They're"", 'leaving']"
+865	- Mum! - They're off! Come on! 	– Мама! – Они уезжают! Быстрее! 	['–', 'Мама', '–', 'Они', 'уезжают', 'Быстрее']	"['Mum', ""They're"", 'off', 'Come', 'on']"
+866	We've got to wave them off! Come along! 	Нужно попрощаться. Идём! 	['Нужно', 'попрощаться', 'Идём']	"[""We've"", 'got', 'to', 'wave', 'them', 'off', 'Come', 'along']"
+867	Goodbye! All the best! Fair wind to your sails! 	Прощайте! Удачи! Попутного ветра! 	['Прощайте', 'Удачи', 'Попутного', 'ветра']	['Goodbye', 'All', 'the', 'best', 'Fair', 'wind', 'to', 'your', 'sails']
+868	But how did this... 	Но как они… 	['Но', 'как', 'они…']	['But', 'how', 'did', 'this']
+869	There are those who say fate is something beyond our command, 	Некоторые говорят, что мы не можем управлять своей судьбой, 	['Некоторые', 'говорят', 'что', 'мы', 'не', 'можем', 'управлять', 'своей', 'судьбой']	['There', 'are', 'those', 'who', 'say', 'fate', 'is', 'something', 'beyond', 'our', 'command']
+870	that destiny is not our own. 	что она не в нашей власти. 	['что', 'она', 'не', 'в', 'нашей', 'власти']	['that', 'destiny', 'is', 'not', 'our', 'own']
+871	But I know better. 	Но мне известно другое. 	['Но', 'мне', 'известно', 'другое']	['But', 'I', 'know', 'better']
+872	Our fate lives within us. 	Наша судьба всегда с нами. 	['Наша', 'судьба', 'всегда', 'с', 'нами']	['Our', 'fate', 'lives', 'within', 'us']
+873	You only have to be brave enough to see it. 	Просто нужно быть смелым, чтобы её увидеть. 	['Просто', 'нужно', 'быть', 'смелым', 'чтобы', 'её', 'увидеть']	['You', 'only', 'have', 'to', 'be', 'brave', 'enough', 'to', 'see', 'it']
+874	Delivery. Sign here, sign here. 	Вам посылка. Распишись, распишись. 	['Вам', 'посылка', 'Распишись', 'распишись']	['Delivery', 'Sign', 'here', 'sign', 'here']
+875	Come on, birdbrain. I haven't got all day. 	Быстрее, куриные мозги. У меня мало времени. 	['Быстрее', 'куриные', 'мозги', 'У', 'меня', 'мало', 'времени']	"['Come', 'on', 'birdbrain', 'I', ""haven't"", 'got', 'all', 'day']"

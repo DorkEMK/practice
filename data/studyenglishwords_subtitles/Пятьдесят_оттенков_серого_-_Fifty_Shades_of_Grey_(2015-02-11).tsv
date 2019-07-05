@@ -1,0 +1,1342 @@
+	en	ru	ru_tokens	en_tokens
+0	Ana, take my car. 	Ана, возьми мою машину. 	['Ана', 'возьми', 'мою', 'машину']	['Ana', 'take', 'my', 'car']
+1	I gave you the recorder, right? 	Я отдала тебе диктофон? 	['Я', 'отдала', 'тебе', 'диктофон']	['I', 'gave', 'you', 'the', 'recorder', 'right']
+2	Oh, yes. 	Да. 	['Да']	['Oh', 'yes']
+3	And you have all the questions? 	И у тебя есть список вопросов? 	['И', 'у', 'тебя', 'есть', 'список', 'вопросов']	['And', 'you', 'have', 'all', 'the', 'questions']
+4	Yes. 	Да. 	['Да']	['Yes']
+5	And you know where you're going? 	- И ты знаешь, куда ехать? 	['И', 'ты', 'знаешь', 'куда', 'ехать']	"['And', 'you', 'know', 'where', ""you're"", 'going']"
+6	Yes, I do have a GPS. 	- Да, у меня есть навигатор. 	['Да', 'у', 'меня', 'есть', 'навигатор']	['Yes', 'I', 'do', 'have', 'a', 'GPS']
+7	And a 4.0 GPA. 	И я отличница. 	['И', 'я', 'отличница']	['And', 'a', '4.0', 'GPA']
+8	I can figure it out. 	Как-нибудь разберусь. 	['Как-нибудь', 'разберусь']	['I', 'can', 'figure', 'it', 'out']
+9	Are you wearing that? 	Ты поедешь вот в этом? 	['Ты', 'поедешь', 'вот', 'в', 'этом']	['Are', 'you', 'wearing', 'that']
+10	Okay, maybe a little less talking, 	Слушай, может тебе поменьше говорить 	['Слушай', 'может', 'тебе', 'поменьше', 'говорить']	['Okay', 'maybe', 'a', 'little', 'less', 'talking']
+11	more eating. 	и больше есть. 	['и', 'больше', 'есть']	['more', 'eating']
+12	How about that? 	Как насчет этого? 	['Как', 'насчет', 'этого']	['How', 'about', 'that']
+13	Wow. 	Ого. 	['Ого']	['Wow']
+14	Miss Kavanagh? 	Мисс Кавана? 	['Мисс', 'Кавана']	['Miss', 'Kavanagh']
+15	May I take your coat? 	Позвольте мне взять у вас пальто. 	['Позвольте', 'мне', 'взять', 'у', 'вас', 'пальто']	['May', 'I', 'take', 'your', 'coat']
+16	Oh. Yeah. Um... 	Да. 	['Да']	['Oh', 'Yeah', 'Um']
+17	She's... Okay, so... 	Она... Видите ли... 	['Она', 'Видите', 'ли']	"[""She's"", 'Okay', 'so']"
+18	Mr. Grey will see you now. 	- М-р Грей вас ждет. 	['М-р', 'Грей', 'вас', 'ждет']	['Mr', 'Grey', 'will', 'see', 'you', 'now']
+19	Okay. 	- Хорошо. 	['Хорошо']	['Okay']
+20	This way, please. 	Сюда, пожалуйста. 	['Сюда', 'пожалуйста']	['This', 'way', 'please']
+21	Okay Mr. Grey has a conference call at 11 :15. 	- Ладно. - У м-ра Грея телеконференция в 11.15. 	['Ладно', 'У', 'м-ра', 'Грея', 'телеконференция', 'в', '11.15']	['Okay', 'Mr', 'Grey', 'has', 'a', 'conference', 'call', 'at', '11', '15']
+22	Right this way. 	Сюда. 	['Сюда']	['Right', 'this', 'way']
+23	Miss Kavanagh. 	Мисс Кавана. 	['Мисс', 'Кавана']	['Miss', 'Kavanagh']
+24	Are you all right? 	Вы не ушиблись? 	['Вы', 'не', 'ушиблись']	['Are', 'you', 'all', 'right']
+25	Christian Grey. 	Кристиан Грей. 	['Кристиан', 'Грей']	['Christian', 'Grey']
+26	I'm Anastasia Steele. 	Я Анастейша Стил. 	['Я', 'Анастейша', 'Стил']	"[""I'm"", 'Anastasia', 'Steele']"
+27	Um, Miss Kavanagh has the flu, so she asked me to fill in. 	Мисс Кавана заболела, она попросила меня заменить ее. 	['Мисс', 'Кавана', 'заболела', 'она', 'попросила', 'меня', 'заменить', 'ее']	['Um', 'Miss', 'Kavanagh', 'has', 'the', 'flu', 'so', 'she', 'asked', 'me', 'to', 'fill', 'in']
+28	I see. 	Понятно. 	['Понятно']	['I', 'see']
+29	So, you're studying journalism as well. 	Вы тоже учитесь на журфаке. 	['Вы', 'тоже', 'учитесь', 'на', 'журфаке']	"['So', ""you're"", 'studying', 'journalism', 'as', 'well']"
+30	No, English Lit. 	Нет, я изучаю английскую литературу. 	['Нет', 'я', 'изучаю', 'английскую', 'литературу']	['No', 'English', 'Lit']
+31	Kate's my roommate. 	Кейт - моя соседка по комнате. 	['Кейт', 'моя', 'соседка', 'по', 'комнате']	"[""Kate's"", 'my', 'roommate']"
+32	As I said, I only have 10 minutes. 	Как я говорил, что у меня всего 10 минут. 	['Как', 'я', 'говорил', 'что', 'у', 'меня', 'всего', '10', 'минут']	['As', 'I', 'said', 'I', 'only', 'have', '10', 'minutes']
+33	Please, have a seat,  Miss Steele. 	Пожалуйста, садитесь, мисс Стил. 	['Пожалуйста', 'садитесь', 'мисс', 'Стил']	['Please', 'have', 'a', 'seat', 'Miss', 'Steele']
+34	Okay. 	Хорошо. 	['Хорошо']	['Okay']
+35	Thank you. 	Спасибо. 	['Спасибо']	['Thank', 'you']
+36	Ready? 	Готовы? 	['Готовы']	['Ready']
+37	Whenever you are. 	Да, если вы готовы. 	['Да', 'если', 'вы', 'готовы']	['Whenever', 'you', 'are']
+38	Okay. Urn... 	Хорошо. 	['Хорошо']	['Okay', 'Urn']
+39	So, this is for the special graduation issue of the student newspaper. 	Это интервью для выпускного номера студенческой газеты. 	['Это', 'интервью', 'для', 'выпускного', 'номера', 'студенческой', 'газеты']	['So', 'this', 'is', 'for', 'the', 'special', 'graduation', 'issue', 'of', 'the', 'student', 'newspaper']
+40	Yes, I'm giving the commencement address at this year's ceremony. 	Да, я выступаю с речью перед студентами на церемонии выпуска. 	['Да', 'я', 'выступаю', 'с', 'речью', 'перед', 'студентами', 'на', 'церемонии', 'выпуска']	"['Yes', ""I'm"", 'giving', 'the', 'commencement', 'address', 'at', 'this', ""year's"", 'ceremony']"
+41	You are? 	Правда? 	['Правда']	['You', 'are']
+42	Imean, urn... 	То есть... 	['То', 'есть']	['Imean', 'urn']
+43	I know. 	Я знаю. 	['Я', 'знаю']	['I', 'know']
+44	You are very young to have amassed such an empire. 	"""Вы очень молоды, но при этом заработали огромное состояние. "	['Вы', 'очень', 'молоды', 'но', 'при', 'этом', 'заработали', 'огромное', 'состояние']	['You', 'are', 'very', 'young', 'to', 'have', 'amassed', 'such', 'an', 'empire']
+45	To what do you owe your... 	"Чему вы обязаны своим..."" "	['Чему', 'вы', 'обязаны', 'своим']	['To', 'what', 'do', 'you', 'owe', 'your']
+46	To what do I owe my success? 	Чему я обязан своим успехом? 	['Чему', 'я', 'обязан', 'своим', 'успехом']	['To', 'what', 'do', 'I', 'owe', 'my', 'success']
+47	Yep. 	Да. 	['Да']	['Yep']
+48	Seriously? 	Вы это всерьез? 	['Вы', 'это', 'всерьез']	['Seriously']
+49	Yes. 	Да. 	['Да']	['Yes']
+50	Business is about people. 	Главное в бизнесе - это люди. 	['Главное', 'в', 'бизнесе', 'это', 'люди']	['Business', 'is', 'about', 'people']
+51	And I've always been good at people. 	Я всегда хорошо разбирался в людях. 	['Я', 'всегда', 'хорошо', 'разбирался', 'в', 'людях']	"['And', ""I've"", 'always', 'been', 'good', 'at', 'people']"
+52	What motivates them, what incentivizes them, 	Что их мотивирует, что побуждает их работать, 	['Что', 'их', 'мотивирует', 'что', 'побуждает', 'их', 'работать']	['What', 'motivates', 'them', 'what', 'incentivizes', 'them']
+53	what inspires them. 	что их вдохновляет. 	['что', 'их', 'вдохновляет']	['what', 'inspires', 'them']
+54	Um, maybe you're just lucky. 	Может быть, вам просто повезло. 	['Может', 'быть', 'вам', 'просто', 'повезло']	"['Um', 'maybe', ""you're"", 'just', 'lucky']"
+55	I've always found that the harder I work, the more luck I seem to have. 	Мне всегда казалось, что чем больше я работаю, тем больше мне везет. 	['Мне', 'всегда', 'казалось', 'что', 'чем', 'больше', 'я', 'работаю', 'тем', 'больше', 'мне', 'везет']	"[""I've"", 'always', 'found', 'that', 'the', 'harder', 'I', 'work', 'the', 'more', 'luck', 'I', 'seem', 'to', 'have']"
+56	The key to my success has been in identifying talented individuals 	Ключ к моему успеху - умение находить талантливых людей 	['Ключ', 'к', 'моему', 'успеху', 'умение', 'находить', 'талантливых', 'людей']	['The', 'key', 'to', 'my', 'success', 'has', 'been', 'in', 'identifying', 'talented', 'individuals']
+57	and harnessing their efforts. 	и направлять их усилия в нужное мне русло. 	['и', 'направлять', 'их', 'усилия', 'в', 'нужное', 'мне', 'русло']	['and', 'harnessing', 'their', 'efforts']
+58	So, you're a control freak? 	Так вы любите все контролировать? 	['Так', 'вы', 'любите', 'все', 'контролировать']	"['So', ""you're"", 'a', 'control', 'freak']"
+59	Oh, I exercise control in all things, Miss Steele. 	Я люблю контроль во всем, мисс Стил. 	['Я', 'люблю', 'контроль', 'во', 'всем', 'мисс', 'Стил']	['Oh', 'I', 'exercise', 'control', 'in', 'all', 'things', 'Miss', 'Steele']
+60	Okay. Urn... 	Понятно. 	['Понятно']	['Okay', 'Urn']
+61	Your company is involved primarily in the telecommunications sector, 	"""Ваша компания в основном работает в сфере телекоммуникаций, "	['Ваша', 'компания', 'в', 'основном', 'работает', 'в', 'сфере', 'телекоммуникаций']	['Your', 'company', 'is', 'involved', 'primarily', 'in', 'the', 'telecommunications', 'sector']
+62	yet you also invest in numerous agricultural projects, 	но вы много инвестируете и в сельскохозяйственные проекты, 	['но', 'вы', 'много', 'инвестируете', 'и', 'в', 'сельскохозяйственные', 'проекты']	['yet', 'you', 'also', 'invest', 'in', 'numerous', 'agricultural', 'projects']
+63	including several in Africa. 	включая несколько проектов в Африке. 	['включая', 'несколько', 'проектов', 'в', 'Африке']	['including', 'several', 'in', 'Africa']
+64	Is that something that you  feel passionate about? 	У вас есть горячее желание 	['У', 'вас', 'есть', 'горячее', 'желание']	['Is', 'that', 'something', 'that', 'you', 'feel', 'passionate', 'about']
+65	"Feeding the world's poor?"" "	"накормить бедных людей?"" "	['накормить', 'бедных', 'людей']	"['Feeding', 'the', ""world's"", 'poor']"
+66	It's smart business. 	Это хороший бизнес. 	['Это', 'хороший', 'бизнес']	"[""It's"", 'smart', 'business']"
+67	You don't agree? 	Вы не согласны? 	['Вы', 'не', 'согласны']	"['You', ""don't"", 'agree']"
+68	I don't know enough about it. 	Я мало что про это знаю. 	['Я', 'мало', 'что', 'про', 'это', 'знаю']	"['I', ""don't"", 'know', 'enough', 'about', 'it']"
+69	I just wonder if 	Но просто мне кажется, 	['Но', 'просто', 'мне', 'кажется']	['I', 'just', 'wonder', 'if']
+70	perhaps your heart might be a bit bigger than you want to let on? 	что, возможно, у вас более доброе сердце, чем вы готовы показать? 	['что', 'возможно', 'у', 'вас', 'более', 'доброе', 'сердце', 'чем', 'вы', 'готовы', 'показать']	['perhaps', 'your', 'heart', 'might', 'be', 'a', 'bit', 'bigger', 'than', 'you', 'want', 'to', 'let', 'on']
+71	There are some people who say that I don't have a heart at all. 	Есть люди, которые говорят, что у меня совсем нет сердца. 	['Есть', 'люди', 'которые', 'говорят', 'что', 'у', 'меня', 'совсем', 'нет', 'сердца']	"['There', 'are', 'some', 'people', 'who', 'say', 'that', 'I', ""don't"", 'have', 'a', 'heart', 'at', 'all']"
+72	Why would they say that? 	Почему они так говорят? 	['Почему', 'они', 'так', 'говорят']	['Why', 'would', 'they', 'say', 'that']
+73	Because they know me well. 	Потому что они хорошо меня знают. 	['Потому', 'что', 'они', 'хорошо', 'меня', 'знают']	['Because', 'they', 'know', 'me', 'well']
+74	Go on. 	Продолжайте. 	['Продолжайте']	['Go', 'on']
+75	"Um... ""Do you have any interests outside of work?"" "	"""Есть ли у вас интересы помимо работы?"" "	['Есть', 'ли', 'у', 'вас', 'интересы', 'помимо', 'работы']	['Um', 'Do', 'you', 'have', 'any', 'interests', 'outside', 'of', 'work']
+76	I enjoy various physical pursuits. 	Я получаю удовольствие от физической активности. 	['Я', 'получаю', 'удовольствие', 'от', 'физической', 'активности']	['I', 'enjoy', 'various', 'physical', 'pursuits']
+77	You're unmarried. 	Вы холостяк. 	['Вы', 'холостяк']	"[""You're"", 'unmarried']"
+78	You were adopted at age four. 	Вас усыновили, когда вам было 4 года. 	['Вас', 'усыновили', 'когда', 'вам', 'было', '4', 'года']	['You', 'were', 'adopted', 'at', 'age', 'four']
+79	That's a matter of public record. 	Это всем известно. 	['Это', 'всем', 'известно']	"[""That's"", 'a', 'matter', 'of', 'public', 'record']"
+80	I'm sorry, I didn't... 	Простите, я не... 	['Простите', 'я', 'не']	"[""I'm"", 'sorry', 'I', ""didn't""]"
+81	Do you have an actual question, Miss Steele? 	В чем заключается вопрос, мисс Стил? 	['В', 'чем', 'заключается', 'вопрос', 'мисс', 'Стил']	['Do', 'you', 'have', 'an', 'actual', 'question', 'Miss', 'Steele']
+82	Yeah, sorry. 	Да, простите. 	['Да', 'простите']	['Yeah', 'sorry']
+83	Are you gay? 	"""Вы гомосексуалист?"" "	['Вы', 'гомосексуалист']	['Are', 'you', 'gay']
+84	It's written here, I'm just... 	Здесь так написано, я просто... 	['Здесь', 'так', 'написано', 'я', 'просто']	"[""It's"", 'written', 'here', ""I'm"", 'just']"
+85	No, Anastasia. 	Нет, Анастейша. 	['Нет', 'Анастейша']	['No', 'Anastasia']
+86	I'm not gay. 	Я не гомосексуалист. 	['Я', 'не', 'гомосексуалист']	"[""I'm"", 'not', 'gay']"
+87	I apologize, Mr. Grey. Kate can be a little... 	Извините, м-р Грей. Кейт иногда... 	['Извините', 'м-р', 'Грей', 'Кейт', 'иногда']	['I', 'apologize', 'Mr', 'Grey', 'Kate', 'can', 'be', 'a', 'little']
+88	Intrusive? 	Лезет не в свое дело? 	['Лезет', 'не', 'в', 'свое', 'дело']	['Intrusive']
+89	Curious. 	Она любопытная. 	['Она', 'любопытная']	['Curious']
+90	What about you? 	А вы? 	['А', 'вы']	['What', 'about', 'you']
+91	Why don't you ask me something that you want to know? 	Почему бы вам не спросить меня о чем-то, что вы хотите знать? 	['Почему', 'бы', 'вам', 'не', 'спросить', 'меня', 'о', 'чем-то', 'что', 'вы', 'хотите', 'знать']	"['Why', ""don't"", 'you', 'ask', 'me', 'something', 'that', 'you', 'want', 'to', 'know']"
+92	Earlier, you said that there are some people who know you well. 	Вы сказали, что есть люди, которые хорошо вас знают. 	['Вы', 'сказали', 'что', 'есть', 'люди', 'которые', 'хорошо', 'вас', 'знают']	['Earlier', 'you', 'said', 'that', 'there', 'are', 'some', 'people', 'who', 'know', 'you', 'well']
+93	Why do I get the feeling, that is not true? 	Почему мне кажется, что это не так? 	['Почему', 'мне', 'кажется', 'что', 'это', 'не', 'так']	['Why', 'do', 'I', 'get', 'the', 'feeling', 'that', 'is', 'not', 'true']
+94	Mr. Grey, your next meeting is in the conference room. 	М-р Грей, ваш следующий посетитель ждет в конференц-зале. 	['М-р', 'Грей', 'ваш', 'следующий', 'посетитель', 'ждет', 'в', 'конференц-зале']	['Mr', 'Grey', 'your', 'next', 'meeting', 'is', 'in', 'the', 'conference', 'room']
+95	Cancel, please. We're not finished here. 	Отмените встречу, пожалуйста. Мы еще не закончили. 	['Отмените', 'встречу', 'пожалуйста', 'Мы', 'еще', 'не', 'закончили']	"['Cancel', 'please', ""We're"", 'not', 'finished', 'here']"
+96	Yes, sir. 	Да, сэр. 	['Да', 'сэр']	['Yes', 'sir']
+97	No... I'm... 	Нет... Я... 	['Нет', 'Я']	"['No', ""I'm""]"
+98	I can go. It's fine. 	Я могу уйти. Все нормально. 	['Я', 'могу', 'уйти', 'Все', 'нормально']	"['I', 'can', 'go', ""It's"", 'fine']"
+99	I would like to know more about you. 	Я бы хотел узнать о вас побольше. 	['Я', 'бы', 'хотел', 'узнать', 'о', 'вас', 'побольше']	['I', 'would', 'like', 'to', 'know', 'more', 'about', 'you']
+100	There's really not much to know about me. 	Во мне нет ничего интересного. 	['Во', 'мне', 'нет', 'ничего', 'интересного']	"[""There's"", 'really', 'not', 'much', 'to', 'know', 'about', 'me']"
+101	You said you're an English major? 	Вы сказали, что изучаете английскую литературу? 	['Вы', 'сказали', 'что', 'изучаете', 'английскую', 'литературу']	"['You', 'said', ""you're"", 'an', 'English', 'major']"
+102	Tell me, who first made you fall in love with literature? 	Скажите, какой писатель заставил вас полюбить литературу - 	['Скажите', 'какой', 'писатель', 'заставил', 'вас', 'полюбить', 'литературу']	['Tell', 'me', 'who', 'first', 'made', 'you', 'fall', 'in', 'love', 'with', 'literature']
+103	was it Charlotte Bronté, Jane Austen, or Thomas Hardy? 	Шарлотта Бронте, Джейн Остин или Томас Харди? 	['Шарлотта', 'Бронте', 'Джейн', 'Остин', 'или', 'Томас', 'Харди']	['was', 'it', 'Charlotte', 'Bronté', 'Jane', 'Austen', 'or', 'Thomas', 'Hardy']
+104	Hardy. 	Харди. 	['Харди']	['Hardy']
+105	I would have guessed Jane Austen. 	А я подумал, что Джейн Остин. 	['А', 'я', 'подумал', 'что', 'Джейн', 'Остин']	['I', 'would', 'have', 'guessed', 'Jane', 'Austen']
+106	What are your plans after you graduate? 	Какие у вас планы после выпуска? 	['Какие', 'у', 'вас', 'планы', 'после', 'выпуска']	['What', 'are', 'your', 'plans', 'after', 'you', 'graduate']
+107	I'm just trying to get through finals right now. 	Пока я просто пытаюсь сдать экзамены. 	['Пока', 'я', 'просто', 'пытаюсь', 'сдать', 'экзамены']	"[""I'm"", 'just', 'trying', 'to', 'get', 'through', 'finals', 'right', 'now']"
+108	And then? 	А потом? 	['А', 'потом']	['And', 'then']
+109	And then I was planning on moving here, to Seattle, 	Потом я планировала переехать сюда, в Сиэтл, 	['Потом', 'я', 'планировала', 'переехать', 'сюда', 'в', 'Сиэтл']	['And', 'then', 'I', 'was', 'planning', 'on', 'moving', 'here', 'to', 'Seattle']
+110	with Kate. 	вместе с Кейт. 	['вместе', 'с', 'Кейт']	['with', 'Kate']
+111	We offer an excellent internship program. 	В нашей компании есть отличная программа стажировки. 	['В', 'нашей', 'компании', 'есть', 'отличная', 'программа', 'стажировки']	['We', 'offer', 'an', 'excellent', 'internship', 'program']
+112	I don't think I'd fit in here. 	Не думаю, что я вам подойду. 	['Не', 'думаю', 'что', 'я', 'вам', 'подойду']	"['I', ""don't"", 'think', ""I'd"", 'fit', 'in', 'here']"
+113	Look at me. 	Посмотрите на меня. 	['Посмотрите', 'на', 'меня']	['Look', 'at', 'me']
+114	I am. 	Я смотрю. 	['Я', 'смотрю']	['I', 'am']
+115	I hope you gote verything you needed. 	Надеюсь, вы узнали все, что хотели. 	['Надеюсь', 'вы', 'узнали', 'все', 'что', 'хотели']	['I', 'hope', 'you', 'gote', 'verything', 'you', 'needed']
+116	I... I think you only answered four questions. 	Кажется, вы ответили только на четыре вопроса. 	['Кажется', 'вы', 'ответили', 'только', 'на', 'четыре', 'вопроса']	['I', 'I', 'think', 'you', 'only', 'answered', 'four', 'questions']
+117	Anastasia. 	Анастейша. 	['Анастейша']	['Anastasia']
+118	Christian. 	Кристиан. 	['Кристиан']	['Christian']
+119	Holy cow. 	Ни фига себе. 	['Ни', 'фига', 'себе']	['Holy', 'cow']
+120	Before you say anything... 	Пока ты ничего не сказала... 	['Пока', 'ты', 'ничего', 'не', 'сказала']	['Before', 'you', 'say', 'anything']
+121	You're a goddess. This is perfect. What? 	- Ты прелесть. Это просто супер. - Что? 	['Ты', 'прелесть', 'Это', 'просто', 'супер', 'Что']	"[""You're"", 'a', 'goddess', 'This', 'is', 'perfect', 'What']"
+122	I just got his e-mail. He answered every question. 	Я только что получила от него мейл. Он ответил на все вопросы. 	['Я', 'только', 'что', 'получила', 'от', 'него', 'мейл', 'Он', 'ответил', 'на', 'все', 'вопросы']	['I', 'just', 'got', 'his', 'e-mail', 'He', 'answered', 'every', 'question']
+123	So, what was he like? 	И какой он? 	['И', 'какой', 'он']	['So', 'what', 'was', 'he', 'like']
+124	He was fine. 	Нормальный. 	['Нормальный']	['He', 'was', 'fine']
+125	Fine? 	"""Нормальный?"" "	['Нормальный']	['Fine']
+126	Just fine? 	Просто нормальный? 	['Просто', 'нормальный']	['Just', 'fine']
+127	Um, he was really polite, 	Он был очень вежлив, 	['Он', 'был', 'очень', 'вежлив']	['Um', 'he', 'was', 'really', 'polite']
+128	and he was courteous, 	обходителен, 	['обходителен']	['and', 'he', 'was', 'courteous']
+129	and very formal, 	держался очень церемонно, 	['держался', 'очень', 'церемонно']	['and', 'very', 'formal']
+130	and clean. 	он опрятный. 	['он', 'опрятный']	['and', 'clean']
+131	Clean? 	"""Опрятный""? "	['Опрятный']	['Clean']
+132	I mean, he was very smart. 	Я хочу сказать, элегантный. 	['Я', 'хочу', 'сказать', 'элегантный']	['I', 'mean', 'he', 'was', 'very', 'smart']
+133	And intense. 	И напористый. 	['И', 'напористый']	['And', 'intense']
+134	It was kind of intimidating. 	Это немного пугало. 	['Это', 'немного', 'пугало']	['It', 'was', 'kind', 'of', 'intimidating']
+135	I can understand the fascination. 	Я понимаю, почему он многих привлекает. 	['Я', 'понимаю', 'почему', 'он', 'многих', 'привлекает']	['I', 'can', 'understand', 'the', 'fascination']
+136	Why are you looking at me like that? 	Почему ты на меня так смотришь? 	['Почему', 'ты', 'на', 'меня', 'так', 'смотришь']	['Why', 'are', 'you', 'looking', 'at', 'me', 'like', 'that']
+137	Like what? 	Как? 	['Как']	['Like', 'what']
+138	Okay. 	Ладно. 	['Ладно']	['Okay']
+139	I'm gonna make a sandwich. Do you want one? 	Я сделаю себе бутерброд. Тебе сделать? 	['Я', 'сделаю', 'себе', 'бутерброд', 'Тебе', 'сделать']	"[""I'm"", 'gonna', 'make', 'a', 'sandwich', 'Do', 'you', 'want', 'one']"
+140	No, thanks. 	Нет, спасибо. 	['Нет', 'спасибо']	['No', 'thanks']
+141	You have to admit, he's ridiculously hot. 	Ты должна признать, что он невероятно сексуален. 	['Ты', 'должна', 'признать', 'что', 'он', 'невероятно', 'сексуален']	"['You', 'have', 'to', 'admit', ""he's"", 'ridiculously', 'hot']"
+142	I'm sure if you are attracted to that sort of human, then... 	Не сомневаюсь, что если тебя привлекают подобные люди, то... 	['Не', 'сомневаюсь', 'что', 'если', 'тебя', 'привлекают', 'подобные', 'люди', 'то']	"[""I'm"", 'sure', 'if', 'you', 'are', 'attracted', 'to', 'that', 'sort', 'of', 'human', 'then']"
+143	The hot type of human? 	Сексуальные люди? 	['Сексуальные', 'люди']	['The', 'hot', 'type', 'of', 'human']
+144	I asked him if he was gay. That was in your questions. 	Я спросила его, не гей ли он. Это было в твоих вопросах. 	['Я', 'спросила', 'его', 'не', 'гей', 'ли', 'он', 'Это', 'было', 'в', 'твоих', 'вопросах']	['I', 'asked', 'him', 'if', 'he', 'was', 'gay', 'That', 'was', 'in', 'your', 'questions']
+145	Why would you do that to me? 	Зачем ты написала мне такой вопрос? 	['Зачем', 'ты', 'написала', 'мне', 'такой', 'вопрос']	['Why', 'would', 'you', 'do', 'that', 'to', 'me']
+146	Because whenever he's in the society pages, 	Когда его фотографируют для светской хроники, 	['Когда', 'его', 'фотографируют', 'для', 'светской', 'хроники']	"['Because', 'whenever', ""he's"", 'in', 'the', 'society', 'pages']"
+147	he's never been photographed with a woman- So, naturally... 	рядом с ним никогда нет женщины. Так что естественно... 	['рядом', 'с', 'ним', 'никогда', 'нет', 'женщины', 'Так', 'что', 'естественно']	"[""he's"", 'never', 'been', 'photographed', 'with', 'a', 'woman', 'So', 'naturally']"
+148	Well, maybe he just wants to keep his private life private, Kate. 	Может, он не хочет выставлять свою личную жизнь напоказ, Кейт. 	['Может', 'он', 'не', 'хочет', 'выставлять', 'свою', 'личную', 'жизнь', 'напоказ', 'Кейт']	['Well', 'maybe', 'he', 'just', 'wants', 'to', 'keep', 'his', 'private', 'life', 'private', 'Kate']
+149	And now you're defending him. 	А теперь ты его защищаешь. 	['А', 'теперь', 'ты', 'его', 'защищаешь']	"['And', 'now', ""you're"", 'defending', 'him']"
+150	I'm terminating this conversation. 	Я прекращаю этот разговор. 	['Я', 'прекращаю', 'этот', 'разговор']	"[""I'm"", 'terminating', 'this', 'conversation']"
+151	Too bad we don't have some original stills 	Жаль, что у нас нет своих снимков 	['Жаль', 'что', 'у', 'нас', 'нет', 'своих', 'снимков']	"['Too', 'bad', 'we', ""don't"", 'have', 'some', 'original', 'stills']"
+152	of your hot, clean 27-year-old billionaire. 	твоего сексуального и опрятного 27-летнего миллиардера. 	['твоего', 'сексуального', 'и', 'опрятного', '27-летнего', 'миллиардера']	['of', 'your', 'hot', 'clean', '27-year-old', 'billionaire']
+153	The camera loves him almost as much as you do. 	Камера его любит почти так же, как ты. 	['Камера', 'его', 'любит', 'почти', 'так', 'же', 'как', 'ты']	['The', 'camera', 'loves', 'him', 'almost', 'as', 'much', 'as', 'you', 'do']
+154	Okay, I wasn't hungry, but now I am. 	Я не хотела есть, а теперь хочу. 	['Я', 'не', 'хотела', 'есть', 'а', 'теперь', 'хочу']	"['Okay', 'I', ""wasn't"", 'hungry', 'but', 'now', 'I', 'am']"
+155	Thank you. 	Спасибо. 	['Спасибо']	['Thank', 'you']
+156	I love you. 	Я тебя обожаю. 	['Я', 'тебя', 'обожаю']	['I', 'love', 'you']
+157	I declared I could not change, yet you tell me to my face 	"""Я поклялся, что не изменюсь, ты говоришь мне в лицо, "	['Я', 'поклялся', 'что', 'не', 'изменюсь', 'ты', 'говоришь', 'мне', 'в', 'лицо']	['I', 'declared', 'I', 'could', 'not', 'change', 'yet', 'you', 'tell', 'me', 'to', 'my', 'face']
+158	I shall change soon. 	что я изменюсь, и скоро! 	['что', 'я', 'изменюсь', 'и', 'скоро']	['I', 'shall', 'change', 'soon']
+159	And what a distortion in your judgment, 	И какое извращение понятий о добре и зле, 	['И', 'какое', 'извращение', 'понятий', 'о', 'добре', 'и', 'зле']	['And', 'what', 'a', 'distortion', 'in', 'your', 'judgment']
+160	"""what a perversity in your ideas..."" "	"какую неверность суждений доказывает твое поведение!"" "	['какую', 'неверность', 'суждений', 'доказывает', 'твое', 'поведение']	['what', 'a', 'perversity', 'in', 'your', 'ideas']
+161	Ana. I've been looking for you. What's up? 	- Ана, я тебя везде искал. - Как дела? 	['Ана', 'я', 'тебя', 'везде', 'искал', 'Как', 'дела']	"['Ana', ""I've"", 'been', 'looking', 'for', 'you', ""What's"", 'up']"
+162	Guess what. What? 	- Угадай, что случилось. - Что? 	['Угадай', 'что', 'случилось', 'Что']	['Guess', 'what', 'What']
+163	Portland Place is going to exhibit my photographs next month. 	"В ""Портленд Плейс"" через месяц будет выставка моих фотографий. "	['В', 'Портленд', 'Плейс', 'через', 'месяц', 'будет', 'выставка', 'моих', 'фотографий']	['Portland', 'Place', 'is', 'going', 'to', 'exhibit', 'my', 'photographs', 'next', 'month']
+164	Oh, my God. 	О господи. 	['О', 'господи']	['Oh', 'my', 'God']
+165	Congratulations! That's so good! 	Поздравляю! Это так классно! 	['Поздравляю', 'Это', 'так', 'классно']	"['Congratulations', ""That's"", 'so', 'good']"
+166	Solo show, corazén. 	Сольная выставка, милая. 	['Сольная', 'выставка', 'милая']	['Solo', 'show', 'corazén']
+167	Can we celebrate later? Because I'm really late for work. 	Может, потом отметим? Опаздываю на работу. 	['Может', 'потом', 'отметим', 'Опаздываю', 'на', 'работу']	"['Can', 'we', 'celebrate', 'later', 'Because', ""I'm"", 'really', 'late', 'for', 'work']"
+168	Yeah, yeah, yeah. You got it. But, um... 	- Да, да. Конечно. - Но... 	['Да', 'да', 'Конечно', 'Но']	['Yeah', 'yeah', 'yeah', 'You', 'got', 'it', 'But', 'um']
+169	Hold on. 	Погоди. 	['Погоди']	['Hold', 'on']
+170	Thank you. 	Спасибо. 	['Спасибо']	['Thank', 'you']
+171	You're my hero. 	Ты герой. 	['Ты', 'герой']	"[""You're"", 'my', 'hero']"
+172	I'll see you later. 	Пока. 	['Пока']	"[""I'll"", 'see', 'you', 'later']"
+173	Okay. 	Ладно. 	['Ладно']	['Okay']
+174	Mom, I'm at work. Can I call you back? 	Мама, я на работе. Можно я потом перезвоню? 	['Мама', 'я', 'на', 'работе', 'Можно', 'я', 'потом', 'перезвоню']	"['Mom', ""I'm"", 'at', 'work', 'Can', 'I', 'call', 'you', 'back']"
+175	Oh, no, wait. I called for a reason. 	Нет, погоди. Я звоню не просто так. 	['Нет', 'погоди', 'Я', 'звоню', 'не', 'просто', 'так']	['Oh', 'no', 'wait', 'I', 'called', 'for', 'a', 'reason']
+176	Bob broke his foot playing golf, of all things 	Боб сломал ногу, играя в гольф. 	['Боб', 'сломал', 'ногу', 'играя', 'в', 'гольф']	['Bob', 'broke', 'his', 'foot', 'playing', 'golf', 'of', 'all', 'things']
+177	God. Is he okay? Is he in a lot of pain? 	Господи. Как он? Ему очень больно? 	['Господи', 'Как', 'он', 'Ему', 'очень', 'больно']	['God', 'Is', 'he', 'okay', 'Is', 'he', 'in', 'a', 'lot', 'of', 'pain']
+178	Who can tell with the man? He calls the paramedics for a blister. 	Разве с ним поймешь? Он вызывает скорую из-за мозоли. 	['Разве', 'с', 'ним', 'поймешь', 'Он', 'вызывает', 'скорую', 'из-за', 'мозоли']	['Who', 'can', 'tell', 'with', 'the', 'man', 'He', 'calls', 'the', 'paramedics', 'for', 'a', 'blister']
+179	It means, though, we won't be able to fly in for graduation. 	Но это значит, что мы не сможем прилететь на твой выпуск. 	['Но', 'это', 'значит', 'что', 'мы', 'не', 'сможем', 'прилететь', 'на', 'твой', 'выпуск']	"['It', 'means', 'though', 'we', ""won't"", 'be', 'able', 'to', 'fly', 'in', 'for', 'graduation']"
+180	Really? 	Правда? 	['Правда']	['Really']
+181	You don't wanna just come alone? You don't have to bring Bob. 	А ты не хочешь прилететь одна? Бобу лететь необязательно. 	['А', 'ты', 'не', 'хочешь', 'прилететь', 'одна', 'Бобу', 'лететь', 'необязательно']	"['You', ""don't"", 'wanna', 'just', 'come', 'alone', 'You', ""don't"", 'have', 'to', 'bring', 'Bob']"
+182	Ah. And leave Tiger Woods to fend for himself? 	Не могу же я оставить Тайгера Вудса одного. 	['Не', 'могу', 'же', 'я', 'оставить', 'Тайгера', 'Вудса', 'одного']	['Ah', 'And', 'leave', 'Tiger', 'Woods', 'to', 'fend', 'for', 'himself']
+183	You do understand. Don't you, darling? 	Ты ведь понимаешь, да, дорогая? 	['Ты', 'ведь', 'понимаешь', 'да', 'дорогая']	"['You', 'do', 'understand', ""Don't"", 'you', 'darling']"
+184	Yeah. Yeah, it's fine. 	Да, все нормально. 	['Да', 'все', 'нормально']	"['Yeah', 'Yeah', ""it's"", 'fine']"
+185	Um, I really have to go, okay? 	Мне надо идти, ладно? 	['Мне', 'надо', 'идти', 'ладно']	['Um', 'I', 'really', 'have', 'to', 'go', 'okay']
+186	I love you, Ana. 	Я тебя люблю, Ана. 	['Я', 'тебя', 'люблю', 'Ана']	['I', 'love', 'you', 'Ana']
+187	I know. I love you, too. 	Я знаю. Я тебя тоже люблю. 	['Я', 'знаю', 'Я', 'тебя', 'тоже', 'люблю']	['I', 'know', 'I', 'love', 'you', 'too']
+188	Oh, God. 	Господи. 	['Господи']	['Oh', 'God']
+189	Ana. 	Ана. 	['Ана']	['Ana']
+190	Could you give me a hand out back? 	Можешь мне помочь на складе? 	['Можешь', 'мне', 'помочь', 'на', 'складе']	['Could', 'you', 'give', 'me', 'a', 'hand', 'out', 'back']
+191	Uh, yeah. I'll be right there. 	Да, сейчас приду. 	['Да', 'сейчас', 'приду']	"['Uh', 'yeah', ""I'll"", 'be', 'right', 'there']"
+192	I thought it was you. 	Я так и подумал, что это вы. 	['Я', 'так', 'и', 'подумал', 'что', 'это', 'вы']	['I', 'thought', 'it', 'was', 'you']
+193	What the... 	Какого... 	['Какого']	['What', 'the']
+194	What a pleasant surprise, Miss Steele. 	Какой приятный сюрприз, мисс Стил. 	['Какой', 'приятный', 'сюрприз', 'мисс', 'Стил']	['What', 'a', 'pleasant', 'surprise', 'Miss', 'Steele']
+195	"Just ""Ana."" "	Просто Ана. 	['Просто', 'Ана']	['Just', 'Ana']
+196	You're in here. 	Вы здесь. 	['Вы', 'здесь']	"[""You're"", 'in', 'here']"
+197	I was in the area on business. I needed to pick up a few things. 	Я был здесь рядом по делу. Мне надо кое-что купить. 	['Я', 'был', 'здесь', 'рядом', 'по', 'делу', 'Мне', 'надо', 'кое-что', 'купить']	['I', 'was', 'in', 'the', 'area', 'on', 'business', 'I', 'needed', 'to', 'pick', 'up', 'a', 'few', 'things']
+198	Are you free? 	Вы свободны? 	['Вы', 'свободны']	['Are', 'you', 'free']
+199	Yeah. 	Да. 	['Да']	['Yeah']
+200	What can I help you with? 	Чем могу вам помочь? 	['Чем', 'могу', 'вам', 'помочь']	['What', 'can', 'I', 'help', 'you', 'with']
+201	Do you stock cable ties? 	У вас есть кабельные стяжки? 	['У', 'вас', 'есть', 'кабельные', 'стяжки']	['Do', 'you', 'stock', 'cable', 'ties']
+202	Cable ties, yes. We do. 	Кабельные стяжки, да. Есть. 	['Кабельные', 'стяжки', 'да', 'Есть']	['Cable', 'ties', 'yes', 'We', 'do']
+203	I can show you, if you want. 	Я вам покажу, если хотите. 	['Я', 'вам', 'покажу', 'если', 'хотите']	['I', 'can', 'show', 'you', 'if', 'you', 'want']
+204	Please lead the way, Miss Steele. 	Пожалуйста, мисс Стил, покажите. 	['Пожалуйста', 'мисс', 'Стил', 'покажите']	['Please', 'lead', 'the', 'way', 'Miss', 'Steele']
+205	"Just ""Ana."" "	Просто Ана. 	['Просто', 'Ана']	['Just', 'Ana']
+206	Is that it? 	Это все? 	['Это', 'все']	['Is', 'that', 'it']
+207	Masking tape. 	Малярная лента. 	['Малярная', 'лента']	['Masking', 'tape']
+208	Are you redecorating? 	Вы делаете ремонт? 	['Вы', 'делаете', 'ремонт']	['Are', 'you', 'redecorating']
+209	No. 	Нет. 	['Нет']	['No']
+210	Um, we have two-inch and one-inch. 	У нас есть лента шириной 5 см и 2,5 см. 	['У', 'нас', 'есть', 'лента', 'шириной', '5', 'см', 'и', '2,5', 'см']	['Um', 'we', 'have', 'two-inch', 'and', 'one-inch']
+211	But the truly self-respecting handyman will have both in his toolbox. 	Но у настоящего мастера в запасе будут оба размера. 	['Но', 'у', 'настоящего', 'мастера', 'в', 'запасе', 'будут', 'оба', 'размера']	['But', 'the', 'truly', 'self-respecting', 'handyman', 'will', 'have', 'both', 'in', 'his', 'toolbox']
+212	Of course he will. 	Конечно. 	['Конечно']	['Of', 'course', 'he', 'will']
+213	It's rare to find a connoisseur these days. 	В наше время редко встретишь знатока. 	['В', 'наше', 'время', 'редко', 'встретишь', 'знатока']	"[""It's"", 'rare', 'to', 'find', 'a', 'connoisseur', 'these', 'days']"
+214	Do you want anything else? 	Вам нужно что-нибудь еще? 	['Вам', 'нужно', 'что-нибудь', 'еще']	['Do', 'you', 'want', 'anything', 'else']
+215	Yes. 	Да. 	['Да']	['Yes']
+216	Rope. 	Веревка. 	['Веревка']	['Rope']
+217	That's impressive. 	Это впечатляет. 	['Это', 'впечатляет']	"[""That's"", 'impressive']"
+218	Are you a Girl Scout? 	Вы были скаутом? 	['Вы', 'были', 'скаутом']	['Are', 'you', 'a', 'Girl', 'Scout']
+219	Urn, no. 	Нет. 	['Нет']	['Urn', 'no']
+220	Organized group activities aren't really my thing. 	Организованная деятельность в коллективе мне не нравится. 	['Организованная', 'деятельность', 'в', 'коллективе', 'мне', 'не', 'нравится']	"['Organized', 'group', 'activities', ""aren't"", 'really', 'my', 'thing']"
+221	"So what is your ""thing""? "	А что вам нравится? 	['А', 'что', 'вам', 'нравится']	['So', 'what', 'is', 'your', 'thing']
+222	I don't know. Books? 	Не знаю. Чтение? 	['Не', 'знаю', 'Чтение']	"['I', ""don't"", 'know', 'Books']"
+223	Okay. 	Так. 	['Так']	['Okay']
+224	Rope, tape, cable ties. 	Веревка, изолента, кабельные стяжки. 	['Веревка', 'изолента', 'кабельные', 'стяжки']	['Rope', 'tape', 'cable', 'ties']
+225	You're the complete serial killer. 	Вы просто маньяк-убийца. 	['Вы', 'просто', 'маньяк-убийца']	"[""You're"", 'the', 'complete', 'serial', 'killer']"
+226	Not today. 	Не сегодня. 	['Не', 'сегодня']	['Not', 'today']
+227	Anything else? 	Что-нибудь еще? 	['Что-нибудь', 'еще']	['Anything', 'else']
+228	What would you recommend? 	А что бы вы рекомендовали? 	['А', 'что', 'бы', 'вы', 'рекомендовали']	['What', 'would', 'you', 'recommend']
+229	For a do-it-yourselfer? 	Для любителя мастерить? 	['Для', 'любителя', 'мастерить']	['For', 'a', 'do-it-yourselfer']
+230	Maybe coveralls, so you protect your clothes. 	Может быть, комбинезон, чтобы не запачкать одежду. 	['Может', 'быть', 'комбинезон', 'чтобы', 'не', 'запачкать', 'одежду']	['Maybe', 'coveralls', 'so', 'you', 'protect', 'your', 'clothes']
+231	I could just take all my clothes off. 	Я могу просто ее снять. 	['Я', 'могу', 'просто', 'ее', 'снять']	['I', 'could', 'just', 'take', 'all', 'my', 'clothes', 'off']
+232	Okay. 	Ясно. 	['Ясно']	['Okay']
+233	No clothes. 	Одежды не надо. 	['Одежды', 'не', 'надо']	['No', 'clothes']
+234	I mean, no coveralls. 	То есть, не надо комбинезона. 	['То', 'есть', 'не', 'надо', 'комбинезона']	['I', 'mean', 'no', 'coveralls']
+235	I can't think of anything else. 	Больше ничего в голову не приходит. 	['Больше', 'ничего', 'в', 'голову', 'не', 'приходит']	"['I', ""can't"", 'think', 'of', 'anything', 'else']"
+236	Well, I guess that's it, then. 	Ну, наверное, тогда это все. 	['Ну', 'наверное', 'тогда', 'это', 'все']	"['Well', 'I', 'guess', ""that's"", 'it', 'then']"
+237	Cool. 	Отлично. 	['Отлично']	['Cool']
+238	Thank you for answering Kate's questions, by the way. 	Кстати, спасибо, что ответили на вопросы Кейт. 	['Кстати', 'спасибо', 'что', 'ответили', 'на', 'вопросы', 'Кейт']	"['Thank', 'you', 'for', 'answering', ""Kate's"", 'questions', 'by', 'the', 'way']"
+239	She was thrilled. 	Она была счастлива. 	['Она', 'была', 'счастлива']	['She', 'was', 'thrilled']
+240	I hope she's feeling better. 	Надеюсь, ей лучше. 	['Надеюсь', 'ей', 'лучше']	"['I', 'hope', ""she's"", 'feeling', 'better']"
+241	She is, yeah, much. 	Да, гораздо лучше. 	['Да', 'гораздо', 'лучше']	['She', 'is', 'yeah', 'much']
+242	She's just having a hard time clearing a photo of you, I think. 	Только ей трудно получить право напечатать вашу фотографию. 	['Только', 'ей', 'трудно', 'получить', 'право', 'напечатать', 'вашу', 'фотографию']	"[""She's"", 'just', 'having', 'a', 'hard', 'time', 'clearing', 'a', 'photo', 'of', 'you', 'I', 'think']"
+243	If she'd like an original, I'm around tomorrow. 	Если ей нужна свежая фотография, я завтра свободен. 	['Если', 'ей', 'нужна', 'свежая', 'фотография', 'я', 'завтра', 'свободен']	"['If', ""she'd"", 'like', 'an', 'original', ""I'm"", 'around', 'tomorrow']"
+244	You'd be willing to do that? 	Вы не против сфотографироваться? 	['Вы', 'не', 'против', 'сфотографироваться']	"[""You'd"", 'be', 'willing', 'to', 'do', 'that']"
+245	Yeah. 	да. 	['да']	['Yeah']
+246	Want me to bag for you, Ana? 	Положить это в пакет, Ана? 	['Положить', 'это', 'в', 'пакет', 'Ана']	['Want', 'me', 'to', 'bag', 'for', 'you', 'Ana']
+247	Oh. Uh, no, I'm good. Thanks, though, Paul. 	Нет, я справлюсь. Спасибо, Пол. 	['Нет', 'я', 'справлюсь', 'Спасибо', 'Пол']	"['Oh', 'Uh', 'no', ""I'm"", 'good', 'Thanks', 'though', 'Paul']"
+248	Okay. 	Ладно. 	['Ладно']	['Okay']
+249	I'm staying locally at the Heathman. 	"Я остановился неподалеку, в гостинице ""Хитман"". "	['Я', 'остановился', 'неподалеку', 'в', 'гостинице', 'Хитман']	"[""I'm"", 'staying', 'locally', 'at', 'the', 'Heathman']"
+250	Call me before 10:00. 	Позвоните мне до 10 вечера. 	['Позвоните', 'мне', 'до', '10', 'вечера']	['Call', 'me', 'before', '10:00']
+251	About the photos. 	Насчет фотографий. 	['Насчет', 'фотографий']	['About', 'the', 'photos']
+252	Yeah, I will. 	Да, хорошо. 	['Да', 'хорошо']	['Yeah', 'I', 'will']
+253	EnJOY your... 	Приятного вам... 	['Приятного', 'вам']	['EnJOY', 'your']
+254	Thanks again for doing this, Mr. Grey. 	Еще раз большое спасибо, м-р Грей. 	['Еще', 'раз', 'большое', 'спасибо', 'м-р', 'Грей']	['Thanks', 'again', 'for', 'doing', 'this', 'Mr', 'Grey']
+255	I'm happy to help. 	Я рад помочь вам. 	['Я', 'рад', 'помочь', 'вам']	"[""I'm"", 'happy', 'to', 'help']"
+256	Uh, how about we try a few with a smile? 	Может быть, попробуете улыбнуться? 	['Может', 'быть', 'попробуете', 'улыбнуться']	['Uh', 'how', 'about', 'we', 'try', 'a', 'few', 'with', 'a', 'smile']
+257	Or not. 	Но и так неплохо. 	['Но', 'и', 'так', 'неплохо']	['Or', 'not']
+258	You do realize that he hasn't stopped looking at you. 	Ты заметила, что он не отрывает от тебя глаз? 	['Ты', 'заметила', 'что', 'он', 'не', 'отрывает', 'от', 'тебя', 'глаз']	"['You', 'do', 'realize', 'that', 'he', ""hasn't"", 'stopped', 'looking', 'at', 'you']"
+259	He asked me to go for coffee afterwards. 	Он пригласил меня выпить с ним кофе после фотосессии. 	['Он', 'пригласил', 'меня', 'выпить', 'с', 'ним', 'кофе', 'после', 'фотосессии']	['He', 'asked', 'me', 'to', 'go', 'for', 'coffee', 'afterwards']
+260	What? 	Что? 	['Что']	['What']
+261	Kate, shh. 	Кейт. 	['Кейт']	['Kate', 'shh']
+262	So, is he your boyfriend? 	Так он ваш парень? 	['Так', 'он', 'ваш', 'парень']	['So', 'is', 'he', 'your', 'boyfriend']
+263	Who? 	Кто? 	['Кто']	['Who']
+264	The photographer. 	Фотограф. 	['Фотограф']	['The', 'photographer']
+265	José? 	Хосе? 	['Хосе']	['José']
+266	No. 	Нет. 	['Нет']	['No']
+267	I saw the way he was smiling at you. 	Я видел, как он вам улыбался. 	['Я', 'видел', 'как', 'он', 'вам', 'улыбался']	['I', 'saw', 'the', 'way', 'he', 'was', 'smiling', 'at', 'you']
+268	No, José is more like family. 	Нет. Хосе мне скорее как брат. 	['Нет', 'Хосе', 'мне', 'скорее', 'как', 'брат']	['No', 'José', 'is', 'more', 'like', 'family']
+269	He's not my boyfriend. 	Он не мой парень. 	['Он', 'не', 'мой', 'парень']	"[""He's"", 'not', 'my', 'boyfriend']"
+270	And the guy at the store? 	А тот, из магазина? 	['А', 'тот', 'из', 'магазина']	['And', 'the', 'guy', 'at', 'the', 'store']
+271	Paul? 	Пол? 	['Пол']	['Paul']
+272	No. 	Нет. 	['Нет']	['No']
+273	Thank you. 	Спасибо. 	['Спасибо']	['Thank', 'you']
+274	You seem nervous. 	Кажется, вы нервничаете. 	['Кажется', 'вы', 'нервничаете']	['You', 'seem', 'nervous']
+275	I find you intimidating. 	Вы меня пугаете. 	['Вы', 'меня', 'пугаете']	['I', 'find', 'you', 'intimidating']
+276	You should. 	Так и должно быть. 	['Так', 'и', 'должно', 'быть']	['You', 'should']
+277	Eat. 	Ешьте. 	['Ешьте']	['Eat']
+278	Not to mention high-handed. 	А еще вы властный. (не говоря уж о том..) 	['А', 'еще', 'вы', 'властный', 'не', 'говоря', 'уж', 'о', 'том']	['Not', 'to', 'mention', 'high-handed']
+279	I'm used to getting my own way. 	Я привык к тому, чтобы все было по-моему. 	['Я', 'привык', 'к', 'тому', 'чтобы', 'все', 'было', 'по-моему']	"[""I'm"", 'used', 'to', 'getting', 'my', 'own', 'way']"
+280	That must get very boring. 	Наверное, это надоедает. 	['Наверное', 'это', 'надоедает']	['That', 'must', 'get', 'very', 'boring']
+281	Tell me about your family. 	Расскажите мне о вашей семье. 	['Расскажите', 'мне', 'о', 'вашей', 'семье']	['Tell', 'me', 'about', 'your', 'family']
+282	My family? Um... 	О моей семье? 	['О', 'моей', 'семье']	['My', 'family', 'Um']
+283	Okay. 	Ладно. 	['Ладно']	['Okay']
+284	My dad died when I was a baby. 	Мой отец умер, когда я была ребенком. 	['Мой', 'отец', 'умер', 'когда', 'я', 'была', 'ребенком']	['My', 'dad', 'died', 'when', 'I', 'was', 'a', 'baby']
+285	So, I was raised by my stepfather, Ray. 	Меня вырастил мой отчим Рей. 	['Меня', 'вырастил', 'мой', 'отчим', 'Рей']	['So', 'I', 'was', 'raised', 'by', 'my', 'stepfather', 'Ray']
+286	He's amazing. 	Он замечательный. 	['Он', 'замечательный']	"[""He's"", 'amazing']"
+287	And your mother? 	А ваша мать? 	['А', 'ваша', 'мать']	['And', 'your', 'mother']
+288	Um, my mother is on husband number four. 	У нее сейчас муж номер четыре. 	['У', 'нее', 'сейчас', 'муж', 'номер', 'четыре']	['Um', 'my', 'mother', 'is', 'on', 'husband', 'number', 'four']
+289	She's an incurable romantic. 	Она неизлечимый романтик. 	['Она', 'неизлечимый', 'романтик']	"[""She's"", 'an', 'incurable', 'romantic']"
+290	Are you? 	А вы? 	['А', 'вы']	['Are', 'you']
+291	Am I a romantic? 	Романтик ли я? 	['Романтик', 'ли', 'я']	['Am', 'I', 'a', 'romantic']
+292	Well, I study English Lit. 	Ну, я изучаю английскую литературу. 	['Ну', 'я', 'изучаю', 'английскую', 'литературу']	['Well', 'I', 'study', 'English', 'Lit']
+293	So, I kind of have to be. 	Так что мне положено быть романтичной. 	['Так', 'что', 'мне', 'положено', 'быть', 'романтичной']	['So', 'I', 'kind', 'of', 'have', 'to', 'be']
+294	I thought the photo shoot went well. Right? 	Мне кажется, фотосессия прошла хорошо. А как вы думаете? 	['Мне', 'кажется', 'фотосессия', 'прошла', 'хорошо', 'А', 'как', 'вы', 'думаете']	['I', 'thought', 'the', 'photo', 'shoot', 'went', 'well', 'Right']
+295	Kate seems to be really... 	Кажется, Кейт очень... 	['Кажется', 'Кейт', 'очень']	['Kate', 'seems', 'to', 'be', 'really']
+296	I'm sorry, I can't... 	Простите, я не могу... 	['Простите', 'я', 'не', 'могу']	"[""I'm"", 'sorry', 'I', ""can't""]"
+297	What? 	Что? 	['Что']	['What']
+298	I'll walk you out. 	Я вас провожу. 	['Я', 'вас', 'провожу']	"[""I'll"", 'walk', 'you', 'out']"
+299	Do you have a girlfriend? Is that it? 	У вас есть девушка? Дело в этом? 	['У', 'вас', 'есть', 'девушка', 'Дело', 'в', 'этом']	['Do', 'you', 'have', 'a', 'girlfriend', 'Is', 'that', 'it']
+300	I don't do the girlfriend thing. 	У меня не бывает девушек. 	['У', 'меня', 'не', 'бывает', 'девушек']	"['I', ""don't"", 'do', 'the', 'girlfriend', 'thing']"
+301	What does that even... Watch it! 	- Что это вообще зна... - Осторожней! 	['Что', 'это', 'вообще', 'зна', 'Осторожней']	['What', 'does', 'that', 'even', 'Watch', 'it']
+302	I'm not the man for you. 	Я вам не подхожу. 	['Я', 'вам', 'не', 'подхожу']	"[""I'm"", 'not', 'the', 'man', 'for', 'you']"
+303	You should steer clear of me. 	Вам надо держаться от меня подальше. 	['Вам', 'надо', 'держаться', 'от', 'меня', 'подальше']	['You', 'should', 'steer', 'clear', 'of', 'me']
+304	I have to let you go. 	Я должен вас отпустить. 	['Я', 'должен', 'вас', 'отпустить']	['I', 'have', 'to', 'let', 'you', 'go']
+305	Goodbye, Mr. Grey. 	Прощайте, м-р Грей. 	['Прощайте', 'м-р', 'Грей']	['Goodbye', 'Mr', 'Grey']
+306	All right, pencils down. 	Хорошо, отложите ручки. 	['Хорошо', 'отложите', 'ручки']	['All', 'right', 'pencils', 'down']
+307	Please take your final exams to the back of the classroom 	Сложите работы в задней части класса. 	['Сложите', 'работы', 'в', 'задней', 'части', 'класса']	['Please', 'take', 'your', 'final', 'exams', 'to', 'the', 'back', 'of', 'the', 'classroom']
+308	Final grades will be posted in two weeks. 	Оценки будут выставлены через две недели. 	['Оценки', 'будут', 'выставлены', 'через', 'две', 'недели']	['Final', 'grades', 'will', 'be', 'posted', 'in', 'two', 'weeks']
+309	Hey. You all good? 	Привет. Ты в порядке? 	['Привет', 'Ты', 'в', 'порядке']	['Hey', 'You', 'all', 'good']
+310	Yeah. Why wouldn't I be? 	Да. С чего бы мне быть не в порядке? 	['Да', 'С', 'чего', 'бы', 'мне', 'быть', 'не', 'в', 'порядке']	"['Yeah', 'Why', ""wouldn't"", 'I', 'be']"
+311	We are so partying tonight. 	Ну мы сегодня повеселимся. 	['Ну', 'мы', 'сегодня', 'повеселимся']	['We', 'are', 'so', 'partying', 'tonight']
+312	on, my God. 	О господи. 	['О', 'господи']	['on', 'my', 'God']
+313	This is way too much. 	Это слишком. 	['Это', 'слишком']	['This', 'is', 'way', 'too', 'much']
+314	No, this is exactly the right amount. 	Нет, в самый раз. 	['Нет', 'в', 'самый', 'раз']	['No', 'this', 'is', 'exactly', 'the', 'right', 'amount']
+315	You're getting it all over my face. 	Ты мне все лицо измазала. 	['Ты', 'мне', 'все', 'лицо', 'измазала']	"[""You're"", 'getting', 'it', 'all', 'over', 'my', 'face']"
+316	That's the idea. 	В этом и смысл. 	['В', 'этом', 'и', 'смысл']	"[""That's"", 'the', 'idea']"
+317	Wow. No, Kate. 	Ого. Нет, Кейт. 	['Ого', 'Нет', 'Кейт']	['Wow', 'No', 'Kate']
+318	Cab's early. Let's go. 	Такси приехало раньше. Пошли. 	['Такси', 'приехало', 'раньше', 'Пошли']	"[""Cab's"", 'early', ""Let's"", 'go']"
+319	Ana, it's a package for you. 	Ана, тебе посылка. 	['Ана', 'тебе', 'посылка']	"['Ana', ""it's"", 'a', 'package', 'for', 'you']"
+320	Why didn't you tell me there was danger? Why didn't you warn me? 	"""Почему ты не сказала, что мне стоит опасаться мужчин? "	['Почему', 'ты', 'не', 'сказала', 'что', 'мне', 'стоит', 'опасаться', 'мужчин']	"['Why', ""didn't"", 'you', 'tell', 'me', 'there', 'was', 'danger', 'Why', ""didn't"", 'you', 'warn', 'me']"
+321	Ladies know what to guard against 	Богатые дамы знают, чего им остерегаться, 	['Богатые', 'дамы', 'знают', 'чего', 'им', 'остерегаться']	['Ladies', 'know', 'what', 'to', 'guard', 'against']
+322	because they read novels that tell them of these tricks. 	"потому что читают романы о таких проделках"". "	['потому', 'что', 'читают', 'романы', 'о', 'таких', 'проделках']	['because', 'they', 'read', 'novels', 'that', 'tell', 'them', 'of', 'these', 'tricks']
+323	That's a quote from Tess of the D'Urbervilles. 	"Это цитата из ""Тэсс из рода Д'Эрбервиллей"". "	"['Это', 'цитата', 'из', 'Тэсс', 'из', 'рода', ""Д'Эрбервиллей""]"	"[""That's"", 'a', 'quote', 'from', 'Tess', 'of', 'the', ""D'Urbervilles""]"
+324	Oh, my God. 	О господи. 	['О', 'господи']	['Oh', 'my', 'God']
+325	These must be from Christian. 	Это, наверное, от Кристиана. 	['Это', 'наверное', 'от', 'Кристиана']	['These', 'must', 'be', 'from', 'Christian']
+326	Do you... I mean... 	Ты... То есть... 	['Ты', 'То', 'есть']	['Do', 'you', 'I', 'mean']
+327	These are incredible. 	Это невероятно. 	['Это', 'невероятно']	['These', 'are', 'incredible']
+328	Wow, Grey. 	Ничего себе, Грей. 	['Ничего', 'себе', 'Грей']	['Wow', 'Grey']
+329	Kate, these are first editions. 	Кейт, это первые издания. 	['Кейт', 'это', 'первые', 'издания']	['Kate', 'these', 'are', 'first', 'editions']
+330	I can't. 	Я не могу. 	['Я', 'не', 'могу']	"['I', ""can't""]"
+331	This is too much. 	Это слишком. 	['Это', 'слишком']	['This', 'is', 'too', 'much']
+332	I can't accept these. I have to send them back. 	Я не могу их принять. Я должна отослать их обратно. 	['Я', 'не', 'могу', 'их', 'принять', 'Я', 'должна', 'отослать', 'их', 'обратно']	"['I', ""can't"", 'accept', 'these', 'I', 'have', 'to', 'send', 'them', 'back']"
+333	That's the cab. 	Это такси. 	['Это', 'такси']	"[""That's"", 'the', 'cab']"
+334	Okay, are you ready? 	Хорошо, ты готова? 	['Хорошо', 'ты', 'готова']	['Okay', 'are', 'you', 'ready']
+335	Are you ready to go? Yes. Yes, very. 	- Ты готова идти? - Да. Да, еще как. 	['Ты', 'готова', 'идти', 'Да', 'Да', 'еще', 'как']	['Are', 'you', 'ready', 'to', 'go', 'Yes', 'Yes', 'very']
+336	Let's get out of here. 	Пошли. 	['Пошли']	"[""Let's"", 'get', 'out', 'of', 'here']"
+337	- Shots, shots, shots! 	Сначала шоты... Шоты, шоты! 	['Сначала', 'шоты', 'Шоты', 'шоты']	['Shots', 'shots', 'shots']
+338	Hold on. Nobody hold back, either. 	Погодите. Пьют все. 	['Погодите', 'Пьют', 'все']	['Hold', 'on', 'Nobody', 'hold', 'back', 'either']
+339	Did you do it all? 	Вы все выпили? 	['Вы', 'все', 'выпили']	['Did', 'you', 'do', 'it', 'all']
+340	All right. With my eyes closed and left-handed, I can get this in. 	Так. Я могу попасть даже левой рукой и с завязанными глазами. 	['Так', 'Я', 'могу', 'попасть', 'даже', 'левой', 'рукой', 'и', 'с', 'завязанными', 'глазами']	['All', 'right', 'With', 'my', 'eyes', 'closed', 'and', 'left-handed', 'I', 'can', 'get', 'this', 'in']
+341	I gotta pee. Okay. 	- Мне нужно в туалет. - Ладно. 	['Мне', 'нужно', 'в', 'туалет', 'Ладно']	['I', 'gotta', 'pee', 'Okay']
+342	Where ' I gotta go. 	- Вы куда? - Мне надо выйти. 	['Вы', 'куда', 'Мне', 'надо', 'выйти']	"['Where', ""'"", 'I', 'gotta', 'go']"
+343	I gotta pee. 	Мне нужно в туалет. 	['Мне', 'нужно', 'в', 'туалет']	['I', 'gotta', 'pee']
+344	Anastasia? 	Анастейша? 	['Анастейша']	['Anastasia']
+345	Yeah, this is me. 	Да, это я. 	['Да', 'это', 'я']	['Yeah', 'this', 'is', 'me']
+346	I'm sending back your expensive books, because I already have copies of those. 	Я пошлю тебе обратно твои дорогие книги, у меня есть другие издания. 	['Я', 'пошлю', 'тебе', 'обратно', 'твои', 'дорогие', 'книги', 'у', 'меня', 'есть', 'другие', 'издания']	"[""I'm"", 'sending', 'back', 'your', 'expensive', 'books', 'because', 'I', 'already', 'have', 'copies', 'of', 'those']"
+347	Thanks, though, for the kind gesture. 	Но спасибо, это было мило с твоей стороны. 	['Но', 'спасибо', 'это', 'было', 'мило', 'с', 'твоей', 'стороны']	['Thanks', 'though', 'for', 'the', 'kind', 'gesture']
+348	You're welcome. Where are you? 	Пожалуйста. Где ты? 	['Пожалуйста', 'Где', 'ты']	"[""You're"", 'welcome', 'Where', 'are', 'you']"
+349	I'm in line, because I have to pee really bad. 	Я в очереди, потому что мне очень нужно в туалет. 	['Я', 'в', 'очереди', 'потому', 'что', 'мне', 'очень', 'нужно', 'в', 'туалет']	"[""I'm"", 'in', 'line', 'because', 'I', 'have', 'to', 'pee', 'really', 'bad']"
+350	Anastasia, have you been drinking? 	Анастейша, ты выпила? 	['Анастейша', 'ты', 'выпила']	['Anastasia', 'have', 'you', 'been', 'drinking']
+351	Yeah. 	Да. 	['Да']	['Yeah']
+352	I have, Mr. Fancy Pants. 	Да, м-р Элегантность. 	['Да', 'м-р', 'Элегантность']	['I', 'have', 'Mr', 'Fancy', 'Pants']
+353	You hit the hail on the nead. 	Угадал прямо в яблочко. 	['Угадал', 'прямо', 'в', 'яблочко']	['You', 'hit', 'the', 'hail', 'on', 'the', 'nead']
+354	I mean, the head right on the nail. 	То есть попал в яблочко. 	['То', 'есть', 'попал', 'в', 'яблочко']	['I', 'mean', 'the', 'head', 'right', 'on', 'the', 'nail']
+355	Listen to me. I want you to go home right now. 	Послушай меня. Немедленно поезжай домой. 	['Послушай', 'меня', 'Немедленно', 'поезжай', 'домой']	['Listen', 'to', 'me', 'I', 'want', 'you', 'to', 'go', 'home', 'right', 'now']
+356	You're so bossy. 	Ты все время командуешь. 	['Ты', 'все', 'время', 'командуешь']	"[""You're"", 'so', 'bossy']"
+357	Ana, let's go for coffee. 	"""Ана, давай выпьем кофе"". "	['Ана', 'давай', 'выпьем', 'кофе']	"['Ana', ""let's"", 'go', 'for', 'coffee']"
+358	No, stay away from me, Ana. 	"""Нет, Ана, держись от меня подальше. "	['Нет', 'Ана', 'держись', 'от', 'меня', 'подальше']	['No', 'stay', 'away', 'from', 'me', 'Ana']
+359	I don't want you. Get away. 	"Ты мне не нужна. Уходи"". "	['Ты', 'мне', 'не', 'нужна', 'Уходи']	"['I', ""don't"", 'want', 'you', 'Get', 'away']"
+360	Come here, come here. Go away. 	"""Иди ко мне, иди"". ""Уйди"". "	['Иди', 'ко', 'мне', 'иди', 'Уйди']	['Come', 'here', 'come', 'here', 'Go', 'away']
+361	That's it. Tell me where you are. 	Хватит. Скажи мне, где ты. 	['Хватит', 'Скажи', 'мне', 'где', 'ты']	"[""That's"", 'it', 'Tell', 'me', 'where', 'you', 'are']"
+362	I'm a long way from Seattle. 	Я очень далеко от Сиэтла. 	['Я', 'очень', 'далеко', 'от', 'Сиэтла']	"[""I'm"", 'a', 'long', 'way', 'from', 'Seattle']"
+363	A long way from you. 	Очень далеко от тебя. 	['Очень', 'далеко', 'от', 'тебя']	['A', 'long', 'way', 'from', 'you']
+364	Which bar? What's it called? 	В каком ты баре? Как он называется? 	['В', 'каком', 'ты', 'баре', 'Как', 'он', 'называется']	"['Which', 'bar', ""What's"", 'it', 'called']"
+365	I don't know. I gotta go, though. 	Я не знаю. Мне пора. 	['Я', 'не', 'знаю', 'Мне', 'пора']	"['I', ""don't"", 'know', 'I', 'gotta', 'go', 'though']"
+366	Which bar, Ana? 	В каком ты баре, Ана? 	['В', 'каком', 'ты', 'баре', 'Ана']	['Which', 'bar', 'Ana']
+367	I told him. Right? 	Я ему показала. Да? 	['Я', 'ему', 'показала', 'Да']	['I', 'told', 'him', 'Right']
+368	I'm sorry, I didn't... 	Прости, я не... 	['Прости', 'я', 'не']	"[""I'm"", 'sorry', 'I', ""didn't""]"
+369	Stay where you are. I'm coming to get you. 	Никуда не уходи. Я за тобой приеду. 	['Никуда', 'не', 'уходи', 'Я', 'за', 'тобой', 'приеду']	"['Stay', 'where', 'you', 'are', ""I'm"", 'coming', 'to', 'get', 'you']"
+370	What? 	Что? 	['Что']	['What']
+371	Hello? 	Алло? 	['Алло']	['Hello']
+372	Hey. 	Привет. 	['Привет']	['Hey']
+373	Oh, thanks. 	Спасибо. 	['Спасибо']	['Oh', 'thanks']
+374	You okay? 	Все нормально? 	['Все', 'нормально']	['You', 'okay']
+375	Yeah. I'm just a little bit more drunk than... 	Да. Просто я немного пьяная... 	['Да', 'Просто', 'я', 'немного', 'пьяная']	"['Yeah', ""I'm"", 'just', 'a', 'little', 'bit', 'more', 'drunk', 'than']"
+376	Come here, stay warm. 	Иди сюда, я тебя согрею. 	['Иди', 'сюда', 'я', 'тебя', 'согрею']	['Come', 'here', 'stay', 'warm']
+377	Oh, it's cool. I'm good, José. I got it. 	Да не надо. Все нормально, Хосе. Все в порядке. 	['Да', 'не', 'надо', 'Все', 'нормально', 'Хосе', 'Все', 'в', 'порядке']	"['Oh', ""it's"", 'cool', ""I'm"", 'good', 'José', 'I', 'got', 'it']"
+378	I don't know when I'll have the courage to do this. 	Не знаю, когда еще я наберусь смелости сделать это. 	['Не', 'знаю', 'когда', 'еще', 'я', 'наберусь', 'смелости', 'сделать', 'это']	"['I', ""don't"", 'know', 'when', ""I'll"", 'have', 'the', 'courage', 'to', 'do', 'this']"
+379	Do what? 	Что сделать? 	['Что', 'сделать']	['Do', 'what']
+380	Ana. I like you. No. 	- Ана. Ты мне нравишься. - Нет. 	['Ана', 'Ты', 'мне', 'нравишься', 'Нет']	['Ana', 'I', 'like', 'you', 'No']
+381	You do? Very much. 	- Правда? - Очень. 	['Правда', 'Очень']	['You', 'do', 'Very', 'much']
+382	Oh, my God. 	О боже. 	['О', 'боже']	['Oh', 'my', 'God']
+383	Please. 	Пожалуйста. 	['Пожалуйста']	['Please']
+384	One kiss. 	Один поцелуй. 	['Один', 'поцелуй']	['One', 'kiss']
+385	No, no, no. 	Нет, нет, нет. 	['Нет', 'нет', 'нет']	['No', 'no', 'no']
+386	José, I don't.. I'm sorry, no.. 	Хосе, я не... Прости, но нет. 	['Хосе', 'я', 'не', 'Прости', 'но', 'нет']	"['José', 'I', ""don't"", ""I'm"", 'sorry', 'no']"
+387	Dude, she said no! 	"Слушай, она же сказала ""нет""! "	['Слушай', 'она', 'же', 'сказала', 'нет']	['Dude', 'she', 'said', 'no']
+388	Christian? 	Кристиан! 	['Кристиан']	['Christian']
+389	- Don't look at me. Ugh. 	- Не смотри на меня. 	['Не', 'смотри', 'на', 'меня']	"[""Don't"", 'look', 'at', 'me', 'Ugh']"
+390	Nice touch. 	Как мило. 	['Как', 'мило']	['Nice', 'touch']
+391	I will launder this item. 	Я его постираю. 	['Я', 'его', 'постираю']	['I', 'will', 'launder', 'this', 'item']
+392	Let's get you home. 	Давай я отвезу тебя домой. 	['Давай', 'я', 'отвезу', 'тебя', 'домой']	"[""Let's"", 'get', 'you', 'home']"
+393	I'm with Kate. 	Я приехала с Кейт. 	['Я', 'приехала', 'с', 'Кейт']	"[""I'm"", 'with', 'Kate']"
+394	I'll have Elliot tell her. 	Эллиот ей скажет. 	['Эллиот', 'ей', 'скажет']	"[""I'll"", 'have', 'Elliot', 'tell', 'her']"
+395	Who's Elliot? 	Кто такой Эллиот? 	['Кто', 'такой', 'Эллиот']	"[""Who's"", 'Elliot']"
+396	He's my brother. He's inside, talking to her right now. 	Мой брат. Он сейчас в баре, разговаривает с Кейт. 	['Мой', 'брат', 'Он', 'сейчас', 'в', 'баре', 'разговаривает', 'с', 'Кейт']	"[""He's"", 'my', 'brother', ""He's"", 'inside', 'talking', 'to', 'her', 'right', 'now']"
+397	How... I don't... 	Как... Я не... 	['Как', 'Я', 'не']	"['How', 'I', ""don't""]"
+398	He was at my hotel with me. 	Он был вместе со мной в гостинице. 	['Он', 'был', 'вместе', 'со', 'мной', 'в', 'гостинице']	['He', 'was', 'at', 'my', 'hotel', 'with', 'me']
+399	You're still at the Heathman? 	"Ты все еще в ""Хитмане""? "	['Ты', 'все', 'еще', 'в', 'Хитмане']	"[""You're"", 'still', 'at', 'the', 'Heathman']"
+400	Yeah. 	Да. 	['Да']	['Yeah']
+401	Come. 	Пойдем. 	['Пойдем']	['Come']
+402	That's your brother? 	Это твой брат? 	['Это', 'твой', 'брат']	"[""That's"", 'your', 'brother']"
+403	Not by choice. Let's go. 	Я его не выбирал. Пойдем. 	['Я', 'его', 'не', 'выбирал', 'Пойдем']	"['Not', 'by', 'choice', ""Let's"", 'go']"
+404	Wait, what did Kate say? 	Погоди, а что сказала Кейт? 	['Погоди', 'а', 'что', 'сказала', 'Кейт']	['Wait', 'what', 'did', 'Kate', 'say']
+405	She warned me to be on my best behavior. 	Сказала мне вести себя прилично. 	['Сказала', 'мне', 'вести', 'себя', 'прилично']	['She', 'warned', 'me', 'to', 'be', 'on', 'my', 'best', 'behavior']
+406	More like threatened me. 	Даже пригрозила. 	['Даже', 'пригрозила']	['More', 'like', 'threatened', 'me']
+407	She threatened you? 	Она тебе пригрозила? 	['Она', 'тебе', 'пригрозила']	['She', 'threatened', 'you']
+408	You're spinning. 	Ты кружишься. 	['Ты', 'кружишься']	"[""You're"", 'spinning']"
+409	I think I'm gonna faint. 	Кажется, я сейчас упаду в обморок. 	['Кажется', 'я', 'сейчас', 'упаду', 'в', 'обморок']	"['I', 'think', ""I'm"", 'gonna', 'faint']"
+410	What? Now? 	Что? Прямо сейчас? 	['Что', 'Прямо', 'сейчас']	['What', 'Now']
+411	Good morning, Anastasia. 	Доброе утро, Анастейша. 	['Доброе', 'утро', 'Анастейша']	['Good', 'morning', 'Anastasia']
+412	How are you feeling? 	Как ты себя чувствуешь? 	['Как', 'ты', 'себя', 'чувствуешь']	['How', 'are', 'you', 'feeling']
+413	Better than I deserve. 	Лучше, чем я того заслуживаю. 	['Лучше', 'чем', 'я', 'того', 'заслуживаю']	['Better', 'than', 'I', 'deserve']
+414	Did you put me to bed? 	Ты уложил меня в кровать? 	['Ты', 'уложил', 'меня', 'в', 'кровать']	['Did', 'you', 'put', 'me', 'to', 'bed']
+415	You undressed me? 	Ты меня раздел? 	['Ты', 'меня', 'раздел']	['You', 'undressed', 'me']
+416	I didn't have much choice. 	У меня не было выбора. 	['У', 'меня', 'не', 'было', 'выбора']	"['I', ""didn't"", 'have', 'much', 'choice']"
+417	Where did you sleep? 	А где ты спал? 	['А', 'где', 'ты', 'спал']	['Where', 'did', 'you', 'sleep']
+418	Oh, my God. Did we? We didn't... 	О господи. Мы?.. Мы не... 	['О', 'господи', 'Мы', 'Мы', 'не']	"['Oh', 'my', 'God', 'Did', 'we', 'We', ""didn't""]"
+419	Necrophilia is not my thing. 	Я не увлекаюсь некрофилией. 	['Я', 'не', 'увлекаюсь', 'некрофилией']	['Necrophilia', 'is', 'not', 'my', 'thing']
+420	So we just slept, then? 	То есть мы просто спали? 	['То', 'есть', 'мы', 'просто', 'спали']	['So', 'we', 'just', 'slept', 'then']
+421	It was a novelty for me, too. 	Для меня это тоже было внове. 	['Для', 'меня', 'это', 'тоже', 'было', 'внове']	['It', 'was', 'a', 'novelty', 'for', 'me', 'too']
+422	You need to eat. 	Тебе надо поесть. 	['Тебе', 'надо', 'поесть']	['You', 'need', 'to', 'eat']
+423	I had Taylor pick you up some clothes. 	Я сказал Тейлору купить тебе одежду. 	['Я', 'сказал', 'Тейлору', 'купить', 'тебе', 'одежду']	['I', 'had', 'Taylor', 'pick', 'you', 'up', 'some', 'clothes']
+424	Who's Taylor? 	Кто такой Тейлор? 	['Кто', 'такой', 'Тейлор']	"[""Who's"", 'Taylor']"
+425	My driver. 	Мой водитель. 	['Мой', 'водитель']	['My', 'driver']
+426	Thank you, but you didn't have to do that. 	Спасибо, но это было необязательно. 	['Спасибо', 'но', 'это', 'было', 'необязательно']	"['Thank', 'you', 'but', 'you', ""didn't"", 'have', 'to', 'do', 'that']"
+427	Yes, I did. 	Нет, обязательно. 	['Нет', 'обязательно']	['Yes', 'I', 'did']
+428	Yours were covered in vomit. 	Твоя одежда запачкана рвотой. 	['Твоя', 'одежда', 'запачкана', 'рвотой']	['Yours', 'were', 'covered', 'in', 'vomit']
+429	You shouldn't get drunk like that. 	Тебе не следует так напиваться. 	['Тебе', 'не', 'следует', 'так', 'напиваться']	"['You', ""shouldn't"", 'get', 'drunk', 'like', 'that']"
+430	I'm all for testing the limits, but you put yourself at risk last night. 	Я не против нарушения правил, но вчера ты сильно рисковала. 	['Я', 'не', 'против', 'нарушения', 'правил', 'но', 'вчера', 'ты', 'сильно', 'рисковала']	"[""I'm"", 'all', 'for', 'testing', 'the', 'limits', 'but', 'you', 'put', 'yourself', 'at', 'risk', 'last', 'night']"
+431	I know. 	Я знаю. 	['Я', 'знаю']	['I', 'know']
+432	If you were mine, you wouldn't be able to sit down for a week. 	Если бы ты была моей, ты бы неделю сесть не смогла. 	['Если', 'бы', 'ты', 'была', 'моей', 'ты', 'бы', 'неделю', 'сесть', 'не', 'смогла']	"['If', 'you', 'were', 'mine', 'you', ""wouldn't"", 'be', 'able', 'to', 'sit', 'down', 'for', 'a', 'week']"
+433	What? 	Что? 	['Что']	['What']
+434	I gotta go take a shower. 	Мне надо принять душ. 	['Мне', 'надо', 'принять', 'душ']	['I', 'gotta', 'go', 'take', 'a', 'shower']
+435	Why am I here, Christian? 	Почему я здесь, Кристиан? 	['Почему', 'я', 'здесь', 'Кристиан']	['Why', 'am', 'I', 'here', 'Christian']
+436	You're here because I'm incapable of leaving you alone. 	Ты здесь, потому что я не могу расстаться с тобой. 	['Ты', 'здесь', 'потому', 'что', 'я', 'не', 'могу', 'расстаться', 'с', 'тобой']	"[""You're"", 'here', 'because', ""I'm"", 'incapable', 'of', 'leaving', 'you', 'alone']"
+437	Then don't. 	Ну и не надо. 	['Ну', 'и', 'не', 'надо']	"['Then', ""don't""]"
+438	Why did you send me those books? 	Почему ты послал мне те книги? 	['Почему', 'ты', 'послал', 'мне', 'те', 'книги']	['Why', 'did', 'you', 'send', 'me', 'those', 'books']
+439	I thought I owed you an apology. 	Я решил, что должен извиниться перед тобой. 	['Я', 'решил', 'что', 'должен', 'извиниться', 'перед', 'тобой']	['I', 'thought', 'I', 'owed', 'you', 'an', 'apology']
+440	For what? 	За что? 	['За', 'что']	['For', 'what']
+441	For letting you believe that I... 	За что, что дал тебе поверить... 	['За', 'что', 'что', 'дал', 'тебе', 'поверить']	['For', 'letting', 'you', 'believe', 'that', 'I']
+442	Listen to me. 	Послушай. 	['Послушай']	['Listen', 'to', 'me']
+443	I don't do romance. 	Романтические отношения - это не для меня. 	['Романтические', 'отношения', 'это', 'не', 'для', 'меня']	"['I', ""don't"", 'do', 'romance']"
+444	My tastes are very 	Мои вкусы очень 	['Мои', 'вкусы', 'очень']	['My', 'tastes', 'are', 'very']
+445	singular. 	своеобразны. 	['своеобразны']	['singular']
+446	You wouldn't understand. 	Ты не поймешь. 	['Ты', 'не', 'поймешь']	"['You', ""wouldn't"", 'understand']"
+447	Enlighten me, then. 	Тогда просвети меня. 	['Тогда', 'просвети', 'меня']	['Enlighten', 'me', 'then']
+448	You look beautiful. 	Ты прекрасно выглядишь. 	['Ты', 'прекрасно', 'выглядишь']	['You', 'look', 'beautiful']
+449	Taylor has good taste. 	У Тейлора хороший вкус. 	['У', 'Тейлора', 'хороший', 'вкус']	['Taylor', 'has', 'good', 'taste']
+450	What are you doing later? 	Какие у тебя планы на сегодня? 	['Какие', 'у', 'тебя', 'планы', 'на', 'сегодня']	['What', 'are', 'you', 'doing', 'later']
+451	I'm working at the hardware store until 7:00. 	Я до 19.00 работаю в хозяйственном магазине. 	['Я', 'до', '19.00', 'работаю', 'в', 'хозяйственном', 'магазине']	"[""I'm"", 'working', 'at', 'the', 'hardware', 'store', 'until', '7:00']"
+452	I'll have Taylor pick you up then. 	Тейлор тебя заберет. 	['Тейлор', 'тебя', 'заберет']	"[""I'll"", 'have', 'Taylor', 'pick', 'you', 'up', 'then']"
+453	I would like to bite that lip. 	Я бы хотел укусить твои губы. 	['Я', 'бы', 'хотел', 'укусить', 'твои', 'губы']	['I', 'would', 'like', 'to', 'bite', 'that', 'lip']
+454	I think I'd like that, too. 	Кажется, я бы тоже этого хотела. 	['Кажется', 'я', 'бы', 'тоже', 'этого', 'хотела']	"['I', 'think', ""I'd"", 'like', 'that', 'too']"
+455	I'm not gonna touch you. 	Я не прикоснусь к тебе, 	['Я', 'не', 'прикоснусь', 'к', 'тебе']	"[""I'm"", 'not', 'gonna', 'touch', 'you']"
+456	Not until I have your written consent. 	пока не получу твоего письменного согласия. 	['пока', 'не', 'получу', 'твоего', 'письменного', 'согласия']	['Not', 'until', 'I', 'have', 'your', 'written', 'consent']
+457	What? 	Что? 	['Что']	['What']
+458	I'll explain later. 	Потом объясню. 	['Потом', 'объясню']	"[""I'll"", 'explain', 'later']"
+459	Come, I'll take you home. 	Пойдем, я отвезу тебя домой. 	['Пойдем', 'я', 'отвезу', 'тебя', 'домой']	"['Come', ""I'll"", 'take', 'you', 'home']"
+460	Fuck the paperwork. 	К черту подписи. 	['К', 'черту', 'подписи']	['Fuck', 'the', 'paperwork']
+461	As I was saying... 	Как я говорил... 	['Как', 'я', 'говорил']	['As', 'I', 'was', 'saying']
+462	What is it about elevators? 	Что-то такое есть в лифтах. 	['Что-то', 'такое', 'есть', 'в', 'лифтах']	['What', 'is', 'it', 'about', 'elevators']
+463	Hey. 	Привет. 	['Привет']	['Hey']
+464	Hi. You must be Ana. 	Привет. Ты, наверное, Ана. 	['Привет', 'Ты', 'наверное', 'Ана']	['Hi', 'You', 'must', 'be', 'Ana']
+465	You must be Elliot. 	А ты, наверное, Эллиот. 	['А', 'ты', 'наверное', 'Эллиот']	['You', 'must', 'be', 'Elliot']
+466	And we must be going. Elliot... 	И нам пора идти. Эллиот... 	['И', 'нам', 'пора', 'идти', 'Эллиот']	['And', 'we', 'must', 'be', 'going', 'Elliot']
+467	So awesome to meet you. 	Очень рад знакомству. 	['Очень', 'рад', 'знакомству']	['So', 'awesome', 'to', 'meet', 'you']
+468	Kate's told me a lot about you. 	Кейт мне много о тебе рассказывала. 	['Кейт', 'мне', 'много', 'о', 'тебе', 'рассказывала']	"[""Kate's"", 'told', 'me', 'a', 'lot', 'about', 'you']"
+469	Elliot, find your shoes. Some of us have work to attend to. 	Эллиот, найди свои ботинки. Некоторым из нас надо работать. 	['Эллиот', 'найди', 'свои', 'ботинки', 'Некоторым', 'из', 'нас', 'надо', 'работать']	['Elliot', 'find', 'your', 'shoes', 'Some', 'of', 'us', 'have', 'work', 'to', 'attend', 'to']
+470	What you're doing with Mr. Warmth here. I have no idea. 	Понятия не имею, как ты терпишь этого зануду. 	['Понятия', 'не', 'имею', 'как', 'ты', 'терпишь', 'этого', 'зануду']	"['What', ""you're"", 'doing', 'with', 'Mr', 'Warmth', 'here', 'I', 'have', 'no', 'idea']"
+471	Laters, baby. 	Пока, детка. 	['Пока', 'детка']	['Laters', 'baby']
+472	I'll see you tonight. 	Увидимся вечером. 	['Увидимся', 'вечером']	"[""I'll"", 'see', 'you', 'tonight']"
+473	E-mail me if something changes. 	Пошли мне мейл, если что-то изменится. 	['Пошли', 'мне', 'мейл', 'если', 'что-то', 'изменится']	['E-mail', 'me', 'if', 'something', 'changes']
+474	My computer's broken. 	Мой компьютер сломан. 	['Мой', 'компьютер', 'сломан']	"['My', ""computer's"", 'broken']"
+475	Call, then. I know you have my number. 	Тогда позвони. Я знаю, что у тебя есть мой номер. 	['Тогда', 'позвони', 'Я', 'знаю', 'что', 'у', 'тебя', 'есть', 'мой', 'номер']	['Call', 'then', 'I', 'know', 'you', 'have', 'my', 'number']
+476	Laters, baby. 	Пока, детка. 	['Пока', 'детка']	['Laters', 'baby']
+477	Elliot seems like a really nice guy. 	Похоже, Эллиот - милый парень. 	['Похоже', 'Эллиот', 'милый', 'парень']	['Elliot', 'seems', 'like', 'a', 'really', 'nice', 'guy']
+478	Uh-uh. No, no. We're starting with you. 	Нет уж, давай начнем с тебя. 	['Нет', 'уж', 'давай', 'начнем', 'с', 'тебя']	"['Uh-uh', 'No', 'no', ""We're"", 'starting', 'with', 'you']"
+479	If you're seeing him again tonight, that means that something happened. 	Если вы встречаетесь сегодня вечером, значит, что-то случилось. 	['Если', 'вы', 'встречаетесь', 'сегодня', 'вечером', 'значит', 'что-то', 'случилось']	"['If', ""you're"", 'seeing', 'him', 'again', 'tonight', 'that', 'means', 'that', 'something', 'happened']"
+480	Ana. 	Ана. 	['Ана']	['Ana']
+481	Ana, you have to tell me what happened. I have to get ready for work. 	- Ана, ты должна мне все рассказать. - Мне надо собраться на работу. 	['Ана', 'ты', 'должна', 'мне', 'все', 'рассказать', 'Мне', 'надо', 'собраться', 'на', 'работу']	['Ana', 'you', 'have', 'to', 'tell', 'me', 'what', 'happened', 'I', 'have', 'to', 'get', 'ready', 'for', 'work']
+482	We just kissed. 	Мы только поцеловались. 	['Мы', 'только', 'поцеловались']	['We', 'just', 'kissed']
+483	Once. 	Один раз. 	['Один', 'раз']	['Once']
+484	Only once? That's odd. 	Всего один раз? Это странно. 	['Всего', 'один', 'раз', 'Это', 'странно']	"['Only', 'once', ""That's"", 'odd']"
+485	Odd doesn't even cover it. 	"""Странно"" - это не то слово. "	['Странно', 'это', 'не', 'то', 'слово']	"['Odd', ""doesn't"", 'even', 'cover', 'it']"
+486	Uh-huh. And a new jacket. 	И у нее новый пиджак. 	['И', 'у', 'нее', 'новый', 'пиджак']	['Uh-huh', 'And', 'a', 'new', 'jacket']
+487	Bye. 	Пока. 	['Пока']	['Bye']
+488	Hi. It's Taylor, right? 	Здравствуйте. Вы Тейлор, да? 	['Здравствуйте', 'Вы', 'Тейлор', 'да']	"['Hi', ""It's"", 'Taylor', 'right']"
+489	Good evening, Miss Steele. Mr. Grey will be joining us there. 	Добрый вечер, мисс Стил. М-р Грей присоединится к нам. 	['Добрый', 'вечер', 'мисс', 'Стил', 'М-р', 'Грей', 'присоединится', 'к', 'нам']	['Good', 'evening', 'Miss', 'Steele', 'Mr', 'Grey', 'will', 'be', 'joining', 'us', 'there']
+490	Good evening, Anastasia. 	Добрый вечер, Анастейша. 	['Добрый', 'вечер', 'Анастейша']	['Good', 'evening', 'Anastasia']
+491	Wait. You're flying this? 	Погоди. Ты сам будешь пилотировать? 	['Погоди', 'Ты', 'сам', 'будешь', 'пилотировать']	"['Wait', ""You're"", 'flying', 'this']"
+492	No escaping now. 	Теперь не убежишь. 	['Теперь', 'не', 'убежишь']	['No', 'escaping', 'now']
+493	November 1 -2-2-4. Charlie Tango, ready to depart. 	Ноябрь 1-2-2-4. Чарли Танго к взлету готов. 	['Ноябрь', '1-2-2-4', 'Чарли', 'Танго', 'к', 'взлету', 'готов']	['November', '1', '2-2-4', 'Charlie', 'Tango', 'ready', 'to', 'depart']
+494	Roger that, Charlie Tango. 	Вас понял, Чарли Танго. 	['Вас', 'понял', 'Чарли', 'Танго']	['Roger', 'that', 'Charlie', 'Tango']
+495	Your flight plan from Portland to Seattle is cleared. 	Ваш план полета из Портленда в Сиэтл одобрен. 	['Ваш', 'план', 'полета', 'из', 'Портленда', 'в', 'Сиэтл', 'одобрен']	['Your', 'flight', 'plan', 'from', 'Portland', 'to', 'Seattle', 'is', 'cleared']
+496	Seattle? That's where we're going? 	Сиэтл? Так вот куда мы летим? 	['Сиэтл', 'Так', 'вот', 'куда', 'мы', 'летим']	"['Seattle', ""That's"", 'where', ""we're"", 'going']"
+497	Would you like a drink? 	Хочешь что-нибудь выпить? 	['Хочешь', 'что-нибудь', 'выпить']	['Would', 'you', 'like', 'a', 'drink']
+498	Yes, please. 	Да, спасибо. 	['Да', 'спасибо']	['Yes', 'please']
+499	Wow. 	Ничего себе. 	['Ничего', 'себе']	['Wow']
+500	Do you DEV? 	Ты играешь? 	['Ты', 'играешь']	['Do', 'you', 'DEV']
+501	Yes. 	Да. 	['Да']	['Yes']
+502	Of course you do. 	Конечно. 	['Конечно']	['Of', 'course', 'you', 'do']
+503	What's this? 	Что это? 	['Что', 'это']	"[""What's"", 'this']"
+504	It's a non-disclosure agreement. 	Это договор о неразглашении. 	['Это', 'договор', 'о', 'неразглашении']	"[""It's"", 'a', 'non-disclosure', 'agreement']"
+505	It means that you cannot discuss anything about us with anyone. 	Это значит, что ты не можешь ни с кем обсуждать наши отношения. 	['Это', 'значит', 'что', 'ты', 'не', 'можешь', 'ни', 'с', 'кем', 'обсуждать', 'наши', 'отношения']	['It', 'means', 'that', 'you', 'cannot', 'discuss', 'anything', 'about', 'us', 'with', 'anyone']
+506	I'm afraid my lawyer insists on it. 	К сожалению, на этом настаивает мой адвокат. 	['К', 'сожалению', 'на', 'этом', 'настаивает', 'мой', 'адвокат']	"[""I'm"", 'afraid', 'my', 'lawyer', 'insists', 'on', 'it']"
+507	I'd never talk to anyone about us, anyway. 	Я бы в любом случае не стала ни с кем это обсуждать. 	['Я', 'бы', 'в', 'любом', 'случае', 'не', 'стала', 'ни', 'с', 'кем', 'это', 'обсуждать']	"[""I'd"", 'never', 'talk', 'to', 'anyone', 'about', 'us', 'anyway']"
+508	Are you gonna make love to me now? 	А теперь ты займешься со мной любовью? 	['А', 'теперь', 'ты', 'займешься', 'со', 'мной', 'любовью']	['Are', 'you', 'gonna', 'make', 'love', 'to', 'me', 'now']
+509	Two things. 	Два момента. 	['Два', 'момента']	['Two', 'things']
+510	First, I don't make love. 	Во-первых, я не занимаюсь любовью. 	['Во-первых', 'я', 'не', 'занимаюсь', 'любовью']	"['First', 'I', ""don't"", 'make', 'love']"
+511	I fuck. 	Я трахаюсь. 	['Я', 'трахаюсь']	['I', 'fuck']
+512	Hard. 	Жестко. 	['Жестко']	['Hard']
+513	And the second thing? 	А во-вторых? 	['А', 'во-вторых']	['And', 'the', 'second', 'thing']
+514	Come. 	Иди сюда. 	['Иди', 'сюда']	['Come']
+515	It's just behind this door. 	Она за дверью. 	['Она', 'за', 'дверью']	"[""It's"", 'just', 'behind', 'this', 'door']"
+516	What is? 	Что? 	['Что']	['What', 'is']
+517	MY Play room. 	Моя игровая комната. 	['Моя', 'игровая', 'комната']	['MY', 'Play', 'room']
+518	Like your Xbox and stuff? 	Там твой Xbox и все такое прочее? 	['Там', 'твой', 'Xbox', 'и', 'все', 'такое', 'прочее']	['Like', 'your', 'Xbox', 'and', 'stuff']
+519	It's important that you know you can leave at any time. 	Ты должна понимать, что можешь уйти в любой момент. 	['Ты', 'должна', 'понимать', 'что', 'можешь', 'уйти', 'в', 'любой', 'момент']	"[""It's"", 'important', 'that', 'you', 'know', 'you', 'can', 'leave', 'at', 'any', 'time']"
+520	Why? What's in there? 	Почему? Что там такое? 	['Почему', 'Что', 'там', 'такое']	"['Why', ""What's"", 'in', 'there']"
+521	I meant what I said. 	Я серьезно. 	['Я', 'серьезно']	['I', 'meant', 'what', 'I', 'said']
+522	The helicopter's on standby to take you whenever you wanna go. 	Вертолет готов к взлету, он отвезет тебя куда захочешь. 	['Вертолет', 'готов', 'к', 'взлету', 'он', 'отвезет', 'тебя', 'куда', 'захочешь']	"['The', ""helicopter's"", 'on', 'standby', 'to', 'take', 'you', 'whenever', 'you', 'wanna', 'go']"
+523	Christian, just open the door. 	Кристиан, открой уже дверь. 	['Кристиан', 'открой', 'уже', 'дверь']	['Christian', 'just', 'open', 'the', 'door']
+524	Oh, my God. 	О господи. 	['О', 'господи']	['Oh', 'my', 'God']
+525	It's called a flogger. 	Это называется флоггер. 	['Это', 'называется', 'флоггер']	"[""It's"", 'called', 'a', 'flogger']"
+526	Say something, please. 	Пожалуйста, скажи что-нибудь. 	['Пожалуйста', 'скажи', 'что-нибудь']	['Say', 'something', 'please']
+527	Do women do this to you? Or do you... 	Это женщины делают с тобой? Или ты... 	['Это', 'женщины', 'делают', 'с', 'тобой', 'Или', 'ты']	['Do', 'women', 'do', 'this', 'to', 'you', 'Or', 'do', 'you']
+528	No, I do this to women. With women. 	Нет, это я делаю с женщинами. 	['Нет', 'это', 'я', 'делаю', 'с', 'женщинами']	['No', 'I', 'do', 'this', 'to', 'women', 'With', 'women']
+529	Women who want me to. 	С теми, кто этого захочет. 	['С', 'теми', 'кто', 'этого', 'захочет']	['Women', 'who', 'want', 'me', 'to']
+530	You're a sadist? 	Ты садист? 	['Ты', 'садист']	"[""You're"", 'a', 'sadist']"
+531	I'm a dominant. 	Я доминант. 	['Я', 'доминант']	"[""I'm"", 'a', 'dominant']"
+532	What does that mean? 	Что это значит? 	['Что', 'это', 'значит']	['What', 'does', 'that', 'mean']
+533	It means I want you to willingly surrender yourself to me. 	Это значит, что я хочу, чтобы ты добровольно подчинилась мне. 	['Это', 'значит', 'что', 'я', 'хочу', 'чтобы', 'ты', 'добровольно', 'подчинилась', 'мне']	['It', 'means', 'I', 'want', 'you', 'to', 'willingly', 'surrender', 'yourself', 'to', 'me']
+534	Why would I do that? 	Зачем? 	['Зачем']	['Why', 'would', 'I', 'do', 'that']
+535	To please me. 	Чтобы доставить мне удовольствие. 	['Чтобы', 'доставить', 'мне', 'удовольствие']	['To', 'please', 'me']
+536	To please you? 	Доставить тебе удовольствие? 	['Доставить', 'тебе', 'удовольствие']	['To', 'please', 'you']
+537	How? 	Как? 	['Как']	['How']
+538	I have rules. 	У меня есть правила. 	['У', 'меня', 'есть', 'правила']	['I', 'have', 'rules']
+539	If you follow them, I'll reward you. 	Если ты их выполняешь, я тебя вознаграждаю. 	['Если', 'ты', 'их', 'выполняешь', 'я', 'тебя', 'вознаграждаю']	"['If', 'you', 'follow', 'them', ""I'll"", 'reward', 'you']"
+540	If you don't, I'll punish you. 	Если нет, я тебя наказываю. 	['Если', 'нет', 'я', 'тебя', 'наказываю']	"['If', 'you', ""don't"", ""I'll"", 'punish', 'you']"
+541	You'll punish me... 	Ты наказываешь меня... 	['Ты', 'наказываешь', 'меня']	"[""You'll"", 'punish', 'me']"
+542	Like, you'd use this stuff on me? 	С помощью этих штук? 	['С', 'помощью', 'этих', 'штук']	"['Like', ""you'd"", 'use', 'this', 'stuff', 'on', 'me']"
+543	Yes. 	Да. 	['Да']	['Yes']
+544	What would I get out of this? 	А что получаю я? 	['А', 'что', 'получаю', 'я']	['What', 'would', 'I', 'get', 'out', 'of', 'this']
+545	Me. 	Меня. 	['Меня']	['Me']
+546	If we were to do this, 	Если мы договоримся, 	['Если', 'мы', 'договоримся']	['If', 'we', 'were', 'to', 'do', 'this']
+547	this would be your room. 	это будет твоей комнатой. 	['это', 'будет', 'твоей', 'комнатой']	['this', 'would', 'be', 'your', 'room']
+548	You can decorate it however you like. 	Можешь оформить ее как тебе нравится. 	['Можешь', 'оформить', 'ее', 'как', 'тебе', 'нравится']	['You', 'can', 'decorate', 'it', 'however', 'you', 'like']
+549	You want me to move in? 	Ты хочешь, чтобы я здесь жила? 	['Ты', 'хочешь', 'чтобы', 'я', 'здесь', 'жила']	['You', 'want', 'me', 'to', 'move', 'in']
+550	Not full time. Just Friday through to Sunday. 	Не все время. Только с пятницы по воскресенье. 	['Не', 'все', 'время', 'Только', 'с', 'пятницы', 'по', 'воскресенье']	['Not', 'full', 'time', 'Just', 'Friday', 'through', 'to', 'Sunday']
+551	We can negotiate the particulars. 	Мы можем обсудить детали. 	['Мы', 'можем', 'обсудить', 'детали']	['We', 'can', 'negotiate', 'the', 'particulars']
+552	So, I'd sleep in here with you? 	То есть я буду спать здесь с тобой? 	['То', 'есть', 'я', 'буду', 'спать', 'здесь', 'с', 'тобой']	"['So', ""I'd"", 'sleep', 'in', 'here', 'with', 'you']"
+553	No. I'd be downstairs. 	Нет. Я буду спать внизу. 	['Нет', 'Я', 'буду', 'спать', 'внизу']	"['No', ""I'd"", 'be', 'downstairs']"
+554	I told you, I don't sleep with anyone. 	Я же говорил тебе, я люблю спать один. 	['Я', 'же', 'говорил', 'тебе', 'я', 'люблю', 'спать', 'один']	"['I', 'told', 'you', 'I', ""don't"", 'sleep', 'with', 'anyone']"
+555	What if I don't want anything to do with that? 	А что, если я откажусь? 	['А', 'что', 'если', 'я', 'откажусь']	"['What', 'if', 'I', ""don't"", 'want', 'anything', 'to', 'do', 'with', 'that']"
+556	I would understand completely. 	Я тебя пойму. 	['Я', 'тебя', 'пойму']	['I', 'would', 'understand', 'completely']
+557	But then we wouldn't have any sort of relationship at all? 	Но тогда у нас не будет никаких отношений? 	['Но', 'тогда', 'у', 'нас', 'не', 'будет', 'никаких', 'отношений']	"['But', 'then', 'we', ""wouldn't"", 'have', 'any', 'sort', 'of', 'relationship', 'at', 'all']"
+558	This is the only sort of relationship I have. 	У меня бывают только такие отношения. 	['У', 'меня', 'бывают', 'только', 'такие', 'отношения']	['This', 'is', 'the', 'only', 'sort', 'of', 'relationship', 'I', 'have']
+559	Why? 	Почему? 	['Почему']	['Why']
+560	It's the way I am. 	Так я устроен. 	['Так', 'я', 'устроен']	"[""It's"", 'the', 'way', 'I', 'am']"
+561	"When you said ""negotiate,"" "	"Когда ты сказал ""обсудим"", "	['Когда', 'ты', 'сказал', 'обсудим']	['When', 'you', 'said', 'negotiate']
+562	what did you mean? 	что ты имел в виду? 	['что', 'ты', 'имел', 'в', 'виду']	['what', 'did', 'you', 'mean']
+563	I already have a contract prepared. It's fairly detailed. 	У меня есть готовый контракт, там все подробно изложено. 	['У', 'меня', 'есть', 'готовый', 'контракт', 'там', 'все', 'подробно', 'изложено']	"['I', 'already', 'have', 'a', 'contract', 'prepared', ""It's"", 'fairly', 'detailed']"
+564	You would review it, 	Ты его прочитаешь, 	['Ты', 'его', 'прочитаешь']	['You', 'would', 'review', 'it']
+565	and we would negotiate what you are and are not willing to try. 	и мы обсудим, что ты готова попробовать, а что - нет. 	['и', 'мы', 'обсудим', 'что', 'ты', 'готова', 'попробовать', 'а', 'что', 'нет']	['and', 'we', 'would', 'negotiate', 'what', 'you', 'are', 'and', 'are', 'not', 'willing', 'to', 'try']
+566	How could I know what I'd be willing to try? 	Откуда мне знать, что я готова попробовать? 	['Откуда', 'мне', 'знать', 'что', 'я', 'готова', 'попробовать']	"['How', 'could', 'I', 'know', 'what', ""I'd"", 'be', 'willing', 'to', 'try']"
+567	Well, when you've had sex 	Ну, когда ты занималась сексом, 	['Ну', 'когда', 'ты', 'занималась', 'сексом']	"['Well', 'when', ""you've"", 'had', 'sex']"
+568	was there anything that you didn't like doing? 	было ли что-то такое, что тебе не нравилось? 	['было', 'ли', 'что-то', 'такое', 'что', 'тебе', 'не', 'нравилось']	"['was', 'there', 'anything', 'that', 'you', ""didn't"", 'like', 'doing']"
+569	We have to be honest with each other for this to work, okay? 	Нам надо быть честными друг с другом, чтобы из этого что-то получилось. 	['Нам', 'надо', 'быть', 'честными', 'друг', 'с', 'другом', 'чтобы', 'из', 'этого', 'что-то', 'получилось']	['We', 'have', 'to', 'be', 'honest', 'with', 'each', 'other', 'for', 'this', 'to', 'work', 'okay']
+570	I wouldn't know. 	Я не знаю. 	['Я', 'не', 'знаю']	"['I', ""wouldn't"", 'know']"
+571	What do you mean? 	Что ты имеешь в виду? 	['Что', 'ты', 'имеешь', 'в', 'виду']	['What', 'do', 'you', 'mean']
+572	Because I haven't... 	Потому что я не... 	['Потому', 'что', 'я', 'не']	"['Because', 'I', ""haven't""]"
+573	You're still a virgin? 	Ты девственница? 	['Ты', 'девственница']	"[""You're"", 'still', 'a', 'virgin']"
+574	I have just shown you... 	Я только что показал тебе... 	['Я', 'только', 'что', 'показал', 'тебе']	['I', 'have', 'just', 'shown', 'you']
+575	I know. I just... 	Я знаю. Просто я... 	['Я', 'знаю', 'Просто', 'я']	['I', 'know', 'I', 'just']
+576	You've done other things, right? 	Но ты же делала что-то? 	['Но', 'ты', 'же', 'делала', 'что-то']	"[""You've"", 'done', 'other', 'things', 'right']"
+577	No. 	Нет. 	['Нет']	['No']
+578	Where have you been? 	Где ты была? 	['Где', 'ты', 'была']	['Where', 'have', 'you', 'been']
+579	Waiting. 	Я ждала. 	['Я', 'ждала']	['Waiting']
+580	Men must throw themselves at you. 	Мужчины, наверное, на тебя бросаются. 	['Мужчины', 'наверное', 'на', 'тебя', 'бросаются']	['Men', 'must', 'throw', 'themselves', 'at', 'you']
+581	Never one I've wanted. 	Не те, которые мне нравятся. 	['Не', 'те', 'которые', 'мне', 'нравятся']	"['Never', 'one', ""I've"", 'wanted']"
+582	You're biting your lip. 	Ты кусаешь губу. 	['Ты', 'кусаешь', 'губу']	"[""You're"", 'biting', 'your', 'lip']"
+583	What are you doing? 	Что ты делаешь? 	['Что', 'ты', 'делаешь']	['What', 'are', 'you', 'doing']
+584	Rectifying the situation. 	Собираюсь исправить положение дел. 	['Собираюсь', 'исправить', 'положение', 'дел']	['Rectifying', 'the', 'situation']
+585	I'm a situation? 	Я положение дел? 	['Я', 'положение', 'дел']	"[""I'm"", 'a', 'situation']"
+586	You're energetic this morning. 	Ты полна энергии с утра. 	['Ты', 'полна', 'энергии', 'с', 'утра']	"[""You're"", 'energetic', 'this', 'morning']"
+587	You hungry? 	Ты хочешь есть? 	['Ты', 'хочешь', 'есть']	['You', 'hungry']
+588	Very. 	Очень. 	['Очень']	['Very']
+589	Because I'm making pancakes. 	Потому что я готовлю оладьи. 	['Потому', 'что', 'я', 'готовлю', 'оладьи']	"['Because', ""I'm"", 'making', 'pancakes']"
+590	Let's get you cleaned up. 	Давай тебя помоем. 	['Давай', 'тебя', 'помоем']	"[""Let's"", 'get', 'you', 'cleaned', 'up']"
+591	Do you trust me? 	Ты мне доверяешь? 	['Ты', 'мне', 'доверяешь']	['Do', 'you', 'trust', 'me']
+592	Stay here. 	Никуда не уходи. 	['Никуда', 'не', 'уходи']	['Stay', 'here']
+593	Hold out your wrists. 	Протяни руки. 	['Протяни', 'руки']	['Hold', 'out', 'your', 'wrists']
+594	Hold them there. 	Держи их так. 	['Держи', 'их', 'так']	['Hold', 'them', 'there']
+595	You understand? 	Поняла? 	['Поняла']	['You', 'understand']
+596	Tell me you understand. 	Скажи мне, что поняла. 	['Скажи', 'мне', 'что', 'поняла']	['Tell', 'me', 'you', 'understand']
+597	I won't move my arms. 	Я не буду двигать руками. 	['Я', 'не', 'буду', 'двигать', 'руками']	"['I', ""won't"", 'move', 'my', 'arms']"
+598	Good girl. 	Молодец. 	['Молодец']	['Good', 'girl']
+599	Stay still. 	Не двигайся. 	['Не', 'двигайся']	['Stay', 'still']
+600	Okay. 	Ладно. 	['Ладно']	['Okay']
+601	Agree 	Согласись. 	['Согласись']	['Agree']
+602	To what? 	На что? 	['На', 'что']	['To', 'what']
+603	To being mine. 	Стать моей. 	['Стать', 'моей']	['To', 'being', 'mine']
+604	No need to announce me. Christian! 	Не надо говорить, что я пришла. Кристиан! 	['Не', 'надо', 'говорить', 'что', 'я', 'пришла', 'Кристиан']	['No', 'need', 'to', 'announce', 'me', 'Christian']
+605	Shit. What? 	- Черт. - Что? 	['Черт', 'Что']	['Shit', 'What']
+606	It's my mother. 	Это моя мать. 	['Это', 'моя', 'мать']	"[""It's"", 'my', 'mother']"
+607	I'm naked. Get dressed. 	- Я голая. - Оденься. 	['Я', 'голая', 'Оденься']	"[""I'm"", 'naked', 'Get', 'dressed']"
+608	And there's no need to show me around. 	Нет необходимости меня провожать. 	['Нет', 'необходимости', 'меня', 'провожать']	"['And', ""there's"", 'no', 'need', 'to', 'show', 'me', 'around']"
+609	And there's no need to hover. 	И не нужно здесь болтаться. 	['И', 'не', 'нужно', 'здесь', 'болтаться']	"['And', ""there's"", 'no', 'need', 'to', 'hover']"
+610	He's still sleeping, Dr. Grey. 	Он еще спит, д-р Грей. 	['Он', 'еще', 'спит', 'д-р', 'Грей']	"[""He's"", 'still', 'sleeping', 'Dr', 'Grey']"
+611	He's still sleeping? 	Все еще спит? 	['Все', 'еще', 'спит']	"[""He's"", 'still', 'sleeping']"
+612	But he never sleeps in. Certainly not at this hour. 	Но он никогда не спит так долго. Уже ведь совсем поздно. 	['Но', 'он', 'никогда', 'не', 'спит', 'так', 'долго', 'Уже', 'ведь', 'совсем', 'поздно']	['But', 'he', 'never', 'sleeps', 'in', 'Certainly', 'not', 'at', 'this', 'hour']
+613	Unless, of course, he's ill. Is he... Ah. 	Если, конечно, он не болен. Он... 	['Если', 'конечно', 'он', 'не', 'болен', 'Он']	"['Unless', 'of', 'course', ""he's"", 'ill', 'Is', 'he', 'Ah']"
+614	Sorry, Mr. Grey. 	Извините, м-р Грей. 	['Извините', 'м-р', 'Грей']	['Sorry', 'Mr', 'Grey']
+615	It's fine. I know how she can be. 	Ничего. Я знаю, какой она бывает. 	['Ничего', 'Я', 'знаю', 'какой', 'она', 'бывает']	"[""It's"", 'fine', 'I', 'know', 'how', 'she', 'can', 'be']"
+616	She? 	"""Она""? "	['Она']	['She']
+617	Well, if you're trying to avoid me, 	Если ты меня избегаешь, по крайней мере 	['Если', 'ты', 'меня', 'избегаешь', 'по', 'крайней', 'мере']	"['Well', 'if', ""you're"", 'trying', 'to', 'avoid', 'me']"
+618	"the very least you can do is call me by my correct name, which would be ""Mum."" "	"ты можешь называть меня как полагается, то есть ""мама"". "	['ты', 'можешь', 'называть', 'меня', 'как', 'полагается', 'то', 'есть', 'мама']	['the', 'very', 'least', 'you', 'can', 'do', 'is', 'call', 'me', 'by', 'my', 'correct', 'name', 'which', 'would', 'be', 'Mum']
+619	Hi. 	Здравствуйте. 	['Здравствуйте']	['Hi']
+620	Oh. Dear God. 	Господи боже. 	['Господи', 'боже']	['Oh', 'Dear', 'God']
+621	Mother, Anastasia Steele. 	Мама, это Анастейша Стил. 	['Мама', 'это', 'Анастейша', 'Стил']	['Mother', 'Anastasia', 'Steele']
+622	Ana, meet my mother, Dr. Grace Trevelyan Grey. 	Ана, это моя мама, д-р Грейс Тревельян Грей. 	['Ана', 'это', 'моя', 'мама', 'д-р', 'Грейс', 'Тревельян', 'Грей']	['Ana', 'meet', 'my', 'mother', 'Dr', 'Grace', 'Trevelyan', 'Grey']
+623	You have no idea how delighted I am to meet you. 	Вы и не представляете, как я рада с вами познакомиться. 	['Вы', 'и', 'не', 'представляете', 'как', 'я', 'рада', 'с', 'вами', 'познакомиться']	['You', 'have', 'no', 'idea', 'how', 'delighted', 'I', 'am', 'to', 'meet', 'you']
+624	It's nice to meet you, too, Dr. Grey. 	Очень приятно, д-р Грей. 	['Очень', 'приятно', 'д-р', 'Грей']	"[""It's"", 'nice', 'to', 'meet', 'you', 'too', 'Dr', 'Grey']"
+625	Grace. 	Грейс. 	['Грейс']	['Grace']
+626	She's very pretty. You're very pretty. 	Она очень хорошенькая. Вы очень хорошенькая. 	['Она', 'очень', 'хорошенькая', 'Вы', 'очень', 'хорошенькая']	"[""She's"", 'very', 'pretty', ""You're"", 'very', 'pretty']"
+627	Thank you. 	Спасибо. 	['Спасибо']	['Thank', 'you']
+628	So, what happened to calling before dropping by? 	Как насчет того, чтобы звонить перед приходом? 	['Как', 'насчет', 'того', 'чтобы', 'звонить', 'перед', 'приходом']	['So', 'what', 'happened', 'to', 'calling', 'before', 'dropping', 'by']
+629	And have your henchmen give me the runaround? 	Чтобы твои прихвостни водили меня за нос? 	['Чтобы', 'твои', 'прихвостни', 'водили', 'меня', 'за', 'нос']	['And', 'have', 'your', 'henchmen', 'give', 'me', 'the', 'runaround']
+630	No, thank you. I'll take my chances. 	Нет, спасибо. Я лучше рискну. 	['Нет', 'спасибо', 'Я', 'лучше', 'рискну']	"['No', 'thank', 'you', ""I'll"", 'take', 'my', 'chances']"
+631	Anyway, I was in the neighborhood, and I thought perhaps we could have lunch. 	В общем, я оказалась рядом, подумала, что мы можем вместе пообедать. 	['В', 'общем', 'я', 'оказалась', 'рядом', 'подумала', 'что', 'мы', 'можем', 'вместе', 'пообедать']	['Anyway', 'I', 'was', 'in', 'the', 'neighborhood', 'and', 'I', 'thought', 'perhaps', 'we', 'could', 'have', 'lunch']
+632	I can't today. I have to drive Ana home. 	Я сегодня не могу. Я должен отвезти Ану домой. 	['Я', 'сегодня', 'не', 'могу', 'Я', 'должен', 'отвезти', 'Ану', 'домой']	"['I', ""can't"", 'today', 'I', 'have', 'to', 'drive', 'Ana', 'home']"
+633	It's okay. Take it. I was just showing Mother out. 	Все нормально, ответь на звонок. Я провожу маму. 	['Все', 'нормально', 'ответь', 'на', 'звонок', 'Я', 'провожу', 'маму']	"[""It's"", 'okay', 'Take', 'it', 'I', 'was', 'just', 'showing', 'Mother', 'out']"
+634	Excuse me. 	Простите. 	['Простите']	['Excuse', 'me']
+635	Anastasia... Kate, hold on. 	- Анастейша... - Кейт, подожди. 	['Анастейша', 'Кейт', 'подожди']	['Anastasia', 'Kate', 'hold', 'on']
+636	It was a joy to meet you. 	Рада была познакомиться. 	['Рада', 'была', 'познакомиться']	['It', 'was', 'a', 'joy', 'to', 'meet', 'you']
+637	And I'm having the whole family for dinner next week at my house. 	На следующей неделе я собираю на ужин всю семью. 	['На', 'следующей', 'неделе', 'я', 'собираю', 'на', 'ужин', 'всю', 'семью']	"['And', ""I'm"", 'having', 'the', 'whole', 'family', 'for', 'dinner', 'next', 'week', 'at', 'my', 'house']"
+638	Christian's sister, Mia, is back from Paris. 	Сестра Кристиана Миа возвращается из Парижа. 	['Сестра', 'Кристиана', 'Миа', 'возвращается', 'из', 'Парижа']	"[""Christian's"", 'sister', 'Mia', 'is', 'back', 'from', 'Paris']"
+639	You must come. 	Вы должны прийти. 	['Вы', 'должны', 'прийти']	['You', 'must', 'come']
+640	We'll see, Mother. 	Посмотрим, мама. 	['Посмотрим', 'мама']	"[""We'll"", 'see', 'Mother']"
+641	Nice to meet you. 	Рада нашему знакомству. 	['Рада', 'нашему', 'знакомству']	['Nice', 'to', 'meet', 'you']
+642	You, too. 	Я тоже. 	['Я', 'тоже']	['You', 'too']
+643	Thank you. 	Спасибо. 	['Спасибо']	['Thank', 'you']
+644	I can't talk about it right now, Kate. 	Я сейчас не могу об этом говорить, Кейт. 	['Я', 'сейчас', 'не', 'могу', 'об', 'этом', 'говорить', 'Кейт']	"['I', ""can't"", 'talk', 'about', 'it', 'right', 'now', 'Kate']"
+645	I gotta go. I'll call you back, okay? 	Мне надо идти. Я тебе перезвоню, ладно? 	['Мне', 'надо', 'идти', 'Я', 'тебе', 'перезвоню', 'ладно']	"['I', 'gotta', 'go', ""I'll"", 'call', 'you', 'back', 'okay']"
+646	Everything okay with the phone call? 	Все в порядке? 	['Все', 'в', 'порядке']	['Everything', 'okay', 'with', 'the', 'phone', 'call']
+647	Yeah. Nothing important. 	Да. Ничего важного. 	['Да', 'Ничего', 'важного']	['Yeah', 'Nothing', 'important']
+648	I liked your morn. 	Мне понравилась твоя мама. 	['Мне', 'понравилась', 'твоя', 'мама']	['I', 'liked', 'your', 'morn']
+649	She's excited. She's never seen me with a woman before. 	Она обрадовалась. Она никогда еще не видела меня с женщиной. 	['Она', 'обрадовалась', 'Она', 'никогда', 'еще', 'не', 'видела', 'меня', 'с', 'женщиной']	"[""She's"", 'excited', ""She's"", 'never', 'seen', 'me', 'with', 'a', 'woman', 'before']"
+650	It was a first. 	Это было в первый раз. 	['Это', 'было', 'в', 'первый', 'раз']	['It', 'was', 'a', 'first']
+651	What is it, Ana? 	В чем дело, Ана? 	['В', 'чем', 'дело', 'Ана']	['What', 'is', 'it', 'Ana']
+652	I just... 	Я просто... 	['Я', 'просто']	['I', 'just']
+653	How many women have stayed in here? 	Сколько здесь было женщин? 	['Сколько', 'здесь', 'было', 'женщин']	['How', 'many', 'women', 'have', 'stayed', 'in', 'here']
+654	Fifteen. 	Пятнадцать. 	['Пятнадцать']	['Fifteen']
+655	That's a lot of women. 	Это довольно много. 	['Это', 'довольно', 'много']	"[""That's"", 'a', 'lot', 'of', 'women']"
+656	I told you before, if you want out... 	Я тебе уже сказал, если ты не хочешь... 	['Я', 'тебе', 'уже', 'сказал', 'если', 'ты', 'не', 'хочешь']	['I', 'told', 'you', 'before', 'if', 'you', 'want', 'out']
+657	I don't want out. I just... I'm not exactly jumping 	Не то чтобы не хочу. Просто я не набрасываюсь 	['Не', 'то', 'чтобы', 'не', 'хочу', 'Просто', 'я', 'не', 'набрасываюсь']	"['I', ""don't"", 'want', 'out', 'I', 'just', ""I'm"", 'not', 'exactly', 'jumping']"
+658	at the opportunity to get whipped and tortured in your red room of pain. 	на возможность быть избитой в твоей красной комнате для пыток. 	['на', 'возможность', 'быть', 'избитой', 'в', 'твоей', 'красной', 'комнате', 'для', 'пыток']	['at', 'the', 'opportunity', 'to', 'get', 'whipped', 'and', 'tortured', 'in', 'your', 'red', 'room', 'of', 'pain']
+659	That room is much more about pleasure. 	Эта комната скорее для удовольствия. 	['Эта', 'комната', 'скорее', 'для', 'удовольствия']	['That', 'room', 'is', 'much', 'more', 'about', 'pleasure']
+660	Promise you. 	Я тебе гарантирую. 	['Я', 'тебе', 'гарантирую']	['Promise', 'you']
+661	Would we still go out to dinner and movies? 	А мы будем ходить в рестораны и в кино? 	['А', 'мы', 'будем', 'ходить', 'в', 'рестораны', 'и', 'в', 'кино']	['Would', 'we', 'still', 'go', 'out', 'to', 'dinner', 'and', 'movies']
+662	That's not really my thing. 	Это не мое. 	['Это', 'не', 'мое']	"[""That's"", 'not', 'really', 'my', 'thing']"
+663	Try to keep an open mind. 	Постарайся быть открытой новому. 	['Постарайся', 'быть', 'открытой', 'новому']	['Try', 'to', 'keep', 'an', 'open', 'mind']
+664	If you agree to be my submissive, 	Если ты согласишься стать моей, 	['Если', 'ты', 'согласишься', 'стать', 'моей']	['If', 'you', 'agree', 'to', 'be', 'my', 'submissive']
+665	I will be devoted to you. 	я буду предан тебе. 	['я', 'буду', 'предан', 'тебе']	['I', 'will', 'be', 'devoted', 'to', 'you']
+666	This is what I want. 	Это то, что мне нужно. 	['Это', 'то', 'что', 'мне', 'нужно']	['This', 'is', 'what', 'I', 'want']
+667	And I want it with you. 	И я хочу, чтобы со мной была ты. 	['И', 'я', 'хочу', 'чтобы', 'со', 'мной', 'была', 'ты']	['And', 'I', 'want', 'it', 'with', 'you']
+668	Why do I have to sleep in here? 	Почему я должна спать здесь? 	['Почему', 'я', 'должна', 'спать', 'здесь']	['Why', 'do', 'I', 'have', 'to', 'sleep', 'in', 'here']
+669	We slept in the same bed last night. 	Вчера мы спали в одной кровати. 	['Вчера', 'мы', 'спали', 'в', 'одной', 'кровати']	['We', 'slept', 'in', 'the', 'same', 'bed', 'last', 'night']
+670	Like normal people. 	Как нормальные люди. 	['Как', 'нормальные', 'люди']	['Like', 'normal', 'people']
+671	Try not to get hung up on the sleeping arrangements. 	Постарайся не зацикливаться на том, кто где спит. 	['Постарайся', 'не', 'зацикливаться', 'на', 'том', 'кто', 'где', 'спит']	['Try', 'not', 'to', 'get', 'hung', 'up', 'on', 'the', 'sleeping', 'arrangements']
+672	If you agree to do this, you're gonna want your own room. 	Если ты на это согласишься, ты будешь рада, что у тебя своя комната. 	['Если', 'ты', 'на', 'это', 'согласишься', 'ты', 'будешь', 'рада', 'что', 'у', 'тебя', 'своя', 'комната']	"['If', 'you', 'agree', 'to', 'do', 'this', ""you're"", 'gonna', 'want', 'your', 'own', 'room']"
+673	Why, because I'll be your sex slave? 	Потому что я стану твоей секс-рабыней? 	['Потому', 'что', 'я', 'стану', 'твоей', 'секс-рабыней']	"['Why', 'because', ""I'll"", 'be', 'your', 'sex', 'slave']"
+674	I don't wanna do this here. Let's talk downstairs. 	Я не хочу здесь об этом говорить. Пойдем вниз. 	['Я', 'не', 'хочу', 'здесь', 'об', 'этом', 'говорить', 'Пойдем', 'вниз']	"['I', ""don't"", 'wanna', 'do', 'this', 'here', ""Let's"", 'talk', 'downstairs']"
+675	No. You know what? 	Нет. Знаешь что? 	['Нет', 'Знаешь', 'что']	['No', 'You', 'know', 'what']
+676	I think I'll hold on to my free will a little while longer, thank you. 	Думаю, я пока не буду отказываться от свободы воли. 	['Думаю', 'я', 'пока', 'не', 'буду', 'отказываться', 'от', 'свободы', 'воли']	"['I', 'think', ""I'll"", 'hold', 'on', 'to', 'my', 'free', 'will', 'a', 'little', 'while', 'longer', 'thank', 'you']"
+677	Actually, you know what? I would like to go home. Can I go home? 	Знаешь что? Я хочу домой. Можно мне домой? 	['Знаешь', 'что', 'Я', 'хочу', 'домой', 'Можно', 'мне', 'домой']	['Actually', 'you', 'know', 'what', 'I', 'would', 'like', 'to', 'go', 'home', 'Can', 'I', 'go', 'home']
+678	Which one's yours? 	Которая из них твоя? 	['Которая', 'из', 'них', 'твоя']	"['Which', ""one's"", 'yours']"
+679	All of them. 	Все. 	['Все']	['All', 'of', 'them']
+680	Let's go for a walk. 	Давай прогуляемся. 	['Давай', 'прогуляемся']	"[""Let's"", 'go', 'for', 'a', 'walk']"
+681	How did you start doing this? 	Как получилось так, что ты начал это делать? 	['Как', 'получилось', 'так', 'что', 'ты', 'начал', 'это', 'делать']	['How', 'did', 'you', 'start', 'doing', 'this']
+682	One of my mother's friends. 	Одна из подруг моей матери. 	['Одна', 'из', 'подруг', 'моей', 'матери']	"['One', 'of', 'my', ""mother's"", 'friends']"
+683	I was 15. 	Мне было 15. 	['Мне', 'было', '15']	['I', 'was', '15']
+684	She seduced you? 	Она тебя совратила? 	['Она', 'тебя', 'совратила']	['She', 'seduced', 'you']
+685	I was her submissive for six years. 	Шесть лет я был ее сабмиссивом. 	['Шесть', 'лет', 'я', 'был', 'ее', 'сабмиссивом']	['I', 'was', 'her', 'submissive', 'for', 'six', 'years']
+686	Seriously? 	Правда? 	['Правда']	['Seriously']
+687	Does your mother know that? 	А твоя мама об этом знает? 	['А', 'твоя', 'мама', 'об', 'этом', 'знает']	['Does', 'your', 'mother', 'know', 'that']
+688	Of course not. 	Конечно нет. 	['Конечно', 'нет']	['Of', 'course', 'not']
+689	No one in my family knows about this part of me. 	Никто в моей семье не знает об этой стороне моей жизни. 	['Никто', 'в', 'моей', 'семье', 'не', 'знает', 'об', 'этой', 'стороне', 'моей', 'жизни']	['No', 'one', 'in', 'my', 'family', 'knows', 'about', 'this', 'part', 'of', 'me']
+690	So, she introduced you to all this? 	Так она и познакомила тебя со всем этим? 	['Так', 'она', 'и', 'познакомила', 'тебя', 'со', 'всем', 'этим']	['So', 'she', 'introduced', 'you', 'to', 'all', 'this']
+691	Mrs. Robinson? 	Миссис Робинсон? 	['Миссис', 'Робинсон']	['Mrs', 'Robinson']
+692	Mrs. Robinson. 	"""Миссис Робинсон"". "	['Миссис', 'Робинсон']	['Mrs', 'Robinson']
+693	I'll tell her you said that. She'll love it. 	Я скажу ей, что ты ее так назвала. Ей понравится. 	['Я', 'скажу', 'ей', 'что', 'ты', 'ее', 'так', 'назвала', 'Ей', 'понравится']	"[""I'll"", 'tell', 'her', 'you', 'said', 'that', ""She'll"", 'love', 'it']"
+694	You still talk to her? 	Ты с ней еще разговариваешь? 	['Ты', 'с', 'ней', 'еще', 'разговариваешь']	['You', 'still', 'talk', 'to', 'her']
+695	On occasion. 	Иногда. 	['Иногда']	['On', 'occasion']
+696	We're friends. 	Мы друзья. 	['Мы', 'друзья']	"[""We're"", 'friends']"
+697	Ana. 	Ана. 	['Ана']	['Ana']
+698	I know how intimidating this is. 	Я знаю, как это страшно. 	['Я', 'знаю', 'как', 'это', 'страшно']	['I', 'know', 'how', 'intimidating', 'this', 'is']
+699	I felt the same at first. 	Мне поначалу тоже было страшно. 	['Мне', 'поначалу', 'тоже', 'было', 'страшно']	['I', 'felt', 'the', 'same', 'at', 'first']
+700	Well, what changed your mind? 	И почему ты передумал? 	['И', 'почему', 'ты', 'передумал']	['Well', 'what', 'changed', 'your', 'mind']
+701	By giving up control, I felt free. 	Отдав ей контроль над собой, я почувствовал себя свободным. 	['Отдав', 'ей', 'контроль', 'над', 'собой', 'я', 'почувствовал', 'себя', 'свободным']	['By', 'giving', 'up', 'control', 'I', 'felt', 'free']
+702	From responsibility, from making decisions 	От ответственности, от принятия решений. 	['От', 'ответственности', 'от', 'принятия', 'решений']	['From', 'responsibility', 'from', 'making', 'decisions']
+703	I felt safe. 	Я чувствовал себя в безопасности. 	['Я', 'чувствовал', 'себя', 'в', 'безопасности']	['I', 'felt', 'safe']
+704	You will, too, you'll see. 	Так будет и с тобой, вот увидишь. 	['Так', 'будет', 'и', 'с', 'тобой', 'вот', 'увидишь']	"['You', 'will', 'too', ""you'll"", 'see']"
+705	I've never taken anyone in the helicopter. 	Я никогда никого не брал с собой в вертолет. 	['Я', 'никогда', 'никого', 'не', 'брал', 'с', 'собой', 'в', 'вертолет']	"[""I've"", 'never', 'taken', 'anyone', 'in', 'the', 'helicopter']"
+706	I've never had sex in my own bed. 	Ни с кем не занимался сексом в моей постели. 	['Ни', 'с', 'кем', 'не', 'занимался', 'сексом', 'в', 'моей', 'постели']	"[""I've"", 'never', 'had', 'sex', 'in', 'my', 'own', 'bed']"
+707	I've never slept next to anyone. 	Никогда не спал рядом с кем-то. 	['Никогда', 'не', 'спал', 'рядом', 'с', 'кем-то']	"[""I've"", 'never', 'slept', 'next', 'to', 'anyone']"
+708	Ever. 	Никогда и ни с кем. 	['Никогда', 'и', 'ни', 'с', 'кем']	['Ever']
+709	Only you. 	Только с тобой. 	['Только', 'с', 'тобой']	['Only', 'you']
+710	This is the contract. 	Вот контракт. 	['Вот', 'контракт']	['This', 'is', 'the', 'contract']
+711	Read it carefully. 	Прочитай его внимательно. 	['Прочитай', 'его', 'внимательно']	['Read', 'it', 'carefully']
+712	E-mail me if you have any questions. 	Пошли мне мейл, если будут вопросы. 	['Пошли', 'мне', 'мейл', 'если', 'будут', 'вопросы']	['E-mail', 'me', 'if', 'you', 'have', 'any', 'questions']
+713	I told you, my computer's down. 	Я же тебе сказала, мой компьютер сломан. 	['Я', 'же', 'тебе', 'сказала', 'мой', 'компьютер', 'сломан']	"['I', 'told', 'you', 'my', ""computer's"", 'down']"
+714	Just consider it, okay? 	Просто подумай об этом, ладно? 	['Просто', 'подумай', 'об', 'этом', 'ладно']	['Just', 'consider', 'it', 'okay']
+715	I really hope you say yes. 	Я очень надеюсь, что ты согласишься. 	['Я', 'очень', 'надеюсь', 'что', 'ты', 'согласишься']	['I', 'really', 'hope', 'you', 'say', 'yes']
+716	Thanks for the ride. 	Спасибо, что подвез. 	['Спасибо', 'что', 'подвез']	['Thanks', 'for', 'the', 'ride']
+717	Laters, baby. 	Пока, детка. 	['Пока', 'детка']	['Laters', 'baby']
+718	Okay, you're all set. 	Так, я все настроил. 	['Так', 'я', 'все', 'настроил']	"['Okay', ""you're"", 'all', 'set']"
+719	Your roommate let me in. 	Меня впустила ваша соседка. 	['Меня', 'впустила', 'ваша', 'соседка']	['Your', 'roommate', 'let', 'me', 'in']
+720	I just figured that you forgot to tell me about it. Do I look okay? 	Я решила, что ты просто забыла мне сказать. Я нормально выгляжу? 	['Я', 'решила', 'что', 'ты', 'просто', 'забыла', 'мне', 'сказать', 'Я', 'нормально', 'выгляжу']	['I', 'just', 'figured', 'that', 'you', 'forgot', 'to', 'tell', 'me', 'about', 'it', 'Do', 'I', 'look', 'okay']
+721	Tell you about what? Just sign here. 	- О чем сказать? - Подпишитесь вот здесь. 	['О', 'чем', 'сказать', 'Подпишитесь', 'вот', 'здесь']	['Tell', 'you', 'about', 'what', 'Just', 'sign', 'here']
+722	Hold on. Do you have the right apartment? 	Погодите. Вы не ошиблись квартирой? 	['Погодите', 'Вы', 'не', 'ошиблись', 'квартирой']	['Hold', 'on', 'Do', 'you', 'have', 'the', 'right', 'apartment']
+723	Anastasia Steele? 	Анастейша Стил? 	['Анастейша', 'Стил']	['Anastasia', 'Steele']
+724	Another gift, huh? 	Еще один подарок, да? 	['Еще', 'один', 'подарок', 'да']	['Another', 'gift', 'huh']
+725	Whatever happened to flowers and chocolates? 	А как же цветы и конфеты? 	['А', 'как', 'же', 'цветы', 'и', 'конфеты']	['Whatever', 'happened', 'to', 'flowers', 'and', 'chocolates']
+726	I'm dying to hear everything. 	Я умираю от любопытства. 	['Я', 'умираю', 'от', 'любопытства']	"[""I'm"", 'dying', 'to', 'hear', 'everything']"
+727	But I have to run right now, because Elliot and I are having dinner 	Но мне надо бежать, потому что мы с Эллиотом ужинаем, 	['Но', 'мне', 'надо', 'бежать', 'потому', 'что', 'мы', 'с', 'Эллиотом', 'ужинаем']	['But', 'I', 'have', 'to', 'run', 'right', 'now', 'because', 'Elliot', 'and', 'I', 'are', 'having', 'dinner']
+728	and then we're going to see a show at The Gorge. 	а потом идем на концерт. 	['а', 'потом', 'идем', 'на', 'концерт']	"['and', 'then', ""we're"", 'going', 'to', 'see', 'a', 'show', 'at', 'The', 'Gorge']"
+729	José called for you. Twice, by the way. 	Кстати, тебе звонил Хосе. Дважды. 	['Кстати', 'тебе', 'звонил', 'Хосе', 'Дважды']	['José', 'called', 'for', 'you', 'Twice', 'by', 'the', 'way']
+730	Did the mail already come? 	Что, уже почту принесли? 	['Что', 'уже', 'почту', 'принесли']	['Did', 'the', 'mail', 'already', 'come']
+731	Oh. Um, no, this is... 	Нет, это... 	['Нет', 'это']	['Oh', 'Um', 'no', 'this', 'is']
+732	These are my thesis notes. I left them at school. 	Заметки к дипломной работе. Я их забыла в университете. 	['Заметки', 'к', 'дипломной', 'работе', 'Я', 'их', 'забыла', 'в', 'университете']	['These', 'are', 'my', 'thesis', 'notes', 'I', 'left', 'them', 'at', 'school']
+733	Oh. All right. Well, there's yesterday's mail. 	Понятно. Вон там лежат вчерашние письма. 	['Понятно', 'Вон', 'там', 'лежат', 'вчерашние', 'письма']	"['Oh', 'All', 'right', 'Well', ""there's"", ""yesterday's"", 'mail']"
+734	What? 	Что? 	['Что']	['What']
+735	I don't know. 	Я не знаю. 	['Я', 'не', 'знаю']	"['I', ""don't"", 'know']"
+736	You look different. 	Ты выглядишь по-другому. 	['Ты', 'выглядишь', 'по-другому']	['You', 'look', 'different']
+737	I feel different. 	Я и чувствую себя по-другому. 	['Я', 'и', 'чувствую', 'себя', 'по-другому']	['I', 'feel', 'different']
+738	Of course you do. 	Еще бы. 	['Еще', 'бы']	['Of', 'course', 'you', 'do']
+739	Okay. 	Ладно. 	['Ладно']	['Okay']
+740	Bye! 	Пока! 	['Пока']	['Bye']
+741	Christian Grey Thank you for a most interesting weekend. 	Кристиан Грей. Спасибо за интересные выходные. 	['Кристиан', 'Грей', 'Спасибо', 'за', 'интересные', 'выходные']	['Christian', 'Grey', 'Thank', 'you', 'for', 'a', 'most', 'interesting', 'weekend']
+742	This laptop is YOURS.  And I'd like you tu use it for research. 	Этот ноутбук ТВОЙ. Я бы хотел, чтобы ты воспользовалась им для изучения темы. 	['Этот', 'ноутбук', 'ТВОЙ', 'Я', 'бы', 'хотел', 'чтобы', 'ты', 'воспользовалась', 'им', 'для', 'изучения', 'темы']	"['This', 'laptop', 'is', 'YOURS', 'And', ""I'd"", 'like', 'you', 'tu', 'use', 'it', 'for', 'research']"
+743	Would you now? 	Анастейша Стил. Ты бы этого хотел? 	['Анастейша', 'Стил', 'Ты', 'бы', 'этого', 'хотел']	['Would', 'you', 'now']
+744	Is this what our ralationship will be like,  you ordering me around? 	Такими и будут наши отношения - ты будешь мне приказывать? 	['Такими', 'и', 'будут', 'наши', 'отношения', 'ты', 'будешь', 'мне', 'приказывать']	['Is', 'this', 'what', 'our', 'ralationship', 'will', 'be', 'like', 'you', 'ordering', 'me', 'around']
+745	Christian Grey Oh, I hope so… 	Кристиан Грей Очень на это надеюсь... 	['Кристиан', 'Грей', 'Очень', 'на', 'это', 'надеюсь']	['Christian', 'Grey', 'Oh', 'I', 'hope', 'so…']
+746	And what's more, you'll like it. 	Более того, тебе самой понравится. 	['Более', 'того', 'тебе', 'самой', 'понравится']	"['And', ""what's"", 'more', ""you'll"", 'like', 'it']"
+747	The fundamental purpose of this contract 	Главная цель данного контракта - 	['Главная', 'цель', 'данного', 'контракта']	['The', 'fundamental', 'purpose', 'of', 'this', 'contract']
+748	is to allow the Submissive to explore her sensuality and her limits safely. 	позволить Сабмиссиву изучить свою чувственность и найти ее пределы. 	['позволить', 'Сабмиссиву', 'изучить', 'свою', 'чувственность', 'и', 'найти', 'ее', 'пределы']	['is', 'to', 'allow', 'the', 'Submissive', 'to', 'explore', 'her', 'sensuality', 'and', 'her', 'limits', 'safely']
+749	The Dominant and Submissive agree and acknowledge 	Доминант и Сабмиссив соглашаются на то, 	['Доминант', 'и', 'Сабмиссив', 'соглашаются', 'на', 'то']	['The', 'Dominant', 'and', 'Submissive', 'agree', 'and', 'acknowledge']
+750	that all that occurs under the terms of this contract 	что все происходящее в рамках данного контракта 	['что', 'все', 'происходящее', 'в', 'рамках', 'данного', 'контракта']	['that', 'all', 'that', 'occurs', 'under', 'the', 'terms', 'of', 'this', 'contract']
+751	will be consensual, confidential, 	будет происходить с согласия сторон, будет конфиденциальным 	['будет', 'происходить', 'с', 'согласия', 'сторон', 'будет', 'конфиденциальным']	['will', 'be', 'consensual', 'confidential']
+752	and subject to the agreed limits 	и соответствующим установленным пределам 	['и', 'соответствующим', 'установленным', 'пределам']	['and', 'subject', 'to', 'the', 'agreed', 'limits']
+753	and safety procedures set out in this contract. 	и мерам безопасности, изложенным в контракте. 	['и', 'мерам', 'безопасности', 'изложенным', 'в', 'контракте']	['and', 'safety', 'procedures', 'set', 'out', 'in', 'this', 'contract']
+754	The Submissive will agree 	Сабмиссив соглашается 	['Сабмиссив', 'соглашается']	['The', 'Submissive', 'will', 'agree']
+755	to any sexual activity deemed fit and pleasurable by the Dominant, 	на любые сексуальные действия, предлагаемые Доминантом, 	['на', 'любые', 'сексуальные', 'действия', 'предлагаемые', 'Доминантом']	['to', 'any', 'sexual', 'activity', 'deemed', 'fit', 'and', 'pleasurable', 'by', 'the', 'Dominant']
+756	excepting those activities outlined in Hard Limits. 	за исключением действий, указанных как недопустимые. 	['за', 'исключением', 'действий', 'указанных', 'как', 'недопустимые']	['excepting', 'those', 'activities', 'outlined', 'in', 'Hard', 'Limits']
+757	The Submissive will not drink to excess, smoke, or take recreational drugs 	Сабмиссив не должен много пить, курить и принимать наркотики 	['Сабмиссив', 'не', 'должен', 'много', 'пить', 'курить', 'и', 'принимать', 'наркотики']	['The', 'Submissive', 'will', 'not', 'drink', 'to', 'excess', 'smoke', 'or', 'take', 'recreational', 'drugs']
+758	or put her person into any unnecessary risk. 	и подвергать себя какому бы то ни было ненужному риску. 	['и', 'подвергать', 'себя', 'какому', 'бы', 'то', 'ни', 'было', 'ненужному', 'риску']	['or', 'put', 'her', 'person', 'into', 'any', 'unnecessary', 'risk']
+759	The Submissive will not enter into sexual relations 	Сабмиссив обязуется не вступать в сексуальные отношения 	['Сабмиссив', 'обязуется', 'не', 'вступать', 'в', 'сексуальные', 'отношения']	['The', 'Submissive', 'will', 'not', 'enter', 'into', 'sexual', 'relations']
+760	with anyone other than the Dominant 	ни с кем, кроме Доминанта. 	['ни', 'с', 'кем', 'кроме', 'Доминанта']	['with', 'anyone', 'other', 'than', 'the', 'Dominant']
+761	The Submissive agrees to procure oral contraception 	Сабмиссив соглашается принимать противозачаточные таблетки, 	['Сабмиссив', 'соглашается', 'принимать', 'противозачаточные', 'таблетки']	['The', 'Submissive', 'agrees', 'to', 'procure', 'oral', 'contraception']
+762	from a physician of the Dominant's choosing. 	назначенные врачом по выбору Доминанта. 	['назначенные', 'врачом', 'по', 'выбору', 'Доминанта']	"['from', 'a', 'physician', 'of', 'the', ""Dominant's"", 'choosing']"
+763	The Submissive will eat regularly to maintain her health and well-being 	Сабмиссив обязуется регулярно есть, чтобы поддерживать свое здоровье, 	['Сабмиссив', 'обязуется', 'регулярно', 'есть', 'чтобы', 'поддерживать', 'свое', 'здоровье']	['The', 'Submissive', 'will', 'eat', 'regularly', 'to', 'maintain', 'her', 'health', 'and', 'well-being']
+764	from a prescribed list of foods. Appendix Four. 	выбирая продукты из списка, оговоренного в приложении 4. 	['выбирая', 'продукты', 'из', 'списка', 'оговоренного', 'в', 'приложении', '4']	['from', 'a', 'prescribed', 'list', 'of', 'foods', 'Appendix', 'Four']
+765	The Submissive will obey any instruction given by the Dominant. 	Сабмиссив обязуется подчиняться всем распоряжениям Доминанта 	['Сабмиссив', 'обязуется', 'подчиняться', 'всем', 'распоряжениям', 'Доминанта']	['The', 'Submissive', 'will', 'obey', 'any', 'instruction', 'given', 'by', 'the', 'Dominant']
+766	She will do so eagerly and without hesitation. 	и делать это охотно и без колебаний. 	['и', 'делать', 'это', 'охотно', 'и', 'без', 'колебаний']	['She', 'will', 'do', 'so', 'eagerly', 'and', 'without', 'hesitation']
+767	The Submissive may not touch the Dominant without his expressed permission to do so. 	Сабмиссив не может прикасаться к Доминанту без его явного разрешения. 	['Сабмиссив', 'не', 'может', 'прикасаться', 'к', 'Доминанту', 'без', 'его', 'явного', 'разрешения']	['The', 'Submissive', 'may', 'not', 'touch', 'the', 'Dominant', 'without', 'his', 'expressed', 'permission', 'to', 'do', 'so']
+768	The Submissive shall always conduct herself in a respectful manner to the Dominant, 	По отношению к Доминанту Сабмиссив обязуется вести себя почтительно 	['По', 'отношению', 'к', 'Доминанту', 'Сабмиссив', 'обязуется', 'вести', 'себя', 'почтительно']	['The', 'Submissive', 'shall', 'always', 'conduct', 'herself', 'in', 'a', 'respectful', 'manner', 'to', 'the', 'Dominant']
+769	"and she'll address him only as ""Sir, ""  ""Mr. Grey..."" "	"и обращаться к нему только ""сэр"", ""мистер Грэй""... "	['и', 'обращаться', 'к', 'нему', 'только', 'сэр', 'мистер', 'Грэй']	"['and', ""she'll"", 'address', 'him', 'only', 'as', 'Sir', 'Mr', 'Grey']"
+770	...or such other title as the Dominant may direct. 	...или так, как прикажет Доминант. 	['или', 'так', 'как', 'прикажет', 'Доминант']	['or', 'such', 'other', 'title', 'as', 'the', 'Dominant', 'may', 'direct']
+771	The Dominant may flog, spank, whip, or corporaiiy punish the Submissive 	Доминант может подвергать Сабмиссива телесным наказаниям, пороть, шлепать 	['Доминант', 'может', 'подвергать', 'Сабмиссива', 'телесным', 'наказаниям', 'пороть', 'шлепать']	['The', 'Dominant', 'may', 'flog', 'spank', 'whip', 'or', 'corporaiiy', 'punish', 'the', 'Submissive']
+772	as he sees fit, for purposes of discipline 	и прочее по своему усмотрению в дисциплинарных целях 	['и', 'прочее', 'по', 'своему', 'усмотрению', 'в', 'дисциплинарных', 'целях']	['as', 'he', 'sees', 'fit', 'for', 'purposes', 'of', 'discipline']
+773	or for his personal enjoyment. 	или для собственного удовольствия. 	['или', 'для', 'собственного', 'удовольствия']	['or', 'for', 'his', 'personal', 'enjoyment']
+774	"The safeword ""Yellow“ will be used to bring to the attention of the Dominant "	"Стоп-слово ""желтый"" произносится, чтобы показать Доминанту, "	['Стоп-слово', 'желтый', 'произносится', 'чтобы', 'показать', 'Доминанту']	['The', 'safeword', 'Yellow“', 'will', 'be', 'used', 'to', 'bring', 'to', 'the', 'attention', 'of', 'the', 'Dominant']
+775	that the Submissive is close to her limit. 	что Сабмиссив близка к пределу своих возможностей. 	['что', 'Сабмиссив', 'близка', 'к', 'пределу', 'своих', 'возможностей']	['that', 'the', 'Submissive', 'is', 'close', 'to', 'her', 'limit']
+776	When the safeword Red is spoken, 	"Когда произносится стоп-слово ""красный"", "	['Когда', 'произносится', 'стоп-слово', 'красный']	['When', 'the', 'safeword', 'Red', 'is', 'spoken']
+777	the Dominanfs action will cease completely and immediately. 	действия Доминанта прекращаются немедленно и полностью. 	['действия', 'Доминанта', 'прекращаются', 'немедленно', 'и', 'полностью']	['the', 'Dominanfs', 'action', 'will', 'cease', 'completely', 'and', 'immediately']
+778	Does the Submissive consent to being restrained with hands bound in front? 	Допускает ли Сабмиссив связывание рук впереди? 	['Допускает', 'ли', 'Сабмиссив', 'связывание', 'рук', 'впереди']	['Does', 'the', 'Submissive', 'consent', 'to', 'being', 'restrained', 'with', 'hands', 'bound', 'in', 'front']
+779	Does the Submissive consent to being blindfolded? 	Допускает ли Сабмиссив применение повязки на глаза? 	['Допускает', 'ли', 'Сабмиссив', 'применение', 'повязки', 'на', 'глаза']	['Does', 'the', 'Submissive', 'consent', 'to', 'being', 'blindfolded']
+780	Does the Submissive consent to being gagged? 	Допускает ли Сабмиссив применение кляпа? 	['Допускает', 'ли', 'Сабмиссив', 'применение', 'кляпа']	['Does', 'the', 'Submissive', 'consent', 'to', 'being', 'gagged']
+781	How much pain is the Submissive willing to experience? 	До какой степени Сабмиссив готова терпеть боль? 	['До', 'какой', 'степени', 'Сабмиссив', 'готова', 'терпеть', 'боль']	['How', 'much', 'pain', 'is', 'the', 'Submissive', 'willing', 'to', 'experience']
+782	Has you research been productive? I'm impatient in Seattle. It has… and it was nice knowing you. 	Ты изучила вопрос? Я сгораю от нетерпения в Сиэтле. Изучила...У нас было приятное знакомство. 	['Ты', 'изучила', 'вопрос', 'Я', 'сгораю', 'от', 'нетерпения', 'в', 'Сиэтле', 'Изучила...У', 'нас', 'было', 'приятное', 'знакомство']	"['Has', 'you', 'research', 'been', 'productive', ""I'm"", 'impatient', 'in', 'Seattle', 'It', 'has…', 'and', 'it', 'was', 'nice', 'knowing', 'you']"
+783	"It's been ""nice"" knowing me, has it? "	"Так у нас было ""приятное"" знакомство, да? "	['Так', 'у', 'нас', 'было', 'приятное', 'знакомство', 'да']	"[""It's"", 'been', 'nice', 'knowing', 'me', 'has', 'it']"
+784	"Let me remind you how ""nice"" it was. "	"Позволь мне напомнить тебе, насколько ""приятное"". "	['Позволь', 'мне', 'напомнить', 'тебе', 'насколько', 'приятное']	['Let', 'me', 'remind', 'you', 'how', 'nice', 'it', 'was']
+785	Is this what you want? 	Вот чего ты хочешь? 	['Вот', 'чего', 'ты', 'хочешь']	['Is', 'this', 'what', 'you', 'want']
+786	Don't make a sound. 	Не произноси ни звука. 	['Не', 'произноси', 'ни', 'звука']	"[""Don't"", 'make', 'a', 'sound']"
+787	"Was this ""nice""? "	"Это было ""приятно""? "	['Это', 'было', 'приятно']	['Was', 'this', 'nice']
+788	That was really nice. 	Это было очень приятно. 	['Это', 'было', 'очень', 'приятно']	['That', 'was', 'really', 'nice']
+789	What are you doing to me? 	Что ты со мной делаешь? 	['Что', 'ты', 'со', 'мной', 'делаешь']	['What', 'are', 'you', 'doing', 'to', 'me']
+790	What about here? 	А здесь можно? 	['А', 'здесь', 'можно']	['What', 'about', 'here']
+791	Why not? 	Почему нет? 	['Почему', 'нет']	['Why', 'not']
+792	Is it breaking the rules? 	Это нарушение правил? 	['Это', 'нарушение', 'правил']	['Is', 'it', 'breaking', 'the', 'rules']
+793	Speaking of which... 	Кстати, о правилах... 	['Кстати', 'о', 'правилах']	['Speaking', 'of', 'which']
+794	I haven't made up my mind yet. 	Я еще не решила. 	['Я', 'еще', 'не', 'решила']	"['I', ""haven't"", 'made', 'up', 'my', 'mind', 'yet']"
+795	You're not staying? 	Ты не останешься? 	['Ты', 'не', 'останешься']	"[""You're"", 'not', 'staying']"
+796	I told you, I don't sleep with anyone. 	Я же говорил, я ни с кем не сплю. 	['Я', 'же', 'говорил', 'я', 'ни', 'с', 'кем', 'не', 'сплю']	"['I', 'told', 'you', 'I', ""don't"", 'sleep', 'with', 'anyone']"
+797	Well, can we negotiate? 	И это нельзя обсудить? 	['И', 'это', 'нельзя', 'обсудить']	['Well', 'can', 'we', 'negotiate']
+798	I have same issues with the paperwork. 	У меня есть вопросы к документу. 	['У', 'меня', 'есть', 'вопросы', 'к', 'документу']	['I', 'have', 'same', 'issues', 'with', 'the', 'paperwork']
+799	I'd be disappointed if you didn't. 	Было бы странно, если бы их не было. 	['Было', 'бы', 'странно', 'если', 'бы', 'их', 'не', 'было']	"[""I'd"", 'be', 'disappointed', 'if', 'you', ""didn't""]"
+800	Shall we discuss over dinner? Tonight? 	Обсудим их за ужином? Сегодня вечером? 	['Обсудим', 'их', 'за', 'ужином', 'Сегодня', 'вечером']	['Shall', 'we', 'discuss', 'over', 'dinner', 'Tonight']
+801	As this is a contract,  I'd like a business meeting. 	Так как это контракт, я бы предпочла деловую встречу. 	['Так', 'как', 'это', 'контракт', 'я', 'бы', 'предпочла', 'деловую', 'встречу']	"['As', 'this', 'is', 'a', 'contract', ""I'd"", 'like', 'a', 'business', 'meeting']"
+802	Fine. I'll wear a suit. 	Хорошо. Я приду в костюме. 	['Хорошо', 'Я', 'приду', 'в', 'костюме']	"['Fine', ""I'll"", 'wear', 'a', 'suit']"
+803	I'll be wearing a burlap sack. 	Я приду в мешке из холстины. 	['Я', 'приду', 'в', 'мешке', 'из', 'холстины']	"[""I'll"", 'be', 'wearing', 'a', 'burlap', 'sack']"
+804	That's a hell of a sack Miss Steele. 	Классный мешок, мисс Стил. 	['Классный', 'мешок', 'мисс', 'Стил']	"[""That's"", 'a', 'hell', 'of', 'a', 'sack', 'Miss', 'Steele']"
+805	Impressive.  I've done this before. 	Впечатляет. У меня большой опыт в этой области. 	['Впечатляет', 'У', 'меня', 'большой', 'опыт', 'в', 'этой', 'области']	"['Impressive', ""I've"", 'done', 'this', 'before']"
+806	Business meetings, I mean. 	Я имею в виду деловые встречи. 	['Я', 'имею', 'в', 'виду', 'деловые', 'встречи']	['Business', 'meetings', 'I', 'mean']
+807	Miss Steele. Your meeting. 	Мисс Стил. Вам слово. 	['Мисс', 'Стил', 'Вам', 'слово']	['Miss', 'Steele', 'Your', 'meeting']
+808	Page one. 	Первая страница. 	['Первая', 'страница']	['Page', 'one']
+809	Strike out my old address and replace with the new one. 	Вычеркни мой старый адрес и замени новым. 	['Вычеркни', 'мой', 'старый', 'адрес', 'и', 'замени', 'новым']	['Strike', 'out', 'my', 'old', 'address', 'and', 'replace', 'with', 'the', 'new', 'one']
+810	An oversight. Duly noted. 	Недоглядел. Будет исправлено. 	['Недоглядел', 'Будет', 'исправлено']	['An', 'oversight', 'Duly', 'noted']
+811	Page three, section 1520. 	Страница три, раздел 1520. 	['Страница', 'три', 'раздел', '1520']	['Page', 'three', 'section', '1520']
+812	The Submissive shall submit to any sexual activity demanded by the Dominant 	"""Сабмиссив соглашается на любые сексуальные действия Доминанта "	['Сабмиссив', 'соглашается', 'на', 'любые', 'сексуальные', 'действия', 'Доминанта']	['The', 'Submissive', 'shall', 'submit', 'to', 'any', 'sexual', 'activity', 'demanded', 'by', 'the', 'Dominant']
+813	and shall do so without hesitation or argument. 	"без колебаний и без возражений"". "	['без', 'колебаний', 'и', 'без', 'возражений']	['and', 'shall', 'do', 'so', 'without', 'hesitation', 'or', 'argument']
+814	Uh, turn to page five. 	Посмотри на страницу пять. 	['Посмотри', 'на', 'страницу', 'пять']	['Uh', 'turn', 'to', 'page', 'five']
+815	Appendix Three, Soft Limits. 	"Приложение три: ""Пределы допустимого"". "	['Приложение', 'три', 'Пределы', 'допустимого']	['Appendix', 'Three', 'Soft', 'Limits']
+816	With you. 	Я тебя слушаю. 	['Я', 'тебя', 'слушаю']	['With', 'you']
+817	"Find ""anal fisting."" "	"Найди ""анальный фистинг"". "	['Найди', 'анальный', 'фистинг']	['Find', 'anal', 'fisting']
+818	I'm all ears. Strike it out. 	Я весь внимание. Вычеркни. 	['Я', 'весь', 'внимание', 'Вычеркни']	"[""I'm"", 'all', 'ears', 'Strike', 'it', 'out']"
+819	Strike out vaginal fisting, too. 	"И ""вагинальный фистинг"" тоже. "	['И', 'вагинальный', 'фистинг', 'тоже']	['Strike', 'out', 'vaginal', 'fisting', 'too']
+820	Are you sure? 	Ты уверена? 	['Ты', 'уверена']	['Are', 'you', 'sure']
+821	Yep. 	Да. 	['Да']	['Yep']
+822	"Same page, “ls the use of sex toys acceptable to the Submissive?"" "	"Там же: ""Какие игрушки приемлемы для Сабмиссива?"" "	['Там', 'же', 'Какие', 'игрушки', 'приемлемы', 'для', 'Сабмиссива']	['Same', 'page', '“ls', 'the', 'use', 'of', 'sex', 'toys', 'acceptable', 'to', 'the', 'Submissive']
+823	Vibrators, okay. Dildos, fine. 	Вибраторы - да. Фаллоимитаторы - пожалуйста. 	['Вибраторы', 'да', 'Фаллоимитаторы', 'пожалуйста']	['Vibrators', 'okay', 'Dildos', 'fine']
+824	Genital clamps? 	Генитальные зажимы? 	['Генитальные', 'зажимы']	['Genital', 'clamps']
+825	Absolutely not. 	Ни в коем случае. 	['Ни', 'в', 'коем', 'случае']	['Absolutely', 'not']
+826	Consider them gone. 	Значит, их не будет. 	['Значит', 'их', 'не', 'будет']	['Consider', 'them', 'gone']
+827	What are butt plugs? 	Что такое анальные пробки? 	['Что', 'такое', 'анальные', 'пробки']	['What', 'are', 'butt', 'plugs']
+828	You must go through quite a few non-disclosure agreements. 	Наверное, у тебя часто подписываются договоры о неразглашении. 	['Наверное', 'у', 'тебя', 'часто', 'подписываются', 'договоры', 'о', 'неразглашении']	['You', 'must', 'go', 'through', 'quite', 'a', 'few', 'non-disclosure', 'agreements']
+829	My staff know only what I choose to tell them. 	Мои сотрудники знают только то, что я считаю нужным им говорить. 	['Мои', 'сотрудники', 'знают', 'только', 'то', 'что', 'я', 'считаю', 'нужным', 'им', 'говорить']	['My', 'staff', 'know', 'only', 'what', 'I', 'choose', 'to', 'tell', 'them']
+830	Please resume, Miss Steele. 	Продолжайте, мисс Стил. 	['Продолжайте', 'мисс', 'Стил']	['Please', 'resume', 'Miss', 'Steele']
+831	Also on page five, there are some terms which need clarification. 	На пятой странице есть еще несколько слов, которые надо разъяснить. 	['На', 'пятой', 'странице', 'есть', 'еще', 'несколько', 'слов', 'которые', 'надо', 'разъяснить']	['Also', 'on', 'page', 'five', 'there', 'are', 'some', 'terms', 'which', 'need', 'clarification']
+832	Suspension? 	"""Подвешивание""? "	['Подвешивание']	['Suspension']
+833	Hanging on ropes from the ceiling. 	Подвешивание на веревках с потолка. 	['Подвешивание', 'на', 'веревках', 'с', 'потолка']	['Hanging', 'on', 'ropes', 'from', 'the', 'ceiling']
+834	For what possible reason? 	Господи, зачем? 	['Господи', 'зачем']	['For', 'what', 'possible', 'reason']
+835	For your pleasure. 	Для твоего удовольствия. 	['Для', 'твоего', 'удовольствия']	['For', 'your', 'pleasure']
+836	Really? 	Неужели? 	['Неужели']	['Really']
+837	And mine. 	И моего. 	['И', 'моего']	['And', 'mine']
+838	Something to consider. 	Подумай об этом. 	['Подумай', 'об', 'этом']	['Something', 'to', 'consider']
+839	No. Hard limit. 	Нет. Неприемлемо. 	['Нет', 'Неприемлемо']	['No', 'Hard', 'limit']
+840	I'm good with rope, 	Я не против веревок, 	['Я', 'не', 'против', 'веревок']	"[""I'm"", 'good', 'with', 'rope']"
+841	leather cuffs, handcuffs. 	манжет из кожи и наручников. 	['манжет', 'из', 'кожи', 'и', 'наручников']	['leather', 'cuffs', 'handcuffs']
+842	"Please lose ""tape."" "	Пожалуйста, вычеркни изоленту. 	['Пожалуйста', 'вычеркни', 'изоленту']	['Please', 'lose', 'tape']
+843	"And what's ""Other""? "	"А что значит ""другое""? "	['А', 'что', 'значит', 'другое']	"['And', ""what's"", 'Other']"
+844	Cable ties. 	Кабельные стяжки. 	['Кабельные', 'стяжки']	['Cable', 'ties']
+845	Can I just say how impressed I am with your commitment to this meeting? 	Меня восхищает серьезность, с которой ты подошла к этой встрече. 	['Меня', 'восхищает', 'серьезность', 'с', 'которой', 'ты', 'подошла', 'к', 'этой', 'встрече']	['Can', 'I', 'just', 'say', 'how', 'impressed', 'I', 'am', 'with', 'your', 'commitment', 'to', 'this', 'meeting']
+846	And in that spirit, I'm gonna throw in a sweetener. 	И поэтому я хотел бы внести встречное предложение. 	['И', 'поэтому', 'я', 'хотел', 'бы', 'внести', 'встречное', 'предложение']	"['And', 'in', 'that', 'spirit', ""I'm"", 'gonna', 'throw', 'in', 'a', 'sweetener']"
+847	How about once a week, 	Как насчет того, чтобы раз в неделю, 	['Как', 'насчет', 'того', 'чтобы', 'раз', 'в', 'неделю']	['How', 'about', 'once', 'a', 'week']
+848	on a night of your choosing, 	в вечер по твоему выбору, 	['в', 'вечер', 'по', 'твоему', 'выбору']	['on', 'a', 'night', 'of', 'your', 'choosing']
+849	we go on a date? 	ходить на свидания? 	['ходить', 'на', 'свидания']	['we', 'go', 'on', 'a', 'date']
+850	Just like a regular couple. 	Как обычные люди. 	['Как', 'обычные', 'люди']	['Just', 'like', 'a', 'regular', 'couple']
+851	Dinner, movie, 	В ресторан, в кино, 	['В', 'ресторан', 'в', 'кино']	['Dinner', 'movie']
+852	ice skating. 	на каток. 	['на', 'каток']	['ice', 'skating']
+853	Whatever you want. 	Куда захочешь. 	['Куда', 'захочешь']	['Whatever', 'you', 'want']
+854	Accepted. 	Принимается. 	['Принимается']	['Accepted']
+855	You're very kind. 	Очень мило с твоей стороны. 	['Очень', 'мило', 'с', 'твоей', 'стороны']	"[""You're"", 'very', 'kind']"
+856	I'll suggest it in Appendix Five. 	Я добавлю это в Приложение 5. 	['Я', 'добавлю', 'это', 'в', 'Приложение', '5']	"[""I'll"", 'suggest', 'it', 'in', 'Appendix', 'Five']"
+857	I would like to fuck you into the middle of next week. 	Я бы хотел трахнуть тебя  в середине следующей недели 	['Я', 'бы', 'хотел', 'трахнуть', 'тебя', 'в', 'середине', 'следующей', 'недели']	['I', 'would', 'like', 'to', 'fuck', 'you', 'into', 'the', 'middle', 'of', 'next', 'week']
+858	You're not fighting fair. 	Ты играешь нечестно. 	['Ты', 'играешь', 'нечестно']	"[""You're"", 'not', 'fighting', 'fair']"
+859	I never have. 	Как обычно. 	['Как', 'обычно']	['I', 'never', 'have']
+860	I'll review all these changes and try to arrive at a decision. 	Я просмотрю эти изменения и попытаюсь принять решение. 	['Я', 'просмотрю', 'эти', 'изменения', 'и', 'попытаюсь', 'принять', 'решение']	"[""I'll"", 'review', 'all', 'these', 'changes', 'and', 'try', 'to', 'arrive', 'at', 'a', 'decision']"
+861	You wanna leave? 	Ты хочешь уйти? 	['Ты', 'хочешь', 'уйти']	['You', 'wanna', 'leave']
+862	Yes. 	Да. 	['Да']	['Yes']
+863	But your body tells me something different. 	Но твое тело говорит, что это не так. 	['Но', 'твое', 'тело', 'говорит', 'что', 'это', 'не', 'так']	['But', 'your', 'body', 'tells', 'me', 'something', 'different']
+864	Your legs, for instance. 	Например, твои ноги. 	['Например', 'твои', 'ноги']	['Your', 'legs', 'for', 'instance']
+865	The way you're pressing your thighs together under the table. 	То, как ты их сжимаешь под столом. 	['То', 'как', 'ты', 'их', 'сжимаешь', 'под', 'столом']	"['The', 'way', ""you're"", 'pressing', 'your', 'thighs', 'together', 'under', 'the', 'table']"
+866	And the change in your breathing. 	И то, как поменялся ритм твоего дыхания. 	['И', 'то', 'как', 'поменялся', 'ритм', 'твоего', 'дыхания']	['And', 'the', 'change', 'in', 'your', 'breathing']
+867	And in your complexion. 	И твой цвет лица. 	['И', 'твой', 'цвет', 'лица']	['And', 'in', 'your', 'complexion']
+868	My complexion? 	Мой цвет лица? 	['Мой', 'цвет', 'лица']	['My', 'complexion']
+869	You're flushed. 	Ты покраснела. 	['Ты', 'покраснела']	"[""You're"", 'flushed']"
+870	That could just be the wine. 	Может быть, это от вина. 	['Может', 'быть', 'это', 'от', 'вина']	['That', 'could', 'just', 'be', 'the', 'wine']
+871	It's the adrenaline. 	Это от адреналина. 	['Это', 'от', 'адреналина']	"[""It's"", 'the', 'adrenaline']"
+872	Say I did stay. 	Допустим, я останусь. 	['Допустим', 'я', 'останусь']	['Say', 'I', 'did', 'stay']
+873	What would happen? 	Что тогда произойдет? 	['Что', 'тогда', 'произойдет']	['What', 'would', 'happen']
+874	First. 	Во-первых, 	['Во-первых']	['First']
+875	I would help you out of that little dress of yours. 	я помогу тебе снять это платье. 	['я', 'помогу', 'тебе', 'снять', 'это', 'платье']	['I', 'would', 'help', 'you', 'out', 'of', 'that', 'little', 'dress', 'of', 'yours']
+876	Yes. 	Да. 	['Да']	['Yes']
+877	And I'd be pleased to discover that you're naked underneath. 	И мне будет приятно узнать, что под ним у тебя ничего нет. 	['И', 'мне', 'будет', 'приятно', 'узнать', 'что', 'под', 'ним', 'у', 'тебя', 'ничего', 'нет']	"['And', ""I'd"", 'be', 'pleased', 'to', 'discover', 'that', ""you're"", 'naked', 'underneath']"
+878	Really? 	Правда? 	['Правда']	['Really']
+879	Then I would bend you over. 	Потом я положу тебя сюда. 	['Потом', 'я', 'положу', 'тебя', 'сюда']	['Then', 'I', 'would', 'bend', 'you', 'over']
+880	Right here? 	Прямо сюда? 	['Прямо', 'сюда']	['Right', 'here']
+881	Yes. 	Да. 	['Да']	['Yes']
+882	On this table? 	На этот стол? 	['На', 'этот', 'стол']	['On', 'this', 'table']
+883	Yes. 	Да. 	['Да']	['Yes']
+884	Thank you for the meeting, Mr. Grey. 	Благодарю вас за встречу, м-р Грей. 	['Благодарю', 'вас', 'за', 'встречу', 'м-р', 'Грей']	['Thank', 'you', 'for', 'the', 'meeting', 'Mr', 'Grey']
+885	This is me. 	Это моя. 	['Это', 'моя']	['This', 'is', 'me']
+886	Didn't know I was a collector of classic cars, huh? 	Ты не знал, что я собираю старинные машины, да? 	['Ты', 'не', 'знал', 'что', 'я', 'собираю', 'старинные', 'машины', 'да']	"[""Didn't"", 'know', 'I', 'was', 'a', 'collector', 'of', 'classic', 'cars', 'huh']"
+887	You sure I can't persuade you to stay? 	Я точно не могу убедить тебя остаться? 	['Я', 'точно', 'не', 'могу', 'убедить', 'тебя', 'остаться']	"['You', 'sure', 'I', ""can't"", 'persuade', 'you', 'to', 'stay']"
+888	Good night, Christian. 	Спокойной ночи, Кристиан. 	['Спокойной', 'ночи', 'Кристиан']	['Good', 'night', 'Christian']
+889	When will you know? 	Когда ты примешь решение? 	['Когда', 'ты', 'примешь', 'решение']	['When', 'will', 'you', 'know']
+890	Soon, maybe. 	Скоро, наверное. 	['Скоро', 'наверное']	['Soon', 'maybe']
+891	Why do I think you're telling me goodbye? 	Почему мне кажется, что ты со мной прощаешься? 	['Почему', 'мне', 'кажется', 'что', 'ты', 'со', 'мной', 'прощаешься']	"['Why', 'do', 'I', 'think', ""you're"", 'telling', 'me', 'goodbye']"
+892	Because I'm leaving. 	Потому что я уезжаю. 	['Потому', 'что', 'я', 'уезжаю']	"['Because', ""I'm"", 'leaving']"
+893	You got your valedictory speech ready? 	Ты подготовила свою речь? 	['Ты', 'подготовила', 'свою', 'речь']	['You', 'got', 'your', 'valedictory', 'speech', 'ready']
+894	Oh, more or less. 	Более или менее. 	['Более', 'или', 'менее']	['Oh', 'more', 'or', 'less']
+895	Annie! 	Энни! 	['Энни']	['Annie']
+896	Dad! 	Папа! 	['Папа']	['Dad']
+897	Hi! 	Привет! 	['Привет']	['Hi']
+898	Sorry I'm late. I had a hell of a time parking. 	Извини, что опоздал. Сложно было припарковаться. 	['Извини', 'что', 'опоздал', 'Сложно', 'было', 'припарковаться']	"['Sorry', ""I'm"", 'late', 'I', 'had', 'a', 'hell', 'of', 'a', 'time', 'parking']"
+899	That's okay. You're here, that's all that matters. 	Ничего. Ты здесь, и это главное. 	['Ничего', 'Ты', 'здесь', 'и', 'это', 'главное']	"[""That's"", 'okay', ""You're"", 'here', ""that's"", 'all', 'that', 'matters']"
+900	You kidding me? lwouldn't miss this for the world 	Да ты что? Я такое событие ни за что не пропущу. 	['Да', 'ты', 'что', 'Я', 'такое', 'событие', 'ни', 'за', 'что', 'не', 'пропущу']	"['You', 'kidding', 'me', ""lwouldn't"", 'miss', 'this', 'for', 'the', 'world']"
+901	I saved you a seat next to Kate's parents. Anywhere you want me, sweetheart. 	- Твое место рядом с родителями Кейт. - Где скажешь, милая. 	['Твое', 'место', 'рядом', 'с', 'родителями', 'Кейт', 'Где', 'скажешь', 'милая']	"['I', 'saved', 'you', 'a', 'seat', 'next', 'to', ""Kate's"", 'parents', 'Anywhere', 'you', 'want', 'me', 'sweetheart']"
+902	- Okay. I'll see you after. Yeah- 	- Ладно. Увидимся после церемонии. - Да. 	['Ладно', 'Увидимся', 'после', 'церемонии', 'Да']	"['Okay', ""I'll"", 'see', 'you', 'after', 'Yeah']"
+903	Good luck up there. 	Удачи. 	['Удачи']	['Good', 'luck', 'up', 'there']
+904	And he's also a major benefactor to our university. 	Кроме того, он много пожертвовал нашему университету. 	['Кроме', 'того', 'он', 'много', 'пожертвовал', 'нашему', 'университету']	"['And', ""he's"", 'also', 'a', 'major', 'benefactor', 'to', 'our', 'university']"
+905	Please join me in welcoming Mr. Christian Grey. 	Пожалуйста, поприветствуйте м-ра Кристиана Грея. 	['Пожалуйста', 'поприветствуйте', 'м-ра', 'Кристиана', 'Грея']	['Please', 'join', 'me', 'in', 'welcoming', 'Mr', 'Christian', 'Grey']
+906	Thank you. 	Спасибо. 	['Спасибо']	['Thank', 'you']
+907	I am deeply moved by the great compliment accorded to me today. 	Я глубоко тронут оказанной мне сегодня честью. 	['Я', 'глубоко', 'тронут', 'оказанной', 'мне', 'сегодня', 'честью']	['I', 'am', 'deeply', 'moved', 'by', 'the', 'great', 'compliment', 'accorded', 'to', 'me', 'today']
+908	He is so hot. 	Он такой сексуальный. 	['Он', 'такой', 'сексуальный']	['He', 'is', 'so', 'hot']
+909	Oh, God. He so is. 	О господи. Это точно. 	['О', 'господи', 'Это', 'точно']	['Oh', 'God', 'He', 'so', 'is']
+910	I heard he's gay. 	Я слышала, что он гей. 	['Я', 'слышала', 'что', 'он', 'гей']	"['I', 'heard', ""he's"", 'gay']"
+911	The goal? 	Какова цель? 	['Какова', 'цель']	['The', 'goal']
+912	To help eradicate hunger and poverty across the globe. 	Покончить с голодом и нищетой во всем мире. 	['Покончить', 'с', 'голодом', 'и', 'нищетой', 'во', 'всем', 'мире']	['To', 'help', 'eradicate', 'hunger', 'and', 'poverty', 'across', 'the', 'globe']
+913	I myself 	Мне самому 	['Мне', 'самому']	['I', 'myself']
+914	have known what it's like to be profoundly hungry. 	известно, что значит быть ужасно голодным. 	['известно', 'что', 'значит', 'быть', 'ужасно', 'голодным']	"['have', 'known', 'what', ""it's"", 'like', 'to', 'be', 'profoundly', 'hungry']"
+915	So this is a very personal mission for me. 	Так что для меня эта кампания имеет и личное значение. 	['Так', 'что', 'для', 'меня', 'эта', 'кампания', 'имеет', 'и', 'личное', 'значение']	['So', 'this', 'is', 'a', 'very', 'personal', 'mission', 'for', 'me']
+916	Megan Soliah. 	Меган Солая. 	['Меган', 'Солая']	['Megan', 'Soliah']
+917	Anastasia Steele. 	Анастейша Стил. 	['Анастейша', 'Стил']	['Anastasia', 'Steele']
+918	Nancy Hines. 	Нэнси Хайнс. 	['Нэнси', 'Хайнс']	['Nancy', 'Hines']
+919	Congratulations. You should be very proud. 	Поздравляю. Ты должна гордиться собой. 	['Поздравляю', 'Ты', 'должна', 'гордиться', 'собой']	['Congratulations', 'You', 'should', 'be', 'very', 'proud']
+920	I am. 	Да. 	['Да']	['I', 'am']
+921	Nice tie, by the way. 	Кстати, красивый галстук. 	['Кстати', 'красивый', 'галстук']	['Nice', 'tie', 'by', 'the', 'way']
+922	It's recently become my favorite. 	С недавних пор это мой любимый галстук. 	['С', 'недавних', 'пор', 'это', 'мой', 'любимый', 'галстук']	"[""It's"", 'recently', 'become', 'my', 'favorite']"
+923	Do you have your answer yet? 	У тебя есть для меня ответ? 	['У', 'тебя', 'есть', 'для', 'меня', 'ответ']	['Do', 'you', 'have', 'your', 'answer', 'yet']
+924	I'm still thinking. 	Я все еще думаю. 	['Я', 'все', 'еще', 'думаю']	"[""I'm"", 'still', 'thinking']"
+925	Anastasia, just try it my way. Please. 	Анастейша, попробуй сделать по-моему. Пожалуйста. 	['Анастейша', 'попробуй', 'сделать', 'по-моему', 'Пожалуйста']	['Anastasia', 'just', 'try', 'it', 'my', 'way', 'Please']
+926	Okay. 	Ладно. 	['Ладно']	['Okay']
+927	What? 	Что? 	['Что']	['What']
+928	Congratulations. Thank you. 	- Поздравляю. - Спасибо. 	['Поздравляю', 'Спасибо']	['Congratulations', 'Thank', 'you']
+929	We did it, we did it, we did it! 	Все! Учебе конец! 	['Все', 'Учебе', 'конец']	['We', 'did', 'it', 'we', 'did', 'it', 'we', 'did', 'it']
+930	Dad! Hi. 	Папа! Привет. 	['Папа', 'Привет']	['Dad', 'Hi']
+931	I am so proud of you, Annie. 	Я горжусь тобой, Энни. 	['Я', 'горжусь', 'тобой', 'Энни']	['I', 'am', 'so', 'proud', 'of', 'you', 'Annie']
+932	Thank you. 	Спасибо. 	['Спасибо']	['Thank', 'you']
+933	And, Kate, best Valedictorian speech ever. 	Кейт, такой отличной речи я еще не слышал. 	['Кейт', 'такой', 'отличной', 'речи', 'я', 'еще', 'не', 'слышал']	['And', 'Kate', 'best', 'Valedictorian', 'speech', 'ever']
+934	Oh, thank you. It was awesome. 	- Спасибо. - Просто превосходная речь. 	['Спасибо', 'Просто', 'превосходная', 'речь']	['Oh', 'thank', 'you', 'It', 'was', 'awesome']
+935	Yeah... Ana. Hi. 	- Да. - Ана. Привет. 	['Да', 'Ана', 'Привет']	['Yeah', 'Ana', 'Hi']
+936	Hi. 	Привет. 	['Привет']	['Hi']
+937	Ray, have you met Christian Grey, Ana's boyfriend? 	Вы знакомы с Кристианом Греем, приятелем Аны? 	['Вы', 'знакомы', 'с', 'Кристианом', 'Греем', 'приятелем', 'Аны']	"['Ray', 'have', 'you', 'met', 'Christian', 'Grey', ""Ana's"", 'boyfriend']"
+938	Hi. Great pleasure to meet you. 	Здравствуйте. Очень приятно. 	['Здравствуйте', 'Очень', 'приятно']	['Hi', 'Great', 'pleasure', 'to', 'meet', 'you']
+939	Likewise. I really enjoyed your speech. 	Мне тоже. Мне понравилась ваша речь. 	['Мне', 'тоже', 'Мне', 'понравилась', 'ваша', 'речь']	['Likewise', 'I', 'really', 'enjoyed', 'your', 'speech']
+940	Thank you, sir. 	Спасибо, сэр. 	['Спасибо', 'сэр']	['Thank', 'you', 'sir']
+941	Sounds like you have accomplished some pretty impressive things. 	Похоже, у вас много впечатляющих достижений. 	['Похоже', 'у', 'вас', 'много', 'впечатляющих', 'достижений']	['Sounds', 'like', 'you', 'have', 'accomplished', 'some', 'pretty', 'impressive', 'things']
+942	- I'll say. 	- Это точно. 	['Это', 'точно']	"[""I'll"", 'say']"
+943	Well, I'm gonna go find my family 	Ну, я пойду и найду своих родителей, 	['Ну', 'я', 'пойду', 'и', 'найду', 'своих', 'родителей']	"['Well', ""I'm"", 'gonna', 'go', 'find', 'my', 'family']"
+944	who've been patiently waiting to embarrass me. 	которые терпеливо ждут, когда смогут смутить меня. 	['которые', 'терпеливо', 'ждут', 'когда', 'смогут', 'смутить', 'меня']	"[""who've"", 'been', 'patiently', 'waiting', 'to', 'embarrass', 'me']"
+945	Bye. Come see us in Seattle, okay? 	Пока. Приезжайте к нам в Сиэтл, хорошо? 	['Пока', 'Приезжайте', 'к', 'нам', 'в', 'Сиэтл', 'хорошо']	['Bye', 'Come', 'see', 'us', 'in', 'Seattle', 'okay']
+946	Yeah, as soon as I get an invitation. 	Да, как только получу приглашение. 	['Да', 'как', 'только', 'получу', 'приглашение']	['Yeah', 'as', 'soon', 'as', 'I', 'get', 'an', 'invitation']
+947	So, how long have you two known each other? 	Так вы давно знакомы? 	['Так', 'вы', 'давно', 'знакомы']	['So', 'how', 'long', 'have', 'you', 'two', 'known', 'each', 'other']
+948	A few weeks, now. 	Несколько недель. 	['Несколько', 'недель']	['A', 'few', 'weeks', 'now']
+949	We actually met when Anastasia interviewed me for the student newspaper. 	Познакомились, когда Анастейша брала у меня интервью для газеты. 	['Познакомились', 'когда', 'Анастейша', 'брала', 'у', 'меня', 'интервью', 'для', 'газеты']	['We', 'actually', 'met', 'when', 'Anastasia', 'interviewed', 'me', 'for', 'the', 'student', 'newspaper']
+950	Uh, picture, please,Mr. Grey? 	Можно вас сфотографировать, м-р Грей? 	['Можно', 'вас', 'сфотографировать', 'м-р', 'Грей']	['Uh', 'picture', 'please,Mr', 'Grey']
+951	Excuse us a moment. 	Извините. 	['Извините']	['Excuse', 'us', 'a', 'moment']
+952	Big smile, now. 	Улыбнитесь. 	['Улыбнитесь']	['Big', 'smile', 'now']
+953	To celebrate your graduation, 	Это чтобы отпраздновать твой выпуск, 	['Это', 'чтобы', 'отпраздновать', 'твой', 'выпуск']	['To', 'celebrate', 'your', 'graduation']
+954	among other things. 	а также все остальное. 	['а', 'также', 'все', 'остальное']	['among', 'other', 'things']
+955	Roll your eyes at me again 	Закати еще раз глаза вот так - 	['Закати', 'еще', 'раз', 'глаза', 'вот', 'так']	['Roll', 'your', 'eyes', 'at', 'me', 'again']
+956	and I will take you across my knee. 	и я тебя отшлепаю. 	['и', 'я', 'тебя', 'отшлепаю']	['and', 'I', 'will', 'take', 'you', 'across', 'my', 'knee']
+957	So it begins. 	Итак, за начало. 	['Итак', 'за', 'начало']	['So', 'it', 'begins']
+958	Mmm- Come on. I have something to show you. 	Пойдем. Я хочу тебе кое-что показать. 	['Пойдем', 'Я', 'хочу', 'тебе', 'кое-что', 'показать']	['Mmm', 'Come', 'on', 'I', 'have', 'something', 'to', 'show', 'you']
+959	What? 	Что? 	['Что']	['What']
+960	That's cute. 	Она милая. 	['Она', 'милая']	"[""That's"", 'cute']"
+961	Doesn't really seem like your style, though. 	Но мне кажется,  что она не в твоем стиле. 	['Но', 'мне', 'кажется', 'что', 'она', 'не', 'в', 'твоем', 'стиле']	"[""Doesn't"", 'really', 'seem', 'like', 'your', 'style', 'though']"
+962	It's not. 	Так и есть. 	['Так', 'и', 'есть']	"[""It's"", 'not']"
+963	Happy graduation, Anastasia. 	Поздравляю с выпуском, Анастейша. 	['Поздравляю', 'с', 'выпуском', 'Анастейша']	['Happy', 'graduation', 'Anastasia']
+964	Oh, my God. 	О господи. 	['О', 'господи']	['Oh', 'my', 'God']
+965	Christian, that's a car. 	Кристиан, это машина. 	['Кристиан', 'это', 'машина']	"['Christian', ""that's"", 'a', 'car']"
+966	You don't miss much, do you? 	Как ты догадалась? 	['Как', 'ты', 'догадалась']	"['You', ""don't"", 'miss', 'much', 'do', 'you']"
+967	Thank you, but I can't... 	Спасибо, но я не могу... 	['Спасибо', 'но', 'я', 'не', 'могу']	"['Thank', 'you', 'but', 'I', ""can't""]"
+968	Do you like it? 	Она тебе нравится? 	['Она', 'тебе', 'нравится']	['Do', 'you', 'like', 'it']
+969	Of course I like it. It's beautiful. 	Конечно, нравится. Она прекрасна. 	['Конечно', 'нравится', 'Она', 'прекрасна']	"['Of', 'course', 'I', 'like', 'it', ""It's"", 'beautiful']"
+970	But I have a car. 	Но у меня есть машина. 	['Но', 'у', 'меня', 'есть', 'машина']	['But', 'I', 'have', 'a', 'car']
+971	Where's my car? 	Где моя машина? 	['Где', 'моя', 'машина']	"[""Where's"", 'my', 'car']"
+972	I told Taylor to fetch a decent price. 	Тейлор продал ее за хорошую цену. 	['Тейлор', 'продал', 'ее', 'за', 'хорошую', 'цену']	['I', 'told', 'Taylor', 'to', 'fetch', 'a', 'decent', 'price']
+973	Oh, Christian, this is way too much. 	Кристиан, это слишком. 	['Кристиан', 'это', 'слишком']	['Oh', 'Christian', 'this', 'is', 'way', 'too', 'much']
+974	Did you just roll your eyes at me? 	Ты опять закатила глаза? 	['Ты', 'опять', 'закатила', 'глаза']	['Did', 'you', 'just', 'roll', 'your', 'eyes', 'at', 'me']
+975	Do you know why I'm doing this? 	Ты знаешь, почему я это делаю? 	['Ты', 'знаешь', 'почему', 'я', 'это', 'делаю']	"['Do', 'you', 'know', 'why', ""I'm"", 'doing', 'this']"
+976	Because I rolled my eyes. 	Потому что я закатила глаза. 	['Потому', 'что', 'я', 'закатила', 'глаза']	['Because', 'I', 'rolled', 'my', 'eyes']
+977	And is that polite? 	Это разве вежливо? 	['Это', 'разве', 'вежливо']	['And', 'is', 'that', 'polite']
+978	No. 	Нет. 	['Нет']	['No']
+979	Excuse me? 	Что ты сказала? 	['Что', 'ты', 'сказала']	['Excuse', 'me']
+980	No, sir. 	Нет, сэр. 	['Нет', 'сэр']	['No', 'sir']
+981	Do you want more? 	Еще? 	['Еще']	['Do', 'you', 'want', 'more']
+982	Welcome to my world. 	Добро пожаловать в мой мир. 	['Добро', 'пожаловать', 'в', 'мой', 'мир']	['Welcome', 'to', 'my', 'world']
+983	What are you doing? 	Что ты делаешь? 	['Что', 'ты', 'делаешь']	['What', 'are', 'you', 'doing']
+984	I have a few things at the office that require my attention. 	У меня есть кое-какие дела в офисе. 	['У', 'меня', 'есть', 'кое-какие', 'дела', 'в', 'офисе']	['I', 'have', 'a', 'few', 'things', 'at', 'the', 'office', 'that', 'require', 'my', 'attention']
+985	You okay? 	Ты в порядке? 	['Ты', 'в', 'порядке']	['You', 'okay']
+986	I just thought that... 	Я просто думала, что... 	['Я', 'просто', 'думала', 'что']	['I', 'just', 'thought', 'that']
+987	I enjoyed tonight. 	Мне было хорошо сегодня. 	['Мне', 'было', 'хорошо', 'сегодня']	['I', 'enjoyed', 'tonight']
+988	I'll see you at my place tomorrow. 	Увидимся завтра у меня. 	['Увидимся', 'завтра', 'у', 'меня']	"[""I'll"", 'see', 'you', 'at', 'my', 'place', 'tomorrow']"
+989	Hi, Momma. 	Привет, мама. 	['Привет', 'мама']	['Hi', 'Momma']
+990	Anastasia, what's going on? I have left you two messages this week. 	Анастейша, в чем дело? Я оставила два сообщения за неделю. 	['Анастейша', 'в', 'чем', 'дело', 'Я', 'оставила', 'два', 'сообщения', 'за', 'неделю']	"['Anastasia', ""what's"", 'going', 'on', 'I', 'have', 'left', 'you', 'two', 'messages', 'this', 'week']"
+991	I know. I'm sorry. 	Знаю. Прости. 	['Знаю', 'Прости']	"['I', 'know', ""I'm"", 'sorry']"
+992	I just got a little distracted. 	Я просто была немного занята. 	['Я', 'просто', 'была', 'немного', 'занята']	['I', 'just', 'got', 'a', 'little', 'distracted']
+993	Sorry I missed your graduation, honey. I heard it was lovely. 	Извини, что не была на выпуске, детка. Я слышала, все было чудесно. 	['Извини', 'что', 'не', 'была', 'на', 'выпуске', 'детка', 'Я', 'слышала', 'все', 'было', 'чудесно']	['Sorry', 'I', 'missed', 'your', 'graduation', 'honey', 'I', 'heard', 'it', 'was', 'lovely']
+994	And your new beau? 	А как твой новый поклонник? 	['А', 'как', 'твой', 'новый', 'поклонник']	['And', 'your', 'new', 'beau']
+995	Ray told me all about him. He sounds like quite the young man. 	Рей мне о нем рассказал. Похоже, он замечательный. 	['Рей', 'мне', 'о', 'нем', 'рассказал', 'Похоже', 'он', 'замечательный']	['Ray', 'told', 'me', 'all', 'about', 'him', 'He', 'sounds', 'like', 'quite', 'the', 'young', 'man']
+996	Of course, I would have preferred to have heard about him from you. 	Конечно, я бы предпочла услышать о нем от тебя. 	['Конечно', 'я', 'бы', 'предпочла', 'услышать', 'о', 'нем', 'от', 'тебя']	['Of', 'course', 'I', 'would', 'have', 'preferred', 'to', 'have', 'heard', 'about', 'him', 'from', 'you']
+997	What's the matter? 	В чем дело? 	['В', 'чем', 'дело']	"[""What's"", 'the', 'matter']"
+998	Nothing. I'm fine. 	Ни в чем. Все в порядке. 	['Ни', 'в', 'чем', 'Все', 'в', 'порядке']	"['Nothing', ""I'm"", 'fine']"
+999	Is he not making you happy? 	Тебе с ним плохо? 	['Тебе', 'с', 'ним', 'плохо']	['Is', 'he', 'not', 'making', 'you', 'happy']
+1000	He is, yeah. Most of the time, yeah. 	Нет, хорошо. Чаще всего. 	['Нет', 'хорошо', 'Чаще', 'всего']	['He', 'is', 'yeah', 'Most', 'of', 'the', 'time', 'yeah']
+1001	It's complicated. 	Все довольно сложно. 	['Все', 'довольно', 'сложно']	"[""It's"", 'complicated']"
+1002	Listen, honey, if you need a break, 	Послушай, милая, если тебе надо отдохнуть, 	['Послушай', 'милая', 'если', 'тебе', 'надо', 'отдохнуть']	['Listen', 'honey', 'if', 'you', 'need', 'a', 'break']
+1003	you just come right on down here. 	просто приезжай к нам. 	['просто', 'приезжай', 'к', 'нам']	['you', 'just', 'come', 'right', 'on', 'down', 'here']
+1004	Even if it's for a clay or two. 	Хотя бы на день-два. 	['Хотя', 'бы', 'на', 'день-два']	"['Even', 'if', ""it's"", 'for', 'a', 'clay', 'or', 'two']"
+1005	I have air miles, and we could talk and have girl time. 	Я смогу взять тебе билет за мили, будем вести женские разговоры. 	['Я', 'смогу', 'взять', 'тебе', 'билет', 'за', 'мили', 'будем', 'вести', 'женские', 'разговоры']	['I', 'have', 'air', 'miles', 'and', 'we', 'could', 'talk', 'and', 'have', 'girl', 'time']
+1006	Promise me you'll think about it. 	Обещай мне, что подумаешь об этом. 	['Обещай', 'мне', 'что', 'подумаешь', 'об', 'этом']	"['Promise', 'me', ""you'll"", 'think', 'about', 'it']"
+1007	Yeah, I promise. 	Хорошо, обещаю. 	['Хорошо', 'обещаю']	['Yeah', 'I', 'promise']
+1008	I promise. 	Обещаю. 	['Обещаю']	['I', 'promise']
+1009	I love you, Momma. 	Я тебя люблю, мама. 	['Я', 'тебя', 'люблю', 'мама']	['I', 'love', 'you', 'Momma']
+1010	I love you, too, darling. 	Я тебя тоже люблю, милая. 	['Я', 'тебя', 'тоже', 'люблю', 'милая']	['I', 'love', 'you', 'too', 'darling']
+1011	I gotta go. 	Мне надо идти. 	['Мне', 'надо', 'идти']	['I', 'gotta', 'go']
+1012	Bye. 	Пока. 	['Пока']	['Bye']
+1013	Looks like you and Grey did some celebrating last night. 	Похоже, вы с Греем вчера здесь отмечали. 	['Похоже', 'вы', 'с', 'Греем', 'вчера', 'здесь', 'отмечали']	['Looks', 'like', 'you', 'and', 'Grey', 'did', 'some', 'celebrating', 'last', 'night']
+1014	Is he still asleep? 	Он еще спит? 	['Он', 'еще', 'спит']	['Is', 'he', 'still', 'asleep']
+1015	Uh... No, he couldn't stay. 	Нет, он не мог остаться. 	['Нет', 'он', 'не', 'мог', 'остаться']	"['Uh', 'No', 'he', ""couldn't"", 'stay']"
+1016	Whose car keys are those, then? 	Тогда чьи это ключи от машины? 	['Тогда', 'чьи', 'это', 'ключи', 'от', 'машины']	['Whose', 'car', 'keys', 'are', 'those', 'then']
+1017	Those are my keys. 	Это мои ключи. 	['Это', 'мои', 'ключи']	['Those', 'are', 'my', 'keys']
+1018	Wow, Ana. 	Ничего себе, Ана. 	['Ничего', 'себе', 'Ана']	['Wow', 'Ana']
+1019	What? 	А что такое? 	['А', 'что', 'такое']	['What']
+1020	Nothing. I just... 	Ничего. Я просто... 	['Ничего', 'Я', 'просто']	['Nothing', 'I', 'just']
+1021	Make sure you're taking it at your own pace, okay? 	Просто не давай ему себя торопить, ладно? 	['Просто', 'не', 'давай', 'ему', 'себя', 'торопить', 'ладно']	"['Make', 'sure', ""you're"", 'taking', 'it', 'at', 'your', 'own', 'pace', 'okay']"
+1022	I am, I am. I gotta go. 	Хорошо, не буду. Мне пора идти. 	['Хорошо', 'не', 'буду', 'Мне', 'пора', 'идти']	['I', 'am', 'I', 'am', 'I', 'gotta', 'go']
+1023	Where are you going? 	Куда ты? 	['Куда', 'ты']	['Where', 'are', 'you', 'going']
+1024	Look at this. 	Посмотри. 	['Посмотри']	['Look', 'at', 'this']
+1025	I've seen it. 	Я видел. 	['Я', 'видел']	"[""I've"", 'seen', 'it']"
+1026	It's not a bad picture. 	Неплохая фотография. 	['Неплохая', 'фотография']	"[""It's"", 'not', 'a', 'bad', 'picture']"
+1027	Christian Grey with friend. 	"""Кристиан Грей с подругой"". "	['Кристиан', 'Грей', 'с', 'подругой']	['Christian', 'Grey', 'with', 'friend']
+1028	it says we're friends. 	Здесь сказано, что мы друзья. 	['Здесь', 'сказано', 'что', 'мы', 'друзья']	"['it', 'says', ""we're"", 'friends']"
+1029	Well, it must be true if it's in the paper. 	Наверное, это правда, раз так написано в газете. 	['Наверное', 'это', 'правда', 'раз', 'так', 'написано', 'в', 'газете']	"['Well', 'it', 'must', 'be', 'true', 'if', ""it's"", 'in', 'the', 'paper']"
+1030	So, how'd it go with Dr. Greene? 	Ну, как все прошло с д-ром Грин? 	['Ну', 'как', 'все', 'прошло', 'с', 'д-ром', 'Грин']	"['So', ""how'd"", 'it', 'go', 'with', 'Dr', 'Greene']"
+1031	It was fine. 	Нормально. 	['Нормально']	['It', 'was', 'fine']
+1032	But she said that have to abstain from all sexual activity for at least four weeks. 	Но она сказала, что мне нельзя заниматься сексом четыре недели. 	['Но', 'она', 'сказала', 'что', 'мне', 'нельзя', 'заниматься', 'сексом', 'четыре', 'недели']	['But', 'she', 'said', 'that', 'have', 'to', 'abstain', 'from', 'all', 'sexual', 'activity', 'for', 'at', 'least', 'four', 'weeks']
+1033	You know, after I start the pill. 	После начала приема таблеток. 	['После', 'начала', 'приема', 'таблеток']	['You', 'know', 'after', 'I', 'start', 'the', 'pill']
+1034	What? 	Что? 	['Что']	['What']
+1035	Just kidding. 	Я шучу. 	['Я', 'шучу']	['Just', 'kidding']
+1036	I wanna take you to my play room. 	Я хочу отвести тебя в игровую комнату. 	['Я', 'хочу', 'отвести', 'тебя', 'в', 'игровую', 'комнату']	['I', 'wanna', 'take', 'you', 'to', 'my', 'play', 'room']
+1037	But I haven't signed the contract. 	Но я не подписала контракт. 	['Но', 'я', 'не', 'подписала', 'контракт']	"['But', 'I', ""haven't"", 'signed', 'the', 'contract']"
+1038	I'm well aware. 	Я знаю. 	['Я', 'знаю']	"[""I'm"", 'well', 'aware']"
+1039	Call it due diligence. 	Назовем это оценкой риска. 	['Назовем', 'это', 'оценкой', 'риска']	['Call', 'it', 'due', 'diligence']
+1040	Okay. 	Хорошо. 	['Хорошо']	['Okay']
+1041	You ready? 	Ты готова? 	['Ты', 'готова']	['You', 'ready']
+1042	Eyes down. 	Опусти глаза. 	['Опусти', 'глаза']	['Eyes', 'down']
+1043	Take off your shoes. 	Сними туфли. 	['Сними', 'туфли']	['Take', 'off', 'your', 'shoes']
+1044	Arms above your head. 	Подними руки над головой. 	['Подними', 'руки', 'над', 'головой']	['Arms', 'above', 'your', 'head']
+1045	You have a beautiful body, Anastasia. 	У тебя прекрасное тело, Анастейша. 	['У', 'тебя', 'прекрасное', 'тело', 'Анастейша']	['You', 'have', 'a', 'beautiful', 'body', 'Anastasia']
+1046	I want you unashamed of your nakedness. Do you understand? 	Я хочу, чтобы ты не стыдилась своей наготы. Понимаешь? 	['Я', 'хочу', 'чтобы', 'ты', 'не', 'стыдилась', 'своей', 'наготы', 'Понимаешь']	['I', 'want', 'you', 'unashamed', 'of', 'your', 'nakedness', 'Do', 'you', 'understand']
+1047	Yes, sir. 	Да, сэр. 	['Да', 'сэр']	['Yes', 'sir']
+1048	You're biting your lip. 	Ты кусаешь губу. 	['Ты', 'кусаешь', 'губу']	"[""You're"", 'biting', 'your', 'lip']"
+1049	You know what that does to me.  Turn around. 	Ты знаешь, как это на меня действует. Повернись. 	['Ты', 'знаешь', 'как', 'это', 'на', 'меня', 'действует', 'Повернись']	['You', 'know', 'what', 'that', 'does', 'to', 'me', 'Turn', 'around']
+1050	When I tell you to come into this room, 	Когда я буду говорить тебе пойти в эту комнату, 	['Когда', 'я', 'буду', 'говорить', 'тебе', 'пойти', 'в', 'эту', 'комнату']	['When', 'I', 'tell', 'you', 'to', 'come', 'into', 'this', 'room']
+1051	this is how you'll be. 	ты будешь делать вот так. 	['ты', 'будешь', 'делать', 'вот', 'так']	"['this', 'is', 'how', ""you'll"", 'be']"
+1052	You'll wait for me, 	Ты будешь ждать меня, 	['Ты', 'будешь', 'ждать', 'меня']	"[""You'll"", 'wait', 'for', 'me']"
+1053	kneeling by the door. 	стоя на коленях у двери. 	['стоя', 'на', 'коленях', 'у', 'двери']	['kneeling', 'by', 'the', 'door']
+1054	Do it now. 	Опустись на колени. 	['Опустись', 'на', 'колени']	['Do', 'it', 'now']
+1055	Hands flat on your thighs. 	Положи руки на бедра ладонями вниз. 	['Положи', 'руки', 'на', 'бедра', 'ладонями', 'вниз']	['Hands', 'flat', 'on', 'your', 'thighs']
+1056	Good. 	Хорошо. 	['Хорошо']	['Good']
+1057	Hold out your hand. 	Протяни руку. 	['Протяни', 'руку']	['Hold', 'out', 'your', 'hand']
+1058	Did that hurt? 	Тебе было больно? 	['Тебе', 'было', 'больно']	['Did', 'that', 'hurt']
+1059	No. 	Нет. 	['Нет']	['No']
+1060	You see? 	Вот видишь. 	['Вот', 'видишь']	['You', 'see']
+1061	Most of your fear is in your head. 	Твой страх в основном у тебя в голове. 	['Твой', 'страх', 'в', 'основном', 'у', 'тебя', 'в', 'голове']	['Most', 'of', 'your', 'fear', 'is', 'in', 'your', 'head']
+1062	Come. 	Иди сюда. 	['Иди', 'сюда']	['Come']
+1063	How does it feel? 	Что ты ощущаешь? 	['Что', 'ты', 'ощущаешь']	['How', 'does', 'it', 'feel']
+1064	Good, sir. 	Мне приятно, сэр. 	['Мне', 'приятно', 'сэр']	['Good', 'sir']
+1065	Quiet. 	Тихо. 	['Тихо']	['Quiet']
+1066	Where are we going? 	Куда мы идем? 	['Куда', 'мы', 'идем']	['Where', 'are', 'we', 'going']
+1067	Remember my mother mentioned dinner? 	Помнишь, моя мать говорила про ужин? 	['Помнишь', 'моя', 'мать', 'говорила', 'про', 'ужин']	['Remember', 'my', 'mother', 'mentioned', 'dinner']
+1068	My sister Mia's in town. 	Приехала моя сестра Миа. 	['Приехала', 'моя', 'сестра', 'Миа']	"['My', 'sister', ""Mia's"", 'in', 'town']"
+1069	Yeah. 	Да. 	['Да']	['Yeah']
+1070	You got everything you need? 	Ты все взяла? 	['Ты', 'все', 'взяла']	['You', 'got', 'everything', 'you', 'need']
+1071	Yeah. 	Да. 	['Да']	['Yeah']
+1072	Dance with me. 	Потанцуй со мной. 	['Потанцуй', 'со', 'мной']	['Dance', 'with', 'me']
+1073	Good evening, Mr. Grey. 	Добрый вечер, м-р Грей. 	['Добрый', 'вечер', 'м-р', 'Грей']	['Good', 'evening', 'Mr', 'Grey']
+1074	They're here. 	Они пришли. 	['Они', 'пришли']	"[""They're"", 'here']"
+1075	You're here. Welcome, welcome. 	Вы пришли. Добро пожаловать. 	['Вы', 'пришли', 'Добро', 'пожаловать']	"[""You're"", 'here', 'Welcome', 'welcome']"
+1076	Ana, Mother, you've met. 	Ана, мама, вы знакомы. 	['Ана', 'мама', 'вы', 'знакомы']	"['Ana', 'Mother', ""you've"", 'met']"
+1077	Hi. Good to see you. Come on in. 	Здравствуйте.Рада вас видеть.Проходите. 	['Здравствуйте.Рада', 'вас', 'видеть.Проходите']	['Hi', 'Good', 'to', 'see', 'you', 'Come', 'on', 'in']
+1078	And this is my father, Garrick. 	А это мой отец, Каррик. 	['А', 'это', 'мой', 'отец', 'Каррик']	['And', 'this', 'is', 'my', 'father', 'Garrick']
+1079	Hi, pleasure to meet you. Nice to meet you. 	- Здравствуйте, очень приятно. - Очень приятно. 	['Здравствуйте', 'очень', 'приятно', 'Очень', 'приятно']	['Hi', 'pleasure', 'to', 'meet', 'you', 'Nice', 'to', 'meet', 'you']
+1080	Is she here? You are the subject of some speculation. 	- Она пришла? - О вас здесь много говорилось. 	['Она', 'пришла', 'О', 'вас', 'здесь', 'много', 'говорилось']	['Is', 'she', 'here', 'You', 'are', 'the', 'subject', 'of', 'some', 'speculation']
+1081	Oh, my God, you exist! 	О господи, ты и правда существуешь? 	['О', 'господи', 'ты', 'и', 'правда', 'существуешь']	['Oh', 'my', 'God', 'you', 'exist']
+1082	It's a great apartment, and the rent's not ridiculous. 	Квартира отличная, и плата вполне разумная. 	['Квартира', 'отличная', 'и', 'плата', 'вполне', 'разумная']	"[""It's"", 'a', 'great', 'apartment', 'and', 'the', ""rent's"", 'not', 'ridiculous']"
+1083	Elliot and José helped us move in. 	Эллиот и Хосе помогли нам переехать. 	['Эллиот', 'и', 'Хосе', 'помогли', 'нам', 'переехать']	['Elliot', 'and', 'José', 'helped', 'us', 'move', 'in']
+1084	José is Ana's friend. 	Хосе - друг Аны, 	['Хосе', 'друг', 'Аны']	"['José', 'is', ""Ana's"", 'friend']"
+1085	Although, I think that Elliot's trying to poach him. 	но мне кажется, что Эллиот пытается его отбить. 	['но', 'мне', 'кажется', 'что', 'Эллиот', 'пытается', 'его', 'отбить']	"['Although', 'I', 'think', 'that', ""Elliot's"", 'trying', 'to', 'poach', 'him']"
+1086	They've sparked quite the bromance. 	У них возникла крепкая мужская дружба. 	['У', 'них', 'возникла', 'крепкая', 'мужская', 'дружба']	"[""They've"", 'sparked', 'quite', 'the', 'bromance']"
+1087	He's a cool guy. 	Он классный. 	['Он', 'классный']	"[""He's"", 'a', 'cool', 'guy']"
+1088	Ana, where is your family from? 	Ана, а где живут ваши родители? 	['Ана', 'а', 'где', 'живут', 'ваши', 'родители']	['Ana', 'where', 'is', 'your', 'family', 'from']
+1089	My stepfather iives in Montesano, and my mom's in Georgia. 	Мой отчим живет в Монтесано, а мама - в Джорджии. 	['Мой', 'отчим', 'живет', 'в', 'Монтесано', 'а', 'мама', 'в', 'Джорджии']	"['My', 'stepfather', 'iives', 'in', 'Montesano', 'and', 'my', ""mom's"", 'in', 'Georgia']"
+1090	Georgia? Which part? 	В Джорджии? Где именно? 	['В', 'Джорджии', 'Где', 'именно']	['Georgia', 'Which', 'part']
+1091	Savannah. 	В Саванне. 	['В', 'Саванне']	['Savannah']
+1092	How nice. 	Там красиво. 	['Там', 'красиво']	['How', 'nice']
+1093	Although, I do hear it gets rather humid in Georgia this time of year. 	Хотя я слышала, что в это время года там очень влажно. 	['Хотя', 'я', 'слышала', 'что', 'в', 'это', 'время', 'года', 'там', 'очень', 'влажно']	['Although', 'I', 'do', 'hear', 'it', 'gets', 'rather', 'humid', 'in', 'Georgia', 'this', 'time', 'of', 'year']
+1094	Oh, my God, it does. 	О господи, так и есть. 	['О', 'господи', 'так', 'и', 'есть']	['Oh', 'my', 'God', 'it', 'does']
+1095	It's stifling sometimes. 	Иногда просто нечем дышать. 	['Иногда', 'просто', 'нечем', 'дышать']	"[""It's"", 'stifling', 'sometimes']"
+1096	Actually, I'm going to visit her tomorrow. 	Кстати, я завтра еду ее навестить. 	['Кстати', 'я', 'завтра', 'еду', 'ее', 'навестить']	"['Actually', ""I'm"", 'going', 'to', 'visit', 'her', 'tomorrow']"
+1097	Oh, how nice. 	Как чудесно. 	['Как', 'чудесно']	['Oh', 'how', 'nice']
+1098	You hear that, Christian? 	Слышишь, Кристиан? 	['Слышишь', 'Кристиан']	['You', 'hear', 'that', 'Christian']
+1099	Some children do visit their parents now and again. 	Некоторые дети иногда навещают родителей. 	['Некоторые', 'дети', 'иногда', 'навещают', 'родителей']	['Some', 'children', 'do', 'visit', 'their', 'parents', 'now', 'and', 'again']
+1100	Hey, Dad, you catch the Mariners game? 	"Папа, ты смотрел матч ""Маринерс""? "	['Папа', 'ты', 'смотрел', 'матч', 'Маринерс']	['Hey', 'Dad', 'you', 'catch', 'the', 'Mariners', 'game']
+1101	Uh, I heard it went to extra innings. 	Я слышал, что матч затянулся. 	['Я', 'слышал', 'что', 'матч', 'затянулся']	['Uh', 'I', 'heard', 'it', 'went', 'to', 'extra', 'innings']
+1102	Ugh. Seattle baseball... 	Бейсбол в Сиэтле... 	['Бейсбол', 'в', 'Сиэтле']	['Ugh', 'Seattle', 'baseball']
+1103	This is news to me. 	Я об этом не знал. 	['Я', 'об', 'этом', 'не', 'знал']	['This', 'is', 'news', 'to', 'me']
+1104	When were you gonna tell me? 	Когда ты собиралась мне сказать? 	['Когда', 'ты', 'собиралась', 'мне', 'сказать']	['When', 'were', 'you', 'gonna', 'tell', 'me']
+1105	Who wants coffee? 	Кто хочет кофе? 	['Кто', 'хочет', 'кофе']	['Who', 'wants', 'coffee']
+1106	Actually, I promised Ana a tour of the grounds. 	Вообще-то я обещал Ане показать ей сад. 	['Вообще-то', 'я', 'обещал', 'Ане', 'показать', 'ей', 'сад']	['Actually', 'I', 'promised', 'Ana', 'a', 'tour', 'of', 'the', 'grounds']
+1107	Excuse us. 	Извините нас. 	['Извините', 'нас']	['Excuse', 'us']
+1108	Christian, I cannot walk that fast in these shoes. 	Кристиан, я не могу идти так быстро в этих туфлях. 	['Кристиан', 'я', 'не', 'могу', 'идти', 'так', 'быстро', 'в', 'этих', 'туфлях']	['Christian', 'I', 'cannot', 'walk', 'that', 'fast', 'in', 'these', 'shoes']
+1109	When were you gonna tell me about Georgia? 	Когда ты собиралась сказать мне насчет Джорджии? 	['Когда', 'ты', 'собиралась', 'сказать', 'мне', 'насчет', 'Джорджии']	['When', 'were', 'you', 'gonna', 'tell', 'me', 'about', 'Georgia']
+1110	What? You have no right to be mad. 	Что? У тебя нет никакого права злиться. 	['Что', 'У', 'тебя', 'нет', 'никакого', 'права', 'злиться']	['What', 'You', 'have', 'no', 'right', 'to', 'be', 'mad']
+1111	Yeah, but I am mad.  Palm-twitchingly mad. 	Да, но я все равно зол. Так зол, что просто руки чешутся. 	['Да', 'но', 'я', 'все', 'равно', 'зол', 'Так', 'зол', 'что', 'просто', 'руки', 'чешутся']	['Yeah', 'but', 'I', 'am', 'mad', 'Palm-twitchingly', 'mad']
+1112	You're mine. 	Ты моя. 	['Ты', 'моя']	"[""You're"", 'mine']"
+1113	All mine, you understand? 	Только моя, понимаешь? 	['Только', 'моя', 'понимаешь']	['All', 'mine', 'you', 'understand']
+1114	Christian, you are so confusing. 	Кристиан, я тебя не понимаю. 	['Кристиан', 'я', 'тебя', 'не', 'понимаю']	['Christian', 'you', 'are', 'so', 'confusing']
+1115	Ana. 	Ана. 	['Ана']	['Ana']
+1116	What do you want? 	Что тебе нужно? 	['Что', 'тебе', 'нужно']	['What', 'do', 'you', 'want']
+1117	I want you. 	Мне нужна ты. 	['Мне', 'нужна', 'ты']	['I', 'want', 'you']
+1118	I'm trying, Christian. 	Я стараюсь, Кристиан. 	['Я', 'стараюсь', 'Кристиан']	"[""I'm"", 'trying', 'Christian']"
+1119	I know you are. 	Я знаю. 	['Я', 'знаю']	['I', 'know', 'you', 'are']
+1120	Why can't we sleep in the same bed? 	Почему мы не можем спать в одной кровати? 	['Почему', 'мы', 'не', 'можем', 'спать', 'в', 'одной', 'кровати']	"['Why', ""can't"", 'we', 'sleep', 'in', 'the', 'same', 'bed']"
+1121	Why won't you let me touch you? 	Почему мне нельзя к тебе прикасаться? 	['Почему', 'мне', 'нельзя', 'к', 'тебе', 'прикасаться']	"['Why', ""won't"", 'you', 'let', 'me', 'touch', 'you']"
+1122	Why does it have to be like this? 	Почему все должно быть вот так? 	['Почему', 'все', 'должно', 'быть', 'вот', 'так']	['Why', 'does', 'it', 'have', 'to', 'be', 'like', 'this']
+1123	If you would just sign the contract, you wouldn't have to think about... 	Если бы ты подписала контракт, тебе не надо было бы думать... 	['Если', 'бы', 'ты', 'подписала', 'контракт', 'тебе', 'не', 'надо', 'было', 'бы', 'думать']	"['If', 'you', 'would', 'just', 'sign', 'the', 'contract', 'you', ""wouldn't"", 'have', 'to', 'think', 'about']"
+1124	Why do you care so much about the contract, Christian? 	Почему для тебя так важен этот контракт, Кристиан? 	['Почему', 'для', 'тебя', 'так', 'важен', 'этот', 'контракт', 'Кристиан']	['Why', 'do', 'you', 'care', 'so', 'much', 'about', 'the', 'contract', 'Christian']
+1125	Don't you like me the way I am? 	Я тебе не нравлюсь такой, какая я есть? 	['Я', 'тебе', 'не', 'нравлюсь', 'такой', 'какая', 'я', 'есть']	"[""Don't"", 'you', 'like', 'me', 'the', 'way', 'I', 'am']"
+1126	Of course I do. 	Конечно, нравишься. 	['Конечно', 'нравишься']	['Of', 'course', 'I', 'do']
+1127	Then why are you trying to change me? 	Тогда почему ты пытаешься изменить меня? 	['Тогда', 'почему', 'ты', 'пытаешься', 'изменить', 'меня']	['Then', 'why', 'are', 'you', 'trying', 'to', 'change', 'me']
+1128	I'm not. 	Я не пытаюсь. 	['Я', 'не', 'пытаюсь']	"[""I'm"", 'not']"
+1129	It's... I need more. I want more. 	Мне нужно больше. Я хочу большего. 	['Мне', 'нужно', 'больше', 'Я', 'хочу', 'большего']	"[""It's"", 'I', 'need', 'more', 'I', 'want', 'more']"
+1130	Hearts and flowers? 	Цветочки и сердечки? 	['Цветочки', 'и', 'сердечки']	['Hearts', 'and', 'flowers']
+1131	That's not something I know. 	Я об этом ничего не знаю. 	['Я', 'об', 'этом', 'ничего', 'не', 'знаю']	"[""That's"", 'not', 'something', 'I', 'know']"
+1132	Ana, please. 	Ана, пожалуйста. 	['Ана', 'пожалуйста']	['Ana', 'please']
+1133	It's you that's changing me. 	Это ты меня меняешь. 	['Это', 'ты', 'меня', 'меняешь']	"[""It's"", 'you', ""that's"", 'changing', 'me']"
+1134	Let me touch you. 	Позволь мне прикоснуться к тебе. 	['Позволь', 'мне', 'прикоснуться', 'к', 'тебе']	['Let', 'me', 'touch', 'you']
+1135	Let me. 	Позволь. 	['Позволь']	['Let', 'me']
+1136	Are they burns? 	Это ожоги? 	['Это', 'ожоги']	['Are', 'they', 'burns']
+1137	I had a rough start in life. 	У меня было тяжелое детство. 	['У', 'меня', 'было', 'тяжелое', 'детство']	['I', 'had', 'a', 'rough', 'start', 'in', 'life']
+1138	That's all you need to know. 	Это все, что тебе надо знать. 	['Это', 'все', 'что', 'тебе', 'надо', 'знать']	"[""That's"", 'all', 'you', 'need', 'to', 'know']"
+1139	Okay. 	Хорошо. 	['Хорошо']	['Okay']
+1140	The woman that gave birth to me 	Женщина, которая меня родила, 	['Женщина', 'которая', 'меня', 'родила']	['The', 'woman', 'that', 'gave', 'birth', 'to', 'me']
+1141	was a crack addict 	сидела на крэке 	['сидела', 'на', 'крэке']	['was', 'a', 'crack', 'addict']
+1142	and a prostitute. 	и была проституткой. 	['и', 'была', 'проституткой']	['and', 'a', 'prostitute']
+1143	She died when I was four. 	Она умерла, когда мне было четыре года. 	['Она', 'умерла', 'когда', 'мне', 'было', 'четыре', 'года']	['She', 'died', 'when', 'I', 'was', 'four']
+1144	I remember certain things. 	Я кое-что помню. 	['Я', 'кое-что', 'помню']	['I', 'remember', 'certain', 'things']
+1145	Terrible things. 	Это было ужасно. 	['Это', 'было', 'ужасно']	['Terrible', 'things']
+1146	But I don't remember her. 	Я ее не помню. 	['Я', 'ее', 'не', 'помню']	"['But', 'I', ""don't"", 'remember', 'her']"
+1147	But sometimes, 	Но иногда 	['Но', 'иногда']	['But', 'sometimes']
+1148	I think I see her in my dreams. 	мне кажется, что я вижу ее во сне. 	['мне', 'кажется', 'что', 'я', 'вижу', 'ее', 'во', 'сне']	['I', 'think', 'I', 'see', 'her', 'in', 'my', 'dreams']
+1149	Do you really have to go to Georgia? 	Тебе очень надо лететь в Джорджию? 	['Тебе', 'очень', 'надо', 'лететь', 'в', 'Джорджию']	['Do', 'you', 'really', 'have', 'to', 'go', 'to', 'Georgia']
+1150	Yeah, I really do. 	Да, очень. 	['Да', 'очень']	['Yeah', 'I', 'really', 'do']
+1151	Good morning. 12-H is down to your right. 	Доброе утро. 12-Н по салону направо. 	['Доброе', 'утро', '12-Н', 'по', 'салону', 'направо']	['Good', 'morning', '12-H', 'is', 'down', 'to', 'your', 'right']
+1152	Good morning. 2-B, oh it's just right here. 	Доброе утро. 2-В, это вот здесь. 	['Доброе', 'утро', '2-В', 'это', 'вот', 'здесь']	"['Good', 'morning', '2-B', 'oh', ""it's"", 'just', 'right', 'here']"
+1153	Oh! No, I'm supposed to be in coach. 	Нет, у меня билет в салон второго класса. 	['Нет', 'у', 'меня', 'билет', 'в', 'салон', 'второго', 'класса']	"['Oh', 'No', ""I'm"", 'supposed', 'to', 'be', 'in', 'coach']"
+1154	Oh, you must have been upgraded. 	Видимо, вас перевели в первый. 	['Видимо', 'вас', 'перевели', 'в', 'первый']	['Oh', 'you', 'must', 'have', 'been', 'upgraded']
+1155	Good morning. 12-A just down to your right. 	Доброе утро. 12-А по салону направо. 	['Доброе', 'утро', '12-А', 'по', 'салону', 'направо']	['Good', 'morning', '12-A', 'just', 'down', 'to', 'your', 'right']
+1156	Good morning. 	Доброе утро. 	['Доброе', 'утро']	['Good', 'morning']
+1157	Gazpacho is very healthy, Bob. 	Гаспачо - очень здоровая еда, Боб. 	['Гаспачо', 'очень', 'здоровая', 'еда', 'Боб']	['Gazpacho', 'is', 'very', 'healthy', 'Bob']
+1158	You'll get fat with all this sitting around. You tell him, Ana. 	А то растолстеешь, сидя без движения. Скажи ему, Ана. 	['А', 'то', 'растолстеешь', 'сидя', 'без', 'движения', 'Скажи', 'ему', 'Ана']	"[""You'll"", 'get', 'fat', 'with', 'all', 'this', 'sitting', 'around', 'You', 'tell', 'him', 'Ana']"
+1159	I'm not gonna tell him that. 	Не буду я ему этого говорить. 	['Не', 'буду', 'я', 'ему', 'этого', 'говорить']	"[""I'm"", 'not', 'gonna', 'tell', 'him', 'that']"
+1160	Yes, thank you, Ana. 	Спасибо, Ана. 	['Спасибо', 'Ана']	['Yes', 'thank', 'you', 'Ana']
+1161	I'm just saying that gazpacho is basically eating a bowl of salsa. 	Я просто говорю, что гаспачо - это все равно, что сальса. 	['Я', 'просто', 'говорю', 'что', 'гаспачо', 'это', 'все', 'равно', 'что', 'сальса']	"[""I'm"", 'just', 'saying', 'that', 'gazpacho', 'is', 'basically', 'eating', 'a', 'bowl', 'of', 'salsa']"
+1162	You should hand me some chips with my bowl of salsa here. 	Дай мне чипсов к моей сальсе. 	['Дай', 'мне', 'чипсов', 'к', 'моей', 'сальсе']	['You', 'should', 'hand', 'me', 'some', 'chips', 'with', 'my', 'bowl', 'of', 'salsa', 'here']
+1163	You can have a carrot. 	Вот тебе морковка. 	['Вот', 'тебе', 'морковка']	['You', 'can', 'have', 'a', 'carrot']
+1164	What are you getting at with this? 	На что ты намекаешь? 	['На', 'что', 'ты', 'намекаешь']	['What', 'are', 'you', 'getting', 'at', 'with', 'this']
+1165	You are damn lucky that I just happen to love you very much. 	Тебе чертовски повезло, что я почему-то очень тебя люблю. 	['Тебе', 'чертовски', 'повезло', 'что', 'я', 'почему-то', 'очень', 'тебя', 'люблю']	['You', 'are', 'damn', 'lucky', 'that', 'I', 'just', 'happen', 'to', 'love', 'you', 'very', 'much']
+1166	I know that. 	Я это знаю. 	['Я', 'это', 'знаю']	['I', 'know', 'that']
+1167	Do you? Mmm, I do. 	- Знаешь? - Знаю. 	['Знаешь', 'Знаю']	['Do', 'you', 'Mmm', 'I', 'do']
+1168	Oh, darling, I think we should pace ourselves. Or at least order something to eat. 	Милая, думаю, нам не стоит столько пить. Или хотя бы закажем еду. 	['Милая', 'думаю', 'нам', 'не', 'стоит', 'столько', 'пить', 'Или', 'хотя', 'бы', 'закажем', 'еду']	['Oh', 'darling', 'I', 'think', 'we', 'should', 'pace', 'ourselves', 'Or', 'at', 'least', 'order', 'something', 'to', 'eat']
+1169	You go ahead. I'm not very hungry. 	Закажи себе. Мне не хочется есть. 	['Закажи', 'себе', 'Мне', 'не', 'хочется', 'есть']	"['You', 'go', 'ahead', ""I'm"", 'not', 'very', 'hungry']"
+1170	Oh. I'll just have the fruit salad. 	Тогда я просто съем этот фруктовый салат. 	['Тогда', 'я', 'просто', 'съем', 'этот', 'фруктовый', 'салат']	"['Oh', ""I'll"", 'just', 'have', 'the', 'fruit', 'salad']"
+1171	He can wait. 	Подождет. 	['Подождет']	['He', 'can', 'wait']
+1172	Mom... 	Мама... 	['Мама']	['Mom']
+1173	Holy fuck. 	Черт возьми. 	['Черт', 'возьми']	['Holy', 'fuck']
+1174	What? What is it? 	Что такое? В чем дело? 	['Что', 'такое', 'В', 'чем', 'дело']	['What', 'What', 'is', 'it']
+1175	It's Christian. He's here. 	Это Кристиан. Он здесь. 	['Это', 'Кристиан', 'Он', 'здесь']	"[""It's"", 'Christian', ""He's"", 'here']"
+1176	Um, in Georgia. 	В Джорджии. 	['В', 'Джорджии']	['Um', 'in', 'Georgia']
+1177	Mrs. Adams. Delighted to meet you. 	Миссис Адамс. Очень приятно. 	['Миссис', 'Адамс', 'Очень', 'приятно']	['Mrs', 'Adams', 'Delighted', 'to', 'meet', 'you']
+1178	Something to drink, sir? 	Хотите что-нибудь выпить, сэр? 	['Хотите', 'что-нибудь', 'выпить', 'сэр']	['Something', 'to', 'drink', 'sir']
+1179	Gin and tonic. Hendrick's, if you have it. Otherwise, Bombay Sapphire. 	"Джин с тоником. ""Хендрикс"", если есть, если нет - ""Бомбей Сапфир"". "	['Джин', 'с', 'тоником', 'Хендрикс', 'если', 'есть', 'если', 'нет', 'Бомбей', 'Сапфир']	"['Gin', 'and', 'tonic', ""Hendrick's"", 'if', 'you', 'have', 'it', 'Otherwise', 'Bombay', 'Sapphire']"
+1180	Cucumber with the Hendrick's, lime with the Bombay. 	"С огурцом, если ""Хендрикс"", с лаймом - если ""Бомбей"". "	['С', 'огурцом', 'если', 'Хендрикс', 'с', 'лаймом', 'если', 'Бомбей']	"['Cucumber', 'with', 'the', ""Hendrick's"", 'lime', 'with', 'the', 'Bombay']"
+1181	I like him already. 	Мне он уже нравится. 	['Мне', 'он', 'уже', 'нравится']	['I', 'like', 'him', 'already']
+1182	What are you doing here, Christian? 	Что ты здесь делаешь, Кристиан? 	['Что', 'ты', 'здесь', 'делаешь', 'Кристиан']	['What', 'are', 'you', 'doing', 'here', 'Christian']
+1183	I came to see you. 	Я приехал повидаться с тобой. 	['Я', 'приехал', 'повидаться', 'с', 'тобой']	['I', 'came', 'to', 'see', 'you']
+1184	I'm gonna step outside for a bit. 	Я на минутку. 	['Я', 'на', 'минутку']	"[""I'm"", 'gonna', 'step', 'outside', 'for', 'a', 'bit']"
+1185	I broke rule seven, clause five. 	Я нарушила правило семь, пункт пять. 	['Я', 'нарушила', 'правило', 'семь', 'пункт', 'пять']	['I', 'broke', 'rule', 'seven', 'clause', 'five']
+1186	Here. 	Дай-ка. 	['Дай-ка']	['Here']
+1187	We'll let it go. 	Мы это простим. 	['Мы', 'это', 'простим']	"[""We'll"", 'let', 'it', 'go']"
+1188	Let's not talk about the contract right now. 	Давай сейчас не будем говорить о контракте. 	['Давай', 'сейчас', 'не', 'будем', 'говорить', 'о', 'контракте']	"[""Let's"", 'not', 'talk', 'about', 'the', 'contract', 'right', 'now']"
+1189	How was your dinner? 	Как прошел твой ужин? 	['Как', 'прошел', 'твой', 'ужин']	['How', 'was', 'your', 'dinner']
+1190	She's a friend. 	Она мой друг. 	['Она', 'мой', 'друг']	"[""She's"", 'a', 'friend']"
+1191	That's all. 	Только и всего. 	['Только', 'и', 'всего']	"[""That's"", 'all']"
+1192	She's a child abuser. 	Она совратительница малолетних. 	['Она', 'совратительница', 'малолетних']	"[""She's"", 'a', 'child', 'abuser']"
+1193	I confide in her. 	Я доверяю ей мои секреты. 	['Я', 'доверяю', 'ей', 'мои', 'секреты']	['I', 'confide', 'in', 'her']
+1194	She knows me. 	Она меня знает. 	['Она', 'меня', 'знает']	['She', 'knows', 'me']
+1195	What did she advise you to do? 	И что она тебе посоветовала? 	['И', 'что', 'она', 'тебе', 'посоветовала']	['What', 'did', 'she', 'advise', 'you', 'to', 'do']
+1196	Well, I'm here. 	Ну, я же здесь. 	['Ну', 'я', 'же', 'здесь']	"['Well', ""I'm"", 'here']"
+1197	And now what? 	И что теперь? 	['И', 'что', 'теперь']	['And', 'now', 'what']
+1198	I've got a room in this hotel. 	У меня номер в этой гостинице. 	['У', 'меня', 'номер', 'в', 'этой', 'гостинице']	"[""I've"", 'got', 'a', 'room', 'in', 'this', 'hotel']"
+1199	Well, I hope you'll be comfortable in it. 	Надеюсь, тебе там будет удобно. 	['Надеюсь', 'тебе', 'там', 'будет', 'удобно']	"['Well', 'I', 'hope', ""you'll"", 'be', 'comfortable', 'in', 'it']"
+1200	What are you doing for breakfast tomorrow? 	Что ты делаешь завтра утром? 	['Что', 'ты', 'делаешь', 'завтра', 'утром']	['What', 'are', 'you', 'doing', 'for', 'breakfast', 'tomorrow']
+1201	Where are we going? 	Куда мы едем? 	['Куда', 'мы', 'едем']	['Where', 'are', 'we', 'going']
+1202	It's a surprise. 	Это сюрприз. 	['Это', 'сюрприз']	"[""It's"", 'a', 'surprise']"
+1203	I think I've reached my quota of surprises. 	Кажется, с меня хватит сюрпризов. 	['Кажется', 'с', 'меня', 'хватит', 'сюрпризов']	"['I', 'think', ""I've"", 'reached', 'my', 'quota', 'of', 'surprises']"
+1204	We're almost there. 	Мы почти приехали. 	['Мы', 'почти', 'приехали']	"[""We're"", 'almost', 'there']"
+1205	Mr. Grey. Hey. I'll be your tow pilot. 	М-р Грей. Я пилот буксировщика. 	['М-р', 'Грей', 'Я', 'пилот', 'буксировщика']	"['Mr', 'Grey', 'Hey', ""I'll"", 'be', 'your', 'tow', 'pilot']"
+1206	How do you do? This is my girlfriend, Anastasia Steele. 	Как поживаете? Это моя девушка, Анастейша Стил. 	['Как', 'поживаете', 'Это', 'моя', 'девушка', 'Анастейша', 'Стил']	['How', 'do', 'you', 'do', 'This', 'is', 'my', 'girlfriend', 'Anastasia', 'Steele']
+1207	We're at 3, 000 feet. Y'all ready? 	Мы на высоте 900 м. Вы готовы? 	['Мы', 'на', 'высоте', '900', 'м', 'Вы', 'готовы']	"[""We're"", 'at', '3', '000', 'feet', ""Y'all"", 'ready']"
+1208	Well? 	Ну? 	['Ну']	['Well']
+1209	Yeah, do it. 	Да, давай. 	['Да', 'давай']	['Yeah', 'do', 'it']
+1210	Release. 	Отпускайте. 	['Отпускайте']	['Release']
+1211	Hold on tight. 	Держись крепко. 	['Держись', 'крепко']	['Hold', 'on', 'tight']
+1212	Is this more? 	"Это ""большее""? "	['Это', 'большее']	['Is', 'this', 'more']
+1213	Oh, my God. So much more! 	О господи. Да, это большее. 	['О', 'господи', 'Да', 'это', 'большее']	['Oh', 'my', 'God', 'So', 'much', 'more']
+1214	Oh, my God- That was incredible, Christian. 	О господи. Это было невероятно, Кристиан. 	['О', 'господи', 'Это', 'было', 'невероятно', 'Кристиан']	['Oh', 'my', 'God', 'That', 'was', 'incredible', 'Christian']
+1215	Thank you. 	Спасибо. 	['Спасибо']	['Thank', 'you']
+1216	We aim to please, Miss Steele. 	Рад стараться, мисс Стил. 	['Рад', 'стараться', 'мисс', 'Стил']	['We', 'aim', 'to', 'please', 'Miss', 'Steele']
+1217	And you said you didn't do romance. 	А говорил, что романтика - не для тебя. 	['А', 'говорил', 'что', 'романтика', 'не', 'для', 'тебя']	"['And', 'you', 'said', 'you', ""didn't"", 'do', 'romance']"
+1218	I don't. 	Не для меня. 	['Не', 'для', 'меня']	"['I', ""don't""]"
+1219	Ana. Mmm. What? 	- Ана. - Что? 	['Ана', 'Что']	['Ana', 'Mmm', 'What']
+1220	What? 	Что? 	['Что']	['What']
+1221	Why are you fighting this? 	Почему ты сопротивляешься? 	['Почему', 'ты', 'сопротивляешься']	['Why', 'are', 'you', 'fighting', 'this']
+1222	What are you afraid of? 	Чего ты боишься? 	['Чего', 'ты', 'боишься']	['What', 'are', 'you', 'afraid', 'of']
+1223	Grey. 	Грей. 	['Грей']	['Grey']
+1224	What? 	Что? 	['Что']	['What']
+1225	When? 	Когда? 	['Когда']	['When']
+1226	Tell Stephan to have the plane ready. I'll be on the tarmac in 30 minutes. 	Скажи Стефану готовить самолет. Я буду на взлетной полосе через полчаса. 	['Скажи', 'Стефану', 'готовить', 'самолет', 'Я', 'буду', 'на', 'взлетной', 'полосе', 'через', 'полчаса']	"['Tell', 'Stephan', 'to', 'have', 'the', 'plane', 'ready', ""I'll"", 'be', 'on', 'the', 'tarmac', 'in', '30', 'minutes']"
+1227	What happened? 	Что случилось? 	['Что', 'случилось']	['What', 'happened']
+1228	I have to go back to Seattle. Come, I'll take you home. 	Мне надо вернуться в Сиэтл. Пойдем, я отвезу тебя домой. 	['Мне', 'надо', 'вернуться', 'в', 'Сиэтл', 'Пойдем', 'я', 'отвезу', 'тебя', 'домой']	"['I', 'have', 'to', 'go', 'back', 'to', 'Seattle', 'Come', ""I'll"", 'take', 'you', 'home']"
+1229	Oh, sweetheart. 	Милая, 	['Милая']	['Oh', 'sweetheart']
+1230	I wish Christian could have stayed. 	жаль, что Кристиан не смог остаться. 	['жаль', 'что', 'Кристиан', 'не', 'смог', 'остаться']	['I', 'wish', 'Christian', 'could', 'have', 'stayed']
+1231	Bob was really looking forward to meeting him. 	Боб очень хотел с ним познакомиться. 	['Боб', 'очень', 'хотел', 'с', 'ним', 'познакомиться']	['Bob', 'was', 'really', 'looking', 'forward', 'to', 'meeting', 'him']
+1232	I know. 	Знаю. 	['Знаю']	['I', 'know']
+1233	He had to get back to Seattle, though. There was some situation at work. 	Но ему пришлось вернуться в Сиэтл. Что-то случилось на работе. 	['Но', 'ему', 'пришлось', 'вернуться', 'в', 'Сиэтл', 'Что-то', 'случилось', 'на', 'работе']	['He', 'had', 'to', 'get', 'back', 'to', 'Seattle', 'though', 'There', 'was', 'some', 'situation', 'at', 'work']
+1234	I wish I could tell you that things get easier, but they don't. 	Хотела бы я сказать тебе, что дальше будет легче, но это не так. 	['Хотела', 'бы', 'я', 'сказать', 'тебе', 'что', 'дальше', 'будет', 'легче', 'но', 'это', 'не', 'так']	"['I', 'wish', 'I', 'could', 'tell', 'you', 'that', 'things', 'get', 'easier', 'but', 'they', ""don't""]"
+1235	You just get to know yourself better. 	Тебе нужно просто лучше разобраться в себе 	['Тебе', 'нужно', 'просто', 'лучше', 'разобраться', 'в', 'себе']	['You', 'just', 'get', 'to', 'know', 'yourself', 'better']
+1236	Thank you for everything, Momma. 	Спасибо за все, мама. 	['Спасибо', 'за', 'все', 'мама']	['Thank', 'you', 'for', 'everything', 'Momma']
+1237	Take care of yourself, sweetheart. 	Береги себя, дорогая. 	['Береги', 'себя', 'дорогая']	['Take', 'care', 'of', 'yourself', 'sweetheart']
+1238	I will. 	Хорошо. 	['Хорошо']	['I', 'will']
+1239	Did you think I wouldn't recognize you, Taylor? 	Вы думали, я вас не узнаю, Тейлор? 	['Вы', 'думали', 'я', 'вас', 'не', 'узнаю', 'Тейлор']	"['Did', 'you', 'think', 'I', ""wouldn't"", 'recognize', 'you', 'Taylor']"
+1240	How does he seem today, Taylor? 	В каком он сегодня настроении, Тейлор? 	['В', 'каком', 'он', 'сегодня', 'настроении', 'Тейлор']	['How', 'does', 'he', 'seem', 'today', 'Taylor']
+1241	Preoccupied, I'm afraid. 	Боюсь, он чем-то озабочен. 	['Боюсь', 'он', 'чем-то', 'озабочен']	"['Preoccupied', ""I'm"", 'afraid']"
+1242	Really? 	Правда? 	['Правда']	['Really']
+1243	Yes, ma'am. 	Да, мэм. 	['Да', 'мэм']	"['Yes', ""ma'am""]"
+1244	Well, that's not gonna work. 	Нет, так дело не пойдет. 	['Нет', 'так', 'дело', 'не', 'пойдет']	"['Well', ""that's"", 'not', 'gonna', 'work']"
+1245	When? 	Когда? 	['Когда']	['When']
+1246	Well, then, tell them that they don't have 24 hours. 	Тогда скажите им, что у них нет суток. 	['Тогда', 'скажите', 'им', 'что', 'у', 'них', 'нет', 'суток']	"['Well', 'then', 'tell', 'them', 'that', 'they', ""don't"", 'have', '24', 'hours']"
+1247	That is unacceptable. I need to know. 	Это неприемлемо. Мне нужно знать. 	['Это', 'неприемлемо', 'Мне', 'нужно', 'знать']	['That', 'is', 'unacceptable', 'I', 'need', 'to', 'know']
+1248	Just keep me informed. 	Просто держите меня в курсе. 	['Просто', 'держите', 'меня', 'в', 'курсе']	['Just', 'keep', 'me', 'informed']
+1249	Is everything okay? 	Все в порядке? 	['Все', 'в', 'порядке']	['Is', 'everything', 'okay']
+1250	Nothing that concerns you. 	С тобой это никак не связано. 	['С', 'тобой', 'это', 'никак', 'не', 'связано']	['Nothing', 'that', 'concerns', 'you']
+1251	I can leave. Do you want me to go? 	Я могу уйти. Ты хочешь, чтобы я ушла? 	['Я', 'могу', 'уйти', 'Ты', 'хочешь', 'чтобы', 'я', 'ушла']	['I', 'can', 'leave', 'Do', 'you', 'want', 'me', 'to', 'go']
+1252	No. 	Нет. 	['Нет']	['No']
+1253	No, that's the last thing I want. 	Нет, я этого совсем не хочу. 	['Нет', 'я', 'этого', 'совсем', 'не', 'хочу']	"['No', ""that's"", 'the', 'last', 'thing', 'I', 'want']"
+1254	I want you to be in the play room in 15 minutes. 	Я хочу, чтобы ты была в игровой комнате через 15 минут. 	['Я', 'хочу', 'чтобы', 'ты', 'была', 'в', 'игровой', 'комнате', 'через', '15', 'минут']	['I', 'want', 'you', 'to', 'be', 'in', 'the', 'play', 'room', 'in', '15', 'minutes']
+1255	What are your safewords? 	Какие у тебя стоп-слова? 	['Какие', 'у', 'тебя', 'стоп-слова']	['What', 'are', 'your', 'safewords']
+1256	"Red and ""Yellow."" "	"""Красный"" и ""желтый"". "	['Красный', 'и', 'желтый']	['Red', 'and', 'Yellow']
+1257	Remember those. 	Не забудь их. 	['Не', 'забудь', 'их']	['Remember', 'those']
+1258	It sounds so sad. 	Какая грустная музыка. 	['Какая', 'грустная', 'музыка']	['It', 'sounds', 'so', 'sad']
+1259	Everything you play is so sad. 	Ты всегда играешь грустные мелодии. 	['Ты', 'всегда', 'играешь', 'грустные', 'мелодии']	['Everything', 'you', 'play', 'is', 'so', 'sad']
+1260	You said you were six when you learned. 	Ты сказал, что научился играть в шесть лет. 	['Ты', 'сказал', 'что', 'научился', 'играть', 'в', 'шесть', 'лет']	['You', 'said', 'you', 'were', 'six', 'when', 'you', 'learned']
+1261	Was it because you wanted to please your new family? 	Ты хотел порадовать свою новую семью? 	['Ты', 'хотел', 'порадовать', 'свою', 'новую', 'семью']	['Was', 'it', 'because', 'you', 'wanted', 'to', 'please', 'your', 'new', 'family']
+1262	I just wanna talk. 	Я просто хочу поговорить. 	['Я', 'просто', 'хочу', 'поговорить']	['I', 'just', 'wanna', 'talk']
+1263	Why won't you let me in? 	Почему ты со мной не откровенен? 	['Почему', 'ты', 'со', 'мной', 'не', 'откровенен']	"['Why', ""won't"", 'you', 'let', 'me', 'in']"
+1264	We should be talking. 	Нам нужно разговаривать. 	['Нам', 'нужно', 'разговаривать']	['We', 'should', 'be', 'talking']
+1265	Like normal people? 	Как нормальные люди? 	['Как', 'нормальные', 'люди']	['Like', 'normal', 'people']
+1266	Yeah. 	Да. 	['Да']	['Yeah']
+1267	Is that so wrong? 	Это так плохо? 	['Это', 'так', 'плохо']	['Is', 'that', 'so', 'wrong']
+1268	Is this because of the contract, because I still haven't signed it? 	Это из-за контракта, потому что я его все еще не подписала? 	['Это', 'из-за', 'контракта', 'потому', 'что', 'я', 'его', 'все', 'еще', 'не', 'подписала']	"['Is', 'this', 'because', 'of', 'the', 'contract', 'because', 'I', 'still', ""haven't"", 'signed', 'it']"
+1269	Fuck the contract. 	К черту контракт. 	['К', 'черту', 'контракт']	['Fuck', 'the', 'contract']
+1270	I think it's a little redundant, don't you? 	Мне кажется, он уже не нужен. 	['Мне', 'кажется', 'он', 'уже', 'не', 'нужен']	"['I', 'think', ""it's"", 'a', 'little', 'redundant', ""don't"", 'you']"
+1271	So, then, the rules are redundant, too? 	Значит, тогда и правила не нужны? 	['Значит', 'тогда', 'и', 'правила', 'не', 'нужны']	['So', 'then', 'the', 'rules', 'are', 'redundant', 'too']
+1272	No. The rules stand. 	Нет. Правила остаются в силе. 	['Нет', 'Правила', 'остаются', 'в', 'силе']	['No', 'The', 'rules', 'stand']
+1273	And what if I break them? 	А если я их нарушу? 	['А', 'если', 'я', 'их', 'нарушу']	['And', 'what', 'if', 'I', 'break', 'them']
+1274	Then there'll be consequences. 	Это будет иметь последствия. 	['Это', 'будет', 'иметь', 'последствия']	"['Then', ""there'll"", 'be', 'consequences']"
+1275	Punishment. 	Наказание. 	['Наказание']	['Punishment']
+1276	Yes. 	Да. 	['Да']	['Yes']
+1277	Why do you want to punish me? 	Почему ты хочешь меня наказывать? 	['Почему', 'ты', 'хочешь', 'меня', 'наказывать']	['Why', 'do', 'you', 'want', 'to', 'punish', 'me']
+1278	Ana... 	Ана... 	['Ана']	['Ana']
+1279	Why do you wanna hurt me? 	Почему ты хочешь причинить мне боль? 	['Почему', 'ты', 'хочешь', 'причинить', 'мне', 'боль']	['Why', 'do', 'you', 'wanna', 'hurt', 'me']
+1280	I would never do anything to you that you couldn't handle. 	Я никогда не причиню тебе боль, которую ты не сможешь вытерпеть. 	['Я', 'никогда', 'не', 'причиню', 'тебе', 'боль', 'которую', 'ты', 'не', 'сможешь', 'вытерпеть']	"['I', 'would', 'never', 'do', 'anything', 'to', 'you', 'that', 'you', ""couldn't"", 'handle']"
+1281	But why do you even wanna do anything to me at all, Christian? 	Но почему ты вообще хочешь что-то такое делать, Кристиан? 	['Но', 'почему', 'ты', 'вообще', 'хочешь', 'что-то', 'такое', 'делать', 'Кристиан']	['But', 'why', 'do', 'you', 'even', 'wanna', 'do', 'anything', 'to', 'me', 'at', 'all', 'Christian']
+1282	If I told you, you would never look at me the same way again. 	Если я тебе скажу, ты не сможешь воспринимать меня как раньше. 	['Если', 'я', 'тебе', 'скажу', 'ты', 'не', 'сможешь', 'воспринимать', 'меня', 'как', 'раньше']	['If', 'I', 'told', 'you', 'you', 'would', 'never', 'look', 'at', 'me', 'the', 'same', 'way', 'again']
+1283	So, there is a reason. 	Значит, есть причина. 	['Значит', 'есть', 'причина']	['So', 'there', 'is', 'a', 'reason']
+1284	Tell me. 	Скажи мне. 	['Скажи', 'мне']	['Tell', 'me']
+1285	Do you wanna punish me right now? 	Ты хочешь наказать меня сейчас? 	['Ты', 'хочешь', 'наказать', 'меня', 'сейчас']	['Do', 'you', 'wanna', 'punish', 'me', 'right', 'now']
+1286	Yes. I wanna punish you right now. 	Да. Я хочу наказать тебя сейчас. 	['Да', 'Я', 'хочу', 'наказать', 'тебя', 'сейчас']	['Yes', 'I', 'wanna', 'punish', 'you', 'right', 'now']
+1287	What if I told you that I feel the same way about being punished 	А если я скажу, что отношусь к твоим наказаниям, 	['А', 'если', 'я', 'скажу', 'что', 'отношусь', 'к', 'твоим', 'наказаниям']	['What', 'if', 'I', 'told', 'you', 'that', 'I', 'feel', 'the', 'same', 'way', 'about', 'being', 'punished']
+1288	as you do about me touching you? 	как ты относишься к моим прикосновениям? 	['как', 'ты', 'относишься', 'к', 'моим', 'прикосновениям']	['as', 'you', 'do', 'about', 'me', 'touching', 'you']
+1289	Would you still want to punish me then? 	Ты все равно захочешь меня наказать? 	['Ты', 'все', 'равно', 'захочешь', 'меня', 'наказать']	['Would', 'you', 'still', 'want', 'to', 'punish', 'me', 'then']
+1290	No. 	Нет. 	['Нет']	['No']
+1291	But that doesn't mean I wouldn't need to. 	Но мне все равно будет нужно это сделать. 	['Но', 'мне', 'все', 'равно', 'будет', 'нужно', 'это', 'сделать']	"['But', 'that', ""doesn't"", 'mean', 'I', ""wouldn't"", 'need', 'to']"
+1292	Why? 	Почему? 	['Почему']	['Why']
+1293	Ana, stop. Why do you need to? 	- Ана, прекрати. - Почему тебе это будет нужно? 	['Ана', 'прекрати', 'Почему', 'тебе', 'это', 'будет', 'нужно']	['Ana', 'stop', 'Why', 'do', 'you', 'need', 'to']
+1294	Because it's the way I am! 	Потому я так устроен! 	['Потому', 'я', 'так', 'устроен']	"['Because', ""it's"", 'the', 'way', 'I', 'am']"
+1295	Because I am fifty shades of fucked up. 	Потому что во мне живет пятьдесят оттенков безумия. 	['Потому', 'что', 'во', 'мне', 'живет', 'пятьдесят', 'оттенков', 'безумия']	['Because', 'I', 'am', 'fifty', 'shades', 'of', 'fucked', 'up']
+1296	Show me, then. 	Тогда покажи мне. 	['Тогда', 'покажи', 'мне']	['Show', 'me', 'then']
+1297	I need you to show me 	Мне нужно, чтобы ты мне показал, 	['Мне', 'нужно', 'чтобы', 'ты', 'мне', 'показал']	['I', 'need', 'you', 'to', 'show', 'me']
+1298	what you want to do to me. 	что ты хочешь со мной сделать. 	['что', 'ты', 'хочешь', 'со', 'мной', 'сделать']	['what', 'you', 'want', 'to', 'do', 'to', 'me']
+1299	Punish me. 	Накажи меня. 	['Накажи', 'меня']	['Punish', 'me']
+1300	Show me how bad it can be. I want you to show me the worst. 	Покажи мне, насколько это может быть больно, покажи мне самое худшее. 	['Покажи', 'мне', 'насколько', 'это', 'может', 'быть', 'больно', 'покажи', 'мне', 'самое', 'худшее']	['Show', 'me', 'how', 'bad', 'it', 'can', 'be', 'I', 'want', 'you', 'to', 'show', 'me', 'the', 'worst']
+1301	It's the only way I can understand. 	Только так я смогу понять. 	['Только', 'так', 'я', 'смогу', 'понять']	"[""It's"", 'the', 'only', 'way', 'I', 'can', 'understand']"
+1302	Are you sure about this? 	Ты точно этого хочешь? 	['Ты', 'точно', 'этого', 'хочешь']	['Are', 'you', 'sure', 'about', 'this']
+1303	Yes. 	Да. 	['Да']	['Yes']
+1304	Bend over. 	Наклонись. 	['Наклонись']	['Bend', 'over']
+1305	I'm gonna hit you six times. 	Я ударю тебя шесть раз. 	['Я', 'ударю', 'тебя', 'шесть', 'раз']	"[""I'm"", 'gonna', 'hit', 'you', 'six', 'times']"
+1306	And you're gonna count with me. 	И ты будешь считать вместе со мной. 	['И', 'ты', 'будешь', 'считать', 'вместе', 'со', 'мной']	"['And', ""you're"", 'gonna', 'count', 'with', 'me']"
+1307	Count, Anastasia. 	Считай, Анастейша. 	['Считай', 'Анастейша']	['Count', 'Anastasia']
+1308	One. 	Раз. 	['Раз']	['One']
+1309	Two. 	Два. 	['Два']	['Two']
+1310	Three. 	Три. 	['Три']	['Three']
+1311	Four. 	Четыре. 	['Четыре']	['Four']
+1312	Five. 	Пять. 	['Пять']	['Five']
+1313	Six. 	Шесть. 	['Шесть']	['Six']
+1314	No! Don't fucking touch me. 	Нет. Не трогай меня. 	['Нет', 'Не', 'трогай', 'меня']	"['No', ""Don't"", 'fucking', 'touch', 'me']"
+1315	This is what you want? 	Так вот что тебе нужно? 	['Так', 'вот', 'что', 'тебе', 'нужно']	['This', 'is', 'what', 'you', 'want']
+1316	You want to see me like this? 	Ты хочешь видеть меня такой? 	['Ты', 'хочешь', 'видеть', 'меня', 'такой']	['You', 'want', 'to', 'see', 'me', 'like', 'this']
+1317	Ana... 	Ана... 	['Ана']	['Ana']
+1318	Don't come near me. 	Не подходи ко мне. 	['Не', 'подходи', 'ко', 'мне']	"[""Don't"", 'come', 'near', 'me']"
+1319	Does this give you pleasure? 	Тебе это доставляет удовольствие? 	['Тебе', 'это', 'доставляет', 'удовольствие']	['Does', 'this', 'give', 'you', 'pleasure']
+1320	Don't. 	Не смей. 	['Не', 'смей']	"[""Don't""]"
+1321	Don't you dare come near me. 	Не смей подходить ко мне. 	['Не', 'смей', 'подходить', 'ко', 'мне']	"[""Don't"", 'you', 'dare', 'come', 'near', 'me']"
+1322	Please don't hate me. 	Пожалуйста, не надо меня ненавидеть. 	['Пожалуйста', 'не', 'надо', 'меня', 'ненавидеть']	"['Please', ""don't"", 'hate', 'me']"
+1323	You'll never do that to me again. 	Ты больше никогда со мной такого не сделаешь. 	['Ты', 'больше', 'никогда', 'со', 'мной', 'такого', 'не', 'сделаешь']	"[""You'll"", 'never', 'do', 'that', 'to', 'me', 'again']"
+1324	I'm not what you want. 	Я не та, кто тебе нужна. 	['Я', 'не', 'та', 'кто', 'тебе', 'нужна']	"[""I'm"", 'not', 'what', 'you', 'want']"
+1325	No, you're everything that I want. 	Нет, мне нужна только ты. 	['Нет', 'мне', 'нужна', 'только', 'ты']	"['No', ""you're"", 'everything', 'that', 'I', 'want']"
+1326	I've fallen in love with you. 	Я влюбилась в тебя. 	['Я', 'влюбилась', 'в', 'тебя']	"[""I've"", 'fallen', 'in', 'love', 'with', 'you']"
+1327	No. 	Нет. 	['Нет']	['No']
+1328	No, Ana, you can't love me. 	Нет, Ана, меня нельзя любить. 	['Нет', 'Ана', 'меня', 'нельзя', 'любить']	"['No', 'Ana', 'you', ""can't"", 'love', 'me']"
+1329	I need you to leave. 	Я хочу, чтобы ты ушел. 	['Я', 'хочу', 'чтобы', 'ты', 'ушел']	['I', 'need', 'you', 'to', 'leave']
+1330	Please. 	Пожалуйста. 	['Пожалуйста']	['Please']
+1331	I'd like my car back. 	Я бы хотела получить назад мою машину. 	['Я', 'бы', 'хотела', 'получить', 'назад', 'мою', 'машину']	"[""I'd"", 'like', 'my', 'car', 'back']"
+1332	Taylor already sold it. 	Тейлор ее уже продал. 	['Тейлор', 'ее', 'уже', 'продал']	['Taylor', 'already', 'sold', 'it']
+1333	Then I'd like the money he got for it, please. 	Тогда мне нужны деньги, полученные за нее. 	['Тогда', 'мне', 'нужны', 'деньги', 'полученные', 'за', 'нее']	"['Then', ""I'd"", 'like', 'the', 'money', 'he', 'got', 'for', 'it', 'please']"
+1334	I'll send you a check. 	Я пошлю тебе чек. 	['Я', 'пошлю', 'тебе', 'чек']	"[""I'll"", 'send', 'you', 'a', 'check']"
+1335	Okay. 	Хорошо. 	['Хорошо']	['Okay']
+1336	Taylor will take you home. 	Тейлор отвезет тебя домой. 	['Тейлор', 'отвезет', 'тебя', 'домой']	['Taylor', 'will', 'take', 'you', 'home']
+1337	Stop. 	Остановись. 	['Остановись']	['Stop']
+1338	No! 	Нет! 	['Нет']	['No']
+1339	Ana... 	Ана... 	['Ана']	['Ana']
+1340	Christian. 	Кристиан. 	['Кристиан']	['Christian']
