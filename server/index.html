@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Игра</title>
+    <link rel="stylesheet" href="bootstrap.css">
+    <style>
+    .btn {
+      margin: .3em;
+    }
+    .subtitle {
+      color: green;
+    }
+    .book {
+      color: blue;
+    }
+    </style>
+  </head>
+  <body>
+    <div id="main" class="container">
+      <h1 class="display-3">Напиши книгу</h1>
+      <p>Прототип игры для изучения английского языка. Необходимо выбрать слова или фрагменты предложения в правильном порядке, ориентируясь на приведённый перевод.<p>
+      <h3>Библиотека</h3>
+      <h4>Книги</h4>
+      <ul>
+        <li><a href="page.html" class="book" name="book-maugli">Маугли. Редьярд Киплинг</a></li>
+        <li><a href="page.html" class="book" name="book-alice">Алиса в Стране Чудес. Льюис Кэрролл</a></li>
+        <li><a href="page.html" class="book" name="book-pride">Гордость и предубеждение. Джейн Остин</a></li>
+      </ul>
+      <h4>Субтитры</h4>
+      <ul>
+        <li><a href="page.html" class="subtitle" name="sub-harry">Гарри Поттер и Философский Камень</a></li>
+        <li><a href="page.html" class="subtitle" name="sub-vampire">Интервью с вампиром</a></li>
+        <li><a href="page.html" class="subtitle" name="sub-term2">Терминатор 2: Судный день</a></li>
+        <li><a href="page.html" class="subtitle" name="sub-avatar">Аватар</a></li>
+      </ul>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+    <script src="bookkeeper.js"></script>
+  </body>
+</html>
