@@ -1,0 +1,3 @@
+[submodule "game-page"]
+	path = game-page
+	url = https://git.heroku.com/game-page.git
